@@ -6,6 +6,8 @@
 
 ## What is [AINL](http://ainlconf.ru/)
 
+![Park Inn](https://raw.github.com/max-talanov/1/master/ainl/park_inn.png)
+
 It is Artificial intelligence and natural language conference with main 3 companies:
 
  1. Yandex
