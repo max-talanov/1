@@ -55,4 +55,16 @@ http://ainlconf.ru/node/view/biographyHumaShah
 
  * [Eliza](https://github.com/max-talanov/1/blob/master/ainl/Huma_1.png)
  * [Eugene](https://github.com/max-talanov/1/blob/master/ainl/Huma_2.png)
- * [Alan Turing book](https://github.com/max-talanov/1/blob/master/ainl/Huma_3.png)         
+ * [Alan Turing book](https://github.com/max-talanov/1/blob/master/ainl/Huma_3.png)
+
+### Sklokovo and robots
+http://ainlconf.ru/node/view/BiographyAlbertEfimov
+http://www.sk.ru/
+
+ * [Robot development](https://github.com/max-talanov/1/blob/master/ainl/Skol_1.png)
+ * [Some ideas](https://github.com/max-talanov/1/blob/master/ainl/Skol_2.png)
+ * [Russian Robotics Challenge](https://github.com/max-talanov/1/blob/master/ainl/Skol_3.png)
+
+## iFree and Everfriends
+
+ * [Everfriends](https://github.com/max-talanov/1/blob/master/ainl/iFree.png)                
