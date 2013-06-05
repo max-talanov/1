@@ -24,6 +24,19 @@ It is Artificial intelligence and natural language conference with main 3 compan
  
 ### I remembered MGU :-)
 Анализ неявных предпочтений пользователей(Analysis of Hidden User Preferences)
+http://ainlconf.ru/node/view/biographyMikhailAgeev
  
- 
- 
+### Ingria
+Patents expert Kruchinin: methods to protect bananas. 
+http://ainlconf.ru/node/view/biographyMikhailKruchinin
+
+### RUSSOFT
+Go West!
+http://ainlconf.ru/node/view/biographyValentinMakarov
+
+### Russian word net
+http://ainlconf.ru/node/view/biographyPavelBraslavsky
+
+### Poster session
+![Overall](http://ainlconf.ru/images/photo/51e5e83074b0aa130b4dfca5ae03fb53.JPG)
+
