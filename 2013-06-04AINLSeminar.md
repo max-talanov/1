@@ -68,4 +68,8 @@ http://www.sk.ru/
 
 ## iFree and Everfriends
 
- * [Everfriends](https://github.com/max-talanov/1/blob/master/ainl/iFree.png)                
+ * [Everfriends](https://github.com/max-talanov/1/blob/master/ainl/iFree.png)
+
+## Demo session
+
+![NAO robot](http://ainlconf.ru/images/photo/d69fb419e7973d5294431e54faaaffc4.JPG)                  
