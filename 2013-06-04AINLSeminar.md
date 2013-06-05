@@ -47,4 +47,6 @@ http://ainlconf.ru/node/view/biographyPavelBraslavsky
  * [Mail.ru](https://github.com/max-talanov/1/blob/master/ainl/lia.png)
 
 ## Second day
-Huma Shakh lecture: Progress of dialog systems from Elisa to Eugeniy.       
+Huma Shah talk: From Eliza to Eugene: Approaching Fifty Years of Dialogue Agents.
+Dialogue system progress.
+http://ainlconf.ru/node/view/biographyHumaShah       
