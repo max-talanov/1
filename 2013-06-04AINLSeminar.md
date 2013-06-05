@@ -40,3 +40,8 @@ http://ainlconf.ru/node/view/biographyPavelBraslavsky
 ### Poster session
 ![Overall](http://ainlconf.ru/images/photo/51e5e83074b0aa130b4dfca5ae03fb53.JPG)
 
+ * [Psycho](https://github.com/max-talanov/1/blob/master/ainl/psycho.png)
+ * [WordNet](https://github.com/max-talanov/1/blob/master/ainl/wordnet_ru.png)
+ * [Text generation](https://github.com/max-talanov/1/blob/master/ainl/text_generation.png)
+ * [Lingvo](https://github.com/max-talanov/1/blob/master/ainl/lingvo.png)
+ * [Mail.ru](https://github.com/max-talanov/1/blob/master/ainl/lia.png)     
