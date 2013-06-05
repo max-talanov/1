@@ -59,6 +59,7 @@ http://ainlconf.ru/node/view/biographyHumaShah
 
 ### Sklokovo and robots
 http://ainlconf.ru/node/view/BiographyAlbertEfimov
+
 http://www.sk.ru/
 
  * [Robot development](https://github.com/max-talanov/1/blob/master/ainl/Skol_1.png)
