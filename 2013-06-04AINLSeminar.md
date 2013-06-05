@@ -47,6 +47,12 @@ http://ainlconf.ru/node/view/biographyPavelBraslavsky
  * [Mail.ru](https://github.com/max-talanov/1/blob/master/ainl/lia.png)
 
 ## Second day
-Huma Shah talk: From Eliza to Eugene: Approaching Fifty Years of Dialogue Agents.
+
+### Huma Shah talk: From Eliza to Eugene: Approaching Fifty Years of Dialogue Agents.
+
 Dialogue system progress.
-http://ainlconf.ru/node/view/biographyHumaShah       
+http://ainlconf.ru/node/view/biographyHumaShah
+
+ * [Eliza](https://github.com/max-talanov/1/blob/master/ainl/Huma_1.png)
+ * [Eugene](https://github.com/max-talanov/1/blob/master/ainl/Huma_2.png)
+ * [Alan Turing book](https://github.com/max-talanov/1/blob/master/ainl/Huma_3.png)         
