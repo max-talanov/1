@@ -20,7 +20,7 @@ It is Artificial intelligence and natural language conference with main 3 compan
  
  Started from NL and then extended to AI.
  
- ## First day
+## First day
  
 ### I remembered MGU :-)
 Анализ неявных предпочтений пользователей(Analysis of Hidden User Preferences)
@@ -44,4 +44,7 @@ http://ainlconf.ru/node/view/biographyPavelBraslavsky
  * [WordNet](https://github.com/max-talanov/1/blob/master/ainl/wordnet_ru.png)
  * [Text generation](https://github.com/max-talanov/1/blob/master/ainl/text_generation.png)
  * [Lingvo](https://github.com/max-talanov/1/blob/master/ainl/lingvo.png)
- * [Mail.ru](https://github.com/max-talanov/1/blob/master/ainl/lia.png)     
+ * [Mail.ru](https://github.com/max-talanov/1/blob/master/ainl/lia.png)
+
+## Second day
+Huma Shakh lecture: Progress of dialog systems from Elisa to Eugeniy.       
