@@ -22,8 +22,8 @@ It is Artificial intelligence and natural language conference with main 3 compan
  
  ## First day
  
-I remembered MGU :-)
-Анализ неявных предпочтений пользователей(Analysis of Hidden User Preferences)
+### I remembered MGU :-)
+РђРЅР°Р»РёР· РЅРµСЏРІРЅС‹С… РїСЂРµРґРїРѕС‡С‚РµРЅРёР№ РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№(Analysis of Hidden User Preferences)
  
  
  
