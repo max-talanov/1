@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="intelligent_watch.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -61,5 +61,35 @@
        sodipodi:ry="111.11678"
        d="m 482.85292,296.76807 a 137.38075,111.11678 0 1 1 -274.7615,0 137.38075,111.11678 0 1 1 274.7615,0 z"
        transform="matrix(1,0,0,0.68181819,0,59.070861)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.21106017;stroke-opacity:1"
+       id="path2985-4"
+       sodipodi:cx="345.47217"
+       sodipodi:cy="296.76807"
+       sodipodi:rx="137.38075"
+       sodipodi:ry="111.11678"
+       d="m 482.85292,296.76807 a 137.38075,111.11678 0 1 1 -274.7615,0 137.38075,111.11678 0 1 1 274.7615,0 z"
+       transform="matrix(1,0,0,0.68181819,2.848702e-6,25.73584)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.21106017;stroke-opacity:1"
+       id="path2985-4-9"
+       sodipodi:cx="345.47217"
+       sodipodi:cy="296.76807"
+       sodipodi:rx="137.38075"
+       sodipodi:ry="111.11678"
+       d="m 482.85292,296.76807 a 137.38075,111.11678 0 1 1 -274.7615,0 137.38075,111.11678 0 1 1 274.7615,0 z"
+       transform="matrix(-0.01572636,-0.99987633,0.68173387,-0.01072252,-17.07667,792.86189)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.21106017;stroke-opacity:1"
+       id="path2985-4-9-9"
+       sodipodi:cx="345.47217"
+       sodipodi:cy="296.76807"
+       sodipodi:rx="137.38075"
+       sodipodi:ry="111.11678"
+       d="m 482.85292,296.76807 a 137.38075,111.11678 0 1 1 -274.7615,0 137.38075,111.11678 0 1 1 274.7615,0 z"
+       transform="matrix(-0.01572636,-0.99987633,0.68173387,-0.01072252,328.3955,825.18678)" />
   </g>
 </svg>
