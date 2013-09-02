@@ -1,6 +1,6 @@
 #Design course plan
 
-1. Software life cycle
+1. Software lifecycle
 2. Documenting architecture
 3. UML
 4. Design patterns
