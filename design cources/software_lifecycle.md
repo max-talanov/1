@@ -3,6 +3,7 @@
 [Definition](http://en.wikipedia.org/wiki/Software_development_process)
 
 The waterfall model shows a process, where developers are to follow these phases in order:
+
 1. Requirements specification (Requirements analysis)
 1. Software design
 1. Implementation and Integration
