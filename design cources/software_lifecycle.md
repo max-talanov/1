@@ -11,3 +11,12 @@ The waterfall model shows a process, where developers are to follow these phases
 1. Deployment (or Installation)
 1. Maintenance
 
+## Requirements are:
+1. Vision
+1. User story
+1. Use case
+1. Change request
+
+Functional - describes functions of the product.
+
+Non functional_ - describes important to customer features like: ...
