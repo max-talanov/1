@@ -17,6 +17,6 @@ The waterfall model shows a process, where developers are to follow these phases
 1. Use case
 1. Change request
 
-Functional - describes functions of the product.
+*Functional* - describes functions of the product.
 
-Non functional_ - describes important to customer features like: ...
+*Non functional* - describes important to customer features like: ...
