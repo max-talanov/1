@@ -2,6 +2,15 @@
 
 [Definition](http://en.wikipedia.org/wiki/Software_development_process)
 
+## Roles
+
+1. Developer
+1. Teamlead
+1. PM
+1. Architect
+1. Analyst
+
+
 The waterfall model shows a process, where developers are to follow these phases in order:
 
 1. Requirements specification (Requirements analysis)
