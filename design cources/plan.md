@@ -25,8 +25,12 @@
     3. Activity/State machine    
     3. Sequence    
 1. Design patterns
-  2. Pub/Sub
-  2. ...
+  2. Creational
+    3. Factory method 
+    3. Lazy initialization
+  2. Structioral
+    
+  2. Behavioral
 1. Enterprise design patterns
   2. SOA
   2. Layered architecture
