@@ -1,4 +1,4 @@
-#Design course plan
+﻿#Design course plan
 
 1. Software life-cycle
   2. Roles in project
@@ -29,8 +29,14 @@
     3. Factory method 
     3. Lazy initialization
   2. Structioral
-    
+    3. Adapter
+    3. Module
   2. Behavioral
+    3. Pub/Sub
+    3. Interpreter
+    3. Null object
+    3. Strategy
+    3. Visitor
 1. Enterprise design patterns
   2. SOA
   2. Layered architecture
