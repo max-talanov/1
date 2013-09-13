@@ -38,6 +38,6 @@
      3. Strategy
      3. Visitor
 1. Enterprise design patterns
+  2. Model View Controller
   2. SOA
   2. Layered architecture
-  2. Three tier
