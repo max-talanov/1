@@ -1,5 +1,46 @@
 # Computational emotional thinking model
 
+## Plan
+
+1. Why bother
+1. Feedback loops
+1. Computer system management
+1. Roots:
+  2. Psychology
+  2. Neuroscience
+  2. CS
+
+## Why bother
+
+### Domains
+
+1. Computer - human social collaboration
+1. Human emotional behavior assessment
+1. Computer games and simulations
+1. Automation of primitive service tasks
+1. Nursing
+
+and more:
+
+1. Computer games
+1. Intellectual assistant capable of emotional dialogs and thinking
+1. Automatic interviewers
+1. Estimating human responses in the interest of manipulating it
+1. Simulations of large social groups
+1. Call centre automation
+1. Software and hardware support automation
+1. Virtual friends
+1. Nursing software
+1. Applications in emotional robots
+
+### Issues
+
+1. Emotions expressions
+  2. In text (Turing test)
+  2. In voice messages
+1. Limited resources
+
+
 ## Introduction
 
 Emotions are in focus of a lot of researchers from neuro-scientists [emotionsbraintorobot, parsingreward, neuromodulatory, cubeofemotions, natureofemotions], to computer science specialists[emotionandsociable, senticcomputing, hourglass, affectivemodelofinterplay, affectivecomputing], and emotional intelligence(EQ) becomes important, at least not less than IQ.
