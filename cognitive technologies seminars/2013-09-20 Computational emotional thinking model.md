@@ -48,14 +48,23 @@ and more:
  
 ### Feedback loops
 
-First of all we described Plutchik's feedback loops
+Plutchik describes emotional process as following:
+
 ![Plutchik's ](feedback loops.png)
 
-in Minsky's six thinking levels.
+1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
+1. *Inferred cognition* appraisal and understanding of event
+1. *Psychological arousal* psychological response of organism
+1. *Feeling the state* actual being in the state. 
+1. *Impulses to action*
+1. *Behavior* motor response
+1. *Effect* changes in the environment
+
+Computational thinking model Minsky's six thinking levels.
 
 ![Emotions in model of six thinking levels](six levels of emotions.png)
 
-1. Inbound stimulus is been processed(transmitted/apprised) via spinal cord, hypothalamus, amygdala and all these neuronal systems take part in neuromodulation.
+1. *Inbound stimulus* is been processed(transmitted/apprised) via spinal cord, hypothalamus, amygdala and all these neuronal systems take part in neuromodulation.
 1. Neuromodulation actually triggers the emotional state of human and all the rest actions are done under the influence of neuromodulatory systems: nor-adrenaline, dopamine, serotonin. 
 1. Instinctive behavior is processed on instinctive reactions layer that usually is not involved in conscious actions.
 1. Result of behavior actions is effect state that influences the system again as stimulus. This second stimulus is been apprised on instinctive reactions layer and triggers neuromodulation again. Neuromodulation in it's turn switches emotional state second time. This way stimulus cognition actions started in first emotional state, at some point could continue in second emotional state.
