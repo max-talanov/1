@@ -3,12 +3,10 @@
 ## Plan
 
 1. Why bother
-1. Feedback loops
 1. Computer system management
-1. Roots:
-  2. Psychology
-  2. Neuroscience
-  2. CS
+1. Lovheim "Cube of emotions"
+1. Plutchik "Wheel of emotions"
+1. Feedback loops
 
 ## Why bother
 
@@ -39,6 +37,45 @@ and more:
   2. In text (Turing test)
   2. In voice messages
 1. Limited resources
+
+
+## Neuromodulation and computing system management
+
+Roughly we could state that noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
+
+![Computing system parameters mapping](parameters mapping.png)
+
+Figure 2. [Computing system parameters mapping].
+
+ 1. Generic:
+   2. CPU power: noradrenaline
+   2. Memory distribution (attention): noradrenaline
+   2. Learning: serotonin, dopamine
+   2. Storage: serotonin, dopamine
+ 1. Decision making/reward processing:
+   2. Confidence: serotonin
+   2. Satisfaction: serotonin
+   2. Motivation, wanting: dopamine
+   2. Risky choices inclination: noradrenaline
+   2. Number of options to process: noradrenaline
+
+### Generic:
+
+1. *CPU power*(computing processes distribution or load balancing) is influenced by noradrenaline the higher is noradrenaline more computing processes should be concentrated on current activity.
+1. *Working memory(short term)* distribution is influenced by noradrenaline as neurotransmitter regulating attention.
+*Learning* is impacted by serotonin and dopamine: dopamine plays major role in activation of previously remembered patterns and serotonin in pattern generation.
+1. *Storage* management (long term memory) is influenced both by serotonin and dopamine, higher concentrations of both neurotransmitters the better action is remembered(less probability to forget).
+
+### Decision making:
+
+1. *Confidence and satisfaction* of the system is directly influenced by serotonin higher serotonin more confident is the system.
+1. System is more *motivated* under influence of dopamine.
+1. System tends to choose *risky* actions under impact of noradrenaline.
+1. Noradrenaline makes system use less *number of options* in width and depth to be processed during reasoning.
+
+For example: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
+
+--------------------------------------
 
 ## Roots
 
@@ -82,9 +119,7 @@ Feeling the emotional state is closely related to neuromodulation the physiologi
 
 ---------------------------------------------
 
-## Emotional thinking model
-
-### Model basis
+### Roots
 
 #### Minsky's Thinking model
 
@@ -164,47 +199,6 @@ We correspond spinal cord, hypothalamus and amygdala with instinctive layer of M
 
 
 -----------------------------------------
-
-#### Neuromodulation to computing system management mapping
-
-All that was presented above was the description of human thinking process and human emotions in terms of it. Only one reference to AI was done to Marvin Minsky "The emotion machine" [emotionmachine]. Result of neuromodulation is neurotransmitters secretion. Roughly we could state that noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
-To map neurotransmitters influence to computing system management we created the list of abstract computing system management parameters:
-
-![Computing system parameters mapping](parameters mapping.png)
-
-Figure 2. [Computing system parameters mapping].
-
- 1. Generic:
-   2. CPU power: noradrenaline
-   2. Memory distribution (attention): noradrenaline
-   2. Learning: serotonin, dopamine
-   2. Storage: serotonin, dopamine
- 1. Decision making/reward processing:
-   2. Confidence: serotonin
-   2. Satisfaction: serotonin
-   2. Motivation, wanting: dopamine
-   2. Risky choices inclination: noradrenaline
-   2. Number of options to process: noradrenaline
-
-
-Serotonin takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior [anatomic] also in self confidence, inner strength, satisfaction [cubeofemotions]. Dopamine plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. Noradrenaline impacts attention, vigilance, activity[cubeofemotions].
-
-Parameters are grouped in two folders: most obvious computing system parameters (generic):
-*CPU power*(computing processes distribution or load balancing) is influenced by noradrenaline the higher is noradrenaline more computing processes should be concentrated on current activity.
-*Working memory(short term)* distribution is influenced by noradrenaline as neurotransmitter regulating attention.
-*Learning* is impacted by serotonin and dopamine: dopamine plays major role in activation of previously remembered patterns and serotonin in pattern generation.
-*Storage* management (long term memory) is influenced both by serotonin and dopamine, higher concentrations of both neurotransmitters the better action is remembered(less probability to forget).
-
-Second group contains parameters that influence decision making in probabilistic reasoning system. This reasoning is done mainly in deliberation and learned reaction layers.
-Parameters: confidence, satisfaction, risky are used to highlight actions stored(remembered).
-*Confidence and satisfaction* of the system is directly influenced by serotonin higher serotonin more confident is the system.
-System is more *motivated* under influence of dopamine.
-System tends to choose *risky* actions under impact of noradrenaline.
-Noradrenaline makes system use less *number of options* in width and depth to be processed during reasoning.
-
-For example: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
-
-It's worth to note that duration of each neurotransmitter impact is highly individual and requires further development from computing system development perspective. Currently we suppose that each neurotransmitter is terminated right after it impacts the system.
 
 #### Conformity with Picard criteria
 
