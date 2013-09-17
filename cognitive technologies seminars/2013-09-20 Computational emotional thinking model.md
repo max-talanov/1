@@ -78,14 +78,17 @@ For example: system is in fear state. Dopamine impacts system at half strength. 
 
 ## Neuromodulators mapping.
 
-*Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior [anatomic] also in self confidence, inner strength, satisfaction [cubeofemotions]. 
-*Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
-*Nor-adrenaline* impacts attention, vigilance, activity[cubeofemotions].
+1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior [anatomic] also in self confidence, inner strength, satisfaction [cubeofemotions]. 
+2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
+3. *Nor-adrenaline* impacts attention, vigilance, activity[cubeofemotions].
 
 ### Lovheim cube of emotions 
 
 ![Lovheim cube of emotions](cube with wheel mixed.png)
 
+### Wheel of emotions
+
+![Plutchik wheel of emotions](Plutchik wheel 3D.gif)
 
 --------------------------------------
 
