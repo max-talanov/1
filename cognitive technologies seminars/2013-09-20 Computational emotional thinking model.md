@@ -82,79 +82,33 @@ For example: system is in fear state. Dopamine impacts system at half strength. 
 2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
 3. *Nor-adrenaline* impacts attention, vigilance, activity[cubeofemotions].
 
+-------------------------------------
 ### Lovheim cube of emotions 
 
 ![Lovheim cube of emotions](cube with wheel mixed.png)
+
+Objective brain work is described as neuromodulation process with base of three neuromodulatory systems:
+
+1. Nor-adrenaline
+1. Dopamine
+1. Serotonin
+
+Lövheim uses three dimensional model-cube and assumes that all emotional states could be placed in the three dimensional cube with neurotransmitters as axes and eight basic emotions ordered in an orthogonal coordinate system that are affective states. Affective states are inherited from affect theory of Tomkins [tomkins1, tomkins2, tomkins3, tomkins4]:
+
+ 1. Enjoyment/Joy
+ 1. Interest/Excitement
+ 1. Surprise
+ 1. Anger/Rage
+ 1. Disgust
+ 1. Distress/Anguish
+ 1. Fear/Terror
+ 1. Shame/Humiliation
 
 ### Wheel of emotions
 
 ![Plutchik wheel of emotions](Plutchik wheel 3D.gif)
 
---------------------------------------
-
-## Roots
-
-1. Computer science - Marvin Minsky "The emotion machine".
-1. Evolutionary psychology - Robert Plutchik "Nature of emotions".
-1. Neuroscience - Hugo Lovheim "Cube of emotions".
- 
-### Feedback loops
-
-Plutchik describes emotional process as following:
-
-![Plutchik's ](feedback loops.png)
-
-1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
-1. *Inferred cognition* appraisal and understanding of event
-1. *Psychological arousal* psychological response of organism
-1. *Feeling the state* actual being in the state. 
-1. *Impulses to action*
-1. *Behavior* motor response
-1. *Effect* changes in the environment
-
-Computational thinking model Minsky's six thinking levels.
-
-![Emotions in model of six thinking levels](six levels of emotions.png)
-
-1. *Inbound stimulus* is been processed(transmitted/apprised) via spinal cord, hypothalamus, amygdala and all these neuronal systems take part in neuromodulation.
-1. Neuromodulation actually triggers the emotional state of human and all the rest actions are done under the influence of neuromodulatory systems: nor-adrenaline, dopamine, serotonin. 
-1. Instinctive behavior is processed on instinctive reactions layer that usually is not involved in conscious actions.
-1. Result of behavior actions is effect state that influences the system again as stimulus. This second stimulus is been apprised on instinctive reactions layer and triggers neuromodulation again. Neuromodulation in it's turn switches emotional state second time. This way stimulus cognition actions started in first emotional state, at some point could continue in second emotional state.
-1. Stimulus cognition is processed in cingulate cortex, frontal cortex (working memory) that we correspond to rest 5 layers of thinking model. Stimulus cognition actions is done in the emotional state under influence of neuromodulation. Stimulus cognition could involve deliberation, further reflection, sef-reflection self-conscious processing (higher emotions) and  emotional state switch.
-1. Conscious behavior is activated as the result of stimulus cognition.
-
-#### Stimulus appraisal and stimulus cognition
-
-There are two main ways of inbound stimulus processing: appraisal is done on the instinctive reactions level and usually is processed as non-conscious action, cognition could involve all the rest thinking levels and could consist of complex deliberations and reflections.
-Cognitions also include self-conscious reflections over complex emotions like love, awe and aggression. For example startle is been apprised on instinctive reactions layer (spinal cord, hypothalamus, amygdala) where non-conscious decision is made and instinctive behaviour is chosen (it could be even reflex). In case of startle this could be run or jump aside. Only after those instinctive actions are performed human could realise what had happen to him (in the state of effect). In contrast to appraisal cognitions could are performed on higher levels could take some significant time and could include complex reasoning and reflections. For example fear could be triggered not only by inbound stimulus but by long time perception during some horror movie or deliberation over some facts regarding the world. In contrast to startle fear triggers complex conscious behaviour that could in it's turn become panic and trigger less intelligent behaviour like shouting and running from side to side. Both instinctive and conscious behaviour produces effect state. Effect is an environmental state that was altered from previous state via behaviour. Running in case of startle places human in safe place that produces effect which influence stimulus event and it's appraisal and as consequence emotional/affective state.
-
-#### Feeling the state and neuromodulation
-
-Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 basic Plutchik emotions that are used as dimensions and strength of emotion. This way subjective emotional state is been expressed via two coordinates: emotional state nature and strength of emotion. Emotional state nature and emotional strength are in range from 0 to 1. Subjective strength of emotion corresponds to objective brain activities via Gaussian function see [hourglass]. Objective brain activities are expressed via neuromodulation, see [emotionsbraintorobot] that is expressed in terms of neurotransmitters concentration. Neurotransmitters  concentration is expressed in range from 0 to 1 in cube of emotions, see Lövheim[cubeofemotions]. This way inbound stimulus is been apprised and triggers subjective emotional state switch and then objective brain functions as result of neurotransmitters concentration variation. For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
-
----------------------------------------------
-
-### Roots
-
-#### Minsky's Thinking model
-
-First basis that is used in this work is  AI. We used Marvin Minsky emotional thinking approach.
-Marvin Minsky in his book "The emotion machine"[emotionmachine] described human thinking model. Main structural idea that we used and adopted is "Model of six".
-
-Model of six thinking levels:
-
-1. Instinctive reactions
-1. Learned reactions
-1. Deliberative
-1. Reflective thinking
-1. Self-reflective thinking
-1. Self-conscious reflections
-
-All thinking processes are developed in levels listed above. We use following assumption: emotions as part of thinking, at least conscious processes, should fit thinking model. This way all emotional processed should be expressed in terms of thinking model(levels). This could be understood as base of computational emotional thinking approach.
-
-#### Evolutionary psychology
-
-The other perspective is psychology.  We use Plutchik approach[natureofemotions] as main psychological model. Plutchik indicated 8 basic emotions grouped in 4 pairs:
+The other perspective is psychology.  We use Plutchik approach as main psychological model. Plutchik indicated 8 basic emotions grouped in 4 pairs:
 
 1. Joy - sorrow
 1. Anger - fear
@@ -175,49 +129,56 @@ Emotions are organised in three dimensional circumplex model where third dimensi
 More complex emotions based on three could be combined in similar way, see Cambria [senticcomputing].
 Cambria [hourglass] used Gauss function to describe passage from one sentic level to another. We interpreted it as: Gaussian function regulates influence of subjective human perception of inbound stimulus over objective brain response. Semir Zeki[neuralcorrelatesofhate] describes to emotion(hate) correlation to neural activities as Gaussian.
 
-#### Neuromodulation and neurotransmission theory
+ 
+### Feedback loops
 
-Third basis of emotional thinking model is neuroscience. Objective brain work is described as neuromodulation process in [neuromodulatory] and [emotionsbraintorobot] with base of four neuromodulatory systems:
+Plutchik describes emotional process as following:
 
-1. Dopamine
-1. Serotonin
-1. Opioids
+![Plutchik's ](feedback loops.png)
 
-Close to their work is model based on monoamine neurotransmitters called "Cube of emotions" of Hugo Lövheim[cubeofemotions].
-Author describes emotions and correlation to neurotransmitters concentration. Using three main neurotransmitters:
+1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
+1. *Inferred cognition* appraisal and understanding of event
+1. *Psychological arousal* psychological response of organism
+1. *Feeling the state* actual being in the state. 
+1. *Impulses to action*
+1. *Behavior* motor response
+1. *Effect* changes in the environment
 
-1. Nor-adrenaline
-1. Dopamine
-1. Serotonin
+Computational thinking model Minsky's six thinking levels.
 
-Lövheim uses three dimensional model-cube and assumes that all emotional states could be placed in the three dimensional cube with neurotransmitters as axes and eight basic emotions ordered in an orthogonal coordinate system that are affective states. Affective states are inherited from affect theory of Tomkins [tomkins1, tomkins2, tomkins3, tomkins4]:
+![Emotions in model of six thinking levels](six levels of emotions.png)
 
- 1. Enjoyment/Joy
- 1. Interest/Excitement
- 1. Surprise
- 1. Anger/Rage
- 1. Disgust
- 1. Distress/Anguish
- 1. Fear/Terror
- 1. Shame/Humiliation
+Model of six thinking levels:
 
-This group of affects does match the basic Plutchik's emotions except for humiliation that could be interpreted as contempt. Complete mapping description is presented below.
+1. Instinctive reactions
+1. Learned reactions
+1. Deliberative
+1. Reflective thinking
+1. Self-reflective thinking
+1. Self-conscious reflections
 
-According to [emotionsbraintorobot] there are four following neuronal systems involved in to emotional processing:
+All thinking processes are developed in levels listed above. We use following assumption: emotions as part of thinking, at least conscious processes, should fit thinking model. This way all emotional processed should be expressed in terms of thinking model(levels). This could be understood as base of computational emotional thinking approach.
 
-1. Spinal cord
-1. Hypothalamus
-1. Amygdala
-1. Frontal cortex, cingulate cortex
+1. *Inbound stimulus* is been processed(transmitted/apprised) via spinal cord, hypothalamus, amygdala and all these neuronal systems take part in neuromodulation.
+1. *Neuromodulation* actually triggers the emotional state of human and all the rest actions are done under the influence of neuromodulatory systems: nor-adrenaline, dopamine, serotonin. 
+1. *Instinctive behavior* is processed on instinctive reactions layer that usually is not involved in conscious actions.
+1. *Result of behavior actions* is effect state that influences the system again as stimulus. This second stimulus is been apprised on instinctive reactions layer and triggers neuromodulation again. Neuromodulation in it's turn switches emotional state second time. This way stimulus cognition actions started in first emotional state, at some point could continue in second emotional state.
+1. *Stimulus cognition* is processed in cingulate cortex, frontal cortex (working memory) that we correspond to rest 5 layers of thinking model. Stimulus cognition actions is done in the emotional state under influence of neuromodulation. Stimulus cognition could involve deliberation, further reflection, sef-reflection self-conscious processing (higher emotions) and  emotional state switch.
+1. *Conscious behavior* is activated as the result of stimulus cognition.
 
-We correspond spinal cord, hypothalamus and amygdala with instinctive layer of Minsky's thinking model. This mapping is done in the assumption that reflexes, drives and instincts could be placed in instinctive reactions layer responsible for most primitive actions that do not involve conscious reactions or more complex processes like learned reactions or deliberations. Cognitions are could be placed in 5 higher layers that corresponds to working memory and all conscious actions in emotional processing/thinking.
+#### Stimulus appraisal and stimulus cognition
 
+There are two main ways of inbound stimulus processing: appraisal is done on the instinctive reactions level and usually is processed as non-conscious action, cognition could involve all the rest thinking levels and could consist of complex deliberations and reflections.
+Cognitions also include self-conscious reflections over complex emotions like love, awe and aggression. 
 
------------------------------------------
+#### Feeling the state and neuromodulation
+
+Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 basic Plutchik emotions that are used as dimensions and strength of emotion. This way subjective emotional state is been expressed via two coordinates: emotional state nature and strength of emotion. For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
+
 
 #### Conformity with Picard criteria
 
-Rosalind Picard in her article "What does it mean for a computer to "have" emotions?"[whatdoesitmeanforcomputer] suggested following criteria to measure emotional capabilities of a computing system:
+Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" suggested following criteria to measure emotional capabilities of a computing system:
 
 1. Emotional appearance
 1. Multi-level emotion generation
@@ -236,32 +197,7 @@ We propose this approach as framework for emotional thinking processes. This cou
  1. Nursing software
  1. Applications in emotional robots
 
-#### Higher emotions
-
-Plutchik[natureofemotions] suggested "primary dyads", see "Evolutionary psychology" section above, could be produced as mixture of primary colors of basic emotions. For example: joy(yellow) plus trust(green) produces love(lemon), anger(red) plus disgust(lilac) produces contempt(violet). Higher or complex emotions requires higher levels of thinking and self-awareness to be involved, this way they are mainly triggered on self-conscious and self-reflective thinking levels. Triads could be produced in similar way to dyads: joy + trust + anger = jealousy, see [senticcomputing].
-
 ## Conclusion
-
-Emotions are part of human thinking. Role of emotions could not be underestimated and they could not be ignored in human thinking modelling.
-There are three bases of presented computational emotions model. First AI, Marvin Minsky "The emotion machine"[emotionmachine] thinking model(model of six). We presented emotion processing workflow. Evolutionary psychological model: "wheel of emotions" by Plutchik[natureofemotions]. Plutchik proposed 8 basic emotions grouped in pairs:joy - sorrow, anger - fear, acceptance - disgust, surprise - expectancy. We used "wheel of emotions" as subjective emotional state model. Objective emotional brain activity is modeled by "cube of emotions" the monoamine neurotransmitters emotions model. We presented following parameters of computing system management with mapping to monoamine neurotransmitters.
-
- 1. Generic:
-   2. CPU power: noradrenaline
-   2. Memory distribution (attention): noradrenaline
-   2. Learning: serotonin, dopamine
-   2. Storage: serotonin, dopamine
- 1. Decision making/reward processing:
-   2. Confidence: serotonin
-   2. Satisfaction: serotonin
-   2. Motivation, wanting: dopamine
-   2. Risky choices inclination: noradrenaline
-   2. Number of options to process: noradrenaline
-
-This could be base for further implementation as emotional thinking process used as base framework for general AI applications.
-
-We suppose that this model worth to be tested as computing system build on base of six levels. With some practical tasks to be solved in it. For example it could be automation of help desk. More than that we could run interesting experiment switching on and off emotions mechanisms, for example neurotransmitters in the system and monitoring efficiency of cognition and training processes.
-
-We suppose this framework and it's implementation could be useful in many different domains:
 
 1. Computer games
 1. Intellectual assistant capable of emotional dialogs and thinking
