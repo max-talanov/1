@@ -75,6 +75,18 @@ Figure 2. [Computing system parameters mapping].
 
 For example: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
+
+## Neuromodulators mapping.
+
+*Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior [anatomic] also in self confidence, inner strength, satisfaction [cubeofemotions]. 
+*Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
+*Nor-adrenaline* impacts attention, vigilance, activity[cubeofemotions].
+
+### Lovheim cube of emotions 
+
+![Lovheim cube of emotions](cube with wheel mixed.png)
+
+
 --------------------------------------
 
 ## Roots
