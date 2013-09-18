@@ -33,11 +33,12 @@ and more:
 
 ### Issues
 
+![Kismet](Kismet_312.jpg)
+
 1. Emotions expressions
   2. In text (Turing test)
   2. In voice messages
 1. Limited resources
-
 
 ## Neuromodulation and computing system management
 
