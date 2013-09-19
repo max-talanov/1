@@ -44,7 +44,7 @@ and more:
 
 Roughly we could state that noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
 
-![Computing system parameters mapping](parameters mapping.png)
+![Computing system parameters mapping](cube of parameters.png)
 
 Figure 2. [Computing system parameters mapping].
 
@@ -115,21 +115,8 @@ The other perspective is psychology.  We use Plutchik approach as main psycholog
 1. Acceptance - disgust
 1. Surprise - expectancy
 
-Emotions are organised in three dimensional circumplex model where third dimension is emotional strength. Basic emotions could be mixed based on color theory, in higher more complex emotions. Complex emotions mixtures of two basics are called "primary dyads":
+Emotions are organised in three dimensional circumplex model where third dimension is emotional strength. Basic emotions could be mixed based on color theory, in higher more complex emotions. 
 
-1. Love
-1. Submission
-1. Awe
-1. Disapproval
-1. Remorse
-1. Contempt
-1. Aggressiveness
-1. Optimism
-
-More complex emotions based on three could be combined in similar way, see Cambria [senticcomputing].
-Cambria [hourglass] used Gauss function to describe passage from one sentic level to another. We interpreted it as: Gaussian function regulates influence of subjective human perception of inbound stimulus over objective brain response. Semir Zeki[neuralcorrelatesofhate] describes to emotion(hate) correlation to neural activities as Gaussian.
-
- 
 ### Feedback loops
 
 Plutchik describes emotional process as following:
@@ -185,27 +172,14 @@ Rosalind Picard in her article "What does it mean for a computer to "have" emoti
 1. Emotional experience
 1. Mind-body interactions
 
-Emotional appearance is not discussed in this work. Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections. Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Plutchik model and subjective emotions perceptions in this work. Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model. Conscious and non-conscious mechanisms of stimulus processing was presented in "Stimulus appraisal and stimulus cognition" section. Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
+Emotional appearance is not discussed in this work. 
 
-We propose this approach as framework for emotional thinking processes. This could be starting point of further research and development of emotional thinking. From our perspective this kind of approach could be widely used in following domains:
+Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections. 
 
- 1. Intellectual assistant capable of emotional dialogs and thinking
- 1. Help desk automation
- 1. Call centre automation
- 1. Software and hardware support automation
- 1. Virtual friends
- 1. Nursing software
- 1. Applications in emotional robots
+Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Plutchik model and subjective emotions perceptions in this work. 
 
-## Conclusion
+Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model. 
 
-1. Computer games
-1. Intellectual assistant capable of emotional dialogs and thinking
-1. Automatic interviewers
-1. Estimating human responses in the interest of manipulating it
-1. Simulations of large social groups
-1. Call centre automation
-1. Software and hardware support automation
-1. Virtual friends
-1. Nursing software
-1. Applications in emotional robots
+Conscious and non-conscious mechanisms of stimulus processing was presented in "Stimulus appraisal and stimulus cognition" section. 
+
+Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
