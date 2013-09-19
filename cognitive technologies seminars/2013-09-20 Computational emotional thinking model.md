@@ -6,6 +6,7 @@
 1. Emotional computing system management
 1. Emotions objective and subjective
 1. Emotional processes
+1. Conformity with Picard criteria
 
 ## Why bother
 
@@ -162,7 +163,7 @@ Cognitions also include self-conscious reflections over complex emotions like lo
 Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 basic Plutchik emotions that are used as dimensions and strength of emotion. This way subjective emotional state is been expressed via two coordinates: emotional state nature and strength of emotion. For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
 
 
-#### Conformity with Picard criteria
+## Conformity with Picard criteria
 
 Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" suggested following criteria to measure emotional capabilities of a computing system:
 
