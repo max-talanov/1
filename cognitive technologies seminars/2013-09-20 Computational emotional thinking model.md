@@ -83,10 +83,9 @@ For example: system is in fear state. Dopamine impacts system at half strength. 
 2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
 3. *Nor-adrenaline* impacts attention, vigilance, activity[cubeofemotions].
 
--------------------------------------
 ### Lovheim cube of emotions 
 
-![Lovheim cube of emotions](cube with wheel mixed.png)
+![Lovheim cube of emotions](cube.png)
 
 Objective brain work is described as neuromodulation process with base of three neuromodulatory systems:
 
