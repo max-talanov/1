@@ -3,10 +3,9 @@
 ## Plan
 
 1. Why bother
-1. Computer system management
-1. Lovheim "Cube of emotions"
-1. Plutchik "Wheel of emotions"
-1. Feedback loops
+1. Emotional computing system management
+1. Emotions objective and subjective
+1. Emotional processes
 
 ## Why bother
 
@@ -40,7 +39,7 @@ and more:
   2. In voice messages
 1. Limited resources
 
-## Neuromodulation and computing system management
+## Emotional computing system management
 
 Roughly we could state that noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
 
@@ -77,7 +76,7 @@ Figure 2. [Computing system parameters mapping].
 For example: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
 
-## Neuromodulators mapping.
+## Emotions objective and subjective.
 
 1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior [anatomic] also in self confidence, inner strength, satisfaction [cubeofemotions]. 
 2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
@@ -117,7 +116,7 @@ The other perspective is psychology.  We use Plutchik approach as main psycholog
 
 Emotions are organised in three dimensional circumplex model where third dimension is emotional strength. Basic emotions could be mixed based on color theory, in higher more complex emotions. 
 
-### Feedback loops
+## Emotional processes
 
 Plutchik describes emotional process as following:
 
