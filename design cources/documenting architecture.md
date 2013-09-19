@@ -13,7 +13,7 @@ The waterfall model shows a process, where developers are to follow these phases
 1. Deployment (or Installation)
 1. Maintenance
 
-
+![Gantt chart](http://en.wikipedia.org/wiki/File:Pert_example_gantt_chart.gif)
 
 ### Agile
 
