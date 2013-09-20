@@ -48,18 +48,19 @@ Customer collaboration over contract negotiation
 
 Responding to change over following a plan
 
+The Agile Manifesto is based on twelve principles:
 
-Customer satisfaction by rapid delivery of useful software
-Welcome changing requirements, even late in development
-Working software is delivered frequently (weeks rather than months)
-Working software is the principal measure of progress
-Sustainable development, able to maintain a constant pace
-Close, daily cooperation between business people and developers
-Face-to-face conversation is the best form of communication (co-location)
-Projects are built around motivated individuals, who should be trusted
-Continuous attention to technical excellence and good design
-Simplicity—the art of maximizing the amount of work not done—is essential
-Self-organizing teams
-Regular adaptation to changing circumstances
+1. Customer satisfaction by rapid delivery of useful software
+1. Welcome changing requirements, even late in development
+1. Working software is delivered frequently (weeks rather than months)
+1. Working software is the principal measure of progress
+1. Sustainable development, able to maintain a constant pace
+1. Close, daily cooperation between business people and developers
+1. Face-to-face conversation is the best form of communication (co-location)
+1. Projects are built around motivated individuals, who should be trusted
+1. Continuous attention to technical excellence and good design
+1. Simplicity—the art of maximizing the amount of work not done—is essential
+1. Self-organizing teams
+1. Regular adaptation to changing circumstances
 
 ### Agile-Scrum
