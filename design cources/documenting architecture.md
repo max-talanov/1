@@ -36,7 +36,9 @@ The waterfall model shows a process, where developers are to follow these phases
 
 #### Agile manifesto
 
-[Generic diagram of agile methodology](http://upload.wikimedia.org/wikipedia/commons/f/ff/Generic_diagram_of_an_agile_methodology_for_software_development.png)
+![Generic diagram of agile methodology](http://upload.wikimedia.org/wikipedia/commons/f/ff/Generic_diagram_of_an_agile_methodology_for_software_development.png)
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
 Individuals and interactions over processes and tools
 
