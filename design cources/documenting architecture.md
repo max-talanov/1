@@ -40,13 +40,10 @@ The waterfall model shows a process, where developers are to follow these phases
 
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
-Individuals and interactions over processes and tools
-
-Working software over comprehensive documentation
-
-Customer collaboration over contract negotiation
-
-Responding to change over following a plan
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
 
 The Agile Manifesto is based on twelve principles:
 
