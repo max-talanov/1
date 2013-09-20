@@ -1,5 +1,16 @@
 # Documenting architecture
 
+## Plan
+2. Methodologies
+     3. Waterfall
+     3. Agile
+     3. Agile/Scrum
+2. Project documentation
+     3. Requirements
+     3. HLD
+     3. MLD
+     3. LLD
+
 ## Methodologies
 
 ### Waterfall
@@ -15,9 +26,17 @@ The waterfall model shows a process, where developers are to follow these phases
 
 ![Gantt chart](http://upload.wikimedia.org/wikipedia/en/7/73/Pert_example_gantt_chart.gif)
 
+#### Problems and risks of complete design up front
+
+### Spiral
+
+![Spiral development chart](http://upload.wikimedia.org/wikipedia/commons/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg)
+
 ### Agile
 
 #### Agile manifesto
+
+[Generic diagram of agile methodology](http://upload.wikimedia.org/wikipedia/commons/f/ff/Generic_diagram_of_an_agile_methodology_for_software_development.png)
 
 Individuals and interactions over processes and tools
 
