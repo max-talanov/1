@@ -72,7 +72,8 @@ The Agile Manifesto is based on twelve principles:
 #### Principles
 
 1. Team of equals
-2. Team responsibility 
-3. 
+1. Team responsibility 
+1. Requirements are not set in stone
+1. Customers are team members
 
 ![Scrum diagram](http://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process.svg)
