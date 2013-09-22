@@ -62,4 +62,17 @@ The Agile Manifesto is based on twelve principles:
 
 ### Agile-Scrum
 
+####Repetitive activities:
 
+1. Daily scrum - standup meeting, very important for common view 
+1. Sprint backlog - is created on weekly basis based on user story. 
+1. Retrospective - week review
+1. Planing
+
+#### Principles
+
+1. Team of equals
+2. Team responsibility 
+3. 
+
+![Scrum diagram](http://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process.svg)
