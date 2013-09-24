@@ -81,3 +81,7 @@ The Agile Manifesto is based on twelve principles:
 #### Scrum task board
 
 ![Scrum task board](http://upload.wikimedia.org/wikipedia/commons/1/1b/Scrum_task_board.jpg)
+
+#### Scrum burndown chart
+
+![Scrum burndown chart](http://upload.wikimedia.org/wikipedia/commons/0/05/SampleBurndownChart.png)
