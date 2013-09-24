@@ -77,3 +77,7 @@ The Agile Manifesto is based on twelve principles:
 1. Customers are team members
 
 ![Scrum diagram](http://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_process.svg)
+
+#### Scrum task board
+
+![Scrum task board](http://upload.wikimedia.org/wikipedia/commons/1/1b/Scrum_task_board.jpg)
