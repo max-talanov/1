@@ -1,13 +1,8 @@
-## Build a team.
-Split on two or more groups, to make of four to six students in the group.
-Please take in account that there should be different types of personalities in a group.
+## Methodologies.
  
-## Assign roles
-Assign roles: developer/s, architect, product owner/analyst, project manager. 
- 
-## Project
-Now there are project teams we are going to develop project. But we need project itself.
-First of all we need requirements.
+1. Choose methodology that you like for your project. Waterfall or Agile Scrum.
+1. Choose tools for: revision control, team management, requirements management, design tools.
+
 
 ### Requirements
   
