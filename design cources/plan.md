@@ -1,19 +1,18 @@
-﻿#Design course plan
+#Design course plan
 
 1. Software life-cycle
   2. Roles in project
   2. Phases of the project
-1. Documenting architecture
-  2. Methodologies
-     3. Waterfall
-     3. Spiral
-     3. Agile
-     3. Agile/Scrum
-  2. Project documentation
-     3. Requirements
-     3. HLD
-     3. MLD
-     3. LLD
+1. Methodologies
+  2. Waterfall
+  2. Spiral
+  2. Agile
+  2. Agile/Scrum
+1. Project documentation
+  2. Requirements
+  2. HLD
+  2. MLD
+  2. LLD
 1. UML
   2. 9 types of diagrams
   2. Structure
