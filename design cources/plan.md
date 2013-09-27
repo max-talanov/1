@@ -8,8 +8,12 @@
   2. Spiral
   2. Agile
   2. Agile/Scrum
+1. Requirements
+  2. Vision
+  2. Business requirements
+  2. Functional requirements
+  2. Non-functional requirements
 1. Project documentation
-  2. Requirements
   2. HLD
   2. MLD
   2. LLD
@@ -27,7 +31,7 @@
   2. Creational
      3. Factory method 
      3. Lazy initialization
-  2. Structioral
+  2. Structural
      3. Adapter
      3. Module
   2. Behavioral
