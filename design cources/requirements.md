@@ -27,7 +27,10 @@ Military robots.
 1. Analyzing measurements (acceptance criteria)
 1. Analyzing priorities
 
-## Vision                                                    
+## Vision   
+
+Business requirements are what must be delivered to provide value. Products, systems, software, and processes are the ways how to deliver, satisfy, or meet the business requirements whats. Consequently, the topic of business requirements often arises in the context of developing or procuring software or other system; but business requirements exist much more broadly. That is, 'business' can be at work or personal, for profit or non-profit.
+
 
 ## Business requirements
 
