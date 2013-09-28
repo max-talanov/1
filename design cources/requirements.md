@@ -21,7 +21,7 @@ Military robots.
 
 [Definition](http://en.wikipedia.org/wiki/Business_requirements)
 
-Business requirements are what must be delivered to provide value. Products, systems, software, and processes are the ways how to deliver, satisfy, or meet the business requirements whats. Consequently, the topic of business requirements often arises in the context of developing or procuring software or other system; but business requirements exist much more broadly. That is, 'business' can be at work or personal, for profit or non-profit.
+Business requirements are *what* must be delivered to provide value. Products, systems, software, and processes are the ways how to deliver, satisfy, or meet the business requirements whats. Consequently, the topic of business requirements often arises in the context of developing or procuring software or other system; but business requirements exist much more broadly. That is, 'business' can be at work or personal, for profit or non-profit.
 
 1. Business context, scope, and background, including reasons for change
 1. Key business stakeholders that have requirements
@@ -62,19 +62,23 @@ A Vision Document is a software process document that describes the overall 'vis
 1. Output
 1. Entry criteria
 1. Exit criteria
-1. Behaviour
+1. Behavior
 1. Exceptions
+
+### Data flow 
+
+![Data flow diagram](http://upload.wikimedia.org/wikipedia/commons/c/c8/DataFlowDiagram_Example.png)
 
 ## User requirements
 
 [Definition](http://en.wikipedia.org/wiki/User_requirements_document)
 
-The user requirement(s) document (URD) or user requirement(s) specification is a document usually used in software engineering that specifies the requirements the user expects from software to be constructed in a software project.
+The user requirement(s) document (URD) or user requirement(s) specification is a document usually used in software engineering that specifies the requirements the *user expects from software* to be constructed in a software project.
 An important and difficult step of designing a software product is determining what the customer actually wants it to do.
 
 ## Functional requirements
 
-In software engineering (and System Engineering), a functional requirement defines a function of a system or its component. A function is described as a set of inputs, the behavior, and outputs.
+In software engineering (and System Engineering), a functional requirement defines a function of a system or its component. A function is described as a *set of inputs, the behavior, and outputs*.
 
 A typical functional requirement will contain a unique name and number, a brief summary, and a rationale. 
 
@@ -82,7 +86,7 @@ A typical functional requirement will contain a unique name and number, a brief 
 
 [Definition](http://en.wikipedia.org/wiki/Non-Functional_Requirements)
 
-In systems engineering and requirements engineering, a non-functional requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviors.
+In systems engineering and requirements engineering, a non-functional requirement is a requirement that specifies *criteria that can be used to judge the operation of a system*, rather than specific behaviors.
 
 ### Examples
 
