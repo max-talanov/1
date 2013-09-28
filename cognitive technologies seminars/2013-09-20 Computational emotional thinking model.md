@@ -12,14 +12,6 @@
 
 ### Domains
 
-1. Computer - human social collaboration
-1. Human emotional behavior assessment
-1. Computer games and simulations
-1. Automation of primitive service tasks
-1. Nursing
-
-and more:
-
 1. Computer games
 1. Intellectual assistant capable of emotional dialogs and thinking
 1. Automatic interviewers
