@@ -6,5 +6,14 @@
 
 [Emotiv insight (ru)](http://habrahabr.ru/post/193820/?utm_medium=referral&utm_source=pulsenews)
 
+1. Engagement
+1. Focus
+1. Interest
+1. Relaxation
+1. Stress
+
 ## Definition
+
+[Wiki](http://en.wikipedia.org/wiki/High_level_design)
+
 
