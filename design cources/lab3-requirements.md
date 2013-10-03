@@ -19,3 +19,10 @@
 1. Exit criteria
 1. Behavior
 1. Exceptions
+
+## Design
+
+1. Choose UML tool:
+  2. [Visual paradigm](http://www.visual-paradigm.com/product/vpuml/features/umlmodeling.jsp)
+  2. [ArgoUML](http://argouml.tigris.org/)
+  2. [Topcased](http://www.topcased.org/)
