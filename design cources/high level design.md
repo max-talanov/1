@@ -16,4 +16,5 @@
 
 [Wiki](http://en.wikipedia.org/wiki/High_level_design)
 
+High-level design provides an overview of an entire system, identifying all its elements at some level of abstraction.
 
