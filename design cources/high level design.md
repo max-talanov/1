@@ -18,3 +18,7 @@
 
 High-level design provides an overview of an entire system, identifying all its elements at some level of abstraction.
 
+Design overview - As proceeds the need is to provide an overview of how the various sub-systems and components of the system fit together.
+
+The idea is to mention every work area briefly, clearly delegating the ownership of more detailed design activity whilst also encouraging effective collaboration between the various project teams.
+
