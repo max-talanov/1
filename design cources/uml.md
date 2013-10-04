@@ -4,7 +4,9 @@
 
 Unified Modeling Language (UML) is a standardized (ISO/IEC 19501:2005), general-purpose modeling language in the field of software engineering. The Unified Modeling Language includes a set of graphic notation techniques to create visual models of object-oriented software-intensive systems.
 
-UML has synthesized the notations of the Booch method, the Object-modeling technique (OMT) and Object-oriented software engineering (OOSE) by fusing them into a single, common and widely usable modeling language.[4] UML aims to be a standard modeling language which can model concurrent and distributed systems.
+UML has synthesized the notations of the Booch method, the Object-modeling technique (OMT) and Object-oriented software engineering (OOSE) by fusing them into a single, common and widely usable modeling language. UML aims to be a standard modeling language which can model concurrent and distributed systems.
+
+![Booch method](https://upload.wikimedia.org/wikipedia/commons/c/c2/Booch-diagram.png)
 
 Main idea - there are different views on same one system they should be used to describe system from different perspectives.
 
