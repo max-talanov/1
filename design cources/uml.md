@@ -10,7 +10,7 @@ Main idea - there are different views on same one system they should be used to 
 
 ![UML diagrams](http://upload.wikimedia.org/wikipedia/commons/e/ed/UML_diagrams_overview.svg)
 
-==== Structure diagrams ====
+## Structure diagrams
 Structure diagrams emphasize the things that must be present in the system being modeled. Since structure diagrams represent the structure, they are used extensively in documenting the [[software architecture]] of software systems.
 
 * [[Class diagram]]: describes the structure of a system by showing the system's classes, their attributes, and the relationships among the classes.
@@ -30,7 +30,7 @@ File:Object diagram.png|[[Object diagram]]
 File:Package Diagram.PNG|[[Package diagram]]
 </gallery></center>
 
-==== Behavior diagrams ====
+##Behavior diagrams
 Behavior diagrams emphasize what must happen in the system being modeled. Since behavior diagrams illustrate the behavior of a system, they are used extensively to describe the functionality of software systems.
 
 * [[Activity diagram]]: describes the business and operational step-by-step workflows of components in a system. An activity diagram shows the overall flow of control.
@@ -43,7 +43,7 @@ Image:UML state diagram.png|[[UML state machine|State Machine]] diagram
 Image:UML_Use_Case_diagram.svg|[[Use Case Diagram]]
 </gallery></center>
 
-==== Interaction diagrams ====
+##Interaction diagrams
 Interaction diagrams, a subset of behavior diagrams, emphasize the flow of control and data among the things in the system being modeled:
 * [[Communication diagram]]: shows the interactions between objects or parts in terms of sequenced messages. They represent a combination of information taken from Class, Sequence, and [[Use Case Diagram]]s describing both the static structure and dynamic behavior of a system.
 * [[Interaction overview diagram]]: provides an overview in which the nodes represent communication diagrams.
