@@ -39,15 +39,15 @@ Structure diagrams emphasize the things that must be present in the system being
 
 Behavior diagrams emphasize what must happen in the system being modeled. Since behavior diagrams illustrate the behavior of a system, they are used extensively to describe the functionality of software systems.
 
-* [[Activity diagram]]: describes the business and operational step-by-step workflows of components in a system. An activity diagram shows the overall flow of control.
-* [[UML state machine]] diagram: describes the states and state transitions of the system.
-* [[Use Case Diagram]]: describes the functionality provided by a system in terms of actors, their goals represented as use cases, and any dependencies among those use cases.
+* [Activity diagram](https://en.wikipedia.org/wiki/Activity_diagram): describes the business and operational step-by-step workflows of components in a system. An activity diagram shows the overall flow of control.
 
-<center><gallery>
-File:Activity conducting.svg|[[Activity diagram|UML Activity Diagram]]
-Image:UML state diagram.png|[[UML state machine|State Machine]] diagram
-Image:UML_Use_Case_diagram.svg|[[Use Case Diagram]]
-</gallery></center>
+![Activity diagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg)
+* [UML state machine](https://en.wikipedia.org/wiki/UML_state_machine) diagram: describes the states and state transitions of the system.
+
+![UML state machine](https://upload.wikimedia.org/wikipedia/commons/b/be/UML_state_diagram.png)
+* [Use Case Diagram](https://en.wikipedia.org/wiki/Use_Case_Diagram): describes the functionality provided by a system in terms of actors, their goals represented as use cases, and any dependencies among those use cases.
+
+![Use Case Diagram](https://upload.wikimedia.org/wikipedia/commons/7/71/UML_Use_Case_diagram.svg)
 
 ##Interaction diagrams
 Interaction diagrams, a subset of behavior diagrams, emphasize the flow of control and data among the things in the system being modeled:
