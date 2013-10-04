@@ -35,6 +35,8 @@ Structure diagrams emphasize the things that must be present in the system being
 ![Package diagram](https://upload.wikimedia.org/wikipedia/commons/7/7b/Package_Diagram.PNG)
 * [Profile diagram](https://en.wikipedia.org/wiki/Profile_diagram): operates at the metamodel level to show stereotype as classes with the stereotype stereotype, and profiles as packages with the profile stereotype. The extension relation (solid line with closed, filled arrowhead) indicates what metamodel element a given stereotype is extending.
 
+![UML meta model](https://upload.wikimedia.org/wikipedia/commons/9/93/M0-m3.png)
+
 ##Behavior diagrams
 
 Behavior diagrams emphasize what must happen in the system being modeled. Since behavior diagrams illustrate the behavior of a system, they are used extensively to describe the functionality of software systems.
@@ -51,13 +53,13 @@ Behavior diagrams emphasize what must happen in the system being modeled. Since 
 
 ##Interaction diagrams
 Interaction diagrams, a subset of behavior diagrams, emphasize the flow of control and data among the things in the system being modeled:
-* [[Communication diagram]]: shows the interactions between objects or parts in terms of sequenced messages. They represent a combination of information taken from Class, Sequence, and [[Use Case Diagram]]s describing both the static structure and dynamic behavior of a system.
-* [[Interaction overview diagram]]: provides an overview in which the nodes represent communication diagrams.
-* [[Sequence diagram]]: shows how objects communicate with each other in terms of a sequence of messages. Also indicates the lifespans of objects relative to those messages.
-* [[Timing diagram (Unified Modeling Language)|Timing diagrams]]: a specific type of interaction diagram where the focus is on timing constraints.
+* [Communication diagram](https://en.wikipedia.org/wiki/Communication_diagram): shows the interactions between objects or parts in terms of sequenced messages. They represent a combination of information taken from Class, Sequence, and [[Use Case Diagram]]s describing both the static structure and dynamic behavior of a system.
 
-<center><gallery>
-Image:Kommunikations diagramm-2.png|[[Communication diagram]]
-Image:Iau-diagramm-1.png|[[Interaction overview diagram]]
-Image:CheckEmail.svg|[[Sequence diagram]]
-</gallery></center>
+
+* [Interaction overview diagram](https://en.wikipedia.org/wiki/Interaction_overview_diagram): provides an overview in which the nodes represent communication diagrams.
+
+
+* [Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram): shows how objects communicate with each other in terms of a sequence of messages. Also indicates the lifespans of objects relative to those messages.
+
+
+* [Timing diagram](https://en.wikipedia.org/wiki/Timing_diagram_(Unified_Modeling_Language)): a specific type of interaction diagram where the focus is on timing constraints.
