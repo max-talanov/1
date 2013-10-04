@@ -62,5 +62,5 @@ Interaction diagrams, a subset of behavior diagrams, emphasize the flow of contr
 * [Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram): shows how objects communicate with each other in terms of a sequence of messages. Also indicates the lifespans of objects relative to those messages.
 
 ![Sequnce diagram](https://upload.wikimedia.org/wikipedia/commons/9/9b/CheckEmail.svg)
-* [Timing diagram](https://en.wikipedia.org/wiki/Timing_diagram_(Unified_Modeling_Language)): a specific type of interaction diagram where the focus is on timing constraints.
+* [Timing diagram](https://en.wikipedia.org/wiki/Timing_diagram_(Unified_Modeling_Language): a specific type of interaction diagram where the focus is on timing constraints.
 
