@@ -16,23 +16,27 @@ Main idea - there are different views on same one system they should be used to 
 Structure diagrams emphasize the things that must be present in the system being modeled. Since structure diagrams represent the structure, they are used extensively in documenting the [[software architecture]] of software systems.
 
 * [Class diagram](https://en.wikipedia.org/wiki/Class_diagram): describes the structure of a system by showing the system's classes, their attributes, and the relationships among the classes.
+
 ![Class diagram](https://upload.wikimedia.org/wikipedia/commons/4/41/BankAccount1.svg)
 * [Component diagram](https://en.wikipedia.org/wiki/Component_diagram): describes how a software system is split up into components and shows the dependencies among these components.
-* [Composite structure diagram](https://en.wikipedia.org/wiki/Composite_structure_diagram): describes the internal structure of a class and the collaborations that this structure makes possible.
-* [Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram): describes the hardware used in system implementations and the execution environments and artifacts deployed on the hardware.
-* [Object diagram](https://en.wikipedia.org/wiki/Object_diagram): shows a complete or partial view of the structure of an example modeled system at a specific time.
-* [Package diagram](https://en.wikipedia.org/wiki/Package_diagram): describes how a system is split up into logical groupings by showing the dependencies among these groupings.
-* [Profile diagram](https://en.wikipedia.org/wiki/Profile_diagram): operates at the metamodel level to show stereotype as classes with the stereotype stereotype, and profiles as packages with the profile stereotype. The extension relation (solid line with closed, filled arrowhead) indicates what metamodel element a given stereotype is extending.
-
 
 ![Component diagram](https://upload.wikimedia.org/wikipedia/commons/b/b8/Policy_Admin_Component_Diagram.PNG)
-![Composite structure diagram](https://upload.wikimedia.org/wikipedia/commons/b/b0/Composite_Structure_Diagram.png)
-![Deployment diagram](https://upload.wikimedia.org/wikipedia/commons/b/b9/Deployment_Diagram.PNG)
-![Object diagram](https://upload.wikimedia.org/wikipedia/commons/1/17/Object_diagram.png)
-![Package diagram](https://upload.wikimedia.org/wikipedia/commons/7/7b/Package_Diagram.PNG)
+* [Composite structure diagram](https://en.wikipedia.org/wiki/Composite_structure_diagram): describes the internal structure of a class and the collaborations that this structure makes possible.
 
+![Composite structure diagram](https://upload.wikimedia.org/wikipedia/commons/b/b0/Composite_Structure_Diagram.png)
+* [Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram): describes the hardware used in system implementations and the execution environments and artifacts deployed on the hardware.
+
+![Deployment diagram](https://upload.wikimedia.org/wikipedia/commons/b/b9/Deployment_Diagram.PNG)
+* [Object diagram](https://en.wikipedia.org/wiki/Object_diagram): shows a complete or partial view of the structure of an example modeled system at a specific time.
+
+![Object diagram](https://upload.wikimedia.org/wikipedia/commons/1/17/Object_diagram.png)
+* [Package diagram](https://en.wikipedia.org/wiki/Package_diagram): describes how a system is split up into logical groupings by showing the dependencies among these groupings.
+
+![Package diagram](https://upload.wikimedia.org/wikipedia/commons/7/7b/Package_Diagram.PNG)
+* [Profile diagram](https://en.wikipedia.org/wiki/Profile_diagram): operates at the metamodel level to show stereotype as classes with the stereotype stereotype, and profiles as packages with the profile stereotype. The extension relation (solid line with closed, filled arrowhead) indicates what metamodel element a given stereotype is extending.
 
 ##Behavior diagrams
+
 Behavior diagrams emphasize what must happen in the system being modeled. Since behavior diagrams illustrate the behavior of a system, they are used extensively to describe the functionality of software systems.
 
 * [[Activity diagram]]: describes the business and operational step-by-step workflows of components in a system. An activity diagram shows the overall flow of control.
