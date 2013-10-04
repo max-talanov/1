@@ -23,10 +23,10 @@ Structure diagrams emphasize the things that must be present in the system being
 * [Package diagram](https://en.wikipedia.org/wiki/Package_diagram): describes how a system is split up into logical groupings by showing the dependencies among these groupings.
 * [Profile diagram](https://en.wikipedia.org/wiki/Profile_diagram): operates at the metamodel level to show stereotype as classes with the stereotype stereotype, and profiles as packages with the profile stereotype. The extension relation (solid line with closed, filled arrowhead) indicates what metamodel element a given stereotype is extending.
 
-[Class diagram](https://en.wikipedia.org/wiki/File:BankAccount1.svg)
-[Component diagram](https://en.wikipedia.org/wiki/File:Policy_Admin_Component_Diagram.PNG)
-File:Composite Structure Diagram.png|[[Composite structure diagram]]
-File:Deployment Diagram.PNG|[[Deployment diagram]]
+![Class diagram](https://en.wikipedia.org/wiki/File:BankAccount1.svg)
+![Component diagram](https://en.wikipedia.org/wiki/File:Policy_Admin_Component_Diagram.PNG)
+![Composite structure diagram](https://upload.wikimedia.org/wikipedia/commons/b/b0/Composite_Structure_Diagram.png)
+![Deployment diagram](https://upload.wikimedia.org/wikipedia/commons/b/b9/Deployment_Diagram.PNG)
 File:Object diagram.png|[[Object diagram]]
 File:Package Diagram.PNG|[[Package diagram]]
 </gallery></center>
