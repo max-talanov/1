@@ -21,7 +21,7 @@ Structure diagrams emphasize the things that must be present in the system being
 * [Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram): describes the hardware used in system implementations and the execution environments and artifacts deployed on the hardware.
 * [Object diagram](https://en.wikipedia.org/wiki/Object_diagram): shows a complete or partial view of the structure of an example modeled system at a specific time.
 * [Package diagram](https://en.wikipedia.org/wiki/Package_diagram): describes how a system is split up into logical groupings by showing the dependencies among these groupings.
-* [Profile diagram](https://en.wikipedia.org/wiki/Profile_diagram): operates at the metamodel level to show stereotype as classes with the <<stereotype>> stereotype, and profiles as packages with the <<profile>> stereotype. The extension relation (solid line with closed, filled arrowhead) indicates what metamodel element a given stereotype is extending.
+* [Profile diagram](https://en.wikipedia.org/wiki/Profile_diagram): operates at the metamodel level to show stereotype as classes with the stereotype stereotype, and profiles as packages with the profile stereotype. The extension relation (solid line with closed, filled arrowhead) indicates what metamodel element a given stereotype is extending.
 
 <center><gallery>
 File:BankAccount1.svg|[[Class diagram]]
