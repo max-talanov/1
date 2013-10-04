@@ -22,3 +22,6 @@ Design overview - As proceeds the need is to provide an overview of how the vari
 
 The idea is to mention every work area briefly, clearly delegating the ownership of more detailed design activity whilst also encouraging effective collaboration between the various project teams.
 
+### UML
+
+[UML](uml.md)
