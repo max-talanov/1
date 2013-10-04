@@ -55,11 +55,12 @@ Behavior diagrams emphasize what must happen in the system being modeled. Since 
 Interaction diagrams, a subset of behavior diagrams, emphasize the flow of control and data among the things in the system being modeled:
 * [Communication diagram](https://en.wikipedia.org/wiki/Communication_diagram): shows the interactions between objects or parts in terms of sequenced messages. They represent a combination of information taken from Class, Sequence, and [[Use Case Diagram]]s describing both the static structure and dynamic behavior of a system.
 
-
+![Communication diagram](https://upload.wikimedia.org/wikipedia/commons/9/92/Kommunikations_diagramm-2.png)
 * [Interaction overview diagram](https://en.wikipedia.org/wiki/Interaction_overview_diagram): provides an overview in which the nodes represent communication diagrams.
 
-
+![Interaction overview diagram](https://upload.wikimedia.org/wikipedia/commons/7/7a/Iau-diagramm-1.png)
 * [Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram): shows how objects communicate with each other in terms of a sequence of messages. Also indicates the lifespans of objects relative to those messages.
 
-
+![Sequnce diagram](https://upload.wikimedia.org/wikipedia/commons/9/9b/CheckEmail.svg)
 * [Timing diagram](https://en.wikipedia.org/wiki/Timing_diagram_(Unified_Modeling_Language)): a specific type of interaction diagram where the focus is on timing constraints.
+
