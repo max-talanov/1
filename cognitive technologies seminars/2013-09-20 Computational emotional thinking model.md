@@ -27,6 +27,8 @@
 
 ![Kismet](Kismet_312.jpg)
 
+Figure 1. [Kismet].
+
 1. Emotions expressions
   2. In text (Turing test)
   2. In voice messages
