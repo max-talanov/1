@@ -11,7 +11,13 @@ High-level design provides an overview of an entire system, identifying all its 
 ## LLD diagrams
 
 1. [Class diagrm](https://en.wikipedia.org/wiki/Class_diagram)
-2. 
+1. [Package diagram](https://en.wikipedia.org/wiki/Package_diagram)
+1. [Object diagram](https://en.wikipedia.org/wiki/Object_diagram)
+1. [Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram)
+1. [Composit structure](https://en.wikipedia.org/wiki/Composite_structure_diagram)
+1. [Interaction overview](https://en.wikipedia.org/wiki/Interaction_overview_diagram)
+1. [Communication diagram](https://en.wikipedia.org/wiki/Communication_diagram)
+1. [State machine](https://en.wikipedia.org/wiki/UML_state_machine)
 
 # Mid level design
 
