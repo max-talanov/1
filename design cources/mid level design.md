@@ -12,6 +12,7 @@ High-level design provides an overview of an entire system, identifying all its 
 
 ## Definition 
 
+Mid level design provides overal behavior and interfaces decription, with help of Data model deeper than High level design.
 
 ## MLD exmaple
 
