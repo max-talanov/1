@@ -13,6 +13,10 @@
   2. Business requirements
   2. Functional requirements
   2. Non-functional requirements
+1. Project documentation
+  2. HLD
+  2. MLD
+  2. LLD
 1. UML
   2. 9 types of diagrams
   2. Structure
@@ -23,10 +27,6 @@
      3. Use case
      3. Activity/State machine    
      3. Sequence  
-1. Project documentation
-  2. HLD
-  2. MLD
-  2. LLD
 1. Design patterns
   2. Creational
      3. Factory method 
