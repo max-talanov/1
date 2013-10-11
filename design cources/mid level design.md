@@ -6,7 +6,7 @@
 
 ## Definition
 
-High-level design provides an overview of an entire system, identifying all its elements at some level of abstraction. This contrasts with Low level Design which exposes the detailed design of each of these elements.(Implementation)
+High-level design provides an overview of an entire system, identifying all its elements at some level of abstraction. This contrasts with Low level Design which exposes the detailed design of each of these elements.(**Implementation**)
 
 # Mid level design
 
