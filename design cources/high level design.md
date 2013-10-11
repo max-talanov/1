@@ -36,3 +36,4 @@ The idea is to mention every work area briefly, clearly delegating the ownership
 1. [Collaboration diagram](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#collaboration)
 1. [Concept class diagram](https://github.com/development-team/2/blob/master/doc/design-specification/knowledge.md)
 1. [Activity diagram](https://github.com/development-team/2/blob/master/doc/design-specification/lifecycle-activity.md)
+1. [Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram)
