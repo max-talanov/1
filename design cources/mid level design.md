@@ -33,3 +33,6 @@ Mid level design provides overal behavior and interfaces decription, with help o
 1. [TU project Critic](https://github.com/development-team/2/blob/master/doc/design-specification/critics.md)
 1. [TU project Way2Think component](https://github.com/development-team/2/blob/master/doc/design-specification/way2Think.md)
 
+## UML
+
+[UML](uml.md)
