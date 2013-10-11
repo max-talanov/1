@@ -18,7 +18,7 @@
   2. MLD
   2. LLD
 1. UML
-  2. 9 types of diagrams
+  2. 15(9) types of diagrams
   2. Structure
      3. Component 
      3. Class
