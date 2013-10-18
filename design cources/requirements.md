@@ -58,12 +58,13 @@ A Vision Document is a software process document that describes the overall 'vis
 
 ![Use case diagram](http://upload.wikimedia.org/wikipedia/commons/1/1d/Use_case_restaurant_model.svg)
 
-1. Input
-1. Output
-1. Entry criteria
-1. Exit criteria
-1. Behavior
-1. Exceptions
+1. ID
+1. Description
+1. Precondition
+1. Postcondition
+1. Main workflow
+1. Alternative workflow
+1. Exceptions workflow
 
 ### Data flow 
 
