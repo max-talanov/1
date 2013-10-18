@@ -15,7 +15,7 @@
   2. Non-functional requirements
 1. Project documentation
   2. [HLD](high level design.md)
-  2. [MLD](/mid%20level%20design.md#mid-level-design)
+  2. [MLD](mid%20level%20design.md#mid-level-design)
   2. [LLD](mid%20level%20design.md#low-level-design)
 1. UML
   2. 15(9) types of diagrams
