@@ -21,6 +21,8 @@
 
 ###Ports
 
+![White box with internal structure and ports](component_internal_white_box.png)
+
 ## Connectors
 
 1. Provided interface
