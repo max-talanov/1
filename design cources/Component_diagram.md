@@ -8,8 +8,20 @@
 
 1. Components
   2. Black box
+
+[Black box diagram](component_black_box.png)
   2. White box with listing of parts and connectors
+
+[White box diagram](component_white_box.png)
   2. White box with nested structure
+
+[White box with nested components diagram](component_nested.png)
+
+1. Ports
 
 ## Connectors
 
+1. Provided interface
+1. Required interface
+1. Delegate
+2. Assembly 
