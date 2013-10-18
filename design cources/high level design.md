@@ -32,7 +32,7 @@ The idea is to mention every work area briefly, clearly delegating the ownership
 [TU project design specification](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md)
 
 1. [Use cases](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#use-cases)
-1. [Component diagram](Component_diagram.md)
+1. [Component diagram](Component_diagram.md),
 [Component diagram example](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#component-diagram),
 [Wiki article](https://en.wikipedia.org/wiki/Component_diagram)
 1. [Collaboration diagram](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#collaboration)
