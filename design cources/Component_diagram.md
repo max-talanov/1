@@ -6,18 +6,20 @@
 
 ## Classifiers
 
-1. Components
-  2. Black box
+###Components
+
+1. Black box
 
 ![Black box diagram](component_black_box.png)
-  2. White box with listing of parts and connectors
+
+1. White box with listing of parts and connectors
 
 ![White box diagram](component_white_box.png)
-  2. White box with nested structure
+1. White box with nested structure
 
 ![White box with nested components diagram](component_nested.png)
 
-1. Ports
+###Ports
 
 ## Connectors
 
