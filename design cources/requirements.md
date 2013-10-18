@@ -60,11 +60,11 @@ A Vision Document is a software process document that describes the overall 'vis
 
 1. ID
 1. Description
-1. Precondition
-1. Postcondition
 1. Main workflow
 1. Alternative workflow
 1. Exceptions workflow
+1. Precondition
+1. Postcondition
 
 ### Data flow 
 
