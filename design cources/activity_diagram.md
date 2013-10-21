@@ -8,17 +8,24 @@
 
 ### Start and stop
 
+![Initial and final nodes](activity_final_node.png)
+
 ### Split and join
 
-### Actions/states
+![Split and join node](activity_fork_node.png)
+
+### Actions and objecs
+
+
 
 ### Decisions
 
+![Decision](activity_decision_node.png)
+
 ### Swim lines
 
-Is used to denote an actor of an action
-
-![Activity diagram with swimlines](.png)
+Is usualy used to denote an actor of an action
+![Activity diagram with swimlines](activity_swim_lines.png)
 
 
 
