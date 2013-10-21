@@ -1,38 +1,32 @@
-#Activity digaram.
+#Sequence diagram.
 
-[Activity diagram](https://en.wikipedia.org/wiki/Activity_diagram) are graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency. In the Unified Modeling Language, activity diagrams are intended to model both computational and organisational processes (i.e. workflows). Activity diagrams show the overall flow of control.
+[Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram) is a kind of interaction diagram that shows how processes operate with one another and in what order. It is a construct of a Message Sequence Chart. A sequence diagram shows object interactions arranged in time sequence. It depicts the objects and classes involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
 
-![Activity diagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg)
+![Sequence diagram](https://upload.wikimedia.org/wikipedia/commons/9/9b/CheckEmail.svg)
 
 ## Constructs
 
-### Start and stop
+### Lifeline and execution
 
-![Initial and final nodes](activity_final_node.png)
+![Lifeline](sequence_lifeline.png)
 
-![Flow final nodes example](activity_flow_final_2.png)
+### CombinedFragment
 
-### Split and join
+Combined fragment with critical region.
+![CombinedFragment](sequence_par.png)
 
-![Split and join node](activity_fork_node.png)
+### Continuation (alternative branches)
 
-![Split and join example](activity_fork_example.png)
+![CombinedFragment](sequence_combined.png)
 
-### Actions and objecs
+Here: ref - reference(inclusion) to other sequence.
 
-![Actions and objecs](activity_actions.png)
+![Continuation](sequence_cont.png)
 
-### Decisions
+### Overlap
 
-![Decision](activity_decision_node.png)
-
-### Swim lines
-
-Is usualy used to denote an actor of an action
-![Activity diagram with swimlines](activity_swim_lines.png)
-
-![Activity diagram with swimlines, example 2](activity_swim_lines_2.png)
+![Callback](sequence_overlap.png)
 
 ## Connectors
 
-![Connectors](activity_connectors.png)
+![Message](sequence_message.png)

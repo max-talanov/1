@@ -1,4 +1,4 @@
-#Activity digaram.
+#Activity diagram.
 
 [Activity diagram](https://en.wikipedia.org/wiki/Activity_diagram) are graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency. In the Unified Modeling Language, activity diagrams are intended to model both computational and organisational processes (i.e. workflows). Activity diagrams show the overall flow of control.
 
@@ -18,9 +18,9 @@
 
 ![Split and join example](activity_fork_example.png)
 
-### Actions and objecs
+### Actions and objects
 
-![Actions and objecs](activity_actions.png)
+![Actions and objects](activity_actions.png)
 
 ### Decisions
 
@@ -28,10 +28,10 @@
 
 ### Swim lines
 
-Is usualy used to denote an actor of an action
-![Activity diagram with swimlines](activity_swim_lines.png)
+Is usually used to denote an actor of an action
+![Activity diagram with swim lines](activity_swim_lines.png)
 
-![Activity diagram with swimlines, example 2](activity_swim_lines_2.png)
+![Activity diagram with swim lines, example 2](activity_swim_lines_2.png)
 
 ## Connectors
 
