@@ -1,32 +1,65 @@
-#Sequence diagram.
+#Class diagram.
 
-[Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram) is a kind of interaction diagram that shows how processes operate with one another and in what order. It is a construct of a Message Sequence Chart. A sequence diagram shows object interactions arranged in time sequence. It depicts the objects and classes involved in the scenario and the sequence of messages exchanged between the objects needed to carry out the functionality of the scenario. Sequence diagrams are typically associated with use case realizations in the Logical View of the system under development.
+[Class diagram](http://en.wikipedia.org/wiki/Class_diagram) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.
 
-![Sequence diagram](https://upload.wikimedia.org/wikipedia/commons/9/9b/CheckEmail.svg)
+![Class diagram](http://upload.wikimedia.org/wikipedia/commons/4/41/BankAccount1.svg)
 
 ## Constructs
 
-### Lifeline and execution
+### Class
 
-![Lifeline](sequence_lifeline.png)
+![class](class_class.png)
 
-### CombinedFragment
+#### Visibility
 
-Combined fragment with critical region.
-![CombinedFragment](sequence_par.png)
+"+"       Public 
+"-"       Private 
+"#"       Protected 
+"/"       Derived (can be combined with one of the others)
+"_"       Static
+"~"       Package
 
-### Continuation (alternative branches)
+### Instance
 
-![CombinedFragment](sequence_combined.png)
+![Instance](class_instance.png)
 
-Here: ref - reference(inclusion) to other sequence.
+### Package
 
-![Continuation](sequence_cont.png)
+![Package](class_package.png)
 
-### Overlap
+### Interface
 
-![Callback](sequence_overlap.png)
+![Interface](class_interface.png)
 
 ## Connectors
 
-![Message](sequence_message.png)
+### Association
+
+![Association](http://upload.wikimedia.org/wikipedia/commons/4/4d/UML_role_example.gif)
+
+#### Multiplicity
+
+* __0..1__	No instances, or one instance (optional, may)
+* __1__	Exactly one instance
+* __0..* or *__	Zero or more instances
+* __1..*__	One or more instances (at least one)
+
+
+### Generalisation
+
+![Generalisation](class_generalisation.png)
+
+### Realisation
+
+![Realisation](class_realisation.png)
+
+### Aggregation and compositon
+
+* Aggregation "has a" connection
+* Composition "owns a" connection
+
+![Aggregation and composition](http://upload.wikimedia.org/wikipedia/en/9/9f/AggregationAndComposition.svg)
+
+### Import (Package)
+
+![Import](class_import.png)
