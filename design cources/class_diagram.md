@@ -8,16 +8,14 @@
 
 ### Class
 
-![class](class_class.png)
-
 #### Visibility
 
-"+"       Public 
-"-"       Private 
-"#"       Protected 
-"/"       Derived (can be combined with one of the others)
-"_"       Static
-"~"       Package
+* "+"       Public 
+* "-"       Private 
+* "#"       Protected 
+* "/"       Derived (can be combined with one of the others)
+* "_"       Static
+* "~"       Package
 
 ### Instance
 
