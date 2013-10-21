@@ -18,7 +18,7 @@
 
 ### Actions and objecs
 
-
+![Actions and objecs](activity_actions.png)
 
 ### Decisions
 
@@ -33,3 +33,4 @@ Is usualy used to denote an actor of an action
 
 ## Connectors
 
+![Connectors](activity_connectors.png)
