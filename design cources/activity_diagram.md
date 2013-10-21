@@ -10,6 +10,8 @@
 
 ![Initial and final nodes](activity_final_node.png)
 
+![Flow final nodes example](activity_flow_final_2.png)
+
 ### Split and join
 
 ![Split and join node](activity_fork_node.png)
@@ -27,7 +29,7 @@
 Is usualy used to denote an actor of an action
 ![Activity diagram with swimlines](activity_swim_lines.png)
 
-
+![Activity diagram with swimlines, example 2](activity_swim_lines_2.png)
 
 ## Connectors
 
