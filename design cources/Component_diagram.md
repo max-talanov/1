@@ -1,26 +1,31 @@
 #Component diagram
 
-[Activity diagram](https://en.wikipedia.org/wiki/Activity_diagram)are graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency. In the Unified Modeling Language, activity diagrams are intended to model both computational and organisational processes (i.e. workflows). Activity diagrams show the overall flow of control.
+[Component diagram](https://en.wikipedia.org/wiki/Component_diagram): describes how a software system is split up into components and shows the dependencies among these components.
 
-![Activity diagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg)
+![Component diagram](https://upload.wikimedia.org/wikipedia/commons/b/b8/Policy_Admin_Component_Diagram.PNG)
 
-## Constructs
+## Classifiers
 
-### Start and stop
+###Components
 
-### Split and join
+1. Black box
 
-### Actions/states
+![Black box diagram](component_black_box.png)
 
-### Decisions
+1. White box with listing of parts and connectors
 
-### Swim lines
+![White box diagram](component_white_box.png)
+1. White box with nested structure
 
-Is used to denote an actor of an action
+![White box with nested components diagram](component_nested.png)
 
-![Activity diagram with swimlines](.png)
+###Ports
 
-
+![White box with internal structure and ports](component_internal_white_box.png)
 
 ## Connectors
 
+1. Provided interface
+1. Required interface
+1. Delegate
+2. Assembly 
