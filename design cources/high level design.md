@@ -31,7 +31,7 @@ The idea is to mention every work area briefly, clearly delegating the ownership
 
 [TU project design specification](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md)
 
-1. [Use case](use_case.md)
+1. [Use case](use_case.md),
 [Wiki](https://en.wikipedia.org/wiki/Use_cases),
 [Use cases example](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#use-cases)
 1. [Component diagram](Component_diagram.md),
