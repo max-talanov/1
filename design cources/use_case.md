@@ -10,47 +10,30 @@
 
 ![Actor](usecase_actor.png)
 
-### Instance
+### Use case
 
-![Instance](class_instance.png)
-
-### Package
-
-![Package](class_package.png)
-
-### Interface
-
-![Interface](class_interface.png)
+![Use case](usecase_example.png)
 
 ## Connectors
 
-### Association
+### Inclusion
 
-![Association](http://upload.wikimedia.org/wikipedia/commons/4/4d/UML_role_example.gif)
+![Inclusion](usecase_inclusion)
 
-#### Multiplicity
+### Extension
 
-* __0..1__	No instances, or one instance (optional, may)
-* __1__	Exactly one instance
-* __0..* or *__	Zero or more instances
-* __1..*__	One or more instances (at least one)
+![Extension](usecase_extension.png)
 
+![Extension with condition](usecase_extensionwithcond.png)
 
-### Generalisation
+![Extension with condition](usecase_extended_relationship.png)
 
-![Generalisation](class_generalisation.png)
+## Examples
 
-### Realisation
+### With state chart
 
-![Realisation](class_realisation.png)
+![With state chart](usecase_withstatemachine.png)
 
-### Aggregation and compositon
+### With various packages
 
-* Aggregation "has a" connection
-* Composition "owns a" connection
-
-![Aggregation and composition](http://upload.wikimedia.org/wikipedia/en/9/9f/AggregationAndComposition.svg)
-
-### Import (Package)
-
-![Import](class_import.png)
+![With various packages](usecase_various_packages.png)
