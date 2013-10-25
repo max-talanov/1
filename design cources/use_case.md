@@ -1,21 +1,14 @@
 # Use case diagram
 
-[Use case diagram](https://en.wikipedia.org/wiki/Use_cases) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.
+[Use case diagram](https://en.wikipedia.org/wiki/Use_cases) In software and systems engineering, a use case is a list of steps, typically defining interactions between a role (known in UML as an "actor") and a system, to achieve a goal. The actor can be a human or an external system.
 
 ![Use case diagram](https://upload.wikimedia.org/wikipedia/commons/1/1d/Use_case_restaurant_model.svg)
 
 ## Constructs
 
-### Class
+### Actor
 
-#### Visibility
-
-* "+"       Public 
-* "-"       Private 
-* "#"       Protected 
-* "/"       Derived (can be combined with one of the others)
-* "_"       Static
-* "~"       Package
+![Actor](usecase_actor.png)
 
 ### Instance
 
