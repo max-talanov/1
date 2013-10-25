@@ -18,13 +18,11 @@
 
 ### Inclusion
 
-![Inclusion](usecase_inclusion)
+![Inclusion](usecase_inclusion.png)
 
 ### Extension
 
 ![Extension](usecase_extension.png)
-
-![Extension with condition](usecase_extensionwithcond.png)
 
 ![Extension with condition](usecase_extended_relationship.png)
 
