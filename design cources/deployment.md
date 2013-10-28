@@ -26,6 +26,10 @@ A [deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram) in the 
 
 ### Deployment specification
 
+A deployment specification specifies a set of properties that determine execution parameters of a component artifact that 
+is deployed on a node. A deployment specification can be aimed at a specific type of container. An artifact that reifies or 
+implements deployment specification properties is a deployment descriptor.
+
 ![Deployment specification](deployment_spec.png)
 
 ![Deployment specification](deployment_spec_with_properties.png)
@@ -44,7 +48,7 @@ A [deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram) in the 
 
 ### Dependency
 
-![Dependency](deployment_dependency.png)
+![Dependency](deployment_dependancy.png)
 
 ### Generalization
 
@@ -54,6 +58,14 @@ A [deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram) in the 
 
 ![Deployment](deployment_deploy.png)
 
+![Deployment](deployment_deploy_example.png)
+
 ### Manifestation
+
+An artifact embodies or manifests a number of model elements. The artifact owns the manifestations, each representing 
+the utilization of a packageable element.
+Specific profiles are expected to stereotype the manifestation relationship to indicate particular forms of manifestation. 
+For example, <<tool generated>> and <<custom code>> might be two manifestations for different classes embodied in an 
+artifact.
 
 ![Manifestation](deployment_manifest.png)
