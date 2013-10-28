@@ -31,6 +31,8 @@
   2. [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   2. [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture)
   2. [Layered architecture](https://en.wikipedia.org/wiki/Common_layers_in_an_information_system_logical_architecture)
+  2. [Blackboard](https://en.wikipedia.org/wiki/Blackboard_system)
+  2. [Event driven](https://en.wikipedia.org/wiki/Event-driven_architecture)
 1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
   2. Creational
      3. Factory method 
