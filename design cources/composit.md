@@ -26,7 +26,7 @@ This diagram can include internal parts, ports through which the parts interact 
 
 ![CollaborationUse](composit_collaborationUse.png)
 
-![CollaborationUse](composit_collaborationUse_example.png)
+![CollaborationUse](composit_collaborationUse_exmaple.png)
 
 ![CollaborationUse](composit_collaborationUse_example_2.png)
 
