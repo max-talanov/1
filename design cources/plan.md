@@ -17,6 +17,10 @@
   2. [HLD](high level design.md)
   2. [MLD](mid%20level%20design.md#mid-level-design)
   2. [LLD](mid%20level%20design.md#low-level-design)
+1. Enterprise design patterns
+  2. [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+  2. [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+  2. [Layered architecture]()
 1. UML
   2. 15(9) types of diagrams
   2. Structure
@@ -27,7 +31,7 @@
      3. Use case
      3. Activity/State machine    
      3. Sequence  
-1. Design patterns
+1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
   2. Creational
      3. Factory method 
      3. Lazy initialization
@@ -40,7 +44,3 @@
      3. Null object
      3. Strategy
      3. Visitor
-1. Enterprise design patterns
-  2. Model View Controller
-  2. SOA
-  2. Layered architecture
