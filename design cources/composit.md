@@ -20,9 +20,15 @@ This diagram can include internal parts, ports through which the parts interact 
 
 ![Collaboration](composit_collaboration.png)
 
+![Collaboration](composit_collaboration_example.png)
+
 ### CollaborationUse
 
 ![CollaborationUse](composit_collaborationUse.png)
+
+![CollaborationUse](composit_collaborationUse_example.png)
+
+![CollaborationUse](composit_collaborationUse_example_2.png)
 
 ## Connectors
 
