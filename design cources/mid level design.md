@@ -17,7 +17,8 @@ High-level design provides an overview of an entire system, identifying all its 
 [Deployment diagram example](https://en.wikipedia.org/wiki/Deployment_diagram)
 1. [Composit structure](composit.md),
 [Composit structure wiki](https://en.wikipedia.org/wiki/Composite_structure_diagram)
-1. [Interaction overview](https://en.wikipedia.org/wiki/Interaction_overview_diagram)
+1. [Interaction](interaction.md),
+[Interaction overview example](https://en.wikipedia.org/wiki/Interaction_overview_diagram)
 1. [Communication diagram](https://en.wikipedia.org/wiki/Communication_diagram)
 1. [State machine](https://en.wikipedia.org/wiki/UML_state_machine)
 
