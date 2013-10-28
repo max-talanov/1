@@ -2,40 +2,58 @@
 
 A [deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram) in the Unified Modeling Language models the physical deployment of artifacts on nodes.[1] To describe a web site, for example, a deployment diagram would show what hardware components ("nodes") exist (e.g., a web server, an application server, and a database server), what software components ("artifacts") run on each node (e.g., web application, database), and how the different pieces are connected (e.g. JDBC, REST, RMI).
 
-This diagram can include internal parts, ports through which the parts interact with each other or through which instances of the class interact with the parts and with the outside world, and connectors between parts or ports. A composite structure is a set of interconnected elements that collaborate at runtime to achieve some purpose. Each element has some defined role in the collaboration.
-
 ![Deployment diagram](https://upload.wikimedia.org/wikipedia/commons/b/b9/Deployment_Diagram.PNG)
 
 ## Constructs
 
-### Part
+### Artifact
 
-![Part](composit_part.png)
+![Artifact](deployment_artifact.png)
 
-### Port
+### Node
 
-![Port](composit_port.png)
+![Node](deployment_node.png)
 
-### Collaboration
+### Artifact deployed on node
 
-![Collaboration](composit_collaboration.png)
+![Artifact deployed on node](deployment_artifact_deployed.png)
 
-![Collaboration](composit_collaboration_example.png)
+### Node with deployed artifacts
 
-### CollaborationUse
+![Node with deployed artifacts](deployment_node_with_artifact.png)
 
-![CollaborationUse](composit_collaborationUse.png)
+![Node with deployed artifacts](deployment_node_with_artifacts.png)
 
-![CollaborationUse](composit_collaborationUse_exmaple.png)
+### Deployment specification
 
-![CollaborationUse](composit_collaborationUse_exmaple_2.png)
+![Deployment specification](deployment_spec.png)
+
+![Deployment specification](deployment_spec_with_properties.png)
+
+![Deployment specification](deployment_spec_with_values.png)
+
+### Artifact with annotated deployment properties
+
+![Artifact with values](deployment_artifact_with_values.png)
 
 ## Connectors
 
-### Connector
+### Association
 
-![Connector](composit_connector.png)
+![Association](deployment_association.png)
 
-### Role binding
+### Dependency
 
-![Role binding](composit_role_binding.png)
+![Dependency](deployment_dependency.png)
+
+### Generalization
+
+![Generalization](deployment_generalisation.png)
+
+### Deployment
+
+![Deployment](deployment_deploy.png)
+
+### Manifestation
+
+![Manifestation](deployment_manifest.png)
