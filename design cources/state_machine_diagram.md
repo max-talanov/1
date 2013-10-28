@@ -24,7 +24,7 @@ UML [state machine](https://en.wikipedia.org/wiki/UML_state_machine), also known
 
 ### Exit point
 
-![Exit point](state_machine_exit_point.png)
+![Exit point](state_machine_exit.png)
 
 ### Final state
 
