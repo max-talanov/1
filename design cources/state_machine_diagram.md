@@ -40,7 +40,7 @@ UML [state machine](https://en.wikipedia.org/wiki/UML_state_machine), also known
 
 ### Send signal
 
-![Send signal](state_machine_send_signal.png)
+![Send signal](state_machine_send.png)
 
 ### Region
 
@@ -58,7 +58,7 @@ UML [state machine](https://en.wikipedia.org/wiki/UML_state_machine), also known
 
 ### Terminal node
 
-![Terminal node](state_machine_terminal_node.png)
+![Terminal node](state_machine_terminate.png)
 
 ### Submachine
 
