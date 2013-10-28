@@ -13,7 +13,8 @@ High-level design provides an overview of an entire system, identifying all its 
 1. [Class diagrm](https://en.wikipedia.org/wiki/Class_diagram)
 1. [Package diagram](https://en.wikipedia.org/wiki/Package_diagram)
 1. [Object diagram](https://en.wikipedia.org/wiki/Object_diagram)
-1. [Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram)
+1. [Deployment diagram](deployment.md),
+[Deployment diagram example](https://en.wikipedia.org/wiki/Deployment_diagram)
 1. [Composit structure](composit.md),
 [Composit structure wiki](https://en.wikipedia.org/wiki/Composite_structure_diagram)
 1. [Interaction overview](https://en.wikipedia.org/wiki/Interaction_overview_diagram)
