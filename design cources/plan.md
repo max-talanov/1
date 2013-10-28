@@ -33,6 +33,7 @@
   2. [Multi tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
   2. [Blackboard](https://en.wikipedia.org/wiki/Blackboard_system)
   2. [Event driven](https://en.wikipedia.org/wiki/Event-driven_architecture)
+  3. [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
 1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
   2. Creational
      3. Factory method 
