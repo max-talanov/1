@@ -19,4 +19,4 @@ The interaction overview diagram is similar to the activity diagram, in that bot
 
 ![Use](interaction_use.png)
 
-![Example](interaction_example.png)
+![Example](interaction_example_1.png)
