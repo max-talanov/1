@@ -23,4 +23,4 @@ The interaction overview diagram is similar to the activity diagram, in that bot
 
 ## Collaboration example
 
-![Collaboration example](collabaration_example.png)
+![Collaboration example](collaboration_example.png)
