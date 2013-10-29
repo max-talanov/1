@@ -13,8 +13,8 @@ High-level design provides an overview of an entire system, identifying all its 
 1. [Class diagrm](https://en.wikipedia.org/wiki/Class_diagram). See [High level design](high level design.md).
 1. [Package diagram](package diagram.md)
 [Package diagram wiki](https://en.wikipedia.org/wiki/Package_diagram). 
-1. The latest UML 2.4 specification doesn't provide any definition of the object diagram. 
-[Object diagram Wiki](https://en.wikipedia.org/wiki/Object_diagram)
+1. [Object diagram Wiki](https://en.wikipedia.org/wiki/Object_diagram).
+The latest UML 2.4 specification doesn't provide any definition of the object diagram. 
 1. [Deployment diagram](deployment.md),
 [Deployment diagram example](https://en.wikipedia.org/wiki/Deployment_diagram)
 1. [Composit structure](composit.md),
