@@ -6,7 +6,7 @@
 
 ## Constructs
 
-### LifeLine
+### Lifeline
 
 ## Connectors
 
