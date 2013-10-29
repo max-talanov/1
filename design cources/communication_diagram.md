@@ -10,6 +10,6 @@
 
 ## Connectors
 
-### Association
+### Message
 
 ![Communication example](communication_example.png)
