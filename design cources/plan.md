@@ -37,14 +37,14 @@
   4. [Pipeline](https://en.wikipedia.org/wiki/Pipe_and_filter_architecture)
 1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
   2. Creational
-     3. Factory method 
-     3. Lazy initialization
+     3. [Factory method](https://en.wikipedia.org/wiki/Factory_method) 
+     3. [Lazy initialization](https://en.wikipedia.org/wiki/Lazy_initialization)
   2. Structural
-     3. Adapter
-     3. Module
+     3. [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
+     3. [Flyweight](https://en.wikipedia.org/wiki/Flyweight_pattern)
   2. Behavioral
-     3. Pub/Sub
-     3. Interpreter
-     3. Null object
-     3. Strategy
-     3. Visitor
+     3. [Pub/Sub]](https://en.wikipedia.org/wiki/Publish/subscribe)
+     3. [Interpreter](https://en.wikipedia.org/wiki/Interpreter_pattern)
+     3. [Null object](https://en.wikipedia.org/wiki/Null_Object_pattern)
+     3. [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern)
+     3. [Visitor](https://en.wikipedia.org/wiki/Visitor_pattern)
