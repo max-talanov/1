@@ -43,7 +43,7 @@
      3. [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
      3. [Flyweight](https://en.wikipedia.org/wiki/Flyweight_pattern)
   2. Behavioral
-     3. [Pub/Sub]](https://en.wikipedia.org/wiki/Publish/subscribe)
+     3. [Pub/Sub](https://en.wikipedia.org/wiki/Publish/subscribe)
      3. [Interpreter](https://en.wikipedia.org/wiki/Interpreter_pattern)
      3. [Null object](https://en.wikipedia.org/wiki/Null_Object_pattern)
      3. [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern)
