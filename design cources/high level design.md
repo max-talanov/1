@@ -37,7 +37,8 @@ The idea is to mention every work area briefly, clearly delegating the ownership
 1. [Component diagram](Component_diagram.md),
 [Component diagram example](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#component-diagram),
 [Wiki article](https://en.wikipedia.org/wiki/Component_diagram)
-1. [Collaboration diagram](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#collaboration)
+1. [Communication diagram](communication_diagram.md), 
+[Collaboration diagram](https://github.com/development-team/2/blob/master/doc/design-specification/design-specification.md#collaboration)
 1. [Class diagram](class_diagram.md),
 [Concept class diagram example](https://github.com/development-team/2/blob/master/doc/design-specification/knowledge.md)
 1. [Activity diagram](activity_diagram.md),
