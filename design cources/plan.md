@@ -22,12 +22,16 @@
   2. Structure
      3. [Component](Component_diagram.md)
      3. [Class](class_diagram.md)
-     3. [Interaction](interaction.md)
+     3. [Deployment](deployment.md)
+     3. [Package](package_diagram.md)
+     3. [Composit structure](composit.md)
   2. Behavior
      3. [Use case](use_case.md)
      3. [Activity](activity_diagram.md)
-     4. [State machine](state_machine_diagram.md)
+     3. [State machine](state_machine_diagram.md)
      3. [Sequence](sequence_diagram.md)
+     3. [Interaction](interaction.md)
+     3. [Communication](communication_diagram.md)
 1. [Enterprise design patterns](edp.md)
   2. [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   2. [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture)
