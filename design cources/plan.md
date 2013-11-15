@@ -40,7 +40,7 @@
   2. [Event driven](https://en.wikipedia.org/wiki/Event-driven_architecture)
   3. [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
   4. [Pipeline](https://en.wikipedia.org/wiki/Pipe_and_filter_architecture)
-1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern), [Lecture 1](design_patterns_1.md), [Lecture2](design_patterns_2.md)
   2. Creational
      3. [Factory method](https://en.wikipedia.org/wiki/Factory_method) 
      3. [Lazy initialization](https://en.wikipedia.org/wiki/Lazy_initialization)
