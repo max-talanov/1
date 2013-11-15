@@ -40,13 +40,15 @@
   2. [Event driven](https://en.wikipedia.org/wiki/Event-driven_architecture)
   3. [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
   4. [Pipeline](https://en.wikipedia.org/wiki/Pipe_and_filter_architecture)
-1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern), [Lecture 1](design_patterns_1.md), [Lecture2](design_patterns_2.md)
+1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern), [Lecture 1](design_patterns_1.md), [Lecture 2](design_patterns_2.md)
   2. Creational
      3. [Factory method](https://en.wikipedia.org/wiki/Factory_method) 
      3. [Lazy initialization](https://en.wikipedia.org/wiki/Lazy_initialization)
+     3. [Multiton](https://en.wikipedia.org/wiki/Multiton_pattern)
   2. Structural
      3. [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
      3. [Flyweight](https://en.wikipedia.org/wiki/Flyweight_pattern)
+     3. [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern)
   2. Behavioral
      3. [Publisher/Subscriber](https://en.wikipedia.org/wiki/Publish/subscribe)
      3. [Interpreter](https://en.wikipedia.org/wiki/Interpreter_pattern)

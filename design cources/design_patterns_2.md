@@ -1,9 +1,9 @@
 # Design patterns 2
 
 2. Creational
-     
+     3. [Multiton](https://en.wikipedia.org/wiki/Multiton_pattern)
 2. Structural
-     
+     3. [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern)
 2. Behavioral
      3. [Publisher/Subscriber](https://en.wikipedia.org/wiki/Publish/subscribe)
      3. [Null object](https://en.wikipedia.org/wiki/Null_Object_pattern)
