@@ -40,15 +40,18 @@
   2. [Event driven](https://en.wikipedia.org/wiki/Event-driven_architecture)
   3. [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
   4. [Pipeline](https://en.wikipedia.org/wiki/Pipe_and_filter_architecture)
-1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern), [Lecture 1](design_patterns_1.md), [Lecture 2](design_patterns_2.md)
+1. [Design patterns](https://en.wikipedia.org/wiki/Software_design_pattern), [Lecture 1](design_patterns_1.md), [Lecture 2](design_patterns_2.md), [Lecture 3](design_patterns_3.md)
   2. Creational
      3. [Factory method](https://en.wikipedia.org/wiki/Factory_method) 
      3. [Lazy initialization](https://en.wikipedia.org/wiki/Lazy_initialization)
      3. [Multiton](https://en.wikipedia.org/wiki/Multiton_pattern)
+     3. [Prototype](https://en.wikipedia.org/wiki/Prototype_pattern)
+     3. [Object pool](https://en.wikipedia.org/wiki/Object_pool_pattern)
   2. Structural
      3. [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
      3. [Flyweight](https://en.wikipedia.org/wiki/Flyweight_pattern)
      3. [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern)
+     3  [Facade](https://en.wikipedia.org/wiki/Facade_pattern)
   2. Behavioral
      3. [Publisher/Subscriber](https://en.wikipedia.org/wiki/Publish/subscribe)
      3. [Interpreter](https://en.wikipedia.org/wiki/Interpreter_pattern)
@@ -56,3 +59,4 @@
      3. [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern)
      3. [Visitor](https://en.wikipedia.org/wiki/Visitor_pattern)
      3. [Memento](https://en.wikipedia.org/wiki/Memento_pattern)
+     3. [Chain-of-responsibility pattern](https://en.wikipedia.org/wiki/Chain_of_responsibility_pattern)
