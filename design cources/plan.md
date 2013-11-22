@@ -60,3 +60,9 @@
      3. [Visitor](https://en.wikipedia.org/wiki/Visitor_pattern)
      3. [Memento](https://en.wikipedia.org/wiki/Memento_pattern)
      3. [Chain-of-responsibility pattern](https://en.wikipedia.org/wiki/Chain_of_responsibility_pattern)
+1. [Principles of design](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) )
+  2. [Single responsibility](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+  2. [Open/closed](https://en.wikipedia.org/wiki/Open/closed_principle)
+  2. [Liskov substitution](https://en.wikipedia.org/wiki/Liskov_substitution_principle)?
+  2. [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+  2. [Dependency inversion](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
