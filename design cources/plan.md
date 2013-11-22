@@ -51,7 +51,7 @@
      3. [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
      3. [Flyweight](https://en.wikipedia.org/wiki/Flyweight_pattern)
      3. [Decorator](https://en.wikipedia.org/wiki/Decorator_pattern)
-     3  [Facade](https://en.wikipedia.org/wiki/Facade_pattern)
+     3.  [Facade](https://en.wikipedia.org/wiki/Facade_pattern)
   2. Behavioral
      3. [Publisher/Subscriber](https://en.wikipedia.org/wiki/Publish/subscribe)
      3. [Interpreter](https://en.wikipedia.org/wiki/Interpreter_pattern)
