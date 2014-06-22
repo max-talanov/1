@@ -13,4 +13,7 @@ First of all, let's think of AI challenges:
 Biggest NN built so far - 2013 RIKEN created NEST NN, according to the is report there were 1.7 billon of neurons with ... trillion of synapses. Is it big enough? 
 
 Human brain(typical) contains 86 billion of neurons.
+Cat brain contains 1.5 billon neurons.
+
+Consider energy consumption!
 
