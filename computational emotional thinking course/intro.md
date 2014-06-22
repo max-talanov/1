@@ -1,6 +1,6 @@
 #Intro
 
-##AI is the challenge.
+##AI is the challenge
 First of all, let's think of AI challenges:
 
 1. Biggest - we simply do not know what is natural intelligence.
@@ -15,5 +15,11 @@ Biggest NN built so far - 2013 RIKEN created NEST NN, according to the is report
 Human brain(typical) contains 86 billion of neurons.
 Cat brain contains 1.5 billon neurons.
 
-Consider energy consumption!
+Consider energy consumption! Do you think anyone is interested in robot with powerstation?
+
+##Good news
+IBM in the SyNAPSE project, developed a chip that emulated 256 neurons,based on new elements.
+This year scientists from Stanford university developed NeuroGrid: the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
+
+
 
