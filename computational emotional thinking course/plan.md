@@ -1,4 +1,5 @@
-#Computational emotions course plan
+
+#Affective programming (computational emotions) course plan
 
 1. Artificial and natural intelligence and orchestra of emotions in several practical examples.
 1. Emotional thinking from bird eye view.
@@ -13,6 +14,3 @@
 1. Artificial neural networks.
   2. History of NNs
   2. Spiking NNs: HTM, NEST
-  
-
-one more edit in the default editor
