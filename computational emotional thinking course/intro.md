@@ -14,12 +14,14 @@ First of all, let's think of AI challenges:
 Biggest NN built so far - 2013 RIKEN created NEST NN, according to the is report there were 1.7 billon of neurons with ... trillion of synapses. Is it big enough? 
 
 Human brain(typical) contains 86 billion of neurons.
-Cat brain contains 1.5 billon neurons.
+Cats brain contains 1.5 billon neurons.
+Monkeys (night monkey) cerebral cortex contains 1.7 billon of neurons.
 
-Consider energy consumption! Do you think anyone could be interested in robot with power station?
+Consider energy consumption! 
+Do you think anyone could be interested in robot with power station?
 
 ##Good news
-IBM in the SyNAPSE project, developed a chip that emulated 256 neurons,based on new elements.
+IBM in the SyNAPSE project, developed a chip that emulated 256 neurons, based on new elements - memristors.
 This year scientists from Stanford university developed NeuroGrid: the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
 
 ##Any challenges missed?
@@ -29,5 +31,6 @@ This year scientists from Stanford university developed NeuroGrid: the chip prot
 1. Sympathy??
 1. Soundness??
 1. Intuition?
+
 
 
