@@ -1,7 +1,7 @@
 
 #Affective programming (computational emotions) course plan
 
-1. [Intro](intro.md)
+1. [Intro.](intro.md)
 1. Artificial and natural intelligence and orchestra of emotions in several practical examples.
 1. Emotional thinking from bird eye view.
   2. Consciousness.
