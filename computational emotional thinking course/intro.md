@@ -1,4 +1,10 @@
 #Intro
 
-##This course is  the challenge.
-First of all I want to challenge you, I want you to think of the AI as  set of problems the still does not have any practical solutions.
+##AI is the challenge.
+First of all, let's think of AI challenges:
+
+1. Biggest - we simply do not know what is natural intelligence.
+1. Derivative: what is consciousness?
+1. Derivative: what is thinking?
+1. What is feeling (love)?
+1. What is emotion? Why do we need emotions? What is emotional thinking?
