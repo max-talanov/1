@@ -13,5 +13,4 @@
 1. Artificial neural networks.
   2. History of NNs
   2. Spiking NNs: HTM, NEST
-
-End
+one more edit in light edit 
