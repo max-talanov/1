@@ -9,8 +9,10 @@
 1. Neuro-scientific background:
   2. Neurons and chemical synapses
   2. Neurotransmission 
-  2. Role of neuromodulators and Lovheim “Cube of emotions”
+  2. Role of neuromodulators and Lovheim "Cube of emotions"
 1. Artificial neural networks.
   2. History of NNs
   2. Spiking NNs: HTM, NEST
-one more edit in light edit 
+  
+
+one more edit in the default editor
