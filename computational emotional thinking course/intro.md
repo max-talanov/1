@@ -28,8 +28,8 @@ This year scientists from Stanford university developed NeuroGrid: the chip prot
 
 1. Creativity?
 1. Imagination?
-1. Sympathy??
-1. Soundness??
+1. Empathy?
+1. Reasonableness?
 1. Intuition?
 
 
