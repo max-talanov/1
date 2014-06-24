@@ -59,6 +59,10 @@ Getting back to practical example: You have got the task on the timely basis: so
 
 This is bright example of how do we use emotions in time control to change our actions strategy in everyday life. 
 
+##6 levels model
+
+![Orchestra of emotions](figure1_orchestra_of_emotions.png)
+
 ##Key words
 
 1. Thinking
