@@ -14,12 +14,25 @@ Getting back to practical example: You have got the task on the timely basis: so
 
 This is bright example of how do we use emotions in time control to change our actions strategy in everyday life. 
 
-##6 levels model
+##The emotion machine (Model 6)
+
+First starting point is the philosophy, we use Marvin Minsky book ["The emotion machine"](http://en.wikipedia.org/wiki/The_Emotion_Machine).
+
+Some ideas that I have reused here:
+
+1. 6 mental activities levels model
+1. Critic, Selector, Way to think triplet.
+1. Consciousness and mind does not have "silver bullet" solution, there are several mechanisms that are always used and involved in the operation of the brain (intelligence).
+
+### Model 6
+
+![model 6](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
+
+...
 
 ![Orchestra of emotions](figure1_orchestra_of_emotions.png)
 
 
-##The emotion machine
 
 ##Psychological view
 ###Classification of emotions
@@ -28,3 +41,8 @@ This is bright example of how do we use emotions in time control to change our a
 ##Neuroscientific view 
 
 Only main ideas, discussed in details in later lectures
+
+##References
+
+1. [Marvin Minsky lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
+1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
