@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="figure2_orchestra_of_emotions.svg"
-   inkscape:export-filename="F:\Projects\2\2\doc\articles\KESW 2014\figure2_orchestra_of_emotions.png"
+   sodipodi:docname="figure1_orchestra_of_emotions.svg"
+   inkscape:export-filename="/home/max/Projects/1/1/computational emotional thinking course/figure1_orchestra_of_emotions.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -146,10 +146,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0172583"
-     inkscape:cx="625.07938"
+     inkscape:cx="515.47103"
      inkscape:cy="488.81335"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -468,7 +468,7 @@
        transform="translate(-70,-168)"
        id="g4701">
       <rect
-         rx="0"
+         rx="15"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect4703"
          width="743.73486"
@@ -480,11 +480,11 @@
          sodipodi:linespacing="125%"
          id="text4705"
          y="275.23126"
-         x="525.14648"
+         x="640.95203"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="275.23126"
-           x="525.14648"
+           x="640.95203"
            sodipodi:role="line"
            style="font-size:20px;text-align:center;text-anchor:middle"
            id="tspan4707">time estimates</tspan></text>
@@ -528,7 +528,7 @@
          width="511.73056"
          id="rect3981"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         rx="0" />
+         rx="15" />
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -553,7 +553,7 @@
          width="521.63861"
          id="rect3989"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         rx="0" />
+         rx="15" />
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -571,7 +571,7 @@
        transform="translate(246,-2)"
        id="g3997">
       <rect
-         rx="0"
+         rx="15"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect3999"
          width="98.414978"
@@ -628,7 +628,7 @@
          width="98.414978"
          id="rect4021"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         rx="0" />
+         rx="15" />
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
