@@ -33,12 +33,14 @@ Marvin Minsky question:
 ![model 6](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
 
 
-1. 'Inborn, Instinctive Reactions: Joan hears a sound and turns her head. All animals are born equipped with ‘instincts’ that help them to survive.'
-1. 'Learned Reactions: She sees a quickly oncoming car. Joan had to learn that conditions like this demand specific ways to react.'
-1. 'Deliberative Thinking: To decide what to say at the meeting, she considers several alternatives, and tries to decide which would be best.'
-1. 'Reflective Thinking: Joan reflects upon what she has done. She reacts, not just to things in things in the world, but also to recent events in her brain.'
-1. 'Self-Reflective Thinking: Being “uneasy about arriving late” requires her to keep track of the plans that she’s made for herself.'
-1. 'Self Conscious Emotions: When asking what her friends think of her, she also asks how her actions concord with ideals she has set for herself.'
+1. `Inborn, Instinctive Reactions: Joan hears a sound and turns her head. All animals are born equipped with ‘instincts’ that help them to survive.`
+1. `Learned Reactions: She sees a quickly oncoming car. Joan had to learn that conditions like this demand specific ways to react.`
+1. `Deliberative Thinking: To decide what to say at the meeting, she considers several alternatives, and tries to decide which would be best.`
+1. `Reflective Thinking: Joan reflects upon what she has done. She reacts, not just to things in things in the world, but also to recent events in her brain.`
+1. `Self-Reflective Thinking: Being “uneasy about arriving late” requires her to keep track of the plans that she’s made for herself.`
+1. `Self Conscious Emotions: When asking what her friends think of her, she also asks how her actions concord with ideals she has set for herself.`
+
+Our practical examle in this model:
 
 ![Orchestra of emotions](figure1_orchestra_of_emotions.png)
 
