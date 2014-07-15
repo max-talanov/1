@@ -1,10 +1,13 @@
 #Emotional thinking from bird eye view
 
+##Definitions
+
+**Antonio R. Damasio**: "Emotion in the perspective of an integrated nervous system" emphasized the effect of emotions: "The ultimate results of emotion are of two kinds. First there are behaviors — the expressing of joy, or anger, or disgust — which affect interactions with other living creatures. Second, there are experiences of emotional states, that is feelings, which affect the ongoing thinking of the subject and by so doing can alter future thinking, future planning and future behavior."
+
 ##Orchestra of emotions
 
 Imagine the number of emotions we experience every day, every minute, starting from wake up in the morning till the late evening. Every action or significant change in environment is followed by emotional response. When we were kids and we could not control emotions expressions even wake up and washing the teeth was an emotional scene.
 
-Antonio R. Damasio in his work "Emotion in the perspective of an integrated nervous system" emphasized the effect of emotions: "The ultimate results of emotion are of two kinds. First there are behaviors — the expressing of joy, or anger, or disgust — which affect interactions with other living creatures. Second, there are experiences of emotional states, that is feelings, which affect the ongoing thinking of the subject and by so doing can alter future thinking, future planning and future behavior."
 
 ##Simple practical example
 
@@ -54,6 +57,12 @@ Starting form Darwin.
 ###Plutchik wheel of emotions
 
 ![Wheel of emotions 2D](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1200px-Plutchik-wheel.svg.png)
+
+Axes:
+
+1. Attention
+1. 
+
 ![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
 
 ###Tomkins theory of affects
