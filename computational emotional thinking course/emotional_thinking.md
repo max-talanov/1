@@ -17,34 +17,44 @@ Sometimes a person gets into a state where everything seems to be cheerful and b
 
 ####Definitions of "affect"
 
-1. "The conscious subjective aspect of feeling or emotion"
-1. "The observable emotional condition of an individual at any given time"
-1. "Generalized feeling tone (usually considered more persistent than emotion, less so than mood). It is the external, observable manifestation of emotion (e.g., flat, blunted, constricted, expansive, labile, etc.)"
-1. "Emotion, feeling or mood"
+1. The conscious subjective aspect of feeling or emotion
+1. The observable emotional condition of an individual at any given time
+1. Generalized feeling tone (usually considered more persistent than emotion, less so than mood). It is the external, observable manifestation of emotion (e.g., flat, blunted, constricted, expansive, labile, etc.)
+1. Emotion, feeling or mood
 
 ####Definitions of "emotion"
 
-1. "Any strong feeling"
-1. "Feelings such as happiness, sadness, anger, elation, irritation, etc. The specific definition of emotion is difficult to qualify as it is a completely subjective experience"
-1."A psychological feeling, usually accompanied by a physiological reaction"
-1. "The feeling one experiences in reaction to a person or situation"
+1. Any strong feeling
+1. Feelings such as happiness, sadness, anger, elation, irritation, etc. The specific definition of emotion is difficult to qualify as it is a completely subjective experience
+1. A psychological feeling, usually accompanied by a physiological reaction
+1. The feeling one experiences in reaction to a person or situation
 
 ###Aaron Sloman
 
 ####The trouble with definitions
 
-"Part of the problem is that many of the words we use for describing human mental states and processes (including 'emotion', 'learning', 'intelligence', 'consciousness') are far too ill-defined to be useful in scientific theories. Not even professional scientists are close to using agreed definitions of, 'emotion'."
+Part of the problem is that many of the words we use for describing human mental states and processes (including 'emotion', 'learning', 'intelligence', 'consciousness') are far too ill-defined to be useful in scientific theories. Not even professional scientists are close to using agreed definitions of, '**emotion**'.
 
 1. The concept of emotion is but one of a large family of intricately related everyday concepts, including many affective concepts (e.g. moods, attitudes, desires, dislikes, preferences, values, standards, ideals, intentions, etc.), the more enduring of which can be thought of as making up the notion of a "personality".
-1. Models that purport to account for ‘emotion’ without accounting for others in the family are bound to be shallow.
+1. Models that purport to account for "**emotion**" without accounting for others in the family are bound to be shallow.
 
 Specifying what we are talking about generates difficult conceptual problems. Whichever of the three motivations listed above drives the modelling of emotions and other mental phenomena, the work understandably starts from concepts of ordinary language (e.g. "emotion", "mood", "feeling", "pleasure", etc.). These concepts can be deceptive to those not trained in philosophical analysis. The concepts are so familiar that they appear to have very clear, commonly understood, meanings, whereas detailed analysis shows that the opposite is true: the familiar labels often refer to concepts that are riddled with confusion and ambiguity, and when people attempt to define them they come up with widely different definitions. For instance in the psychological literature there are a multitude of definitions of “emotion”, some stressing brain processes, some stressing peripheral physiological processes, some stressing patterns of behaviour, some stressing eliciting conditions, some stressing the functional roles, some stressing introspective qualities. This diversity was already evident long ago in the collection edited by Magda Arnold (1968).
 
-**Lowe and Zemkie**
+####Lowe and Ziemke
 
+Affective computation 1 concerns multifaceted emotional or emotion-relevant cognitive phenomena including attention, perception, memory, learning and decision making with the premise that it is in fact indispensable to rational cognitive behavior.
 
+...
 
-**Marsella and Gratch**
+Affect is used either synonymously with, or in contradistinction to, emotion. For some (cf. [11]), affect is considered an umbrella term for valenced neurophysiological phenomena (e.g. drives, motivations, emotions, feelings, moods). In this sense, emotion is a type of affective state. However, it has also been considered as distinct from emotion, founded upon enduring valenced states (e.g. moods) whereas emotions are viewed in terms of fast object-directed responses ([12]). In this sense, emotion is a related but distinct phenomenon to affect.
+
+...
+
+We will here follow Pessoa [59] in acknowledging that emotion (much like cognition, in fact) is difficult to define clearly, and that trying to provide yet another explicit definition might not be helpful.
+
+####Marsella and Gratch
+
+Further, emotions are an important cue to a person’s mental state and are frequently attributed to humans in the absence of any visible signal (e.g., he is angry but suppressing it) so failure to model and express emotions in virtual humans leads users to misinterpret the virtual human behavior. Virtual humans that model and express emotions also provide more engaging experiences for the immersed human users.
 
 ###Antonio R. Damasio**
 
@@ -54,8 +64,7 @@ Emotion in the perspective of an integrated nervous system" emphasized the effec
 
 Imagine the number of emotions we experience every day, every minute, starting from wake up in the morning till the late evening. Every action or significant change in environment is followed by emotional response. When we were kids and we could not control emotions expressions even wake up and washing the teeth was an emotional scene.
 
-
-##Simple practical example
+### Example
 
 You have got the task on the timely basis: solve some problem in 15 minutes.
 
@@ -63,23 +72,16 @@ You have got the task on the timely basis: solve some problem in 15 minutes.
 1. When you realize that there is not that much time left, for example 5 minutes, you start feeling some anxiety and concentrate on the task.
 1. Then you realize there is no time left, you start panic (for example :-)), and cry for help.
 
-This is bright example of how do we use emotions in time control to change our actions strategy in everyday life. 
+This is example of how do we use emotions in time control to change our actions strategy in everyday life.
 
 ##The emotion machine (Model 6)
 
 First starting point is the philosophy, we use Marvin Minsky book ["The emotion machine"](http://en.wikipedia.org/wiki/The_Emotion_Machine).
 
-Some ideas that I have reused here:
-
-1. 6 mental activities levels model
-1. Critic, Selector, Way to think triplet.
-1. Consciousness and mind does not have "silver bullet" solution, there are several mechanisms that are always used and involved in the operation of the brain (intelligence).
-
-Marvin Minsky question:
+###Marvin Minsky's question:
 
 "What could make our brain grow?" In other words our ancestors monkeys that lived in some form till some moment 5 million years ago, what could trigger their brain to increase the frontal lobe? 
 
-### Model 6
 
 ![model 6](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
 
@@ -132,11 +134,13 @@ Axes:
 
 ###Appraisal theory
 
-...
+Add brief overview of appraisal here ...
 
 ##Neuroscientific view 
 
-Discussed in details in later lectures.
+
+Add dopamine and serotonin pathways here...
+
 
 ##References
 
