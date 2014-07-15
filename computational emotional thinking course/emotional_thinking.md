@@ -6,7 +6,10 @@
 
 **Marvin Minsky**
 
+Sometimes a person gets into a state where everything seems to be cheerful and bright—although nothing outside has actually changed. Other times everything pleases you less: the entire world seems dreary and dark, and your friends complain that you seem depressed. Why do we have such states of mind—or moods, or feelings, or dispositions—and what causes all their strange effects? Here are some of the phrases we find when dictionaries define emotion.
 
+The subjective experience of a strong feeling. A state of mental agitation or disturbance. A mental reaction involving the state of one’s body.
+A subjective rather than conscious affection. The parts of consciousness that involve feeling. A nonrational aspect of reasoning.
 
 
 **Aaron Sloman**
