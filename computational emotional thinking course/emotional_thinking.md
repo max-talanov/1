@@ -108,8 +108,10 @@ Starting form Darwin.
 
 Axes:
 
-1. Attention
-1. 
+1. Pleasantness (joy - sadness)
+1. Attention (interest - surprise)
+1. Sensitivity (anger - fear)
+1. Aptitude (trust - disgust)
 
 ###Tomkins theory of affects
 
