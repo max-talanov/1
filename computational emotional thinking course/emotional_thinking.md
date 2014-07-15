@@ -104,14 +104,12 @@ Starting form Darwin.
 
 ###Plutchik wheel of emotions
 
-![Wheel of emotions 2D](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1200px-Plutchik-wheel.svg.png)
+![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
 
 Axes:
 
 1. Attention
 1. 
-
-![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
 
 ###Tomkins theory of affects
 
