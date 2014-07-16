@@ -56,7 +56,7 @@ We will here follow Pessoa [59] in acknowledging that emotion (much like cogniti
 
 Further, emotions are an important cue to a person’s mental state and are frequently attributed to humans in the absence of any visible signal (e.g., he is angry but suppressing it) so failure to model and express emotions in virtual humans leads users to misinterpret the virtual human behavior. Virtual humans that model and express emotions also provide more engaging experiences for the immersed human users.
 
-###Antonio R. Damasio**
+###Antonio R. Damasio
 
 Emotion in the perspective of an integrated nervous system" emphasized the effect of emotions: "The ultimate results of emotion are of two kinds. First there are behaviors — the expressing of joy, or anger, or disgust — which affect interactions with other living creatures. Second, there are experiences of emotional states, that is feelings, which affect the ongoing thinking of the subject and by so doing can alter future thinking, future planning and future behavior.
 
@@ -138,13 +138,13 @@ Add brief overview of appraisal here ...
 
 ##Neuroscientific view 
 
-
-Add dopamine and serotonin pathways here...
-
+![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
 ##References
 
-1. [Marvin Minsky lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
-1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
 1. [Plutchik wheel of emotion Wikipedia page](http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions)
 1. [Tomkins Theory of affects Wikipedia page](http://en.wikipedia.org/wiki/Affect_theory)
+
+
+1. [Marvin Minsky lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
+1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
