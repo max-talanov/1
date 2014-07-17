@@ -146,7 +146,9 @@ Let **A** be an agent in a sensorily-accessible world **S**. For **A** to be con
 
 ##Neurophysiological view
 
+![Claustrum](http://upload.wikimedia.org/wikipedia/commons/5/50/Gray_718-emphasizing-claustrum.png)
 
+When the team zapped the area with high frequency electrical impulses, the woman lost consciousness. She stopped reading and stared blankly into space, she didn't respond to auditory or visual commands and her breathing slowed. As soon as the stimulation stopped, she immediately regained consciousness with no memory of the event. The same thing happened every time the area was stimulated during two days of experiments 
 
 ##References 
 
@@ -154,3 +156,4 @@ Let **A** be an agent in a sensorily-accessible world **S**. For **A** to be con
 1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
 1. [Marvin Minsky: The emotion machine: Consciousness](http://web.media.mit.edu/~minsky/E4/eb4.html)
 1. [Igor Aleksander and Barry Dunmall: Axioms and Tests for the Presence of Minimal Consciousness in Agents](https://www.researchgate.net/publication/233613244_Axioms_and_Tests_for_the_Presence_of_Minimal_Consciousness_in_Agents_I_Preamble)
+1. [Claustrum Wikipedia page](http://en.wikipedia.org/wiki/Claustrum)
