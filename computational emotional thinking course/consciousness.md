@@ -87,6 +87,8 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 
 ###How do we start thinking consciously
 
+High level activities often include following:
+
 1. They use the models we make of ourselves.
 1. They tend to be more serial and less parallel.
 1. They tend to use symbolic descriptions.
@@ -114,22 +116,33 @@ We usually think of consciousness as being about what’s happening now—that i
 
 #### How Do We Recognize Consciousness?
 
-
 ![Trouble detector](http://web.media.mit.edu/~minsky/E4/eb4_files/image005.gif)![Conscious detector](http://web.media.mit.edu/~minsky/E4/eb4_files/image004.gif)
-
 
 **The Immanence Illusion**: For most of the questions you would otherwise ask, some answers will have already arrived before the higher levels of your mind have had enough time to ask for them.
 
-### The Serial Stream of Consciousness
-
-The world of subjective experience usually seems continuous, and we feel that we’re in the here and now, moving steadily into the future. Yet as we noted in Section 4-3, we can know about things that we’ve recently done, but cannot know what we are doing right now.
-
-Daniel Dennett and Marcel Kinsbourne 1992: "[Remembered events] are distributed in both space and time in the brain. These events do have temporal properties, but those properties do not determine subjective order, because there is no single, definitive ‘stream of consciousness,’ only a parallel stream of conflicting and continuously revised contents. The temporal order of subjective events is a product of the brain’s interpretational processes, not a direct reflection of events making up those processes."
-
-In fact, although people talk about being conscious of what is happening now, that’s the one thing you cannot be conscious of—because, as we have mentioned before, each brain resource can know, at most, only what a few others were doing some moments ago.
-
 ##Igor Alexander
 
+Let **A** be an agent in a sensorily-accessible world **S**. For **A** to be conscious of **S** it is necessary that:
+
+###Axiom 1 (Depiction)
+
+**A** has perceptual states that depict parts of **S**.
+
+###Axiom 2 (Imagination)
+
+**A** has internal imaginational states that *recall* parts of **S** or fabricate **S-like** sensations.
+
+###Axiom 3 (Attention):
+
+**A** is capable of selecting which parts of **S** to depict or what to imagine.
+
+###Axiom 4 (Planning):
+
+**A** has means of control over imaginational state *sequences* to plan actions.
+
+###Axiom 5 (Emotion):
+
+**A** has additional **affective states** that evaluate planned actions and determine the ensuing action .
 
 ##Neurophysiological view
 
@@ -140,3 +153,4 @@ In fact, although people talk about being conscious of what is happening now, th
 1. [Marvin Minsky lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
 1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
 1. [Marvin Minsky: The emotion machine: Consciousness](http://web.media.mit.edu/~minsky/E4/eb4.html)
+1. [Igor Aleksander and Barry Dunmall: Axioms and Tests for the Presence of Minimal Consciousness in Agents](https://www.researchgate.net/publication/233613244_Axioms_and_Tests_for_the_Presence_of_Minimal_Consciousness_in_Agents_I_Preamble)
