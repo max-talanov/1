@@ -84,25 +84,15 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 
 **The Organism Principle**: When a system evolves to become more complex, this always involves a compromise: if its parts become too separate, then the system’s abilities will be limited—but if there are too many interconnections, then each change in one part will disrupt many others.
 
-####Why Can’t We See How Our Own Minds Work?
-
-Aaron Sloman 1992: "I, for one, do not think defining consciousness is important at all, and I believe that it diverts attention from important and difficult problems. The whole idea is based on a fundamental misconception that just because there is a noun ‘consciousness’ there is some ‘thing’ like magnetism or electricity or pressure or temperature, and that it’s worth looking for correlates of that thing. Or on the misconception that it is worth trying to prove that certain mechanisms can or cannot produce ‘it,’ or trying to find out how ‘it’ evolved, or trying to find out which animals have ‘it,’ or trying to decide at which moment ‘it’ starts when a fetus develops, or at which moment ‘it’ stops when brain death occurs, etc. There will not be one thing to be correlated but a very large collection of very different things."
-
-In other words, we must try to design—as opposed to define—machines that can do what human minds do.
-
-In this paradoxical view, consciousness still seems marvelous—not because it tells us so much, but because it protects us from so much tedious stuff!
-
-Aaron Sloman 1992: "The phrase ‘human consciousness’ typically corresponds to such a large cluster of features and capabilities (many of which we don’t yet understand or know about) that its set of possible subsets is astronomical. There’s no point in expecting agreement on which subset is required for an animal or machine to be conscious, or asking when a human fetus first becomes conscious, or when a brain-damaged person is conscious, etc. A concept that is designed to work in various standard cases will just break down in non-standard cases, like ‘the time on the moon.’…And all those attempts to draw mythical lines will come to no more than a big waste of time—as opposed to researching the implications of all those different clusters of functions and coming up with a new and richer vocabulary."
-
-However, there still are many scientists who seek to discover the "secret" of consciousness. They look for it in the waves of our brains, or in peculiar behaviors of certain cells, or in the mathematics of quantum mechanics. Why would those theorists hope to find one single concept, process, or thing to explain all those different aspects of minds? Perhaps that’s because they would prefer to have only one very large problem to solve—as opposed to dozens or hundreds of smaller ones.
-
-Aaron Sloman 1994: "People are too impatient. They want a three-line definition of consciousness and a five-line proof that a computational system can or cannot have consciousness. And they want it today. They don’t want to do the hard work of unraveling complex and muddled concepts that we already have, and exploring new variants that could emerge from precisely specified architectures for behaving systems."
 
 ### How Do We Initiate Consciousness?
 
-(1) They use the models we make of ourselves. (2) They tend to be more serial and less parallel. (3) They tend to use symbolic descriptions. (4) They make use of our most recent memories.
+1. They use the models we make of ourselves.
+1. They tend to be more serial and less parallel.
+1. They tend to use symbolic descriptions.
+1. They make use of our most recent memories.
 
-... Add picture A "TROUBLE-DETECTING CRITIC"
+![Trouble detector critic](http://web.media.mit.edu/~minsky/E4/eb4_files/image005.gif)
 
 ####Self-Models
 
@@ -116,7 +106,7 @@ The processes involved with walking, seeing, and talking take place in different
 
 #### Symbolic Descriptions
 
-...Add symbolic descriptions pic here.
+![Semantic network](http://web.media.mit.edu/~minsky/E4/eb4_files/image003.gif)
 
 ####Recent Memories: 
 
