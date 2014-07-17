@@ -156,4 +156,5 @@ When the team zapped the area with high frequency electrical impulses, the woman
 1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
 1. [Marvin Minsky: The emotion machine: Consciousness](http://web.media.mit.edu/~minsky/E4/eb4.html)
 1. [Igor Aleksander and Barry Dunmall: Axioms and Tests for the Presence of Minimal Consciousness in Agents](https://www.researchgate.net/publication/233613244_Axioms_and_Tests_for_the_Presence_of_Minimal_Consciousness_in_Agents_I_Preamble)
+1. [NewScientist: Consciousness on-off switch discovered deep in brain](http://www.newscientist.com/article/mg22329762.700-consciousness-onoff-switch-discovered-deep-in-brain.html?page=1#.U8f0rR9d7Qo)
 1. [Claustrum Wikipedia page](http://en.wikipedia.org/wiki/Claustrum)
