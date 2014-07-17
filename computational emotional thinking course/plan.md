@@ -5,7 +5,7 @@
 1. [Artificial and natural intelligence in one practical example](one_example.md)
 1. [Emotional thinking from bird eye view.](emotional_thinking.md)
   2. [Consciousness.](consciousness.md)
-  2. Levels of mental activities.
+  2. [Levels of mental activities.](levels_of_mental_activities.md)
   2. Thinking.
 1. How it works from psychological perspective: psychological models of emotion.
 1. Neuro-scientific background:
