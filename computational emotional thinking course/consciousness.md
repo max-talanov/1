@@ -31,14 +31,14 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 * **Specification**: She classified it as the sound of a car.
 * **Attention**: She noticed certain things rather than others.
 * **Indecision**: She wondered whether to cross or retreat.
-
-**Even more:**
-
 * **Imagining**: She envisioned two possible future conditions.
 * **Selection**: She selected a way to choose among options.
 * **Decision**: She chose one of several alternative actions.
 * **Planning**: She constructed a multistep action plan.
-* **Reconsideration**: Later she reconsidered this choice. She also did other things like these.
+* **Reconsideration**: Later she reconsidered this choice.
+
+**From other perspective:**
+
 * **Learning**: She created descriptions and stored them away.
 * **Recollecting**: She retrieved descriptions of prior events.
 * **Embodiment**: She tried to describe her body’s condition.
@@ -61,26 +61,26 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 
 ###A-Brains and B-Brains
 
-... Add picture of A-Brain and B-Brain here
+![A-Brains and B-Brains](http://web.media.mit.edu/~minsky/E4/eb4_files/image008.gif)
 
-A-Brain gets some signals from the external world (via such organs as eyes, ears, nose, and skin)—and that it also can react to these by sending signals that make your muscles move. By itself, the A-Brain is a separate animal that only reacts to external events but has no sense of what they might mean.
+**A-Brain** gets some signals from the external world (via such organs as eyes, ears, nose, and skin)—and that it also can react to these by sending signals that make your muscles move. By itself, the A-Brain is a separate animal that only reacts to external events but has no sense of what they might mean.
 
-Similarly, your B-Brain is connected so that it can react to signals that it receives from A, and then can react by sending signals to A. However, B has no direct connection to the outer world, so, like the prisoners in Plato’s cave, who see only shadows on a wall, the B-Brain mistakes A’s descriptions for real things. The B-Brain does not realize that what it perceives are not objects in the external world but are merely events in the A-Brain itself.
+**B-Brain** is connected so that it can react to signals that it receives from A, and then can react by sending signals to A. However, B has no direct connection to the outer world, so, like the prisoners in Plato’s cave, who see only shadows on a wall, the B-Brain mistakes A’s descriptions for real things. The B-Brain does not realize that what it perceives are not objects in the external world but are merely events in the A-Brain itself.
 
-for the B-Brain to learn new techniques, it might itself need similar help, which could come from a level above it. Then while the B-Brain deals with its A-Brain world, that "C-Brain" in turn will supervise B.
 
-... Add A, B, C brain picture here.
+![A-Brains, B-Brains, C-Brains](http://web.media.mit.edu/~minsky/E4/eb4_files/image009.gif)
 
-##### Levels, Layers, and Organisms
 
-... Add model of 6 picture here
+###Model of six
 
-* What caused Joan to turn toward that sound? [Instinctive] 
-* How did she know that it was the sound of a car? [Learned]
-* What resources were used to make her decision? [Deliberative] 
-* How did she choose which resources to use? [Reflective] 
-* Did she feel that she made a good decision? [Self-Reflective] 
-* Did her actions live up to her principles? [Self-Conscious]
+![Model of six](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
+
+* What caused Joan to turn toward that sound? [**Instinctive**] 
+* How did she know that it was the sound of a car? [**Learned**]
+* What resources were used to make her decision? [**Deliberative**] 
+* How did she choose which resources to use? [**Reflective**] 
+* Did she feel that she made a good decision? [**Self-Reflective**] 
+* Did her actions live up to her principles? [**Self-Conscious**]
 
 **The Organism Principle**: When a system evolves to become more complex, this always involves a compromise: if its parts become too separate, then the system’s abilities will be limited—but if there are too many interconnections, then each change in one part will disrupt many others.
 
@@ -145,9 +145,12 @@ In fact, although people talk about being conscious of what is happening now, th
 ##Igor Alexander
 
 
-###Nerophysiological view 
+##Neurophysiological view
+
+
 
 ##References 
 
 1. [Marvin Minsky lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
 1. [Marvin Minsky lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
+1. [Marvin Minsky: The emotion machine: Consciousness](http://web.media.mit.edu/~minsky/E4/eb4.html)
