@@ -85,7 +85,7 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 **The Organism Principle**: When a system evolves to become more complex, this always involves a compromise: if its parts become too separate, then the system’s abilities will be limited—but if there are too many interconnections, then each change in one part will disrupt many others.
 
 
-### How Do We Initiate Consciousness?
+###How do we start thinking consciously
 
 1. They use the models we make of ourselves.
 1. They tend to be more serial and less parallel.
@@ -108,21 +108,17 @@ The processes involved with walking, seeing, and talking take place in different
 
 ![Semantic network](http://web.media.mit.edu/~minsky/E4/eb4_files/image003.gif)
 
-####Recent Memories: 
+####Recent Memories
 
 We usually think of consciousness as being about what’s happening now—that is, in the present, rather than in the past. However, it would always take some amount of time for any particular part of a brain or machine to find out what other parts have recently done. For example, suppose that someone asked, "Are you aware that you’re touching your ear?" You would not be able to reply until your language resources had time to react to signals from other parts of your brain that, in turn, have reacted to prior events.
 
 #### How Do We Recognize Consciousness?
 
-...Add picture 
+
+![Trouble detector](http://web.media.mit.edu/~minsky/E4/eb4_files/image005.gif)![Conscious detector](http://web.media.mit.edu/~minsky/E4/eb4_files/image004.gif)
+
 
 **The Immanence Illusion**: For most of the questions you would otherwise ask, some answers will have already arrived before the higher levels of your mind have had enough time to ask for them.
-
-### Self-Models and Self-Consciousness
-
-...Add self models picture 
-
-Self-model she next will use; for example, if Joan has a model of the Critic called "CD" in Section 4-5, then she might say she made a conscious choice—if she can recall reflecting about that decision. However, if Joan does not happen to use such a model, then she might call her decision "unconscious" or "unintentional." Or alternatively, she might just say that she used "free will"—which might simply mean, "I have no model that explains how I made the choice I made."
 
 ### The Serial Stream of Consciousness
 
