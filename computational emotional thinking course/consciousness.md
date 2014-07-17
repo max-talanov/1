@@ -83,9 +83,29 @@ The processes involved with walking, seeing, and talking take place in different
 
 ...Add symbolic descriptions pic here.
 
-Recent Memories: 
+####Recent Memories: 
 
 We usually think of consciousness as being about what’s happening now—that is, in the present, rather than in the past. However, it would always take some amount of time for any particular part of a brain or machine to find out what other parts have recently done. For example, suppose that someone asked, “Are you aware that you’re touching your ear?” You would not be able to reply until your language resources had time to react to signals from other parts of your brain that, in turn, have reacted to prior events.
+
+#### How Do We Recognize Consciousness?
+
+...Add picture 
+
+**The Immanence Illusion**: For most of the questions you would otherwise ask, some answers will have already arrived before the higher levels of your mind have had enough time to ask for them.
+
+### Self-Models and Self-Consciousness
+
+...Add self models picture 
+
+Self-model she next will use; for example, if Joan has a model of the Critic called “CD” in Section 4-5, then she might say she made a conscious choice—if she can recall reflecting about that decision. However, if Joan does not happen to use such a model, then she might call her decision “unconscious” or “unintentional.” Or alternatively, she might just say that she used “free will”—which might simply mean, “I have no model that explains how I made the choice I made.”
+
+### The Serial Stream of Consciousness
+
+The world of subjective experience usually seems continuous, and we feel that we’re in the here and now, moving steadily into the future. Yet as we noted in Section 4-3, we can know about things that we’ve recently done, but cannot know what we are doing right now.
+
+Daniel Dennett and Marcel Kinsbourne 1992: “[Remembered events] are distributed in both space and time in the brain. These events do have temporal properties, but those properties do not determine subjective order, because there is no single, definitive ‘stream of consciousness,’ only a parallel stream of conflicting and continuously revised contents. The temporal order of subjective events is a product of the brain’s interpretational processes, not a direct reflection of events making up those processes.”
+
+In fact, although people talk about being conscious of what is happening now, that’s the one thing you cannot be conscious of—because, as we have mentioned before, each brain resource can know, at most, only what a few others were doing some moments ago.
 
 ##Igor Alexander
 
