@@ -141,6 +141,9 @@ Axes:
 
 ![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
+###Emotional loop
+![Basal ganglia circuits](http://upload.wikimedia.org/wikipedia/commons/9/9e/Basal_ganglia_circuits.svg)
+
 ##References
 
 1. [Plutchik wheel of emotion Wikipedia page](http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions)
