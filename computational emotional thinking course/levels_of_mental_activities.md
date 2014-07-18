@@ -44,7 +44,6 @@ So using logic is somewhat like walking a plank; it assumes that each separate s
 
 ... we simply remember our earlier thoughts and then proceed to think about them. However, when we look more closely, we see that this requires a lot of machinery.
 
-![Reflective thinking](http://web.media.mit.edu/~minsky/E5/eb5_files/image022.png)
 
 ##Self-reflection
 
@@ -54,7 +53,7 @@ This could help you to recognize that you have lost track of what you were tryin
 
 Joan must have built some models of the kinds of ideas that she "ought" to have. Then when she finds conflicts between how she behaves and the values of those to whom she’s attached, this could lead to the kinds of cascades we called "self-conscious emotions".
 
-I agree that those boundaries are indistinct. Even one’s simplest deliberations may involve "self-reflective thoughts" about how to allocate one’s time and resources—as in, "If this doesn’t work, then I’ll have to try that," or "I have already spent too much time on it."
+... those boundaries are indistinct. Even one’s simplest deliberations may involve "self-reflective thoughts" about how to allocate one’s time and resources—as in, "If this doesn’t work, then I’ll have to try that," or "I have already spent too much time on it."
 
 ![self-conscious reflections](http://web.media.mit.edu/~minsky/E5/eb5_files/image024.png)
 
