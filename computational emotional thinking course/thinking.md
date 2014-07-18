@@ -38,7 +38,7 @@ Most of the time, your thinking proceeds in uneventful streams—but when you ru
 
 Damasio 1995: "One might say that the particular step of the task at which Elliot balked was actually being carried out too well, and at the expense of the overall purpose…. True, he was still physically capable and most of his mental capacities were intact. But his ability to reach decisions was impaired, as was his ability to make an effective plan for the hours ahead of him, let alone to plan for the months and years of his future."
 
-##Useful ways to think
+##Useful Ways to Think
 
 **Knowing How**. The best way to solve a problem is to already know a way to solve it. However, we may not be able to retrieve that knowledge—and often we don’t even know that we have it.
 
@@ -56,7 +56,7 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 **Elevating**. If you are bogged down in too many details, describe the situation in more general terms. But if your description seems too vague, switch to one that is more concrete.
 **Changing the subject**. Whatever you are working on now, if you get discouraged enough, you can always abandon it and simply switch to a different task.
 
-###Reflective ways to think
+###Reflective Ways to Think
 
 **Simplifying**. Often a good way to solve a difficult problem is first to solve a simpler version that ignores some features of that problem. Then any such solution may serve as a sequence of stepping-stones for solving the original problem.
 
@@ -82,8 +82,55 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 
 **Ask for help**. If your status is high enough, you can persuade or command someone else to help—or even offer to pay them.
 
+**Resignation**. Whenever you find yourself totally stuck, you can shut down the resources you’re using now and relax, lie back, drop out, and stop. Then the “rest of your mind” may find an alternative—or conclude that you don’t have to do this at all.
 
+##Useful Types of Critics
 
+**Innate Reactions and Built-in Alarms**. Many types of external events arouse detectors that make us quickly react—such as when an object rapidly moves toward you, or a light is too bright, or you touch something hot. We’re also born equipped with ways to detect certain conditions inside our skins—such as abnormal blood levels of chemicals—along with built-in connections that make us react to correct those conditions without any need to think about them.
+
+**Learned Reactive Critics**. A typical infant will simply cry when exposed to high levels of noise—but later a child may learn to react by moving to a quieter place. And eventually we learn to deal with obstacles by using “deliberative” thinking about them.
+ 
+**Deliberative Critics**. When our first attempt fails to solve a problem, we can often discover alternatives, by thinking about what might have gone wrong.
+
+**Reflective Critics**. When you try to solve problems by trial and error, you use your critics as "diagnosticians"—either to verify that you’re making progress or to suggest alternative ways to proceed.
+
+**Self-Reflective Critics**. When you can’t control the resources you need, or try to achieve too many goals at once, then you may start to criticize yourself:
+ 
+* I have been too indecisive. (Try a method that worked on a similar problem.)
+* I missed a good opportunity. (Switch to a different set of Critics.)
+* I yield to too many distractions. (Try to exercise more self-control.)
+* I don’t have all the knowledge I need. (Find a good book or go back to school.)
+* This works so well that I should make myself better at it.
+
+**Self-Conscious Critics**. Some assessments may even affect one’s current image of oneself, and this can affect one’s overall state:
+
+* None of my goals seem meaningful.(Depression.)
+* I’m losing track of what I am doing. (Confusion.)
+* I can achieve any goal I like! (Mania.)
+* I could lose my job if I fail at this. (Anxiety.)
+* My friends might disapprove of this. (Insecurity.)
+* This works so well that I should make it my specialty!
+
+##Poincaré’s Unconscious Processes
+
+* **Preparation**: activate resources to deal with this particular type of problem
+* **Incubation**: generate many potential solutions
+* **Revelation**: recognize a promising one
+* **Evaluation**: verify that it actually works
+
+##What if, or how we control the persistence of the processes
+
+**What if your set of active Critics does not change**? Then you would likely keep repeating the same approach because, after each attempt to change your Way to Think, those Critics would try to switch you back again—and you might get stuck with a "one-track mind."
+
+**What if some Critics stay on all the time**? Certain Critics must always be active to make us react to serious hazards—but if these are not selected carefully, it could lead to obsessive behaviors by making you focus too much of the time on only a few particular subjects.
+
+**What if all your Critics get turned off**? Then all your questions would seem to be answered because you are no longer able to ask them, and all your problems would seem to be gone because nothing would seem to have any flaws.
+ 
+**What if too many Critics are active at once**? Then you’d keep noticing flaws to correct and spending so much time repairing them that you would never get any important things done, and your friends may perceive you as depressed.
+
+**What if too many Critics are turned off**? If you can ignore most alarms and concerns, that would help you to “concentrate,” but it also might lead you to ignore many errors and flaws. However, the fewer Critics you activate, the fewer goals you will try to pursue, and that could make you become too mentally dull.
+
+**What if your Critics too often get switched**? Your thinking would become chaotic if too many goals were to freely compete without any larger-scale management.
 
 ##References
 
