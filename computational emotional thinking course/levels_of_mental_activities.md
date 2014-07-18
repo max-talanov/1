@@ -68,4 +68,4 @@ I agree that those boundaries are indistinct. Even one’s simplest deliberation
 
 ##References
 
-1. [Marvin Minsky: The emotion machine Draft: Levels of mental activities](http://web.media.mit.edu/~minsky/E5/eb5.html)
+1. [Marvin Minsky, The emotion machine Draft, Levels of mental activities](http://web.media.mit.edu/~minsky/E5/eb5.html)

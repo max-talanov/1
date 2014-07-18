@@ -146,11 +146,14 @@ Axes:
 
 ##References
 
-1. [Plutchik wheel of emotion Wikipedia page](http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions)
-1. [Tomkins Theory of affects Wikipedia page](http://en.wikipedia.org/wiki/Affect_theory)
-1. [Marvin Minsky: The emotion Machine draft:Falling in love](http://web.media.mit.edu/~minsky/E1/eb1.html)
-1. [Aaron Sloman: Varieties of Affect and the CogAff Architecture Schema](http://www.cs.bham.ac.uk/research/projects/cogaff/sloman-aisb01.pdf)
-1. [Gerd Ruebenstrunk: Affective Systems](http://www.cs.bham.ac.uk/research/projects/cogaff/links/ruebenstrunk-presentation4.pdf)
-1. Lowe and Ziemke: On the Role of Emotion in Embodied Cognitive Architectures:From Organisms to Robots
-1. [Marsella and Gratch: Evaluating a computational model of emotion](http://people.ict.usc.edu/~marsella/publications/GratchMarsellaJAAMAS05.pdf)
-1. [Lovheim cube of emotions Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
+1. [Plutchik, Wheel of emotion, Wikipedia page](http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions)
+1. [Tomkins, Theory of affects, Wikipedia page](http://en.wikipedia.org/wiki/Affect_theory)
+1. [Marvin Minsky, The emotion Machine Draft, Falling in love](http://web.media.mit.edu/~minsky/E1/eb1.html)
+1. [Aaron Sloman, Varieties of Affect and the CogAff Architecture Schema](http://www.cs.bham.ac.uk/research/projects/cogaff/sloman-aisb01.pdf)
+1. [Gerd Ruebenstrunk, Affective Systems](http://www.cs.bham.ac.uk/research/projects/cogaff/links/ruebenstrunk-presentation4.pdf)
+1. Lowe and Ziemke, On the Role of Emotion in Embodied Cognitive Architectures:From Organisms to Robots
+1. [Marsella and Gratch, Evaluating a computational model of emotion](http://people.ict.usc.edu/~marsella/publications/GratchMarsellaJAAMAS05.pdf)
+1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
+1. [Nucleus accumbens, Wikipedia page](http://en.wikipedia.org/wiki/Nucleus_accumbens)
+1. [Striatum, Wikipedia page)[http://en.wikipedia.org/wiki/Striatum)
+1. [Hippocampus, Wikipedia page)[http://en.wikipedia.org/wiki/Hippocampus]
