@@ -51,7 +51,7 @@ Still we had some problems:
 
 ##References
 
-1. [Hugo Liu automatic programming page.](http://larifari.org/writing/automatic-programming/)
-1. [Antonio R Damasio Emotion in the perspective of an integrated nervous system](https://www.researchgate.net/publication/13632270_Emotion_in_the_perspective_of_an_integrated_nervous_system)
+1. [Hugo Liu, Automatic programming page.](http://larifari.org/writing/automatic-programming/)
+1. [Antonio R Damasio, Emotion in the perspective of an integrated nervous system](https://www.researchgate.net/publication/13632270_Emotion_in_the_perspective_of_an_integrated_nervous_system)
 
 
