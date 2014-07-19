@@ -153,4 +153,4 @@ Axes:
 1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
 1. [Nucleus accumbens, Wikipedia page](http://en.wikipedia.org/wiki/Nucleus_accumbens)
 1. [Striatum, Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
-1. [Hippocampus, Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus]
+1. [Hippocampus, Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
