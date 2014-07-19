@@ -141,9 +141,6 @@ Axes:
 
 ![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
-###Emotional loop
-![Basal ganglia circuits](http://upload.wikimedia.org/wikipedia/commons/9/9e/Basal_ganglia_circuits.svg)
-
 ##References
 
 1. [Plutchik, Wheel of emotion, Wikipedia page](http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions)
@@ -155,5 +152,5 @@ Axes:
 1. [Marsella and Gratch, Evaluating a computational model of emotion](http://people.ict.usc.edu/~marsella/publications/GratchMarsellaJAAMAS05.pdf)
 1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
 1. [Nucleus accumbens, Wikipedia page](http://en.wikipedia.org/wiki/Nucleus_accumbens)
-1. [Striatum, Wikipedia page)[http://en.wikipedia.org/wiki/Striatum)
-1. [Hippocampus, Wikipedia page)[http://en.wikipedia.org/wiki/Hippocampus]
+1. [Striatum, Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
+1. [Hippocampus, Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus]
