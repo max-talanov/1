@@ -70,7 +70,32 @@
 
 ![Joy and interest pattern relation](figure11_interest_joy.png)
 
+##Rest of affects
 
+###Disgust
+
+
+
+"This NEGATIVE affect is inherently punishing and provides us some protection against eating poisonous or rotten food. Of course, some things that are poisonous do not taste bad or cause a reaction in the stomach that triggers vomiting.
+
+...
+
+The actions of the head and face when disgust is triggered involve a forward movement of the head, a protrusion of the tongue, and a pushing down of the lower lip. If the response is very intense, then vomiting occurs."
+
+###Dissmell
+
+"It is the automatic response we have when we smell something rotten, like rotten milk or fresh feces or decaying organic matter. Dissmell is triggered when the smell stimulus reaches the brain and the head draws back and away and the upper lip wrinkles."
+
+###Shame-Humiliation
+
+"Shame-humiliation was the last of the affects to evolve. As is the case for many aspects of our evolution, shame-humiliation evolved because there was a problem. The best way to describe the problem is to think of the function of the affect system. It records general information about and makes us aware of certain stimulus conditions. Shame-humiliation came after the system already had the ability to record and make us aware of stimulus conditions in the form of five negative affects (fear, distress, anger, disgust, and dissmell), one neutral affect (surprise), and two positive affects (interest and enjoyment). What additional information did the early members of our species need? They did not need more information about the negative affects. Since fear, distress, anger, disgust and dissmell are inherently punishing, they are already sufficiently motivating for us to do things to get them to stop. Nor did our ancestors need further information about surprise-startle. This affect is neither inherently punishing nor rewarding. It is like a computer’s reset button that rapidly clears the system and prepares us for whatever comes next."
+
+##Central Blueprint For Motivation
+
+1. Positive affect should be maximized,
+1. Negative affect should be minimized,
+1. Affect inhibition should be minimized,
+1. The power to maximize positive affect, to minimize negative affect, to minimize the inhibition of affect should be maximized.
 
 ##Plutchik Wheel of emotions
 

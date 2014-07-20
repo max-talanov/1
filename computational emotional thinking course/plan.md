@@ -7,7 +7,7 @@
   2. [Consciousness (lectures: 1 and 2).](consciousness.md)
   2. [Levels of mental activities.](levels_of_mental_activities.md)
   2. [Thinking.](thinking.md)
-1. [Psychological models of emotion.](psychological_models_of_emotion)
+1. [Psychological models of emotion.](psychological_models_of_emotion.md)
 1. Neuro-scientific background:
   2. Neurons and chemical synapses
   2. [Neurotransmission](neurotransmission.md) 
