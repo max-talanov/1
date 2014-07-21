@@ -9,7 +9,7 @@
   2. [Thinking.](thinking.md)
 1. [Psychological models of emotion.](psychological_models_of_emotion.md)
 1. Neuro-scientific background:
-  2. Neurons and chemical synapses
+  2. [Neurons and chemical synapses](neurons_and_chemical_synapses.md)
   2. [Neurotransmission](neurotransmission.md) 
   2. Role of neuromodulators and Lovheim "Cube of emotions"
 1. Artificial neural networks.
