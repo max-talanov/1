@@ -20,7 +20,9 @@
 
 <iframe src="//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes" width="200" height="150" frameborder="1" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
+##Electrical Synapse
 
+![Electrical synapse](http://upload.wikimedia.org/wikipedia/commons/b/b7/Gap_cell_junction-en.svg)
 
 ##References
 
