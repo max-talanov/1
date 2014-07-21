@@ -14,14 +14,33 @@
 
 "The fruit fly Drosophila melanogaster, a common subject in biological experiments, has around 100,000 neurons and exhibits many complex behaviors. Many properties of neurons, from the type of neurotransmitters used to ion channel composition, are maintained across species, allowing scientists to study processes occurring in more complex organisms in much simpler experimental systems."
 
-#Chemical Synapse
+##Chemical Synapse
 
 ![Chemical synapse](http://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg)
 
+###Signaling in chemical synapses
+
 [![Chemical synapse video](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Synapse.theora.ogv/200px--Synapse.theora.ogv.jpg)](http://commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes)
 
-<iframe src="//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes" width="200" height="150" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+* The process begins with a wave of electrochemical excitation called an action potential traveling along the membrane of the presynaptic cell, until it reaches the synapse.
+* The electrical depolarization of the membrane at the synapse causes channels to open that are permeable to calcium ions.
+* Calcium ions flow through the presynaptic membrane, rapidly increasing the calcium concentration in the interior.
+* The high calcium concentration activates a set of calcium-sensitive proteins attached to Synaptic vesicles that contain a neurotransmitter chemical.
+* These proteins change shape, causing the membranes of some "docked" vesicles to fuse with the membrane of the presynaptic cell, thereby opening the vesicles and dumping their neurotransmitter contents into the synaptic cleft, the narrow space between the membranes of the pre- and postsynaptic cells.
+* The neurotransmitter diffuses within the cleft.  Some of it escapes, but some of it binds to chemical receptor molecules located on the membrane of the postsynaptic cell.
+* The binding of neurotransmitter causes the receptor molecule to be ''activated'' in some way.  Several types of activation are possible, as described in more detail below.  In any case, this is the key step by which the synaptic process affects the behavior of the postsynaptic cell.
+* Due to thermal vibration, neurotransmitter molecules eventually break loose from the receptors and drift away.
+* The neurotransmitter is either reabsorbed by the presynaptic cell, and then repackaged for future release, or else it is broken down metabolically.
 
+###Synaptic plasticity
+
+####Homosynaptic plasticity
+
+"Homosynaptic Plasticity (or also homotropic modulation) is a change in the synaptic strength that results from the history of activity at a particular synapse. This can result from changes in presynaptic calcium as well as feedback onto presynaptic receptors, i.e. a form of autocrine signaling. Homosynaptic plasticity can affect the number and replenishment rate of vesicles or it can affect the relationship between calcium and vesicle release. Homosynaptic plasticity can also be postsynaptic in nature. It can result in either an increase or decrease in synaptic strength."
+
+####Heterosynaptic plasticity
+
+"Heterosynaptic Plasticity (or also heterotropic modulation) is a change in synaptic strength that results from the activity of other neurons. Again, the plasticity can alter the number of vesicles or their replenishment rate or the relationship between calcium and vesicle release. Additionally, it could directly affect calcium influx. Heterosynaptic plasticity can also be postsynaptic in nature, affecting receptor sensitivity."
 
 ##Electrical Synapse
 
@@ -33,3 +52,4 @@
 1. [Chemical synapse Wikipedia page](http://en.wikipedia.org/wiki/Chemical_synapses)
 1. [Electrical synapse Wikipedia page](http://en.wikipedia.org/wiki/Electrical_synapse)
 1. [Chemical synapse video](http://commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes)
+1. [Balaban, Molecular mechanism of memory, 28:00](http://postnauka.ru/lectures/22503)
