@@ -18,7 +18,16 @@
 
 ![Chemical synapse](http://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg)
 
+
 <iframe src="//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes" width="200" height="150" frameborder="1" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+
 
 ##Electrical Synapse
 
