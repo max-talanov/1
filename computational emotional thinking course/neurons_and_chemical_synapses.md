@@ -18,15 +18,11 @@
 
 ![Chemical synapse](http://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg)
 
+[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 
-<iframe src="//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes" width="200" height="150" frameborder="1" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+[[embed url=//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes]]
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
+<iframe src="//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes" width="200" height="150" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
 ##Electrical Synapse
