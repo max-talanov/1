@@ -46,6 +46,21 @@
 
 ![Electrical synapse](http://upload.wikimedia.org/wikipedia/commons/b/b7/Gap_cell_junction-en.svg)
 
+"An electrical synapse is an electrically conductive link between two abutting neurons that is formed at a narrow gap between the pre- and postsynaptic cells, known as a gap junction. At gap junctions, cells approach within about 3.5 nm of each other, rather than the 20 to 40 nm distance that separates cells at chemical synapses. As opposed to chemical synapses, the postsynaptic potential in electrical synapses is not caused by the opening of ion channels by chemical transmitters, but rather by direct electrical coupling between both neurons. Electrical synapses are faster than chemical synapses. Electrical synapses are found throughout the nervous system, including in the retina, the reticular nucleus of the thalamus, the neocortex, and in the hippocampus."
+
+"The synaptic delay for a chemical synapse is typically about 2 ms, whereas the synaptic delay for an electrical synapse may be about 0.2 ms."
+
+##Long term potentiation
+
+![LTP 1](http://upload.wikimedia.org/wikipedia/commons/1/13/LTP_First_Stage.png)
+![LTP 2](http://upload.wikimedia.org/wikipedia/commons/e/e4/LTP_Second_Stage.png)
+![LTP 3](http://upload.wikimedia.org/wikipedia/commons/7/77/LTP_Third_Stage.png)
+![LTP 4](http://upload.wikimedia.org/wikipedia/commons/4/41/LTP_Fourth_Stage.png)
+
+##Long term depression
+
+![LTD](http://upload.wikimedia.org/wikipedia/en/9/9c/Bi-directional_modulation_of_AMPA_receptor.png)
+
 ##References
 
 1. [Neuron Wikipedia page](http://en.wikipedia.org/wiki/Neuron)
