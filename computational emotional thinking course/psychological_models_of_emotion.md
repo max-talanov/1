@@ -99,6 +99,35 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 ##Plutchik Wheel of emotions
 
+###Feedback loop
+
+![Feedback loop](figure12_plutchik_emotional_feedback_loop.png)
+
+####Fear example
+
+![Fear feedback loop](figure13_plutchik_emotional_feedback_loop_fear.png)
+
+|stimulus event        |cognition  |feeling state|overt behavior   |effect                 |
+|:--------------------:|:---------:|:-----------:|:---------------:|:---------------------:|
+|threat                |danger     |fear         |escape           |safety                 |
+|obstacle              |enemy      |anger        |attack           |destroy obstacle       |
+|gain of valued object |possess    |joy          |retain or repeat |gain resources         |
+|loss of valued object |abandonment|sadness      |cry              |reattach to lost object|
+|member of one s group |friend     |acceptance   |groom            |mutual support         |
+|unpalatable object    |poison     |disgust      |vomit            |eject poison           |
+|new territory         |examine    |expectation  |map              |knowledge of territory |
+|unexpected event      |what is it?|surprise     |stop             |gain time to orient    |
+
+###Wheel of emotion
+
+![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
+
+Axes:
+
+1. Pleasantness (joy - sadness)
+1. Attention (interest - surprise)
+1. Sensitivity (anger - fear)
+1. Aptitude (trust - disgust)
 
 ##References
 
