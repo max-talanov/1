@@ -99,6 +99,8 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 ##Plutchik Wheel of emotions
 
+"By one estimate, more than 90 definitions of "emotion" were proposed over the course of the 20th century. If there is little consensus on the meaning of the term, it is no wonder that there is much disagreement among contemporary theoreticians concerning the best way to conceptualize emotion and interpret its role in life."
+
 ###Feedback loop
 
 ![Feedback loop](figure12_plutchik_emotional_feedback_loop.png)
