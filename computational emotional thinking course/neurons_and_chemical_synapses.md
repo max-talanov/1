@@ -18,9 +18,8 @@
 
 ![Chemical synapse](http://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg)
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 
-[[embed url=//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes]]
+[![Chemical synapse video](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Synapse.theora.ogv/200px--Synapse.theora.ogv.jpg)](url=http://commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes)
 
 <iframe src="//commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes" width="200" height="150" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
@@ -34,3 +33,4 @@
 1. [Neuron Wikipedia page](http://en.wikipedia.org/wiki/Neuron)
 1. [Chemical synapse Wikipedia page](http://en.wikipedia.org/wiki/Chemical_synapses)
 1. [Electrical synapse Wikipedia page](http://en.wikipedia.org/wiki/Electrical_synapse)
+1. [Chemical synapse video](http://commons.wikimedia.org/wiki/File:Synapse.theora.ogv?embedplayer=yes)
