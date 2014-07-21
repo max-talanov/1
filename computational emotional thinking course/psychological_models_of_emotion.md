@@ -107,6 +107,8 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 ![Fear feedback loop](figure13_plutchik_emotional_feedback_loop_fear.png)
 
+###Emotional substrates
+
 |stimulus event        |cognition  |feeling state|overt behavior   |effect                 |
 |:--------------------:|:---------:|:-----------:|:---------------:|:---------------------:|
 |threat                |danger     |fear         |escape           |safety                 |
@@ -122,7 +124,7 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 ![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
 
-Axes:
+####Axes:
 
 1. Pleasantness (joy - sadness)
 1. Attention (interest - surprise)
