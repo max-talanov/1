@@ -37,11 +37,20 @@ dopamine      |dopamine receptors in mammals can be divided into two families, k
 
 ###VTA
 
+"the VTA, in particular the VTA dopamine neurons, serve several functions in the reward system, motivation, cognition, drug addiction, and may be the focus of several psychiatric disorders. It has also been shown to process various types of emotion output from the amygdala, where it may also play a role in avoidance and fear-conditioning. Electrophysiological recordings have demonstrated that VTA neurons respond to novel stimuli, unexpected rewards, and reward-predictive sensory cues. The firing pattern of these cells is consistent with the encoding of a reward expectancy error. In 2006 MRI Studies by Helen Fisher and her research team found and documented various emotional states relating to intense love correlated with activity in the VTA, which may help explain obsessive behaviors of rejected partners since this is shared by the reward system."
+
 ###Substantia nigra
+
+"The substantia nigra is an important player in brain function, in particular, in eye movement, motor planning, reward-seeking, learning, and addiction. Many of the substantia nigra's effects are mediated through the striatum. The nigral dopaminergic input to the striatum via the nigrostriatal pathway is intimately linked with the striatum's function. The co-dependence between the striatum and substantia nigra can be seen in this way: when the substantia nigra is electrically stimulated, no movement occurs; however, the symptoms of nigral degeneration due to Parkinson's is a poignant example of the substantia nigra's influence on movement. In addition to striatum-mediated functions, the substantia nigra also serves as a major source of GABAergic inhibition to various brain targets."
 
 ###Raphe nuclei
 
+"The raphe nuclei have a vast impact upon the central nervous system. Many of the neurons in the nuclei (but not the majority) are serotonergic; i.e., contain serotonin, a type of monoamine neurotransmitter and are modulated through fibrous pathways in the midbrain.
+Projections from the raphe nuclei also terminate in the dorsal horn of spinal gray matter where they regulate the release of enkephalins, which inhibit pain sensation."
+
 ###Striatum
+
+
 
 ###Hippocampus
 
@@ -63,3 +72,9 @@ dopamine      |dopamine receptors in mammals can be divided into two families, k
 1. [Metabotropic vs ionotropic receptors](http://www.interactive-biology.com/3974/ionotropic-vs-metabotropic-receptors/)
 1. [Metabotropic receptor Wikipedia page](http://en.wikipedia.org/wiki/Metabotropic_receptor)
 1. [Ionotropic receptor Wikipedia page](http://en.wikipedia.org/wiki/Ionotropic)
+1. [Mesocortical pathway Wikipedia page](http://en.wikipedia.org/wiki/Mesocortical_pathway)
+1. [Mesolimbic pathway Wikipedia page](http://en.wikipedia.org/wiki/Mesolimbic_pathway)
+1. [Nigrostriatal pathway Wikipedia page](http://en.wikipedia.org/wiki/Nigrostriatal_pathway)
+1. [VTA Wikipedia page](http://en.wikipedia.org/wiki/Ventral_tegmentum)
+1. [Raphe nuclei Wikipedia page](http://en.wikipedia.org/wiki/Raphe_nuclei)
+1. [Substantia nigra Wikipedia page](http://en.wikipedia.org/wiki/Substantia_nigra)
