@@ -30,26 +30,18 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 name          |mechanism   |origin  |target |effects
 :-------------|-----------:|-------:|------:|-------:
-noradrenaline |            |        |adrenergic receptors in:
-*spinal cord
-*thalamus
-*hypothalamus
-*striatum
-*neocortex
-*cingulate gyrus
-*cingulum
-*hippocampus
-*amygdala| * arousal (Arousal is a physiological and psychological state of being awake or reactive to stimuli)
-* reward system
-serotonin     |
-dopamine      |
+noradrenaline |            |        |adrenergic receptors in: *striatum *neocortex *hippocampus *amygdala| * arousal (Arousal is a physiological and psychological state of being awake or reactive to stimuli) * reward system
+serotonin     |            |        |       |
+dopamine      |            |        |       |
 
 
 ###VTA
 
 ###Substantia nigra
 
-###Ph nucleai
+###Raphe nuclei
+
+###Striatum
 
 ###Hippocampus
 
