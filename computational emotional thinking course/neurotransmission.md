@@ -28,11 +28,11 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 [Major neurotransmitter systems](http://en.wikipedia.org/wiki/Neuromodulation#The_major_neurotransmitter_systems)
 
-name          |mechanism   |origin  |target |effects
-:-------------|-----------:|-------:|------:|-------:
-noradrenaline |            |        |adrenergic receptors in: *striatum *neocortex *hippocampus *amygdala| * arousal (Arousal is a physiological and psychological state of being awake or reactive to stimuli) * reward system
-serotonin     |            |        |       |
-dopamine      |            |        |       |
+name          |mechanism     |origin          |target                                                                 |effects
+:-------------|-------------:|---------------:|----------------------------------------------------------------------:|-------:
+noradrenaline |              |locus coeruleus |adrenergic receptors in: striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
+serotonin     |              |raphe nucleus   |serotonin receptors in: deep cerebellar nuclei, cerebellar cortex      |increase (introversion), mood, satiety, body temperature and sleep, while decreasing nociception
+dopamine      |dopamine receptors in mammals can be divided into two families, known as D1-like and D2-like. The ultimate effect of D1-like receptors (D1 and D5) can be excitation (via opening of sodium channels) or inhibition (via opening of potassium channels); the ultimate effect of D2-like receptors (D2, D3, and D4) is usually inhibition of the target neuron |dopamine pathways |dopamine receptors at pathway terminations| motor system, reward system, cognition, endocrine, nausea
 
 
 ###VTA
@@ -47,10 +47,12 @@ dopamine      |            |        |       |
 
 ###Frontal cortex
 
+##Role of Noradrenaline, Dopamine and  Serotonin
 
-
+![Role of Noradrenaline, Dopamine and Serotonin](http://upload.wikimedia.org/wikipedia/commons/e/ee/NorepinephrineDopamineSerotonin.png)
 
 ###Emotional loop
+
 ![Basal ganglia circuits](http://upload.wikimedia.org/wikipedia/commons/9/9e/Basal_ganglia_circuits.svg)
 
 ##References
