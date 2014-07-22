@@ -50,11 +50,18 @@ Projections from the raphe nuclei also terminate in the dorsal horn of spinal gr
 
 ###Striatum
 
-
+"Metabotropic dopamine receptors are present both on spiny neurons and on cortical axon terminals. Second messenger cascades triggered by activation of these dopamine receptors can modulate pre- and postsynaptic function, both in the short term and in the long term. The striatum is best known for its role in the planning and modulation of movement pathways but is also potentially involved in a variety of other cognitive processes involving executive function, such as working memory. In humans, the striatum is activated by stimuli associated with reward, but also by aversive, novel, unexpected, or intense stimuli, and cues associated with such events."
 
 ###Hippocampus
 
+"Psychologists and neuroscientists generally agree that the hippocampus plays an important role in the formation of new memories about experienced events (episodic or autobiographical memory). Part of this function is hippocampal involvement in the detection of novel events, places and stimuli. Some researchers regard the hippocampus as part of a larger medial temporal lobe memory system responsible for general declarative memory (memories that can be explicitly verbalized—these would include, for example, memory for facts in addition to episodic memory)."
+
+"Studies conducted on freely moving rats and mice have shown that many hippocampal neurons have "place fields", that is, they fire bursts of action potentials when a rat passes through a particular part of the environment."
+
 ###Frontal cortex
+
+"The executive function of the frontal lobes involve the ability to recognize future consequences resulting from current actions, to choose between good and bad actions (or better and best), override and suppress socially unacceptable responses, and determine similarities and differences between things or events.
+The frontal lobes also play an important part in retaining longer term memories which are not task-based. These are often memories associated with emotions derived from input from the brain's limbic system. The frontal lobe modifies those emotions to generally fit socially acceptable norms."
 
 ##Role of Noradrenaline, Dopamine and  Serotonin
 
