@@ -28,11 +28,11 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 [Major neurotransmitter systems](http://en.wikipedia.org/wiki/Neuromodulation#The_major_neurotransmitter_systems)
 
-name          |mechanism     |origin          |target                                                                 |effects
-:-------------|-------------:|---------------:|----------------------------------------------------------------------:|-------:
-noradrenaline |              |locus coeruleus |adrenergic receptors in: striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
-serotonin     |              |raphe nucleus   |serotonin receptors in: deep cerebellar nuclei, cerebellar cortex      |increase (introversion), mood, satiety, body temperature and sleep, while decreasing nociception
-dopamine      |dopamine receptors in mammals can be divided into two families, known as D1-like and D2-like. The ultimate effect of D1-like receptors (D1 and D5) can be excitation (via opening of sodium channels) or inhibition (via opening of potassium channels); the ultimate effect of D2-like receptors (D2, D3, and D4) is usually inhibition of the target neuron |dopamine pathways |dopamine receptors at pathway terminations| motor system, reward system, cognition, endocrine, nausea
+name          |origin          |target                                                                 |effects
+:-------------|----------------|-----------------------------------------------------------------------|--------
+noradrenaline |locus coeruleus |adrenergic receptors in: striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
+serotonin     |raphe nucleus   |serotonin receptors in: deep cerebellar nuclei, cerebellar cortex      |increase (introversion), mood, satiety, body temperature and sleep, while decreasing nociception
+dopamine      |dopamine pathways |dopamine receptors at pathway terminations| motor system, reward system, cognition, endocrine, nausea
 
 
 ###VTA
@@ -85,3 +85,8 @@ The frontal lobes also play an important part in retaining longer term memories 
 1. [VTA Wikipedia page](http://en.wikipedia.org/wiki/Ventral_tegmentum)
 1. [Raphe nuclei Wikipedia page](http://en.wikipedia.org/wiki/Raphe_nuclei)
 1. [Substantia nigra Wikipedia page](http://en.wikipedia.org/wiki/Substantia_nigra)
+1. [Striatum Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
+1. [Hippocampus Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
+1. [Frontal cortex Wikipedia page](http://en.wikipedia.org/wiki/Frontal_cortex)
+1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
+
