@@ -133,7 +133,30 @@ The actions of the head and face when disgust is triggered involve a forward mov
 1. Sensitivity (anger - fear)
 1. Aptitude (trust - disgust)
 
+##Hierarchical organization of defensive behaviors by Prescott et al.
+
+"[S]ubsumption architecture (where higher levels can suppress and override lower ones). The levels span from low-level reflexive mechanisms, over midbrain-mediated mechanisms (such as flight-or-fight responses), and amygdala-mediated conditioned responses, to cortical cognitive mechanisms. In this scheme, emotion is mainly associated with the role of the amygdala."[Ziemke and Lowe]
+
+![Behavioral organization](figure14_behaviour_organization_of_defence.png)
+
+"Behavioral organization of defensive behaviors as a subsumption architecture (as an example of the layered architecture of the mammalian brain). Adapted from Prescott et al."[Ziemke and Lowe]
+
+##Emotions from brain to robot by Arbib and Fellous
+
+"The amygdala can influence cortical areas via feedback from proprioceptive, visceral or hormonal signals, via projections to various 'arousal' networks, and through interaction with the medial prefrontal cortex"[Ziemke and Lowe]
+
+![Interactions](figure15_interactions.png)
+
+"Interactions between amygdala, cortical, and subcortical areas in the mammalian brain (mPFC/dlPFC: medial/dorsolateral prefrontal cortex). Adapted from Arbib and Fellous."[Ziemke and Lowe]
+
+![Neuromodulation vs actions](figure16_neuromodulation_actions.png)
+
+"Arbib and Fellous’ view of behavioral organization with respect to potential for neuromodulation and action specificity-mapping brain and nervous system structures to (examples of) reflexes, drives, instincts and motivations, and cognitions (CPG: central pattern generators, PAG: periaqueductal gray, RF: reticular formation, NTS: nucleus of the solitary tract). The ellipses represent zones of neural recruitment during emotional expression and experience, whose neural substrate is argued to be intimately linked to that of neuromodulation. Adapted from Arbib and Fellous"[Ziemke and Lowe]
+
 ##References
 
 1. [Vernon C. Kelly, Jr., M.D., A Primer Of Affect Psychology](http://www.tomkins.org/uploads/Primer_of_Affect_Psychology.pdf)
 1. [Robert Plutchik, The Nature of Emotions](http://www.americanscientist.org/my_amsci/restricted.aspx?act=pdf&id=2762150868143)
+1. [Tom Ziemke and Robert Lowe, On the Role of Emotion in Embodied Cognitive Architectures: From Organisms to Robots](http://link.springer.com/article/10.1007%2Fs12559-009-9012-0?LI=true)
+1. Prescott TJ, Redgrave P, Gurney K. Layered control architectures in robots and vertebrates. Adapt Behav. 1999;7:99–127.
+1. Arbib M, Fellous J-M. Emotions: From brain to robot. Trend Cognit Sci. 2004;8(12):554–61.
