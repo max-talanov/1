@@ -71,6 +71,13 @@ The frontal lobes also play an important part in retaining longer term memories 
 
 ![Basal ganglia circuits](http://upload.wikimedia.org/wikipedia/commons/9/9e/Basal_ganglia_circuits.svg)
 
+![Basal ganglia connectivity diagram](http://upload.wikimedia.org/wikipedia/commons/4/45/Basal-ganglia-classic.png)
+
+Connectivity diagram showing excitatory glutamatergic pathways as red, inhibitory GABAergic pathways as blue, and modulatory dopaminergic pathways as magenta. (Abbreviations: GPe: globus pallidus external; GPi: globus pallidus internal; STN: subthalamic nucleus; SNc: substantia nigra compacta; SNr: substantia nigra reticulata)
+
+:'''Cortex''' (stimulates) → '''Striatum''' (inhibits) → '''"SNr-GPi" complex''' (less inhibition of thalamus) → '''Thalamus''' (stimulates) → '''Cortex''' (stimulates) → '''Muscles, etc.''' → (<u>hyperkinetic state</u>)
+
+
 ##References
 
 1. [Neurotransmitter Wikipedia page](http://en.wikipedia.org/wiki/Neurotransmitter)
