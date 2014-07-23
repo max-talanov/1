@@ -10,8 +10,7 @@
 1. [Psychological models of emotion.](psychological_models_of_emotion.md)
 1. Neuro-scientific background:
   2. [Neurons and chemical synapses](neurons_and_chemical_synapses.md)
-  2. [Neurotransmission](neurotransmission.md) 
-  2. Role of neuromodulators and Lovheim "Cube of emotions"
-1. Artificial neural networks.
-  2. History of NNs ?
+  2. [Neurotransmission](neurotransmission.md)
+1. Artificial emotions:
+  2. Cognitive architectures
   2. Spiking NNs: HTM, NEST
