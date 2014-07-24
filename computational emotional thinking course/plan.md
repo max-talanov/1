@@ -12,5 +12,5 @@
   2. [Neurons and chemical synapses](neurons_and_chemical_synapses.md)
   2. [Neurotransmission](neurotransmission.md)
 1. Artificial emotions:
-  2. Cognitive architectures
-  2. Spiking NNs: HTM, NEST
+  2. [Cognitive architectures](cognitive_architecture.md)
+  2. [Spiking NNs: HTM, NEST](realistic_nns.md)
