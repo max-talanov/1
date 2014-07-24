@@ -7,32 +7,32 @@ See [Computational Models of Emotion and Cognition](https://github.com/developme
 Number |Cognitive architecture | Score
 -------|:----------------------|-----:
 1.     |4CAPS                  | 4
-1.     |ACT-R                  | 3
-ALifeE                 | 3
-Apex                   | 4
-**ASMO**               | 8
-CHREST                 | 5
-**CLARION**            | 6
-CopyCat                | 4
-**DUAL**               | 6
-EPIC                   | 3
-FORR                   | 2
-GAIuS                  | 3
-**H-CogAff**           | 16
-CoJack                 | 5
-**LIDA**               | 6
-PreAct                 | 4
-PRODIGY(*)             | 3
-PRS                    | 4
-**Psi-Theory**         | 10
-R-CAST                 | 2
-**Soar**               | 6
-**Society of mind** (*)| 6
-Subsumption            | 2
-**WASABI**             | 9
-**EMA**                | 9
-**Hikonen**            | 13
-**Shanahan**           | 9
+2.     |ACT-R                  | 3
+3.     |ALifeE                 | 3
+4.     |Apex                   | 4
+5.     |**ASMO**               | 8
+6.     |CHREST                 | 5
+7.     |**CLARION**            | 6
+8.     |CopyCat                | 4
+9.     |**DUAL**               | 6
+10.    |EPIC                   | 3
+11.    |FORR                   | 2
+12.    |GAIuS                  | 3
+13.    |**H-CogAff**           | 16
+14.    |CoJack                 | 5
+15.    |**LIDA**               | 6
+16.    |PreAct                 | 4
+17.    |PRODIGY(*)             | 3
+18.    |PRS                    | 4
+19.    |**Psi-Theory**         | 10
+20.    |R-CAST                 | 2
+21.    |**Soar**               | 6
+22.    |**Society of mind** (*)| 6
+23.    |Subsumption            | 2
+24.    |**WASABI**             | 9
+25.    |**EMA**                | 9
+26.    |**Hikonen**            | 13
+27.    |**Shanahan**           | 9
 
 (*) - possibly underestimated.
 
