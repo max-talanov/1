@@ -48,6 +48,11 @@ dopamine      |dopamine pathways |dopamine receptors at pathway terminations| mo
 "The raphe nuclei have a vast impact upon the central nervous system. Many of the neurons in the nuclei (but not the majority) are serotonergic; i.e., contain serotonin, a type of monoamine neurotransmitter and are modulated through fibrous pathways in the midbrain.
 Projections from the raphe nuclei also terminate in the dorsal horn of spinal gray matter where they regulate the release of enkephalins, which inhibit pain sensation."
 
+###Nucleus accumbens
+
+"... it plays an equal role in processing many rewards such as food and sex. The nucleus accumbens is selectively activated during the perception of pleasant, emotionally arousing pictures and during mental imagery of pleasant, emotional scenes.[Costa et al, Sabatinelli et al] ...  The nucleus accumbens plays a role in rhythmic timing and is considered to be of central importance to the limbic-motor interface (Mogensen).
+... the area is the "pleasure center" of the brain and is involved in reinforcement learning.[Olds J, Milner] In rats, stimulation of the ventral tegmental area causes the release of dopamine in the nucleus accumbens much in the same way as addictive drugs and natural reinforcers, such as water or food, initiate the release of dopamine in the nucleus accumbens.[Nakahara] The same results have been seen in human subjects in functional imaging studies."
+
 ###Striatum
 
 "Metabotropic dopamine receptors are present both on spiny neurons and on cortical axon terminals. Second messenger cascades triggered by activation of these dopamine receptors can modulate pre- and postsynaptic function, both in the short term and in the long term. The striatum is best known for its role in the planning and modulation of movement pathways but is also potentially involved in a variety of other cognitive processes involving executive function, such as working memory. In humans, the striatum is activated by stimuli associated with reward, but also by aversive, novel, unexpected, or intense stimuli, and cues associated with such events."
@@ -110,4 +115,7 @@ Marvin Minsky's brain bug.
 1. [Hippocampus Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
 1. [Frontal cortex Wikipedia page](http://en.wikipedia.org/wiki/Frontal_cortex)
 1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
-
+1. Costa, VD, Lang, PJ, Sabatinelli, D, Bradley MM, and Versace, F (2010). "Emotional imagery: Assessing pleasure and arousal in the brain's reward circuitry". Human Brain Mapping 31 (9): 1446–1457. doi:10.1002/hbm.20948. PMID 20127869.
+1. Sabatinelli, D, Lang, PJ, Bradley, MM, Costa, VD, and Versace, F (2007). "Pleasure rather than salience activates human nucleus accumbens and medial prefrontal cortex". Journal of Neurophysiology 98 (9): 1374–1379. doi:10.1152/jn.00230.2007. PMID 17596422.
+1. [Olds J, Milner P (1954). "Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain". J Comp Physiol Psychol 47 (6): 419–27. doi:10.1037/h0058775. PMID 13233369.](http://wadsworth.cengage.com/psychology_d/templates/student_resources/0155060678_rathus/ps/ps02.html)
+1. Nakahara, D., Ozaki, N., Miura, Y., Miura, H., et al. Increased dopamine and serotonin metabolism in rat nucleus accumbens produced by intracranial sel-stimulation of medial forebrain bundle as measured by in vivo microdialysis. Brain Research', 1989 495: 178-181.
