@@ -93,6 +93,12 @@ Integration methods: exact integration for linear models, Euler, Runge-Kutta and
 **Total = 0**
 
 
+##CARLsim: a GPU-accelerated SNN Simulator
+
+###Main features
+
+
+
 ##References
 
 1. [Computational Neuroscience, Realistic Neural Networks](http://home.earthlink.net/~perlewitz/sftwr.html#realistic)
