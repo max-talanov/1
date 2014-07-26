@@ -162,11 +162,11 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 ##Main features
 
 1. Supports highly customizeable intra and inter column connectivity
-1. No knowledge of CSIM necessary
-1. Easy to use Matlab interface
-1. Runs under Unix (Linux) and Windows
-1. Object oriented design
-1. Parallel simulation for large set of stimuli
+2. No knowledge of CSIM necessary
+3. Easy to use Matlab interface
+4. Runs under Unix (Linux) and Windows
+5. Object oriented design
+6. Parallel simulation for large set of stimuli
 
 ###Analysis
 
@@ -186,7 +186,35 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
+##mozaik
 
+###Mani features
+
+1. High-level components for definition of topologically organized spiking networks (built on top of PyNN)
+1. Experiment control (description and execution of experiments)
+1. Stimulus definition framework
+1. Data storage (storage of recordings and analysis results)
+1. Data manipulation (a query based system for performing high-level filtering operations over the datastore)
+1. Analysis module
+1. Plotting module
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 0
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 0
+  6. Hippocampus = 0
+  7. Frontal cortex = 0
+  8. Amygdala = 0
+
+**Total = 0**
 
 
 
