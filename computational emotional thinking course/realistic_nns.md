@@ -216,7 +216,41 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
+##Mvaspike
 
+###Main features
+
+1. Networks:
+  2. Delayed connections
+  2. Populations of neurons
+  2. Modular or hierarchical modeling strategy (borrowed from the DEVS formalism)
+1. Neurons:
+  2. Integrate-and-fire with STDP
+  2. Stochastic neurons (work in progress)
+  2. Phase-coded neurons
+1. Simulation:
+  2. Event-driven
+1. Integration:
+  2. Python bindings
+  2. Standard file formats (e.g. XML and hdf5, work in progress)
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 0
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 0
+  6. Hippocampus = 0
+  7. Frontal cortex = 0
+  8. Amygdala = 0
+
+**Total = 0**
 
 ##References
 
