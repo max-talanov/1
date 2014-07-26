@@ -141,6 +141,25 @@ Combined graphical and textual model specification. Any model can be viewed and 
 
 1. **System independent model specification**. Models are saved as "vanilla" XML where the element and attribute names come from the component specification. Importantly, almost none of them are defined by the system (the exceptions are position, scale and visual representations for use in diagrams). This means the schema is under user control, not hardwired into the system, and it makes it much easier to adapt catacomb models to existing XML schemas.
 
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  2. Dopamine = 0
+  2. Serotonin = 0
+  2. Noradrenaline = 0
+1. Option to construct simplified models of:
+  2. VTA = 0
+  2. Substantia nigra = 0
+  2. Raphe nuclei = 0
+  2. Nucleus accumbens = 0
+  2. Striatum = 0
+  2. Hippocampus = 0
+  2. Frontal cortex = 0
+  2. Amygdala = 0
+
+**Total = 0**
+
+
 ##References
 
 1. [Computational Neuroscience, Realistic Neural Networks](http://home.earthlink.net/~perlewitz/sftwr.html#realistic)
