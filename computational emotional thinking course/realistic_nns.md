@@ -252,6 +252,33 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
+##[NCS](http://www.cse.unr.edu/brain/ncs)
+
+###Main features
+NCS5 models integrate-and-fire neurons with conductance-based synapses using two clusters: four SUN 4600 machines (16-processors each) connected via Infiniband with 192 GB RAM per machine, 24 Terabytes of disk storage; and 208 Opteron cores, 416 GB RAM, and more than a Terabyte of disk storage.
+
+Experiments have demonstrated biologically realistic learning in real time by distributing models of 100,000 neurons over a cluster of 208 processors.
+
+[Is capable of modelling basal ganglia.](http://www.cse.unr.edu/brain/node/150)
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 1
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 1
+  6. Hippocampus = 0
+  7. Frontal cortex = 1
+  8. Amygdala = 0
+
+**Total = 2**
+
 ##References
 
 1. [Computational Neuroscience, Realistic Neural Networks](http://home.earthlink.net/~perlewitz/sftwr.html#realistic)
