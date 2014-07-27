@@ -284,6 +284,8 @@ Experiments have demonstrated biologically realistic learning in real time by di
 
 ##[The Nengo Neural Simulator](http://www.nengo.ca/)
 
+[Overview](http://nengo.ca/overview)
+
 ###Main features
 
 To use Nengo, you define groups of neurons in terms of what they represent, and then form connections between neural groups in terms of what computation should be performed on those representations. Nengo then uses the Neural Engineering Framework (NEF) to solve for the appropriate synaptic connection weights to achieve this desired computation. Nengo also supports various kinds of learning. Nengo helps make detailed spiking neuron models that implement complex high-level cognitive algorithms.
