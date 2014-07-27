@@ -254,6 +254,9 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 ##[NCS](http://www.cse.unr.edu/brain/ncs)
 
+Our current NeoCortical Simulator (NCS) was developed in the Brain Computation Laboratory (University of Nevada, Reno) and shares similar approaches with well-known other simulators (e.g. GENESIS, NEURON), yet has its unique capabilities. NCS models integrate-and-fire neurons with conductance-based synapses.
+NCS not only supports simulations for larger models, but also is the first simulator to support real-time neurorobotics applications.
+
 ###Main features
 NCS5 models integrate-and-fire neurons with conductance-based synapses using two clusters: four SUN 4600 machines (16-processors each) connected via Infiniband with 192 GB RAM per machine, 24 Terabytes of disk storage; and 208 Opteron cores, 416 GB RAM, and more than a Terabyte of disk storage.
 
@@ -268,16 +271,42 @@ Experiments have demonstrated biologically realistic learning in real time by di
   2. Serotonin = 0
   3. Noradrenaline = 0
 2. Option to construct simplified models of:
-  1. VTA = 0
+  1. VTA = 1
   2. Substantia nigra = 1
   3. Raphe nuclei = 0
-  4. Nucleus accumbens = 0
+  4. Nucleus accumbens = 1
   5. Striatum = 1
   6. Hippocampus = 0
   7. Frontal cortex = 1
-  8. Amygdala = 0
+  8. Amygdala = 1
 
-**Total = 3**
+**Total = 6**
+
+##[The Nengo Neural Simulator](http://www.nengo.ca/)
+
+###Main features
+
+To use Nengo, you define groups of neurons in terms of what they represent, and then form connections between neural groups in terms of what computation should be performed on those representations. Nengo then uses the Neural Engineering Framework (NEF) to solve for the appropriate synaptic connection weights to achieve this desired computation. Nengo also supports various kinds of learning. Nengo helps make detailed spiking neuron models that implement complex high-level cognitive algorithms.
+
+Among other things, Nengo has been used to implement motor control, visual attention, serial recall, action selection, working memory, attractor networks, inductive reasoning, path integration, and planning with problem solving (see the model archives and publications for details).
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 1
+  2. Substantia nigra = 1
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 1
+  5. Striatum = 1
+  6. Hippocampus = 0
+  7. Frontal cortex = 1
+  8. Amygdala = 1
+
+**Total = 6**
 
 ##References
 
