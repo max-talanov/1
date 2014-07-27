@@ -277,7 +277,7 @@ Experiments have demonstrated biologically realistic learning in real time by di
   7. Frontal cortex = 1
   8. Amygdala = 0
 
-**Total = 2**
+**Total = 3**
 
 ##References
 
