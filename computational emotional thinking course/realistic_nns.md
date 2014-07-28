@@ -508,6 +508,17 @@ XNBC is a full featured application for computer naive neuroscientists. It simul
 
 **Total = 0**
 
+#HTM
+
+![HTM](http://upload.wikimedia.org/wikipedia/en/8/87/HTM_Hierarchy_example.png)
+
+A typical HTM network is a tree-shaped hierarchy of levels that are composed of smaller elements called nodes or columns. A single level in the hierarchy is also called a region. Higher hierarchy levels often have fewer nodes and therefore less spacial resolvability. Higher hierarchy levels can reuse patterns learned at the lower levels by combining them to memorize more complex patterns.
+
+##[Comparing HTM and neocortex](http://en.wikipedia.org/wiki/Hierarchical_temporal_memory#Comparing_HTM_and_neocortex)
+
+
 ##References
 
 1. [Computational Neuroscience, Realistic Neural Networks](http://home.earthlink.net/~perlewitz/sftwr.html#realistic)
+1. [HTM Wikipedia page](http://en.wikipedia.org/wiki/Hierarchical_temporal_memory)
+1. [Cortical learning algorithms](http://www.numenta.com/technology/)
