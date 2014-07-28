@@ -310,6 +310,35 @@ Among other things, Nengo has been used to implement motor control, visual atten
 
 **Total = 6**
 
+##[Nest](http://www.nest-initiative.org/index.php/About_Us)
+
+[Overview](http://www.scholarpedia.org/article/NEST_(NEural_Simulation_Tool)#Overview)
+
+##Main features
+
+* Models of information processing e.g. in the visual or auditory cortex of mammals.<ref>Akam, T., & Kullmann, D. M. (2010). Oscillations and filtering networks support flexible routing of information. Neuron, 67(2), 308–20. doi:10.1016/j.neuron.2010.06.019</ref><ref>Kremkow, J., Perrinet, L. U., Masson, G. S., & Aertsen, A. (2010). Functional consequences of correlated excitatory and inhibitory conductances in cortical networks. Journal of computational neuroscience, 28(3), 579–94. doi:10.1007/s10827-010-0240-9</ref>
+* Models of network activity dynamics, e.g. in laminar cortical networks or balanced random networks.<ref>Marre, O., Yger, P., Davison, A. P., & Frégnac, Y. (2009). Reliable recall of spontaneous activity patterns in cortical networks. The Journal of neuroscience : the official journal of the Society for Neuroscience, 29(46), 14596–606. doi:10.1523/JNEUROSCI.0753-09.2009</ref>
+* Models of spike synchronization in large networks.<ref>Gollo, L. L., Mirasso, C., & Villa, A. E. P. (2010). Dynamic control for synchronization of separated cortical areas through thalamic relay. NeuroImage, 52(3), 947–55. doi:10.1016/j.neuroimage.2009.11.058</ref>
+* Models of learning and plasticity.<ref>Potjans, W., Morrison, A., & Diesmann, M. (2009). A spiking neural network model of an actor-critic learning agent. Neural computation, 21(2), 301–39. doi:10.1162/neco.2008.08-07-593</ref>
+
+=== Neuron models ===
+* Integrate-and-fire models with different types of synaptic currents or potentials
+* Integrate-and-fire models with conductance based synapses
+* Single compartment Hodgkin–Huxley models
+* Adaptive Exponential Integrate and Fire neuron (AdEx)
+* MAT2 neuron model
+
+=== Network models ===
+* Random network|Random neural network
+* Topographic map (Neuroanatomy)|Topological networks
+* Data-driven network models
+
+=== Synapse models ===
+* Static synapses with homogeneous or heterogeneous weight and delay.
+* Spike-timing-dependent plasticity
+* Short-term plasticity (Tsodyks & Markram synapses)
+* Neuromodulation|Neuromodulated synapses, using Dopamine.
+
 ##References
 
 1. [Computational Neuroscience, Realistic Neural Networks](http://home.earthlink.net/~perlewitz/sftwr.html#realistic)
