@@ -316,28 +316,52 @@ Among other things, Nengo has been used to implement motor control, visual atten
 
 ##Main features
 
+###Models
+
 * Models of information processing e.g. in the visual or auditory cortex of mammals.<ref>Akam, T., & Kullmann, D. M. (2010). Oscillations and filtering networks support flexible routing of information. Neuron, 67(2), 308–20. doi:10.1016/j.neuron.2010.06.019</ref><ref>Kremkow, J., Perrinet, L. U., Masson, G. S., & Aertsen, A. (2010). Functional consequences of correlated excitatory and inhibitory conductances in cortical networks. Journal of computational neuroscience, 28(3), 579–94. doi:10.1007/s10827-010-0240-9</ref>
 * Models of network activity dynamics, e.g. in laminar cortical networks or balanced random networks.<ref>Marre, O., Yger, P., Davison, A. P., & Frégnac, Y. (2009). Reliable recall of spontaneous activity patterns in cortical networks. The Journal of neuroscience : the official journal of the Society for Neuroscience, 29(46), 14596–606. doi:10.1523/JNEUROSCI.0753-09.2009</ref>
 * Models of spike synchronization in large networks.<ref>Gollo, L. L., Mirasso, C., & Villa, A. E. P. (2010). Dynamic control for synchronization of separated cortical areas through thalamic relay. NeuroImage, 52(3), 947–55. doi:10.1016/j.neuroimage.2009.11.058</ref>
 * Models of learning and plasticity.<ref>Potjans, W., Morrison, A., & Diesmann, M. (2009). A spiking neural network model of an actor-critic learning agent. Neural computation, 21(2), 301–39. doi:10.1162/neco.2008.08-07-593</ref>
 
-=== Neuron models ===
+###Neuron models
+
 * Integrate-and-fire models with different types of synaptic currents or potentials
 * Integrate-and-fire models with conductance based synapses
 * Single compartment Hodgkin–Huxley models
 * Adaptive Exponential Integrate and Fire neuron (AdEx)
 * MAT2 neuron model
 
-=== Network models ===
+###Network models
+
 * Random network|Random neural network
 * Topographic map (Neuroanatomy)|Topological networks
 * Data-driven network models
 
-=== Synapse models ===
+###Synapse models
+
 * Static synapses with homogeneous or heterogeneous weight and delay.
 * Spike-timing-dependent plasticity
 * Short-term plasticity (Tsodyks & Markram synapses)
 * Neuromodulation|Neuromodulated synapses, using Dopamine.
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 1
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. [Option to construct simplified models of:](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=http%3A%2F%2Fwww.nada.kth.se%2Futbildning%2Fgrukth%2Fexjobb%2Frapportlistor%2F2012%2Frapporter12%2Fbiro_ronald_12009.pdf&ei=JATWU6GqH4fnywOWhIL4BA&usg=AFQjCNFzsKzno-akK3LVuKmGqHafoxGzPA&sig2=NA3hIu14UL_JCfDtLuLBDQ&bvm=bv.71778758,d.bGQ) [(Short term plasticity in basal ganglia)](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=http%3A%2F%2Fwww.nada.kth.se%2Futbildning%2Fgrukth%2Fexjobb%2Frapportlistor%2F2012%2Frapporter12%2Fbiro_ronald_12009.pdf&ei=JATWU6GqH4fnywOWhIL4BA&usg=AFQjCNFzsKzno-akK3LVuKmGqHafoxGzPA&sig2=NA3hIu14UL_JCfDtLuLBDQ&bvm=bv.71778758,d.bGQ)
+  1. VTA = 1
+  2. Substantia nigra = 1
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 1
+  5. Striatum = 1
+  6. Hippocampus = 0
+  7. Frontal cortex = 1
+  8. Amygdala = 1
+
+**Total = 7**
+
 
 ##References
 
