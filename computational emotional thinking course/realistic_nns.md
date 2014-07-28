@@ -410,6 +410,65 @@ ReMoto is a web-based neuronal simulation system, intended for studying spinal c
 
 **Total = 0**
 
+##[SpikeNet](http://sccn.ucsd.edu/~arno/spikenet/)
+
+###Main features
+
+1. Perform image processing using biologically plausible network of neurons.
+1. Simulate millions of integrate-and-fire neurons organized in retinotopical maps.
+1. Connect these neuronal maps using projection files, and regroup common synaptic weights to save memory in order to be able to declare several hundreds of billions of synaptic connections.
+1. Convert gray level images into lists of spikes (also SpikeNET can perform a variety of preprocessing on the input images).
+1. Implement a complex mechanism for projection between neuronal maps of different sizes.
+1. Implement supervised learning.
+1. Implement the efficient neuronal Rank-Order-Coding scheme (optional)
+1. SpikeNET does not have yet a comprehensive graphic interface. The neural network topology must be described using several configuration files (documented below).
+1. SpikeNET has never been used to process more than one spike per neuron (SpikeNET was initially designed to test the biological plausibility of feed-forward processing using at most one spike per neuron). Note that it is still possible to implement lateral inhibition or excitation as well as feedback as long as neurons discharge only once.
+1. SpikeNET can not implement synaptic connection with various delays. All synaptic connections are instantaneous
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 0
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 0
+  6. Hippocampus = 0
+  7. Frontal cortex = 1
+  8. Amygdala = 0
+
+**Total = 1**
+
+##[Topographica](http://ioam.github.io/topographica/)
+
+##Main features
+
+Topographica's main target audience is computational neuroscientists who want to simulate large, topographically mapped brain regions. Many such researchers initially start coding with general-purpose languages like Matlab or bare Python, because it is relatively straightforward to specify an initial fully-connected model with square connections and hard-coded sizes from scratch. However, as soon as the model becomes more complex, the code quickly becomes unwieldy. Supporting local rather than full connectivity, circular or arbitrary connection patterns rather than rectangular arrays, variable densities of neurons per region rather than hard-coded ones, arbitrary patterns of connectivity (including feedforward and feedback connections) between sheets rather than feedforward connections only, — all of these will quickly make code be unreadable and unmaintainable without a clear, clean overall design. Topographica’s developers have dealt with these cases already, and the result is highly robust and reliable, making it very straightforward to run a large class of models without complicated coding or debugging.
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 0
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 0
+  6. Hippocampus = 0
+  7. Frontal cortex = 1
+  8. Amygdala = 0
+
+**Total = 1**
+
+
+
 ##References
 
 1. [Computational Neuroscience, Realistic Neural Networks](http://home.earthlink.net/~perlewitz/sftwr.html#realistic)
