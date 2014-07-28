@@ -368,7 +368,6 @@ Among other things, Nengo has been used to implement motor control, visual atten
 
 NSL, Neural Simulation Language, is a simulation system for large-scale general neural networks. NSL provides a simulation environment simplifying the task of modeling neural networks. In particular, NSL supports neural models having as basic data structure neural layers with similar properties and similar connection patterns, where neurons are modeled as leaky integrators with connections subject to diverse learning rules. Development of NSL has gone hand in hand with modeling of neural mechanisms underlying visuomotor coordination, with special emphasis on the analysis of data from anurans, monkeys, and humans. NSL follows an object-oriented design, providing higher level programming abstraction corresponding to neural elements. NSL provides system development tools, such as visualization capabilities and a run-time interpreter, which give the user powerful tools in developing and analyzing models. NSL has been widely used throughout the world for both teaching and research.
 
-
 ###Analysis
 
 1. Presence of neuromodulatory systems:
@@ -387,7 +386,29 @@ NSL, Neural Simulation Language, is a simulation system for large-scale general 
 
 **Total = 1**
 
+##[ReMoto](http://remoto.leb.usp.br/remoto/index.html)
 
+###Main features
+
+ReMoto is a web-based neuronal simulation system, intended for studying spinal cord neuronal networks responsible for muscle control. These networks are affected by descending drive, afferent drive, and electrical nerve stimulation. The simulator may be used to investigate phenomena at several levels of organization, e.g., at the neuronal membrane level or at the whole muscle behavior level (e.g., muscle force generation). This versatility is due to the fact that each element (neurons, synapses, muscle fibers) has its own specific mathematical model, usually involving the action of voltage- or neurotransmitter-dependent ionic channels. The simulator should be helpful in activities such as interpretation of results obtained from neurophysiological experiments in humans or mammals, proposal of hypothesis or testing models or theories on neuronal dynamics or neuronal network processing, validation of experimental protocols, and teaching neurophysiology.
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 0
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 0
+  6. Hippocampus = 0
+  7. Frontal cortex = 0
+  8. Amygdala = 0
+
+**Total = 0**
 
 ##References
 
