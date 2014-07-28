@@ -1,5 +1,24 @@
 #Realistic neural networks
 
+##Cumulative table
+
+Number |SNN                    |Score|Reference
+-------|:----------------------|----:|---------
+1.     |AnimatLab              | 0   |
+2.     |BRIAN                  | 0   |
+3.     |CARLsim                | 0   |
+4.     |Catacomb               | 0   |
+5.     |CSIM                   | 0   |
+6.     |mozaik                 | 0   |
+7.     |Mvaspike               | 0   |
+8.     |**NCS**                | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/realistic_nns.md#ncs)
+9.     |**Nengo**              | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/realistic_nns.md#the-nengo-neural-simulator)
+10.    |**NEST**               | 7   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/realistic_nns.md#nest)
+11.    |NSL                    | 1   |
+12.    |ReMoto                 | 0   |
+13.    |SpikeNet               | 1   |
+14.    |Topographica           | 1   |
+
 ##Criteria
 
 1. Presence of neuromodulatory systems:
@@ -16,9 +35,7 @@
   7. Frontal cortex
   8. Amygdala
 
-##AnimatLab
-
-http://www.animatlab.com/GettingStarted/tabid/55/Default.aspx
+##[AnimatLab](http://www.animatlab.com/GettingStarted/tabid/55/Default.aspx)
 
 ###Main features:
 1.	Integrate And Fire Neurons.
@@ -58,8 +75,7 @@ http://www.animatlab.com/GettingStarted/tabid/55/Default.aspx
 
 **Total = 0**
 
-##BRIAN
-
+##[BRIAN](http://briansimulator.org/)
 
 ###Main features
 
@@ -92,7 +108,7 @@ Integration methods: exact integration for linear models, Euler, Runge-Kutta and
 
 **Total = 0**
 
-##CARLsim: a GPU-accelerated SNN Simulator
+##[CARLsim: a GPU-accelerated SNN Simulator](http://www.socsci.uci.edu/~jkrichma/CARLsim/)
 
 ###Main features
 
@@ -118,7 +134,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
-##Catacomb
+##[Catacomb](http://catacomb.org/)
 
 ###Main features
 
@@ -157,7 +173,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
-##CSIM: A neural Circuit SIMulator
+##[CSIM: A neural Circuit SIMulator](http://www.lsm.tugraz.at/csim/)
 
 ##Main features
 
@@ -186,7 +202,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
-##mozaik
+##[mozaik](http://neuralensemble.org/mozaik/)
 
 ###Mani features
 
@@ -216,7 +232,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
-##Mvaspike
+##[Mvaspike](http://mvaspike.gforge.inria.fr/)
 
 ###Main features
 
@@ -258,6 +274,7 @@ Our current NeoCortical Simulator (NCS) was developed in the Brain Computation L
 NCS not only supports simulations for larger models, but also is the first simulator to support real-time neurorobotics applications.
 
 ###Main features
+
 NCS5 models integrate-and-fire neurons with conductance-based synapses using two clusters: four SUN 4600 machines (16-processors each) connected via Infiniband with 192 GB RAM per machine, 24 Terabytes of disk storage; and 208 Opteron cores, 416 GB RAM, and more than a Terabyte of disk storage.
 
 Experiments have demonstrated biologically realistic learning in real time by distributing models of 100,000 neurons over a cluster of 208 processors.
@@ -310,7 +327,7 @@ Among other things, Nengo has been used to implement motor control, visual atten
 
 **Total = 6**
 
-##[Nest](http://www.nest-initiative.org/index.php/About_Us)
+##[NEST](http://www.nest-initiative.org/index.php/About_Us)
 
 [Overview](http://www.scholarpedia.org/article/NEST_(NEural_Simulation_Tool)#Overview)
 
@@ -467,7 +484,29 @@ Topographica's main target audience is computational neuroscientists who want to
 
 **Total = 1**
 
+##[XNBC](http://sourceforge.net/projects/xnbc/)
 
+###Main features
+
+XNBC is a full featured application for computer naive neuroscientists. It simulates biological neural networks using graphic tools to edit neurons and networks, to run the simulation and to analyze results. Written in C, it runs on Unix and Windows.
+
+###Analysis
+
+1. Presence of neuromodulatory systems:
+  1. Dopamine = 0
+  2. Serotonin = 0
+  3. Noradrenaline = 0
+2. Option to construct simplified models of:
+  1. VTA = 0
+  2. Substantia nigra = 0
+  3. Raphe nuclei = 0
+  4. Nucleus accumbens = 0
+  5. Striatum = 0
+  6. Hippocampus = 0
+  7. Frontal cortex = 0
+  8. Amygdala = 0
+
+**Total = 0**
 
 ##References
 
