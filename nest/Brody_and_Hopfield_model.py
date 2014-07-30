@@ -27,7 +27,7 @@ import numpy
 N=1000 #Jellyfish
 
 N=1000000 #Cockroach 
-N=4000000 #Mouse cortex
+N=4000000 #Mouse cortex = 01:02:27
 
 bias_begin=140. # bias current from...
 bias_end=200.   # ...to (ms) 
