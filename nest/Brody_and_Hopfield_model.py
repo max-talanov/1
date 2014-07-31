@@ -60,5 +60,6 @@ nest.ConvergentConnect(neurons, sd)
 
 nest.Simulate(T)
 
+print "nest model processing complete with %s neurons" % N
 #nest.raster_plot.from_device(sd)
 #nest.raster_plot.show()
