@@ -26,8 +26,8 @@ import numpy
 # number of neurons
 N=1000 #Jellyfish
 
-N=1000000 #Cockroach 
-N=4000000 #Mouse cortex = 04:02:27
+#N=1000000 #Cockroach 
+#N=4000000 #Mouse cortex = 04:02:27
 
 bias_begin=140. # bias current from...
 bias_end=200.   # ...to (ms) 
@@ -39,7 +39,7 @@ def bias(n):
 
 driveparams  = {'amplitude':50., 'frequency':35.}
 noiseparams  = {'mean':0.0, 'std':200.}
-sdparams     = { 'to_file':False, 'to_screen':False}
+sdparams     = { 'to_file':True, 'to_screen':False}
 neuronparams = { 'tau_m':20., 'V_th':20., 'E_L':10.,
                  't_ref':2., 'V_reset':0., 'C_m':200., 'V_m':0.}
 
