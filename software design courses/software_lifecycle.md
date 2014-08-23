@@ -23,6 +23,7 @@ The waterfall model shows a process, where developers are to follow these phases
 ## Requirements
 
 Artifacts:
+
 1. Vision
 1. User story
 1. Use case
@@ -60,4 +61,4 @@ Usually is done automatically via some remote procedure or deployment script or 
 
 ## Maintenance
 
-Actually this could be special project. It should contain term of service SLA, processes and so on. During maintenance no major changes(of architecture) is implemented, minor CR-s, bugs. 
+Actually this could be special project. It should contain term of service SLA, processes and so on. During maintenance no major changes(of architecture) is implemented, minor CR-s, bugs.

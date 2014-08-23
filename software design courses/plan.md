@@ -1,5 +1,6 @@
 #Design course plan
 
+1. [Intro](intro.md)
 1. [Software life-cycle](software_lifecycle.md)
   2. Roles in project
   2. Phases of the project
