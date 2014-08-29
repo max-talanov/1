@@ -1,4 +1,4 @@
-#Affective programming (computational emotions) course plan
+#Affective computation (computational emotions) course plan
 
 Max Talanov: talanov.max@gmail.com
 
