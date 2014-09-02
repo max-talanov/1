@@ -2,7 +2,7 @@
 
 Max Talanov: talanov.max@gmail.com
 
-1. [Intro](intro.md), [lab](intro.lab).
+1. [Intro](intro.md), [lab](lab_0.md).
 1. [Artificial and natural intelligence in one practical example](one_example.md)
 1. [Emotional thinking from bird eye view (lectures: 1, 2 and 3).](emotional_thinking.md)
   2. [Consciousness (lectures: 1 and 2).](consciousness.mod)
