@@ -85,11 +85,6 @@ This is example of how do we use emotions in time control to change our actions 
 
 First starting point is the philosophy, we use Marvin Minsky book ["The emotion machine"](http://en.wikipedia.org/wiki/The_Emotion_Machine).
 
-###Marvin Minsky's question:
-
-"What could make our brain grow?" In other words our ancestors monkeys that lived in some form till some moment 5 million years ago, what could trigger their brain to increase the frontal lobe? 
-
-
 ![model 6](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
 
 1. `Inborn, Instinctive Reactions: Joan hears a sound and turns her head. All animals are born equipped with ‘instincts’ that help them to survive.`
@@ -104,6 +99,10 @@ Our practical examle in this model:
 ![Orchestra of emotions](figure1_orchestra_of_emotions.png)
 
 This is deliberatevly simplifed mapping of emotions to the "Model of six".
+
+#Marvin Minsky's question:
+
+"What could make our brain grow?" In other words our ancestors monkeys that lived in some form till some moment 5 million years ago, what could trigger their brain to increase the frontal lobe?
 
 ##Psychological view
 
