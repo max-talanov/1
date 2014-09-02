@@ -4,10 +4,10 @@ Max Talanov: talanov.max@gmail.com
 
 1. [Intro](intro.md), [lab](lab_0.md).
 1. [Artificial and natural intelligence in one practical example](one_example.md)
-1. [Emotional thinking from bird eye view (lectures: 1, 2 and 3).](emotional_thinking.md)
-  2. [Consciousness (lectures: 1 and 2).](consciousness.mod)
-  2. [Levels of mental activities.](levels_of_mental_activities.md)
-  2. [Thinking.](thinking.md)
+1. [Emotional thinking from bird eye view (lectures: 1 and 2).](emotional_thinking.md)
+  2. [Consciousness (lectures: 1, 2, 3).](consciousness.mod)
+  2. [Levels of mental activities (lectures 1 and 2).](levels_of_mental_activities.md)
+  2. [Thinking (lectures 1 and 2).](thinking.md)
 1. [Psychological models of emotion.](psychological_models_of_emotion.md)
 1. Neuro-scientific background:
   2. [Neurons and chemical synapses](neurons_and_chemical_synapses.md)
