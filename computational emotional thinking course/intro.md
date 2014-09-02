@@ -40,6 +40,7 @@ This year scientists from Stanford university developed [NeuroGrid](http://news.
 1. Society
 1. Transhumanism
 1. Technological Singularity
+1. AI winter
 
 ##References
 
