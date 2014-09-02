@@ -4,7 +4,7 @@
 
 ###Marvin Minsky
 
-Sometimes a person gets into a state where everything seems to be cheerful and bright—although nothing outside has actually changed. Other times everything pleases you less: the entire world seems dreary and dark, and your friends complain that you seem depressed. Why do we have such states of mind—or moods, or feelings, or dispositions—and what causes all their strange effects? Here are some of the phrases we find when dictionaries define **emotion**.
+Sometimes a person gets into a state where everything seems to be cheerful and bright-although nothing outside has actually changed. Other times everything pleases you less: the entire world seems dreary and dark, and your friends complain that you seem depressed. Why do we have such states of mind-or moods, or feelings, or dispositions-and what causes all their strange effects? Here are some of the phrases we find when dictionaries define **emotion**.
 
 1. The subjective experience of a strong feeling.
 1. A state of mental agitation or disturbance.
@@ -46,15 +46,15 @@ Affective computation 1 concerns multifaceted emotional or emotion-relevant cogn
 
 ...
 
-Affect is used either synonymously with, or in contradistinction to, emotion. For some (cf. [11]), affect is considered an umbrella term for valenced neurophysiological phenomena (e.g. drives, motivations, emotions, feelings, moods). In this sense, emotion is a type of affective state. However, it has also been considered as distinct from emotion, founded upon enduring valenced states (e.g. moods) whereas emotions are viewed in terms of fast object-directed responses ([12]). In this sense, emotion is a related but distinct phenomenon to affect.
+Affect is used either synonymously with, or in contradistinction to, emotion. For some, affect is considered an umbrella term for valenced neurophysiological phenomena (e.g. drives, motivations, emotions, feelings, moods). In this sense, emotion is a type of affective state. However, it has also been considered as distinct from emotion, founded upon enduring valenced states (e.g. moods) whereas emotions are viewed in terms of fast object-directed responses. In this sense, emotion is a related but distinct phenomenon to affect.
 
 ...
 
-We will here follow Pessoa [59] in acknowledging that emotion (much like cognition, in fact) is difficult to define clearly, and that trying to provide yet another explicit definition might not be helpful.
+We will here follow Pessoa in acknowledging that emotion (much like cognition, in fact) is difficult to define clearly, and that trying to provide yet another explicit definition might not be helpful.
 
 ####Marsella and Gratch
 
-Further, emotions are an important cue to a person’s mental state and are frequently attributed to humans in the absence of any visible signal (e.g., he is angry but suppressing it) so failure to model and express emotions in virtual humans leads users to misinterpret the virtual human behavior. Virtual humans that model and express emotions also provide more engaging experiences for the immersed human users.
+Further, emotions are an important cue to a person's mental state and are frequently attributed to humans in the absence of any visible signal (e.g., he is angry but suppressing it) so failure to model and express emotions in virtual humans leads users to misinterpret the virtual human behavior. Virtual humans that model and express emotions also provide more engaging experiences for the immersed human users.
 
 ###Antonio R. Damasio
 
