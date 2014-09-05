@@ -29,17 +29,6 @@ Sometimes a person gets into a state where everything seems to be cheerful and b
 1. A psychological feeling, usually accompanied by a physiological reaction
 1. The feeling one experiences in reaction to a person or situation
 
-###Aaron Sloman
-
-####The trouble with definitions
-
-Part of the problem is that many of the words we use for describing human mental states and processes (including 'emotion', 'learning', 'intelligence', 'consciousness') are far too ill-defined to be useful in scientific theories. Not even professional scientists are close to using agreed definitions of, '**emotion**'.
-
-1. The concept of emotion is but one of a large family of intricately related everyday concepts, including many affective concepts (e.g. moods, attitudes, desires, dislikes, preferences, values, standards, ideals, intentions, etc.), the more enduring of which can be thought of as making up the notion of a "personality".
-1. Models that purport to account for "**emotion**" without accounting for others in the family are bound to be shallow.
-
-Specifying what we are talking about generates difficult conceptual problems. Whichever of the three motivations listed above drives the modelling of emotions and other mental phenomena, the work understandably starts from concepts of ordinary language (e.g. "emotion", "mood", "feeling", "pleasure", etc.). These concepts can be deceptive to those not trained in philosophical analysis. The concepts are so familiar that they appear to have very clear, commonly understood, meanings, whereas detailed analysis shows that the opposite is true: the familiar labels often refer to concepts that are riddled with confusion and ambiguity, and when people attempt to define them they come up with widely different definitions. For instance in the psychological literature there are a multitude of definitions of “emotion”, some stressing brain processes, some stressing peripheral physiological processes, some stressing patterns of behaviour, some stressing eliciting conditions, some stressing the functional roles, some stressing introspective qualities. This diversity was already evident long ago in the collection edited by Magda Arnold (1968).
-
 ####Lowe and Ziemke
 
 Affective computation 1 concerns multifaceted emotional or emotion-relevant cognitive phenomena including attention, perception, memory, learning and decision making with the premise that it is in fact indispensable to rational cognitive behavior.
@@ -60,6 +49,16 @@ Further, emotions are an important cue to a person's mental state and are freque
 
 Emotion in the perspective of an integrated nervous system emphasized the effect of emotions: The ultimate results of emotion are of two kinds. First there are behaviors - the expressing of joy, or anger, or disgust - which affect interactions with other living creatures. Second, there are experiences of emotional states, that is feelings, which affect the ongoing thinking of the subject and by so doing can alter future thinking, future planning and future behavior.
 
+###Aaron Sloman
+
+####The trouble with definitions
+
+Part of the problem is that many of the words we use for describing human mental states and processes (including 'emotion', 'learning', 'intelligence', 'consciousness') are far too ill-defined to be useful in scientific theories. Not even professional scientists are close to using agreed definitions of, '**emotion**'.
+
+1. The concept of emotion is but one of a large family of intricately related everyday concepts, including many affective concepts (e.g. moods, attitudes, desires, dislikes, preferences, values, standards, ideals, intentions, etc.), the more enduring of which can be thought of as making up the notion of a "personality".
+1. Models that purport to account for "**emotion**" without accounting for others in the family are bound to be shallow.
+
+Specifying what we are talking about generates difficult conceptual problems. Whichever of the three motivations listed above drives the modelling of emotions and other mental phenomena, the work understandably starts from concepts of ordinary language (e.g. "emotion", "mood", "feeling", "pleasure", etc.). These concepts can be deceptive to those not trained in philosophical analysis. The concepts are so familiar that they appear to have very clear, commonly understood, meanings, whereas detailed analysis shows that the opposite is true: the familiar labels often refer to concepts that are riddled with confusion and ambiguity, and when people attempt to define them they come up with widely different definitions. For instance in the psychological literature there are a multitude of definitions of “emotion”, some stressing brain processes, some stressing peripheral physiological processes, some stressing patterns of behaviour, some stressing eliciting conditions, some stressing the functional roles, some stressing introspective qualities. This diversity was already evident long ago in the collection edited by Magda Arnold (1968).
 
 #Ice Breaker
 
