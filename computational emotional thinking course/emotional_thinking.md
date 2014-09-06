@@ -119,6 +119,8 @@ Axes:
 1. Sensitivity (anger - fear)
 1. Aptitude (trust - disgust)
 
+![Hourglass of emotions](Sentic Computing - sentic-computing.pdf.png)
+
 ###Tomkins theory of affects
 
 **Positive:**
@@ -161,3 +163,4 @@ Axes:
 1. [Nucleus accumbens, Wikipedia page](http://en.wikipedia.org/wiki/Nucleus_accumbens)
 1. [Striatum, Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
 1. [Hippocampus, Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
+1. [Sentic computing book](http://sentic.net/sentic-computing.pdf)
