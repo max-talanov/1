@@ -121,6 +121,8 @@ Axes:
 
 ![Hourglass of emotions](Sentic Computing - sentic-computing.pdf.png)
 
+Practical use: Trolling detection software.
+
 ###Tomkins theory of affects
 
 **Positive:**
