@@ -79,7 +79,6 @@ You have got the task on the timely basis: solve some problem in 15 minutes.
 
 This is example of how do we use emotions in time control to change our actions strategy in everyday life.
 
-
 ##The emotion machine (Model 6)
 
 First starting point is the philosophy, we use Marvin Minsky book ["The emotion machine"](http://en.wikipedia.org/wiki/The_Emotion_Machine).
@@ -108,6 +107,8 @@ This is deliberatevly simplifed mapping of emotions to the "Model of six".
 Starting form Darwin.
 
 ###Plutchik wheel of emotions
+
+Evolutionary psychology.
 
 ![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
 
@@ -148,6 +149,7 @@ Axes:
 
 ##References
 
+1. [Antonio R Damasio, Emotion in the perspective of an integrated nervous system](https://www.researchgate.net/publication/13632270_Emotion_in_the_perspective_of_an_integrated_nervous_system)
 1. [Plutchik, Wheel of emotion, Wikipedia page](http://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions)
 1. [Tomkins, Theory of affects, Wikipedia page](http://en.wikipedia.org/wiki/Affect_theory)
 1. [Marvin Minsky, The emotion Machine Draft, Falling in love](http://web.media.mit.edu/~minsky/E1/eb1.html)

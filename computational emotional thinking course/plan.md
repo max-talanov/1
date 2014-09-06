@@ -4,6 +4,7 @@ Max Talanov: talanov.max@gmail.com
 
 1. [Intro](intro.md), [lab](lab_0.md).
 1. [Artificial and natural intelligence in one practical example](one_example.md)
+1. [Main ideas of Intro and Artificial and natural intelligence in one practical example lectures](main_ideas_of_1_and_2.md)
 1. [Emotional thinking from bird eye view (lectures: 1 and 2).](emotional_thinking.md)
   2. [Consciousness (lectures: 1, 2, 3).](consciousness.md)
   2. [Levels of mental activities (lectures 1 and 2).](levels_of_mental_activities.md)
