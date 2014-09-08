@@ -8,6 +8,8 @@
 1. Our programs do not evolve ...
 1. Currently we do not have enough computing power to build SNN similar to human brain.
 
+[Cognitive science wikipedia page](http://en.wikipedia.org/wiki/Cognitive_science)
+
 ##Artificial and natural intelligence in one practical example
 
 1. Problems of GOFAI approaches:
