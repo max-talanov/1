@@ -60,7 +60,7 @@ Part of the problem is that many of the words we use for describing human mental
 
 Specifying what we are talking about generates difficult conceptual problems. Whichever of the three motivations listed above drives the modelling of emotions and other mental phenomena, the work understandably starts from concepts of ordinary language (e.g. "emotion", "mood", "feeling", "pleasure", etc.). These concepts can be deceptive to those not trained in philosophical analysis. The concepts are so familiar that they appear to have very clear, commonly understood, meanings, whereas detailed analysis shows that the opposite is true: the familiar labels often refer to concepts that are riddled with confusion and ambiguity, and when people attempt to define them they come up with widely different definitions. For instance in the psychological literature there are a multitude of definitions of “emotion”, some stressing brain processes, some stressing peripheral physiological processes, some stressing patterns of behaviour, some stressing eliciting conditions, some stressing the functional roles, some stressing introspective qualities. This diversity was already evident long ago in the collection edited by Magda Arnold (1968).
 
-![Affect keywords](affects_key_words_scale.jpg)
+![Affect keywords](affects_key_words_scaled.jpg)
 
 #Ice Breaker
 
