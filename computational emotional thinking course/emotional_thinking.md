@@ -71,7 +71,7 @@ Programming in near future 5-10 years.
 Emotions and affects are umbrella term that encapsulate a lot of concepts. We have created the list of key words, see picture above.
 Psychological phenomena are hard to define and sometimes we don't benefit of one more definition.
 
-![Cognitive science](http://commons.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mediaviewer/File:Cognitive_Science_Hexagon.svg)
+![Cognitive science](http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cognitive_Science_Hexagon.svg/640px-Cognitive_Science_Hexagon.svg.png)
 
 #Ice breaker
 Why did emotions evolve?
