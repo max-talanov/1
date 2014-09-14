@@ -96,6 +96,8 @@ First starting point is the philosophy, we use Marvin Minsky book ["The emotion 
 
 ![model 6](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
 
+###Situation with Joan
+
 1. `Inborn, Instinctive Reactions: Joan hears a sound and turns her head. All animals are born equipped with ‘instincts’ that help them to survive.`
 1. `Learned Reactions: She sees a quickly oncoming car. Joan had to learn that conditions like this demand specific ways to react.`
 1. `Deliberative Thinking: To decide what to say at the meeting, she considers several alternatives, and tries to decide which would be best.`
@@ -109,9 +111,14 @@ Our practical examle in this model:
 
 This is deliberatevly simplifed mapping of emotions to the "Model of six".
 
+##Model of six to ego and super ego mapping
+
+![Model of six to ego and super ego mapping](https://camo.githubusercontent.com/79025891d925383bbfbcea93bc7610b127baf82c/687474703a2f2f7765622e6d656469612e6d69742e6564752f2537456d696e736b792f45352f6562355f66696c65732f696d6167653032352e706e67)
+
 #Marvin Minsky's question:
 
 "What could make our brain grow?" In other words our ancestors monkeys that lived in some form till some moment 5 million years ago, what could trigger their brain to increase the frontal lobe?
+
 
 ##Psychological view
 
