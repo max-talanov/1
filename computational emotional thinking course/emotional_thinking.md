@@ -66,6 +66,13 @@ Specifying what we are talking about generates difficult conceptual problems. Wh
 
 Programming in near future 5-10 years.
 
+#Main ideas of previous lecture
+
+Emotions and affects are umbrella term that encapsulate a lot of concepts. We have created the list of key words, see picture above.
+Psychological phenomena are hard to define and sometimes we don't benefit of one more definition.
+
+#Ice breaker
+Why did emotions evolve?
 
 ##Orchestra of emotions
 
