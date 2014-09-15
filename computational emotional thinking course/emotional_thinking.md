@@ -165,6 +165,27 @@ Practical use: Trolling detection software.
 
 ![Lovheim cube of emotions](http://upload.wikimedia.org/wikipedia/commons/c/c1/L%C3%B6vheim_cube_of_emotion.jpg)
 
+
+Monoamine         | Area projecting to the cerebral cortex | Assumed axis representation
+------------------|----------------------------------------|----------------------------
+Serotonin (5-HT)  | Raphe nuclei                           | Self confidence, inner strength, satisfaction
+Dopamine (DA)     | Ventral tegmental area                 | Reward, reinforcement, motivation
+Noradrenaline (NE)| Tyrosine Locus ceruleus                | Attention, vigilance, activity
+
+####The basic emotions, facial expression and assumed monoamine levels.
+
+Basic emotion      | Facial expression                                                      |5-HT | DA  | NE
+-------------      |------------------                                                      |-----|-----|----
+Interest/excitement| Eyebrows down, eyes track, look, listen                                | High| High| High
+Enjoyment/joy      | Smile, lips widened up and out, smiling eyes (circular wrinkles)       | High| High| Low
+Surprise           | Eyebrows up, eyes blink                                                | High| Low | High
+Distress/anguish   | Crying, arched eyebrows, mouth down, tears, rhythmic sobbing           | Low | Low | High
+Fear/terror        | Eyes frozen open, pale, cold, sweaty, facial trembling, with hair erect| Low | High| Low
+Shame/humiliation  | Eyes down, head down                                                   | Low | Low | Low
+Contempt/disgust   | Sneer, upper lip up                                                    | High| Low | Low
+Anger/rage         | Frown, clenched jaw, eyes narrowed, red face                           | Low | High| High
+
+
 ###Dopamine and serotonin pathways
 
 ![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
@@ -180,6 +201,7 @@ Practical use: Trolling detection software.
 1. Lowe and Ziemke, On the Role of Emotion in Embodied Cognitive Architectures:From Organisms to Robots
 1. [Marsella and Gratch, Evaluating a computational model of emotion](http://people.ict.usc.edu/~marsella/publications/GratchMarsellaJAAMAS05.pdf)
 1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
+1. Lovheim, A new three-dimensional model for emotions and monoamine neurotransmitters
 1. [Nucleus accumbens, Wikipedia page](http://en.wikipedia.org/wiki/Nucleus_accumbens)
 1. [Striatum, Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
 1. [Hippocampus, Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
