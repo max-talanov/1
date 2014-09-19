@@ -159,6 +159,11 @@ Practical use: Trolling detection software.
 * Fear/Terror - a frozen stare, a pale face, coldness, sweat, erect hair
 * Shame/Humiliation - eyes lowered, the head down and averted, blushing
 
+##PAD space
+
+![PAD space adopted from: Emotion and sociable humanoid robots](Emotion and sociable humanoid robots_PAD space.png)
+
+
 ##Neuroscientific view 
 
 ###Cube of emotions by Hugo Lovheim
@@ -206,3 +211,4 @@ Anger/rage         | Frown, clenched jaw, eyes narrowed, red face               
 1. [Striatum, Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
 1. [Hippocampus, Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
 1. [Sentic computing book](http://sentic.net/sentic-computing.pdf)
+1. Cynthia Breazeal, Emotion and sociable humanoid robots
