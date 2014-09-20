@@ -159,15 +159,17 @@ Practical use: Trolling detection software.
 * Fear/Terror - a frozen stare, a pale face, coldness, sweat, erect hair
 * Shame/Humiliation - eyes lowered, the head down and averted, blushing
 
-##PAD space
+##[PAD space](http://en.wikipedia.org/wiki/PAD_emotional_state_model)
 
-![PAD space adopted from: Emotion and sociable humanoid robots](Emotion and sociable humanoid robots_PAD space.png)
+![PAD space used from: Emotion and sociable humanoid robots](Emotion and sociable humanoid robots_PAD space.png)
 
-The Pleasure-Displeasure Scale measures how pleasant an emotion may be. For instance both anger and fear are unpleasant emotions, and score high on the displeasure scale. However joy is a pleasant emotion. This dimension is usually limited to 16 specific values.
+The **Pleasure-Displeasure** Scale measures how pleasant an emotion may be. For instance both anger and fear are unpleasant emotions, and score high on the displeasure scale. However joy is a pleasant emotion. This dimension is usually limited to 16 specific values.
 
-The Arousal-Nonarousal Scale measures the intensity of the emotion. For instance while both anger and rage are unpleasant emotions, rage has a higher intensity or a higher arousal state. However boredom, which is also an unpleasant state, has a low arousal value. This scale is usually restricted to 9 specific values.
+The **Arousal-Nonarousal** Scale measures the intensity of the emotion. For instance while both anger and rage are unpleasant emotions, rage has a higher intensity or a higher arousal state. However boredom, which is also an unpleasant state, has a low arousal value. This scale is usually restricted to 9 specific values.
 
-The Dominance-Submissiveness Scale represents the controlling and dominant nature of the emotion. For instance while both fear and anger are unpleasant emotions, anger is a dominant emotion, while fear is a submissive emotion. This scale is also usually restricted to 9 specific values.
+The **Dominance-Submissiveness** Scale represents the controlling and dominant nature of the emotion. For instance while both fear and anger are unpleasant emotions, anger is a dominant emotion, while fear is a submissive emotion. This scale is also usually restricted to 9 specific values.
+
+###[Kismet](http://en.wikipedia.org/wiki/Kismet_%28robot%29)
 
 ##Neuroscientific view 
 
