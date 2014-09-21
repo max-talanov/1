@@ -119,7 +119,6 @@ This is deliberatevly simplifed mapping of emotions to the "Model of six".
 
 "What could make our brain grow?" In other words our ancestors monkeys that lived in some form till some moment 5 million years ago, what could trigger their brain to increase the frontal lobe?
 
-
 ##Psychological view
 
 Starting form Darwin.
@@ -130,7 +129,7 @@ Evolutionary psychology.
 
 ![Wheel of emotions 3D](http://dragonscanbebeaten.files.wordpress.com/2010/06/plutchiks-wheel-of-emotions.gif)
 
-Axes:
+####Axes:
 
 1. Pleasantness (joy - sadness)
 1. Attention (interest - surprise)
@@ -158,6 +157,28 @@ Practical use: Trolling detection software.
 * Distress/Anguish - crying, rhythmic sobbing, arched eyebrows, mouth lowered
 * Fear/Terror - a frozen stare, a pale face, coldness, sweat, erect hair
 * Shame/Humiliation - eyes lowered, the head down and averted, blushing
+
+#Main ideas of previous lecture
+
+Marvin Minsky proposes "Model of six" with 6 main levels:
+
+1. Instinctive reactions
+1. Learned reactions
+1. Deliberative thinking
+1. Reflective thinking
+1. Self-reflective thinking
+1. Self-conscious reflections
+
+There are six levels of mental activity where all the processes run in parallel and are loosely coupled.
+
+Robert Plutchik - evolutionary psychologist proposed "Wheel of emotions" symmetric and based on colors model of emotions with 8 basic emotions grouped in pairs:
+
+1. Pleasantness (joy - sadness)
+1. Attention (interest - surprise)
+1. Sensitivity (anger - fear)
+1. Aptitude (trust - disgust)
+
+Silvian Tomkins proposed theory of affects with 8 main affects listed above.
 
 ##[PAD space](http://en.wikipedia.org/wiki/PAD_emotional_state_model)
 
