@@ -180,6 +180,10 @@ Robert Plutchik - evolutionary psychologist proposed "Wheel of emotions" symmetr
 
 Silvian Tomkins proposed theory of affects with 8 main affects listed above.
 
+#Ice Breaker
+
+When, do you think robot will bring human to court?
+
 ##[PAD space](http://en.wikipedia.org/wiki/PAD_emotional_state_model)
 
 ![PAD space used from: Emotion and sociable humanoid robots](Emotion and sociable humanoid robots_PAD space.png)
