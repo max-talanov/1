@@ -1,5 +1,6 @@
 # Intro
-Max Talanov
+
+Max Talanov: talanov.max@gmail.com
 
 7 years - SDA(Solution design architect) in Fujitsu Russia GDC.
 

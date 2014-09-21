@@ -1,5 +1,7 @@
 #Design course plan
 
+Max Talanov: talanov.max@gmail.com
+
 1. [Intro](intro.md)
 1. [Software life-cycle](software_lifecycle.md)
   2. Roles in project
