@@ -31,6 +31,7 @@ Computational and memory resources are concentrated on current process associate
 
 
 ##Stimulation and reward processing 
+
 1. Run some series of impulses that simulate **quite** sound in auditory cortex.
 1. Run **dopamine + serotonin** neuromodulation that simulate reward.
 1. Run two steps above for training.
