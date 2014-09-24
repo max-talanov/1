@@ -32,10 +32,24 @@ Computational and memory resources are concentrated on current process associate
 
 ##Stimulation and reward processing 
 1. Run some series of impulses that simulate **quite** sound in auditory cortex.
-1. Run dopamine + serotonin neuromodulation that simulate reward.
+1. Run **dopamine + serotonin** neuromodulation that simulate reward.
 1. Run two steps above for training.
 1. Run step number one.
-1. This should initiate dopamine + serotonin modulation based on training, if we observe rise of dopamine and serotonin concentration this should effectively indicate the association of dopamine neuromodulation with **quite** sound as reward.
+1. This should initiate **dopamine + serotonin neuromodulation** based on training, if we observe rise of **dopamine and serotonin** concentration this should effectively indicate the association of dopamine neuromodulation with **quite** sound as **reward**.
 
-Same approach could be used for other neuromodulators of the "Cube of emotion" model: noradrenaline.
+###Input
 
+Series of impulses simulating **quite** sound.
+
+###Output
+
+1. **Dopamine + serotonin neuromodulation**
+1. **Reward assignment**
+
+###Precondition
+
+None
+
+###Postcondition
+
+Reward assigned to the process associated with **quite** sound.
