@@ -1,5 +1,9 @@
 #Consciousness
 
+#Icebreaker
+
+Soul?
+
 ##Marvin Minsky
 Based on Marvin Minksy chapter of "The emotion machine"
 
