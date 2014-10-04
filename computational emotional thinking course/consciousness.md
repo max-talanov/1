@@ -1,5 +1,9 @@
 #Consciousness
 
+#Icebreaker
+
+Soul?
+
 ##Marvin Minsky
 Based on Marvin Minksy chapter of "The emotion machine"
 
@@ -60,7 +64,12 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 * **Self-Imaging**: She made and used models of herself.
 * **Sense of Identity**: She regarded herself as an entity.
 
-###A-Brains and B-Brains
+#Icebreaker
+
+1. Is the consciousness needed for the AI?
+1. Is a consciousness achievable for the AI?
+
+###a-Brains and B-Brains
 
 ![A-Brains and B-Brains](http://web.media.mit.edu/~minsky/E4/eb4_files/image008.gif)
 
