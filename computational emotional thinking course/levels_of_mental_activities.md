@@ -47,7 +47,11 @@ So using logic is somewhat like walking a plank; it assumes that each separate s
 
 ##Self-reflection
 
-This could help you to recognize that you have lost track of what you were trying to do, or have been wasting time on minor details, or that you chose a poor goal to pursue. This could lead to your making a better plan—or might even lead to a large-scale cascade like, "Just thinking about this makes me feel ill. Perhaps it’s time to switch to some completely different activity."
+![Self-reflection](figure18_self_reflections.png)
+
+This could help you to recognize that you have lost track of what you were trying to do, or have been wasting time on minor details, or that you chose a poor goal to pursue. This could lead to your making a better plan—or might even lead to a large-scale cascade like, "Just thinking about this makes me feel ill. Perhaps it’s time to switch to some completely different activity.
+
+
 
 ##Self-conscious reflection
 
