@@ -62,9 +62,13 @@ But wait, there’s more. Suppose that you have some way to guess where that mid
 
 ###Logic vs. Commonsense
 
+If A implies B, and B implies C, then A implies C. But when does such “logical thinking” work?
+
 So using logic is somewhat like walking a plank; it assumes that each separate step is correct—whereas commonsense thinking demands more support; one must add evidence after every few steps.
 
 ![Logic vs. Commonsense](http://web.media.mit.edu/~minsky/E5/eb5_files/image020.png)
+
+And those frailties grow exponentially with increasingly longer chains, because every additional inference-step may give the chain more ways to break. This is why, when people present their arguments, they frequently interrupt themselves to add more evidence or analogies; they sense the need to further support the present step before they proceed to the next one.
 
 ##Reflective thinking
 
