@@ -32,6 +32,8 @@ Based on Marvin Minksy chapter of "The emotion machine"
 
 ![Learned reactions](http://web.media.mit.edu/~minsky/E5/eb5_files/image005.png)
 
+When an animal faces a new situation, it tries a random sequence of actions. Then, if one of these is followed by some “reward,” that reaction gets “reinforced.” This makes that reaction more likely to happen when that animal faces the same situation again
+
 In any case, although many of our actions are based on inborn, instinctive reactions to things, we’re constantly developing new ways to react to situations—this requires a second layer for our model of how our brains are organized.
 
 ##Deliberative thinking
