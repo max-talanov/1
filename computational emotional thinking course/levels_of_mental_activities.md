@@ -96,7 +96,9 @@ Joan must have built some models of the kinds of ideas that she "ought" to have.
 
 ##Imagination
 
+![Portraits](http://web.media.mit.edu/~minsky/E5/eb5_files/image026.png)
 
+How do you recognize features in pictures so sparse that a nose or an eye is but three or four patches of darkness or light? Clearly, you do this by using additional knowledge. For example, when you sit at a table across from your friends, you cannot see their backs or legs—but your knowledge-based systems assume by default that all those body-parts are present. Thus we take our perceptual talents for granted—but ‘seeing’ seems simple only because the rest of our minds are virtually blind to the processes that we use to do it. 
 
 ##Prediction Machines
 
