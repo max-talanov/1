@@ -80,9 +80,11 @@ Student: Would we want to say "conscious" for such a machine? It includes most o
 
 ##Self-reflection
 
+Our self-reflective level does more than does the reflective layer discussed above: it not only considers some recent thoughts, but it also thinks about the entity that had those thoughts—as when Carol said in Section 5-3, “I simply imagined an arch in my mind—and saw where each of the blocks should go.” This shows that she is using a model of herself (like the one in Chapter 4-7) that describes some of her goals and abilities.
+
 ![Self-reflection](figure18_self_reflections.png)
 
-This could help you to recognize that you have lost track of what you were trying to do, or have been wasting time on minor details, or that you chose a poor goal to pursue. This could lead to your making a better plan—or might even lead to a large-scale cascade like, "Just thinking about this makes me feel ill. Perhaps it’s time to switch to some completely different activity.
+To see the importance of self-reflection, consider how smart it is to know you’re confused (as opposed to being confused without knowing this)—because then you can tell yourself to elevate to a larger-scale view of your motives and goals. This could help you to recognize that you have lost track of what you were trying to do, or have been wasting time on minor details, or that you chose a poor goal to pursue. This could lead to your making a better plan—or might even lead to a large-scale cascade like, “Just thinking about this makes me feel ill. Perhaps it’s time to switch to some completely different activity.
 
 ##Self-conscious reflection
 
@@ -92,9 +94,9 @@ Joan must have built some models of the kinds of ideas that she "ought" to have.
 
 ![self-conscious reflections](http://web.media.mit.edu/~minsky/E5/eb5_files/image024.png)
 
-##Reference to Sigmund Freud’s idea of the mind as a "sandwich"
+##Imagination
 
-![Sigmund Freud’s idea of the mind as a "sandwich"](http://web.media.mit.edu/~minsky/E5/eb5_files/image025.png)
+
 
 ##Prediction Machines
 
