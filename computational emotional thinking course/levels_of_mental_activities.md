@@ -101,9 +101,27 @@ Joan must have built some models of the kinds of ideas that she "ought" to have.
 
 How do you recognize features in pictures so sparse that a nose or an eye is but three or four patches of darkness or light? Clearly, you do this by using additional knowledge. For example, when you sit at a table across from your friends, you cannot see their backs or legs—but your knowledge-based systems assume by default that all those body-parts are present. Thus we take our perceptual talents for granted—but ‘seeing’ seems simple only because the rest of our minds are virtually blind to the processes that we use to do it. 
 
+![Information flows in Builder earlier version](http://web.media.mit.edu/~minsky/E5/eb5_files/image031.png)
+
+Information flows in Builder earlier version.
+
+![Information flows in Builder later version](http://web.media.mit.edu/~minsky/E5/eb5_files/image032.png)
+
+Information flows in Builder later version.
+
+Richard Gregory 1998: "Such a major contribution of stored knowledge to perception is consistent with the recently discovered richness of downgoing pathways in brain anatomy. Some 80% of fibers to the lateral geniculate nucleus relay station come downwards from the cortex, and only about 20% from the retinas."
+
+All this means that the higher levels of your brain never perceive a visual scene as a mere collection of pigment spots; instead, your Scene Describers would represent an arch made of blocks in larger-scale terms like (for example) "horizontal block on top of two upright ones."
+
+![Series of guesses](http://web.media.mit.edu/~minsky/E5/eb5_files/image035.png)
+
 ##Prediction Machines
 
 ![Prediction machines loop](http://web.media.mit.edu/~minsky/E5/eb5_files/image046.png)
+
+ There are two reasons to include that pair of "Suppressor Bands" First, while you are imagining a future condition, you do not want this to be replaced by a description of the present condition; also, you don’t yet want your muscles to perform the imagined action until you have considered some other options. So you need some way to disconnect your mind, to enable you to "stop and think" before selecting which action to take.11 (This could use the same machinery that disconnects our minds from our bodies when we are dreaming while we sleep.)
+
+By repeating its cycle of operation, such a machine could look further into the future, by using the searching and planning schemes ...
 
 ##References
 
