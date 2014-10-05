@@ -54,6 +54,14 @@ But what if more than one such rule applies to the present situation. Then one c
 
 ![Four step plan to build an arch](http://web.media.mit.edu/~minsky/E5/eb5_files/image012.png)
 
+![Both side search](http://web.media.mit.edu/~minsky/E5/eb5_files/image018.png)
+
+But wait, there’s more. Suppose that you have some way to guess where that middle place M might be. Then you could split each ten-step tree into a pair of much smaller five-step ones. If all this works, then your total search will now be almost ten thousand times smaller than the original search!
+
+![Guess strategy](http://web.media.mit.edu/~minsky/E5/eb5_files/image019.png)
+
+###Logic vs. Commonsense
+
 So using logic is somewhat like walking a plank; it assumes that each separate step is correct—whereas commonsense thinking demands more support; one must add evidence after every few steps.
 
 ![Logic vs. Commonsense](http://web.media.mit.edu/~minsky/E5/eb5_files/image020.png)
