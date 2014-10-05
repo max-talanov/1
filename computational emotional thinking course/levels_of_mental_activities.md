@@ -38,7 +38,16 @@ In any case, although many of our actions are based on inborn, instinctive react
 
 ##Deliberative thinking
 
-If a car is approaching, Do retreat. If in street, Do cross the street. However, for Joan to make decisions like this, she needs some way to predict and compare the possible futures those actions might bring. What could help Joan to make such predictions? The simplest way would be for her to possess a collection of three-part If + Do Then rules, where each If describes a situation, each Do describes a possible action, and each Then depicts what might be a possible result of doing that action.
+If a car is approaching, Do retreat. If in street, Do cross the street. However, for Joan to make decisions like this, she needs some way to predict and compare the possible futures those actions might bring. What could help Joan to make such predictions? The simplest way would be for her to possess a collection of three-part **If + Do -> Then** rules, where each **If** describes a situation, each **Do** describes a possible action, and each **Then** depicts what might be a possible result of doing that action.
+
+![If do then](http://web.media.mit.edu/~minsky/E5/eb5_files/image007.png)
+
+* **If** in street and **Do** retreat, **Then** arrive a bit later.
+
+* **If** in street and **Do** cross, **Then** be slightly earlier
+
+* **If** in street and **Do** cross, **Then** may be injured.
+
 
 So using logic is somewhat like walking a plank; it assumes that each separate step is correct—whereas commonsense thinking demands more support; one must add evidence after every few steps.
 
