@@ -72,16 +72,17 @@ And those frailties grow exponentially with increasingly longer chains, because 
 
 ##Reflective thinking
 
-... we simply remember our earlier thoughts and then proceed to think about them. However, when we look more closely, we see that this requires a lot of machinery.
+So far as any of us can recall, we’ve always been able to do such things: we simply remember our earlier thoughts and then proceed to think about them. However, when we look more closely, we see that this requires a lot of machinery.
 
+![Reflective thinking](http://web.media.mit.edu/~minsky/E5/eb5_files/image022.png)
+
+Student: Would we want to say "conscious" for such a machine? It includes most of the features you mentioned in Chapter 4-5, namely, short-term memory, serial processing, and high-level descriptions.
 
 ##Self-reflection
 
 ![Self-reflection](figure18_self_reflections.png)
 
 This could help you to recognize that you have lost track of what you were trying to do, or have been wasting time on minor details, or that you chose a poor goal to pursue. This could lead to your making a better plan—or might even lead to a large-scale cascade like, "Just thinking about this makes me feel ill. Perhaps it’s time to switch to some completely different activity.
-
-
 
 ##Self-conscious reflection
 
