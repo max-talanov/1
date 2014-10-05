@@ -26,8 +26,6 @@ Based on Marvin Minksy chapter of "The emotion machine"
 
 ![IF Situation and Goal DO](http://web.media.mit.edu/~minsky/E5/eb5_files/image003.png)
 
-![IF DO THEN](http://web.media.mit.edu/~minsky/E5/eb5_files/image004.png)
-
 ##Learned Reactions
 
 ![Learned reactions](http://web.media.mit.edu/~minsky/E5/eb5_files/image005.png)
@@ -48,6 +46,13 @@ If a car is approaching, Do retreat. If in street, Do cross the street. However,
 
 * **If** in street and **Do** cross, **Then** may be injured.
 
+But what if more than one such rule applies to the present situation. Then one could choose which rule to use by comparing the different results they predict:
+
+![Alternative manipulaiton](http://web.media.mit.edu/~minsky/E5/eb5_files/image008.png)
+
+###Four step plan to build an arch
+
+![Four step plan to build an arch](http://web.media.mit.edu/~minsky/E5/eb5_files/image012.png)
 
 So using logic is somewhat like walking a plank; it assumes that each separate step is correct—whereas commonsense thinking demands more support; one must add evidence after every few steps.
 
