@@ -1,6 +1,9 @@
 #Levels of mental activities
 Based on Marvin Minksy chapter of "The emotion machine"
 
+#Icebreaker 
+[Evaluations of talent](http://serious-science.org/videos/1507)
+
 ##Everyday example
 
 `Joan is starting to cross the street on the way to deliver her finished report. While thinking about what to say at the meeting, she hears a sound and turns her head—and sees a quickly oncoming car. Uncertain whether to cross or retreat but uneasy about arriving late, Joan decides to sprint across the road. She later remembers her injured knee and reflects upon her impulsive decision. “If my knee had failed, I could have been killed—and what would my friends have thought of me?”`
