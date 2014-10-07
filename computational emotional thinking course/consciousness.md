@@ -154,6 +154,8 @@ Let **A** be an agent in a sensorily-accessible world **S**. For **A** to be con
 
 **A** has additional **affective states** that evaluate planned actions and determine the ensuing action .
 
+![minimal consciousness](minimal consciousness.png)
+
 ##Neurophysiological view
 
 ![Claustrum](http://upload.wikimedia.org/wikipedia/commons/5/50/Gray_718-emphasizing-claustrum.png)
