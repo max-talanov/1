@@ -126,6 +126,8 @@ All this means that the higher levels of your brain never perceive a visual scen
 
 By repeating its cycle of operation, such a machine could look further into the future, by using the searching and planning schemes ...
 
+![Now](now.png)
+
 ##References
 
 1. [Marvin Minsky, The emotion machine Draft, Levels of mental activities](http://web.media.mit.edu/~minsky/E5/eb5.html)
