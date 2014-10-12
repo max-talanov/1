@@ -73,6 +73,11 @@ So using logic is somewhat like walking a plank; it assumes that each separate s
 
 And those frailties grow exponentially with increasingly longer chains, because every additional inference-step may give the chain more ways to break. This is why, when people present their arguments, they frequently interrupt themselves to add more evidence or analogies; they sense the need to further support the present step before they proceed to the next one.
 
+#Icebreaker
+
+[Stop and listen (demo of organizm principle)](http://www.sciencedaily.com/releases/2014/08/140827141700.htm)
+
+
 ##Reflective thinking
 
 So far as any of us can recall, we’ve always been able to do such things: we simply remember our earlier thoughts and then proceed to think about them. However, when we look more closely, we see that this requires a lot of machinery.
