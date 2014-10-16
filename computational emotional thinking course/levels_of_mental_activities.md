@@ -123,6 +123,8 @@ All this means that the higher levels of your brain never perceive a visual scen
 
 ![Series of guesses](http://web.media.mit.edu/~minsky/E5/eb5_files/image035.png)
 
+![Retina connections](retina_connections.png)
+
 ##Prediction Machines
 
 ![Prediction machines loop](http://web.media.mit.edu/~minsky/E5/eb5_files/image046.png)
