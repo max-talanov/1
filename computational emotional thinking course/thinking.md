@@ -72,7 +72,7 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 
 **Logical Contradiction**. Try to prove that your problem cannot be solved, and then look for a flaw in that argument.
 
-**Logical Reasoning**. We often try to make chains of deductions. However, this can lead to wrong conclusions when our assumptions turn out to be unsound.2
+**Logical Reasoning**. We often try to make chains of deductions. However, this can lead to wrong conclusions when our assumptions turn out to be unsound.
 
 **External Representations**. If you find that you’re losing track of details, you can resort to keeping records and notes, or drawing suitable diagrams.
 
@@ -83,6 +83,10 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 **Ask for help**. If your status is high enough, you can persuade or command someone else to help—or even offer to pay them.
 
 **Resignation**. Whenever you find yourself totally stuck, you can shut down the resources you’re using now and relax, lie back, drop out, and stop. Then the “rest of your mind” may find an alternative—or conclude that you don’t have to do this at all.
+
+#Icebreaker
+
+[Brain to brain interface](http://www.extremetech.com/extreme/188883-the-first-human-brain-to-brain-interface-has-been-created-in-the-future-will-we-all-be-linked-telepathically)
 
 ##Useful Types of Critics
 
