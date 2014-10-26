@@ -153,7 +153,15 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 "Arbib and Fellous’ view of behavioral organization with respect to potential for neuromodulation and action specificity-mapping brain and nervous system structures to (examples of) reflexes, drives, instincts and motivations, and cognitions (CPG: central pattern generators, PAG: periaqueductal gray, RF: reticular formation, NTS: nucleus of the solitary tract). The ellipses represent zones of neural recruitment during emotional expression and experience, whose neural substrate is argued to be intimately linked to that of neuromodulation. Adapted from Arbib and Fellous"[Ziemke and Lowe]
 
+
+
 ##References
+
+### Chat bot
+
+1. [Existor](http://www.existor.com/)
+
+### Papers
 
 1. [Vernon C. Kelly, Jr., M.D., A Primer Of Affect Psychology](http://www.tomkins.org/uploads/Primer_of_Affect_Psychology.pdf)
 1. [Robert Plutchik, The Nature of Emotions](http://www.americanscientist.org/my_amsci/restricted.aspx?act=pdf&id=2762150868143)
