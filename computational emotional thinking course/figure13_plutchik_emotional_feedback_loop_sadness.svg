@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="figure13_plutchik_emotional_feedback_loop_fear.svg"
-   inkscape:export-filename="/home/max/Projects/1/1/computational emotional thinking course/figure13_plutchik_emotional_feedback_loop_fear.png"
+   sodipodi:docname="figure13_plutchik_emotional_feedback_loop_sadness.svg"
+   inkscape:export-filename="D:\Projects\1\computational emotional thinking course\figure13_plutchik_emotional_feedback_loop_sadness.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -146,7 +146,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1169167"
-     inkscape:cx="524.71452"
+     inkscape:cx="525.95998"
      inkscape:cy="612.55002"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -176,7 +176,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -444,7 +444,7 @@
          height="57.430023"
          width="146.92316"
          id="rect3981"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          rx="15" />
       <text
          xml:space="preserve"
@@ -457,19 +457,19 @@
            sodipodi:role="line"
            x="342.27277"
            y="272.53802"
-           id="tspan3120">threat by</tspan><tspan
+           id="tspan3120">loss of</tspan><tspan
            style="font-size:20px;text-align:center;text-anchor:middle"
            sodipodi:role="line"
            x="342.27277"
            y="297.53802"
-           id="tspan3332">predator</tspan></text>
+           id="tspan3332">mother</tspan></text>
     </g>
     <g
        transform="translate(-74.961601,-203.80628)"
        id="g3122">
       <rect
          rx="15"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          id="rect3124"
          width="146.92316"
          height="57.430023"
@@ -487,7 +487,7 @@
            x="342.27277"
            sodipodi:role="line"
            style="font-size:20px;text-align:center;text-anchor:middle"
-           id="tspan3135">danger</tspan></text>
+           id="tspan3135">abandonment</tspan></text>
     </g>
     <g
        id="g4431"
@@ -499,7 +499,7 @@
          height="57.430023"
          width="146.92316"
          id="rect3139"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          rx="15" />
       <text
          xml:space="preserve"
@@ -512,14 +512,14 @@
            sodipodi:role="line"
            x="439.71115"
            y="31.23176"
-           id="tspan3149">fear</tspan></text>
+           id="tspan3149">sadness</tspan></text>
     </g>
     <g
        id="g4425"
        transform="translate(0,-2)">
       <rect
          rx="15"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          id="rect3151"
          width="146.92316"
          height="79.219086"
@@ -529,25 +529,25 @@
       <text
          sodipodi:linespacing="125%"
          id="text3153"
-         y="87.187813"
+         y="76.21125"
          x="439.71115"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           y="87.187813"
+           y="76.21125"
            x="439.71115"
            sodipodi:role="line"
            style="font-size:20px;text-align:center;text-anchor:middle"
-           id="tspan3161">increased</tspan><tspan
-           y="112.18781"
+           id="tspan3161" /><tspan
+           y="101.21125"
            x="439.71115"
            sodipodi:role="line"
            style="font-size:20px;text-align:center;text-anchor:middle"
            id="tspan3340">autonomic</tspan><tspan
-           y="137.18782"
+           y="126.21124"
            x="439.71115"
            sodipodi:role="line"
            style="font-size:20px;text-align:center;text-anchor:middle"
-           id="tspan3342">activity</tspan></text>
+           id="tspan3342">disfunction</tspan></text>
     </g>
     <g
        id="g3163"
@@ -559,7 +559,7 @@
          height="57.430023"
          width="146.92316"
          id="rect3165"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          rx="15" />
       <text
          xml:space="preserve"
@@ -577,14 +577,14 @@
            sodipodi:role="line"
            x="342.27277"
            y="297.53802"
-           id="tspan3175">to run</tspan></text>
+           id="tspan3175">to cry</tspan></text>
     </g>
     <g
        transform="translate(442.23837,-203.80628)"
        id="g3177">
       <rect
          rx="15"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          id="rect3179"
          width="146.92316"
          height="57.430023"
@@ -602,7 +602,7 @@
            x="342.27277"
            sodipodi:role="line"
            style="font-size:20px;text-align:center;text-anchor:middle"
-           id="tspan5052">run</tspan></text>
+           id="tspan5052">cry</tspan></text>
     </g>
     <g
        id="g3191"
@@ -614,7 +614,7 @@
          height="57.430023"
          width="146.92316"
          id="rect3193"
-         style="fill:#499c6c;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#77a8cf;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          rx="15" />
       <text
          xml:space="preserve"
@@ -627,12 +627,12 @@
            style="font-size:20px;text-align:center;text-anchor:middle"
            sodipodi:role="line"
            x="342.27277"
-           y="273.69958">protect</tspan><tspan
+           y="273.69958">reattach</tspan><tspan
            style="font-size:20px;text-align:center;text-anchor:middle"
            sodipodi:role="line"
            x="342.27277"
            y="298.69958"
-           id="tspan3713">from attack</tspan></text>
+           id="tspan3713">to lost mother</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutL);stroke-miterlimit:4;stroke-dasharray:none"
@@ -705,7 +705,7 @@
        id="g4531">
       <rect
          rx="15"
-         style="fill:#499c6c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#77a8cf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect4533"
          width="146.92316"
          height="57.430023"
@@ -721,39 +721,44 @@
          xml:space="preserve"><tspan
            id="tspan4537"
            y="272.53802"
-           x="345.0462"
+           x="342.27277"
            sodipodi:role="line"
-           style="font-size:20px;text-align:center;text-anchor:middle">reduction of </tspan><tspan
+           style="font-size:20px;text-align:center;text-anchor:middle">reaquisition</tspan><tspan
            id="tspan4539"
            y="297.53802"
            x="342.27277"
            sodipodi:role="line"
-           style="font-size:20px;text-align:center;text-anchor:middle">threat</tspan></text>
+           style="font-size:20px;text-align:center;text-anchor:middle">of mother</tspan></text>
     </g>
     <g
        id="g4541"
        transform="translate(-74.961601,-115.80628)">
       <rect
          ry="16.393837"
-         y="248.86697"
+         y="249.63544"
          x="268.86002"
          height="57.430023"
          width="146.92316"
          id="rect4543"
-         style="fill:#499c6c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#77a8cf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          rx="15" />
       <text
          xml:space="preserve"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="342.27277"
-         y="283.09955"
+         y="271.03601"
          id="text4545"
          sodipodi:linespacing="125%"><tspan
            id="tspan4547"
            style="font-size:20px;text-align:center;text-anchor:middle"
            sodipodi:role="line"
+           x="345.0462"
+           y="271.03601">no </tspan><tspan
+           style="font-size:20px;text-align:center;text-anchor:middle"
+           sodipodi:role="line"
            x="342.27277"
-           y="283.09955">no danger</tspan></text>
+           y="296.03601"
+           id="tspan4612">abandonment</tspan></text>
     </g>
     <g
        id="g4549"
@@ -765,7 +770,7 @@
          height="79.219086"
          width="146.92316"
          id="rect4551"
-         style="fill:#499c6c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#77a8cf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          rx="15" />
       <text
          xml:space="preserve"
@@ -785,7 +790,7 @@
        id="g4561">
       <rect
          rx="15"
-         style="fill:#499c6c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#77a8cf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect4563"
          width="146.92316"
          height="57.430023"
@@ -808,7 +813,7 @@
            y="297.53802"
            x="342.27277"
            sodipodi:role="line"
-           style="font-size:20px;text-align:center;text-anchor:middle">stop running</tspan></text>
+           style="font-size:20px;text-align:center;text-anchor:middle">stop crying</tspan></text>
     </g>
     <g
        id="g4571"
@@ -820,7 +825,7 @@
          height="57.430023"
          width="146.92316"
          id="rect4573"
-         style="fill:#499c6c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#77a8cf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          rx="15" />
       <text
          xml:space="preserve"
@@ -833,7 +838,7 @@
            style="font-size:20px;text-align:center;text-anchor:middle"
            sodipodi:role="line"
            x="342.27277"
-           y="282.76752">stop running</tspan></text>
+           y="282.76752">stop crying</tspan></text>
     </g>
   </g>
   <g

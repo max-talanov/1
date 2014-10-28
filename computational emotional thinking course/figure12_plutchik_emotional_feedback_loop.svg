@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="figure12_plutchik_emotional_feedback_loop.svg"
    inkscape:export-filename="/home/max/Projects/1/1/computational emotional thinking course/figure12_plutchik_emotional_feedback_loop.png"
    inkscape:export-xdpi="180"
@@ -147,14 +147,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.91789162"
      inkscape:cx="525.95998"
-     inkscape:cy="647.24202"
+     inkscape:cy="516.50763"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g3191"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1600"
+     inkscape:window-height="878"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -176,7 +176,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
