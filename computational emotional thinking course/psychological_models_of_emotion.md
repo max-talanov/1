@@ -109,6 +109,11 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 ![Fear feedback loop](figure13_plutchik_emotional_feedback_loop_fear.png)
 
+####Sadness example
+
+![Sadness feedback loop](figure13_plutchik_emotional_feedback_loop_sadness.png)
+
+
 ###Emotional substrates
 
 |stimulus event        |cognition  |feeling state|overt behavior   |effect                 |
