@@ -1,4 +1,4 @@
-# Computational emotional thinking model
+# Computational affective thinking model
 
 ## Plan
 
