@@ -10,25 +10,41 @@
 
 ## Why bother
 
-2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages"
+2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages". It was the description of an approach to generate the code on Python based on Natural language description (English), it was implemented in "Metafor":
 
 ![Metafor metaphor](metafor.png)
 
 ![Metafor GUI](metafor_gui.png)
 
-Several examples of processing with Metafor:
+Example of processing with Metafor:
 
 **(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
 
 ```
 class bar:
-the_bartender = bartender()
-the_menu = menu()
+    the_bartender = bartender()
+    the_menu = menu()
 class bartender:
-def make(drink):
-if (drink in menu.drinks):
-bartender.make(drink)
-bartender.give(drink, customer)
+    def make(drink):
+        if (drink in menu.drinks):
+            bartender.make(drink)
+            bartender.give(drink, customer)
+    	else:
+            bartender.say("sorry i don't know how to make that drink", customer)
+    def give(drink, to_customer): pass
+    def say(quote, to_customer): pass
+class menu:
+    drinks = [ sour_apple_martini, margarita, rum_and_coke ]
+class drink: pass
+class apple_martini(drink):
+    properties = [“sour”,“sweet”]
+class margarita(drink):
+    properties = [“sweet”]
+class rum_and_coke(drink):
+    properties = [“bitter”]
+class customer:
+    def order(drink):
+        bartender.make(drink)
 
 ```
 
