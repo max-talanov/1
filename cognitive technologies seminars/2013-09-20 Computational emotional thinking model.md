@@ -10,6 +10,28 @@
 
 ## Why bother
 
+2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages"
+
+![Metafor metaphor](metafor.png)
+
+![Metafor GUI](metafor_gui.png)
+
+Several examples of processing with Metafor:
+
+**(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
+
+```
+class bar:
+the_bartender = bartender()
+the_menu = menu()
+class bartender:
+def make(drink):
+if (drink in menu.drinks):
+bartender.make(drink)
+bartender.give(drink, customer)
+
+```
+
 ### Domains
 
 1. Computer games
