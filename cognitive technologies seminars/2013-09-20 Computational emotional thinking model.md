@@ -65,20 +65,16 @@ class customer:
 
 ![Kismet](Kismet_312.jpg)
 
-Figure 1. [Kismet].
-
 1. Emotions expressions
   2. In text (Turing test)
   2. In voice messages
-1. Limited resources
+1. Emotions and consciousness
 
 ## Emotional computing system management
 
-Roughly we could state that noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
+Noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
 
-![Computing system parameters mapping](cube of parameters.png)
-
-Figure 2. [Computing system parameters mapping].
+![Computing system parameters mapping](figure3_cube_of_parameters.png)
 
  1. Generic:
    2. CPU power: noradrenaline
