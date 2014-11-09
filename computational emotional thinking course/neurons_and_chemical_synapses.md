@@ -32,6 +32,10 @@
 * Due to thermal vibration, neurotransmitter molecules eventually break loose from the receptors and drift away.
 * The neurotransmitter is either reabsorbed by the presynaptic cell, and then repackaged for future release, or else it is broken down metabolically.
 
+##Neurotransmission
+
+![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/e/e0/Synapse_Illustration2_tweaked.svg)
+
 ###Synaptic plasticity
 
 ####Homosynaptic plasticity
