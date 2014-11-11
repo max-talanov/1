@@ -1,9 +1,5 @@
 #Neurotransmission and neuromodulation
 
-##Neurotransmission
-
-![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/e/e0/Synapse_Illustration2_tweaked.svg)
-
 ##Neurotransmitters
 
 [Common neurotransmitters](http://en.wikipedia.org/wiki/Neurotransmitter#Common_neurotransmitters)
@@ -96,6 +92,17 @@ The antagonistic functions of the direct and indirect pathways are modulated by 
 Role of affects and emotions in homeostasis and emotional regulation.
 
 Marvin Minsky's brain bug.
+
+
+##Functional brain zones
+
+![Lobes](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cerebrum_lobes.svg/1024px-Cerebrum_lobes.svg.png)
+
+###Brodmann areas
+
+![Brodmann areas](http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1307_Brodmann_Areas.jpg/1024px-1307_Brodmann_Areas.jpg)
+
+![Brodmann areas 3D](http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brodmann_areas_3D.png/640px-Brodmann_areas_3D.png)
 
 ##References
 

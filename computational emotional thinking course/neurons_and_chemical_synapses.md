@@ -32,6 +32,10 @@
 * Due to thermal vibration, neurotransmitter molecules eventually break loose from the receptors and drift away.
 * The neurotransmitter is either reabsorbed by the presynaptic cell, and then repackaged for future release, or else it is broken down metabolically.
 
+##Neurotransmission
+
+![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/e/e0/Synapse_Illustration2_tweaked.svg)
+
 ###Synaptic plasticity
 
 ####Homosynaptic plasticity
@@ -41,6 +45,11 @@
 ####Heterosynaptic plasticity
 
 "Heterosynaptic Plasticity (or also heterotropic modulation) is a change in synaptic strength that results from the activity of other neurons. Again, the plasticity can alter the number of vesicles or their replenishment rate or the relationship between calcium and vesicle release. Additionally, it could directly affect calcium influx. Heterosynaptic plasticity can also be postsynaptic in nature, affecting receptor sensitivity."
+
+#Icebreaker
+
+[New model of neuron explains why neuron impulses do not interfere.](http://www.sciencedaily.com/releases/2014/09/140910120417.htm)
+
 
 ##Electrical Synapse
 

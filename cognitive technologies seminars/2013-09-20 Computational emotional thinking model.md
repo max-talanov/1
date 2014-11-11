@@ -1,4 +1,4 @@
-# Computational emotional thinking model
+# Computational affective thinking model
 
 ## Plan
 
@@ -9,6 +9,44 @@
 1. Conformity with Picard criteria
 
 ## Why bother
+
+2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages". It was the description of an approach to generate the code on Python based on Natural language description (English), it was implemented in "Metafor":
+
+![Metafor metaphor](metafor.png)
+
+![Metafor GUI](metafor_gui.png)
+
+Example of processing with Metafor:
+
+**(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
+
+```
+class bar:
+    the_bartender = bartender()
+    the_menu = menu()
+class bartender:
+    def make(drink):
+        if (drink in menu.drinks):
+            bartender.make(drink)
+            bartender.give(drink, customer)
+    	else:
+            bartender.say("sorry i don't know how to make that drink", customer)
+    def give(drink, to_customer): pass
+    def say(quote, to_customer): pass
+class menu:
+    drinks = [ sour_apple_martini, margarita, rum_and_coke ]
+class drink: pass
+class apple_martini(drink):
+    properties = [“sour”,“sweet”]
+class margarita(drink):
+    properties = [“sweet”]
+class rum_and_coke(drink):
+    properties = [“bitter”]
+class customer:
+    def order(drink):
+        bartender.make(drink)
+
+```
 
 ### Domains
 
@@ -27,20 +65,16 @@
 
 ![Kismet](Kismet_312.jpg)
 
-Figure 1. [Kismet].
-
 1. Emotions expressions
   2. In text (Turing test)
   2. In voice messages
-1. Limited resources
+1. Emotions and consciousness
 
 ## Emotional computing system management
 
-Roughly we could state that noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
+Noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
 
-![Computing system parameters mapping](cube of parameters.png)
-
-Figure 2. [Computing system parameters mapping].
+![Computing system parameters mapping](figure3_cube_of_parameters.png)
 
  1. Generic:
    2. CPU power: noradrenaline
@@ -68,14 +102,14 @@ Figure 2. [Computing system parameters mapping].
 1. System tends to choose *risky* actions under impact of noradrenaline.
 1. Noradrenaline makes system use less *number of options* in width and depth to be processed during reasoning.
 
-For example: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
+**For example**: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
 
 ## Emotions objective and subjective.
 
-1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior [anatomic] also in self confidence, inner strength, satisfaction [cubeofemotions]. 
-2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting) [cubeofemotions, emotionsbraintorobot, roleofemotions]. 
-3. *Nor-adrenaline* impacts attention, vigilance, activity[cubeofemotions].
+1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior also in self confidence, inner strength, satisfaction. 
+2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting). 
+3. *Nor-adrenaline* impacts attention, vigilance, activity.
 
 ### Lovheim cube of emotions 
 
@@ -87,7 +121,7 @@ Objective brain work is described as neuromodulation process with base of three 
 1. Dopamine
 1. Serotonin
 
-Lövheim uses three dimensional model-cube and assumes that all emotional states could be placed in the three dimensional cube with neurotransmitters as axes and eight basic emotions ordered in an orthogonal coordinate system that are affective states. Affective states are inherited from affect theory of Tomkins [tomkins1, tomkins2, tomkins3, tomkins4]:
+Lövheim uses three dimensional model-cube and assumes that all emotional states could be placed in the three dimensional cube with neurotransmitters as axes and eight basic emotions ordered in an orthogonal coordinate system that are affective states. Affective states are inherited from affect theory of Tomkins:
 
  1. Enjoyment/Joy
  1. Interest/Excitement
@@ -154,8 +188,15 @@ Cognitions also include self-conscious reflections over complex emotions like lo
 
 #### Feeling the state and neuromodulation
 
-Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 basic Plutchik emotions that are used as dimensions and strength of emotion. This way subjective emotional state is been expressed via two coordinates: emotional state nature and strength of emotion. For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
+![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
+Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 affects that are used as dimensions and strength of emotion.
+
+For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
+
+##Back to original example
+
+Consciousness and emotions.
 
 ## Conformity with Picard criteria
 
@@ -170,10 +211,12 @@ Emotional appearance is not discussed in this work.
 
 Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections. 
 
-Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Plutchik model and subjective emotions perceptions in this work. 
+Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Lövheim model and subjective emotions perceptions in this work. 
 
 Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model. 
 
-Conscious and non-conscious mechanisms of stimulus processing was presented in "Stimulus appraisal and stimulus cognition" section. 
+Conscious and non-conscious mechanisms of stimulus processing was presented. 
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
+
+#Thank you.
