@@ -21,7 +21,7 @@
 
 ![Metafor GUI](metafor_gui.png)
 
-Example of processing with Metafor:
+####Example of processing with Metafor:
 
 **(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
 
@@ -88,14 +88,14 @@ class customer:
   2. In voice messages
 1. Emotions and consciousness
 
+##Monoamines model
 
-
-Noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
+**Noradrenaline** influences overall speed of thinking process, **dopamine** and **serotonin** - reward processing and learning.
 
 ![Computing system parameters mapping](figure3_cube_of_parameters.png)
 
  1. Generic:
-   2. CPU power: noradrenaline
+   2. Computing power: noradrenaline
    2. Memory distribution (attention): noradrenaline
    2. Learning: serotonin, dopamine
    2. Storage: serotonin, dopamine
