@@ -10,6 +10,8 @@
 
 ## Why bother
 
+### Metafor
+
 2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages". It was the description of an approach to generate the code on Python based on Natural language description (English), it was implemented in "Metafor":
 
 ![Metafor metaphor](metafor.png)
@@ -47,6 +49,10 @@ class customer:
         bartender.make(drink)
 
 ```
+
+####Video
+
+...
 
 ### Domains
 
