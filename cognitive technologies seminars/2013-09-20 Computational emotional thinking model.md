@@ -124,7 +124,13 @@ class customer:
 
 ##What are neuromodulators?
 
+###Neurotransmission
+
 ![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synapse_Illustration2_tweaked.svg/862px-Synapse_Illustration2_tweaked.svg.png)
+
+###Neuromodulation
+
+![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
 ## Emotions objective and subjective.
 
@@ -132,9 +138,9 @@ class customer:
 2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting). 
 3. *Nor-adrenaline* impacts attention, vigilance, activity.
 
-### Lovheim cube of emotions 
+### Lövheim cube of emotions 
 
-![Lovheim cube of emotions](cube.png)
+![Lövheim cube of emotions](cube.png)
 
 Objective brain work is described as neuromodulation process with base of three neuromodulatory systems:
 
@@ -153,7 +159,7 @@ Lövheim uses three dimensional model-cube and assumes that all emotional states
  1. Fear/Terror
  1. Shame/Humiliation
 
-### Wheel of emotions
+### Wheel of emotions by Robert Plutchik
 
 ![Plutchik wheel of emotions](Plutchik wheel 3D.gif)
 
@@ -202,26 +208,13 @@ All thinking processes are developed in levels listed above. We use following as
 1. *Stimulus cognition* is processed in cingulate cortex, frontal cortex (working memory) that we correspond to rest 5 layers of thinking model. Stimulus cognition actions is done in the emotional state under influence of neuromodulation. Stimulus cognition could involve deliberation, further reflection, sef-reflection self-conscious processing (higher emotions) and  emotional state switch.
 1. *Conscious behavior* is activated as the result of stimulus cognition.
 
-#### Stimulus appraisal and stimulus cognition
-
-There are two main ways of inbound stimulus processing: appraisal is done on the instinctive reactions level and usually is processed as non-conscious action, cognition could involve all the rest thinking levels and could consist of complex deliberations and reflections.
-Cognitions also include self-conscious reflections over complex emotions like love, awe and aggression. 
-
-#### Feeling the state and neuromodulation
-
-![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
-
-Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 affects that are used as dimensions and strength of emotion.
-
-For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
-
 ##Back to original example
 
 Consciousness and emotions.
 
 ## Conformity with Picard criteria
 
-Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" suggested following criteria to measure emotional capabilities of a computing system:
+Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" (2001) suggested following criteria to measure emotional capabilities of a computing system:
 
 1. Emotional appearance
 1. Multi-level emotion generation
