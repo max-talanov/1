@@ -3,6 +3,9 @@
 ## Plan
 
 1. Why bother
+  2. Metafor
+  2. Issues
+  2. Domains
 1. Emotional computing system management
 1. Emotions objective and subjective
 1. Emotional processes
@@ -47,12 +50,19 @@ class rum_and_coke(drink):
 class customer:
     def order(drink):
         bartender.make(drink)
-
 ```
 
 ####Video
 
 ...
+
+### Issues
+
+1. System is too fragile.
+1. Not capable of the adaptation to the real life.
+1. Not capable of thinking ...
+1. Too many stupid rules.
+
 
 ### Domains
 
@@ -67,7 +77,9 @@ class customer:
 1. Nursing software
 1. Applications in emotional robots
 
-### Issues
+## Emotional computing system management
+
+###Kismet
 
 ![Kismet](Kismet_312.jpg)
 
@@ -76,7 +88,7 @@ class customer:
   2. In voice messages
 1. Emotions and consciousness
 
-## Emotional computing system management
+
 
 Noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
 
