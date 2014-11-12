@@ -122,6 +122,9 @@ class customer:
 
 **For example**: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
+##What are neuromodulators?
+
+![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synapse_Illustration2_tweaked.svg/862px-Synapse_Illustration2_tweaked.svg.png)
 
 ## Emotions objective and subjective.
 
