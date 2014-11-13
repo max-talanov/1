@@ -122,7 +122,7 @@ class customer:
 
 **For example**: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
-##What are neuromodulators?
+##What are the neuromodulators?
 
 ###Neurotransmission
 
