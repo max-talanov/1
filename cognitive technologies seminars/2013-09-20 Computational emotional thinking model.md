@@ -208,10 +208,6 @@ All thinking processes are developed in levels listed above. We use following as
 1. *Stimulus cognition* is processed in cingulate cortex, frontal cortex (working memory) that we correspond to rest 5 layers of thinking model. Stimulus cognition actions is done in the emotional state under influence of neuromodulation. Stimulus cognition could involve deliberation, further reflection, sef-reflection self-conscious processing (higher emotions) and  emotional state switch.
 1. *Conscious behavior* is activated as the result of stimulus cognition.
 
-##Back to original example
-
-Consciousness and emotions.
-
 ## Conformity with Picard criteria
 
 Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" (2001) suggested following criteria to measure emotional capabilities of a computing system:
@@ -232,5 +228,9 @@ Mind-body interactions consists of: "conscious and non-conscious events; regulat
 Conscious and non-conscious mechanisms of stimulus processing was presented. 
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
+
+##Back to original example
+
+Consciousness and emotions.
 
 #Thank you.
