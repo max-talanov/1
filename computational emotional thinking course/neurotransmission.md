@@ -1,5 +1,9 @@
 #Neurotransmission and neuromodulation
 
+##Action potential distribution
+
+![Action Potential distribution](http://upload.wikimedia.org/wikipedia/commons/9/95/Action_Potential.gif)
+
 ##Neurotransmitters
 
 [Common neurotransmitters](http://en.wikipedia.org/wiki/Neurotransmitter#Common_neurotransmitters)
@@ -12,7 +16,19 @@
 1. Metabotropic receptors activate a G-protein that in turn acivates a secondary messenger, that in turn will activate something else.
 1. Metabotropic receptor activation may or may not result in the opening of ion channels somewhere else on the membrane.
 
-#Neuromodulation
+##Receptors
+
+###Ligand-gated channels
+
+####Acetylcholine (ACh) ligand gated channel
+
+![Ligand-gated channels](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Blausen_0225_ChemicallyGatedChannel.png/640px-Blausen_0225_ChemicallyGatedChannel.png)
+
+####AMPA receptor
+
+![AMPA receptor](http://upload.wikimedia.org/wikipedia/commons/7/78/AMPA3Dan.gif)
+
+##Neuromodulation
 
 In case neurotransmitter lives the synaptic cleft and avoids degradation it massively influences neurons (even brain areas) on it's pathway.
 
