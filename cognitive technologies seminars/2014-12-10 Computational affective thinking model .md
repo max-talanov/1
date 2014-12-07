@@ -233,4 +233,7 @@ Psychological and biochemical changes where presented in "Feeling the state and 
 
 Consciousness and emotions.
 
+![Theoretical approach](abstraction_layers.png)
+
+
 #Thank you.
