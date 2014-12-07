@@ -54,7 +54,7 @@ class customer:
 
 ####Video
 
-...
+[...](http://web.media.mit.edu/~hugo/demos/metafor-bartender-simple.mov)
 
 ### Issues
 
