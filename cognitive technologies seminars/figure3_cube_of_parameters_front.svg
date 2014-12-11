@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="figure3_cube_of_parameters_front.svg"
-   inkscape:export-filename="F:\Projects\2\2\doc\articles\KESW 2014\figure3_cube_of_parameters.png"
+   inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/figure3_cube_of_parameters_front.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1095,7 +1095,7 @@
      inkscape:zoom="2.0360318"
      inkscape:cx="317.28385"
      inkscape:cy="872.3394"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1565"
      inkscape:window-height="876"
@@ -1114,7 +1114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1955,7 +1955,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="parameters"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text9446-9"
@@ -1985,7 +1986,7 @@
          x="288.59314"
          id="tspan9448-6-6"
          sodipodi:role="line"
-         style="font-size:15px;text-align:end;text-anchor:end;fill:#920000;fill-opacity:0.94117647000000004">memory distribution</tspan></text>
+         style="font-size:15px;text-align:end;text-anchor:end;fill:#920000;fill-opacity:0.94117647">memory distribution</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9446-9-4-8"
@@ -2126,7 +2127,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="axes"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text9392"
@@ -2327,8 +2329,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="emotions top"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        sodipodi:type="arc"
        style="opacity:0.8;fill:url(#radialGradient7880);fill-opacity:1;stroke:none;display:inline"
@@ -2386,12 +2387,13 @@
              y="42.987179"
              x="323.4375"
              id="tspan9424"
-             sodipodi:role="line">anger</tspan></text>
+             sodipodi:role="line"
+             style="font-size:14px">anger</tspan></text>
       </g>
     </g>
     <g
        style="display:inline"
-       transform="translate(-221.25295,206.25677)"
+       transform="translate(-221.25295,208.25677)"
        id="g9478">
       <g
          id="g9480">
@@ -2406,7 +2408,8 @@
              y="42.987179"
              x="323.4375"
              id="tspan9484"
-             sodipodi:role="line">disgust</tspan></text>
+             sodipodi:role="line"
+             style="font-size:14px">disgust</tspan></text>
       </g>
     </g>
     <g
@@ -2427,7 +2430,8 @@
              y="42.987179"
              x="323.4375"
              id="tspan9448"
-             sodipodi:role="line">surprise</tspan></text>
+             sodipodi:role="line"
+             style="font-size:14px">surprise</tspan></text>
       </g>
     </g>
     <g
@@ -2447,7 +2451,8 @@
              sodipodi:role="line"
              id="tspan9436"
              x="323.4375"
-             y="42.987179">interest</tspan></text>
+             y="42.987179"
+             style="font-size:14px">interest</tspan></text>
       </g>
     </g>
     <path
@@ -2462,7 +2467,7 @@
        sodipodi:type="arc" />
     <g
        style="display:inline"
-       transform="translate(-90.007048,238.42231)"
+       transform="translate(-90.007048,240.42231)"
        id="g9454">
       <g
          id="g9456">
@@ -2477,12 +2482,13 @@
              y="42.987179"
              x="323.4375"
              id="tspan9460"
-             sodipodi:role="line">joy</tspan></text>
+             sodipodi:role="line"
+             style="font-size:14px">joy</tspan></text>
       </g>
     </g>
     <g
        id="g4254"
-       transform="translate(87.992952,238.42231)"
+       transform="translate(87.992952,242.42231)"
        style="display:inline">
       <g
          id="g4256">
@@ -2497,7 +2503,8 @@
              sodipodi:role="line"
              id="tspan4260"
              x="323.4375"
-             y="42.987179">fear</tspan></text>
+             y="42.987179"
+             style="font-size:14px">fear</tspan></text>
       </g>
     </g>
     <path
@@ -2522,7 +2529,7 @@
        sodipodi:type="arc" />
     <g
        id="g4270"
-       transform="translate(-30.64094,-19.222828)"
+       transform="translate(-40.64094,-19.222828)"
        style="display:inline">
       <g
          inkscape:transform-center-x="1.171875"
@@ -2530,15 +2537,15 @@
         <text
            xml:space="preserve"
            style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="323.4375"
-           y="42.987179"
+           x="322.65625"
+           y="59.291866"
            id="text4274"
-           sodipodi:linespacing="125%"
-           transform="translate(-0.78124983,16.304688)"><tspan
+           sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4276"
-             x="323.4375"
-             y="42.987179">distress</tspan></text>
+             x="322.65625"
+             y="59.291866"
+             style="font-size:14px">distress</tspan></text>
       </g>
     </g>
     <path
@@ -2553,7 +2560,7 @@
        transform="matrix(0.93718695,0,0,1.0543353,326.66251,242.50859)" />
     <g
        style="display:inline"
-       transform="translate(-35.785295,114.96788)"
+       transform="translate(-75.785295,114.96788)"
        id="g3385">
       <text
          sodipodi:linespacing="125%"
@@ -2565,7 +2572,8 @@
            y="151.45036"
            x="320.65625"
            id="tspan3393"
-           sodipodi:role="line">humiliation</tspan></text>
+           sodipodi:role="line"
+           style="font-size:14px">humiliation</tspan></text>
     </g>
   </g>
 </svg>
