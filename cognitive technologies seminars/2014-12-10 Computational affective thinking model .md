@@ -143,9 +143,7 @@ Machine cognition (understanding) <- Machine consciousness <- Machine emotions (
 
 ### Lövheim cube of emotions 
 
-![Lövheim cube of emotions](cube.png)
-
-![Lövheim cube of emotions](http://commons.wikimedia.org/wiki/File:L%C3%B6vheim_cube_of_emotion.svg#mediaviewer/File:L%C3%B6vheim_cube_of_emotion.svg)
+![Lövheim cube of emotions](http://upload.wikimedia.org/wikipedia/commons/c/c1/L%C3%B6vheim_cube_of_emotion.jpg)
 
 Objective brain work is described as neuromodulation process with base of three neuromodulatory systems:
 
