@@ -232,9 +232,7 @@ Conscious and non-conscious mechanisms of stimulus processing was presented.
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
 
-##Back to original example
-
-Consciousness and emotions.
+##Cognition and consciousness and emotions.
 
 ![Theoretical approach](abstraction_layers.png)
 
