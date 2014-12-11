@@ -63,6 +63,9 @@ class customer:
 1. Not capable of thinking ...
 1. Too many stupid rules.
 
+###Machine understanding
+
+Machine understanding <- Machine consciousness <- Machine emotions
 
 ### Domains
 
