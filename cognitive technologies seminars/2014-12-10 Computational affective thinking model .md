@@ -179,8 +179,6 @@ Emotions are organised in three dimensional circumplex model where third dimensi
 
 Plutchik describes emotional process as following:
 
-![Plutchik's](feedback loops.png)
-
 ![Plutchik's](feedback loops hor.png)
 
 1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
