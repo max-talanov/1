@@ -145,6 +145,8 @@ Machine cognition (understanding) <- Machine consciousness <- Machine emotions (
 
 ![Lövheim cube of emotions](cube.png)
 
+![Lövheim cube of emotions](http://commons.wikimedia.org/wiki/File:L%C3%B6vheim_cube_of_emotion.svg#mediaviewer/File:L%C3%B6vheim_cube_of_emotion.svg)
+
 Objective brain work is described as neuromodulation process with base of three neuromodulatory systems:
 
 1. Nor-adrenaline
@@ -179,7 +181,7 @@ Emotions are organised in three dimensional circumplex model where third dimensi
 
 Plutchik describes emotional process as following:
 
-![Plutchik's ](feedback loops.png)
+![Plutchik's](feedback loops.png)
 
 1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
 1. *Inferred cognition* appraisal and understanding of event
