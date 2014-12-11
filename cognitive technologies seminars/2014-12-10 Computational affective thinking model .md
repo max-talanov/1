@@ -95,7 +95,7 @@ Machine cognition (understanding) <- Machine consciousness <- Machine emotions (
 
 **Noradrenaline** influences overall speed of thinking process, **dopamine** and **serotonin** - reward processing and learning.
 
-![Computing system parameters mapping](figure3_cube_of_parameters.png)
+![Computing system parameters mapping](figure3_cube_of_parameters_front.png)
 
  1. Generic:
    2. Computing power: noradrenaline
