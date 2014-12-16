@@ -35,7 +35,7 @@
 
 ###Machine cognition
 
-** Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations) **
+**Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)**
 
 ### Domains
 
