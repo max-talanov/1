@@ -33,9 +33,20 @@
 1. Not capable of thinking ...
 1. Too many stupid rules.
 
-###Machine cognition
+##Machine cognition
 
 **Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)**
+
+## Emotional computing system
+
+###Kismet
+
+![Kismet](Kismet_312.jpg)
+
+1. Emotions expressions
+  2. In text (Turing test)
+  2. In voice messages
+1. Emotions and consciousness
 
 ### Domains
 
@@ -49,17 +60,6 @@
 1. Virtual friends
 1. Nursing software
 1. Applications in emotional robots
-
-## Emotional computing system management
-
-###Kismet
-
-![Kismet](Kismet_312.jpg)
-
-1. Emotions expressions
-  2. In text (Turing test)
-  2. In voice messages
-1. Emotions and consciousness
 
 ##Monoamines model
 
@@ -105,13 +105,16 @@
 
 ![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
-## Emotions objective and subjective.
-
 1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior also in self confidence, inner strength, satisfaction. 
 2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting). 
 3. *Nor-adrenaline* impacts attention, vigilance, activity.
 
-### Lövheim cube of emotions 
+
+##Cognition and consciousness and emotions.
+
+![Theoretical approach](abstraction_layers.png)
+
+### Lövheim "Cube of emotions"
 
 ![Lövheim cube of emotions](http://upload.wikimedia.org/wikipedia/commons/c/c1/L%C3%B6vheim_cube_of_emotion.jpg)
 
@@ -132,7 +135,7 @@ Lövheim uses three dimensional model-cube and assumes that all emotional states
  1. Fear/Terror
  1. Shame/Humiliation
 
-### Wheel of emotions by Robert Plutchik
+## Robert Plutchik "Wheel of emotions"
 
 ![Plutchik wheel of emotions](Plutchik wheel 3D.gif)
 
@@ -143,7 +146,7 @@ The other perspective is psychology.  We use Plutchik approach as main psycholog
 1. Acceptance - disgust
 1. Surprise - expectancy
 
-Emotions are organised in three dimensional circumplex model where third dimension is emotional strength. Basic emotions could be mixed based on color theory, in higher more complex emotions. 
+Emotions are organised in three dimensional circumplex model where third dimension is emotional strength. Basic emotions could be mixed based on color theory, in higher more complex emotions.
 
 ## Emotional processes
 
@@ -174,13 +177,6 @@ Model of six thinking levels:
 
 All thinking processes are developed in levels listed above. We use following assumption: emotions as part of thinking, at least conscious processes, should fit thinking model. This way all emotional processed should be expressed in terms of thinking model(levels). This could be understood as base of computational emotional thinking approach.
 
-1. *Inbound stimulus* is been processed(transmitted/apprised) via spinal cord, hypothalamus, amygdala and all these neuronal systems take part in neuromodulation.
-1. *Neuromodulation* actually triggers the emotional state of human and all the rest actions are done under the influence of neuromodulatory systems: nor-adrenaline, dopamine, serotonin. 
-1. *Instinctive behavior* is processed on instinctive reactions layer that usually is not involved in conscious actions.
-1. *Result of behavior actions* is effect state that influences the system again as stimulus. This second stimulus is been apprised on instinctive reactions layer and triggers neuromodulation again. Neuromodulation in it's turn switches emotional state second time. This way stimulus cognition actions started in first emotional state, at some point could continue in second emotional state.
-1. *Stimulus cognition* is processed in cingulate cortex, frontal cortex (working memory) that we correspond to rest 5 layers of thinking model. Stimulus cognition actions is done in the emotional state under influence of neuromodulation. Stimulus cognition could involve deliberation, further reflection, sef-reflection self-conscious processing (higher emotions) and  emotional state switch.
-1. *Conscious behavior* is activated as the result of stimulus cognition.
-
 ## Conformity with Picard criteria
 
 Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" (2001) suggested following criteria to measure emotional capabilities of a computing system:
@@ -201,10 +197,5 @@ Mind-body interactions consists of: "conscious and non-conscious events; regulat
 Conscious and non-conscious mechanisms of stimulus processing was presented. 
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
-
-##Cognition and consciousness and emotions.
-
-![Theoretical approach](abstraction_layers.png)
-
 
 #Thank you.
