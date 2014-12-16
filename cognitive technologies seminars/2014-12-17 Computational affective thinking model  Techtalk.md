@@ -21,36 +21,6 @@
 
 ![Metafor GUI](metafor_gui.png)
 
-####Example of processing with Metafor:
-
-**(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
-
-```
-class bar:
-    the_bartender = bartender()
-    the_menu = menu()
-class bartender:
-    def make(drink):
-        if (drink in menu.drinks):
-            bartender.make(drink)
-            bartender.give(drink, customer)
-    	else:
-            bartender.say("sorry i don't know how to make that drink", customer)
-    def give(drink, to_customer): pass
-    def say(quote, to_customer): pass
-class menu:
-    drinks = [ sour_apple_martini, margarita, rum_and_coke ]
-class drink: pass
-class apple_martini(drink):
-    properties = [“sour”,“sweet”]
-class margarita(drink):
-    properties = [“sweet”]
-class rum_and_coke(drink):
-    properties = [“bitter”]
-class customer:
-    def order(drink):
-        bartender.make(drink)
-```
 
 ####Video
 
@@ -65,7 +35,7 @@ class customer:
 
 ###Machine cognition
 
-Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)
+** Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations) **
 
 ### Domains
 
