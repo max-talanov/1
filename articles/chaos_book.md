@@ -1,4 +1,4 @@
-#Consciousness 
+#Consciousness as a form of chaos
 
 ##Ideas, thoughts, insights
 
