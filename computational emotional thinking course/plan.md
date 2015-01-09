@@ -17,3 +17,5 @@ Max Talanov: talanov.max@gmail.com
 1. Artificial emotions:
   2. [Cognitive architectures](cognitive_architecture.md)
   2. [Spiking NNs: HTM, NEST](realistic_nns.md)
+
+![Emotions mind map](emotions.png)
