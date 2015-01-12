@@ -38,4 +38,8 @@
     2. Artificial nervous system
 	2. Artificial consciousness
 1. **Artificial creativity** as form of chaos
-	
+
+
+1st. select a precise definition.
+2nd. check the definion in several cognitive/bodily domains
+3rd. Extract conclusions and/or modelizations
