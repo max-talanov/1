@@ -3,6 +3,7 @@
 ##Ideas, thoughts, insights
 
 1. **Chaos**: contains all forms of order.
+    2. Get definition of chaos system ...
 1. **Shades of gray**
     2. Functions of consciousness
 	    3. Mind-body interaction
@@ -31,9 +32,10 @@
         3. 5 years for behavior: kids will be wolves if they have been brought up in wolves pack
 1. **Social embodiment**: 
     2. Brain evolves during early years based on inbound signals/stimulus. 
-    2. More complex stimulus based on social collaboration like nurture, training, education creates more complex structures of the brain that let developed intelligence evolve during the earlier years. From the other side any individual could stimulate his/her brain is some more way to create more and more effective structures of the brain. This way challenging education could stimulate students evolve their brain to work more effectively in early stages of education.
+    2. More complex stimulus based on social collaboration like nurture, training, education creates more complex structures of the brain that let developed intelligence evolve during the earlier years. From the other side any individual could stimulate his/her brain is some more way to create more and more effective structures of the brain. This way challenging education could stimulate students evolve their brain to work more effectively in early stages of education
 1. **Artificial living organisms**
-    2. Artificial life: current programs do not live literally.
+    2. Artificial life: current programs do not live literally
     2. Artificial nervous system
 	2. Artificial consciousness
+1. **Artificial creativity** as form of chaos
 	
