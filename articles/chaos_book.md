@@ -3,7 +3,8 @@
 ##Ideas, thoughts, insights
 
 1. **Chaos**: contains all forms of order.
-    2. Get definition of chaos system ...
+    2. Deterministic - chaos
+    3. Stochastic 
 1. **Shades of gray**
     2. Functions of consciousness
 	    3. Mind-body interaction
