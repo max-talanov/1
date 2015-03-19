@@ -153,7 +153,78 @@ Lövheim uses three dimensional model-cube and assumes that all emotional states
 
 ## Validation
 
-...
+### Recurrent NN
+
+![Recurrent experiment schema](rnn.png)
+
+The neuromodulation is simulated in primitive way: propagating the output of exit neuron to intermediate layer to 50 percent of neurons (determined randomly).
+
+#### Results
+
+**ANN:**
+
+![50x100](Graphics/ANN/x;y;h;h/x;y;50;100.png)
+
+![150x150](Graphics/ANN/x;y;h;h/x;y;150;150.png)
+
+**RNN:**
+
+![50x100](Graphics/RNN/x;y;h;h/x;y;50;100.png)
+
+![150x150](Graphics/RNN/x;y;h;h/x;y;150;150.png)
+
+
+### Spiking NN
+
+![Basal ganglia connectivity diagram](http://upload.wikimedia.org/wikipedia/commons/4/45/Basal-ganglia-classic.png)
+
+Connectivity diagram showing excitatory glutamatergic pathways as red, inhibitory GABAergic pathways as blue, and modulatory dopaminergic pathways as magenta. (Abbreviations: GPe: globus pallidus external; GPi: globus pallidus internal; STN: subthalamic nucleus; SNc: substantia nigra compacta; SNr: substantia nigra reticulata)
+
+The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons, and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**. 
+
+This way we simulate:
+
+1. Cortex
+1. Striatum
+1. GPe: globus pallidus external
+1. GPi: globus pallidus internal 
+1. STN: subthalamic nucleus
+1. SNc: substantia nigra compacta
+1. SNr: substantia nigra reticulata
+
+With two main pathways/algorithms:
+
+**Direct pathway**
+
+**Cortex** (stimulates) → **Striatum** (inhibits) → **"SNr-GPi" complex** (less inhibition of thalamus) → **Thalamus** (stimulates) → **Cortex** (stimulates) → **Muscles, etc.**
+
+**Indirect pathway**
+
+**Cortex** (stimulates) → **Striatum** (inhibits) → **GPe** (less inhibition of STN) → **STN** (stimulates) → **"SNr-GPi" complex** (inhibits) → **Thalamus** (is stimulating less) → **Cortex** (is stimulating less) → Muscles, etc.
+
+Neuromodulation is implemented by SNc via production of the **dopamine** that influences Striatum triggering direct or indirect pathway.
+
+### Results
+
+#### Thalamus
+
+**No Dopamine:**
+
+![No Dopamine](result_img/thalamus_dopa_no.png "No dopamine")
+
+**Dopamine neuromodulation:**
+
+![Dopamine modulation](result_img/thalamus_dopa_yes.png "Dopamine Modulation")
+
+#### Cortex
+
+**No Dopamine:**
+
+![No Dopamine](result_img/cortex_dopa_no.png "No dopamine")
+
+**Dopamine neuromodulation:**
+
+![Dopamine modulation](result_img/cortex_dopa_yes.png "Dopamine Modulation")
 
 ## Conformity with Picard criteria
 
