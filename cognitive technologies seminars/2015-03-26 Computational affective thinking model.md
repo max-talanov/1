@@ -3,6 +3,9 @@
 ## Plan
 
 1. Why bother
+  2. Metafor
+  2. Issues
+  2. Domains
 1. Emotional computing system management
 1. Emotions objective and subjective
 1. Emotional processes
@@ -10,13 +13,15 @@
 
 ## Why bother
 
+### Metafor
+
 2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages". It was the description of an approach to generate the code on Python based on Natural language description (English), it was implemented in "Metafor":
 
 ![Metafor metaphor](metafor.png)
 
 ![Metafor GUI](metafor_gui.png)
 
-Example of processing with Metafor:
+####Example of processing with Metafor:
 
 **(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
 
@@ -45,8 +50,22 @@ class rum_and_coke(drink):
 class customer:
     def order(drink):
         bartender.make(drink)
-
 ```
+
+####Video
+
+[...](http://web.media.mit.edu/~hugo/demos/metafor-bartender-simple.mov)
+
+### Issues
+
+1. System is too fragile.
+1. Not capable of the adaptation to the real life.
+1. Not capable of thinking ...
+1. Too many stupid rules.
+
+###Machine cognition
+
+Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)
 
 ### Domains
 
@@ -61,7 +80,9 @@ class customer:
 1. Nursing software
 1. Applications in emotional robots
 
-### Issues
+## Emotional computing system management
+
+###Kismet
 
 ![Kismet](Kismet_312.jpg)
 
@@ -70,14 +91,14 @@ class customer:
   2. In voice messages
 1. Emotions and consciousness
 
-## Emotional computing system management
+##Monoamines model
 
-Noradrenaline influences overall speed of thinking process, dopamine and serotonin - reward processing and learning.
+**Noradrenaline** influences overall speed of thinking process, **dopamine** and **serotonin** - reward processing and learning.
 
-![Computing system parameters mapping](figure3_cube_of_parameters.png)
+![Computing system parameters mapping](figure3_cube_of_parameters_front.png)
 
  1. Generic:
-   2. CPU power: noradrenaline
+   2. Computing power: noradrenaline
    2. Memory distribution (attention): noradrenaline
    2. Learning: serotonin, dopamine
    2. Storage: serotonin, dopamine
@@ -92,7 +113,7 @@ Noradrenaline influences overall speed of thinking process, dopamine and seroton
 
 1. *CPU power*(computing processes distribution or load balancing) is influenced by noradrenaline the higher is noradrenaline more computing processes should be concentrated on current activity.
 1. *Working memory(short term)* distribution is influenced by noradrenaline as neurotransmitter regulating attention.
-*Learning* is impacted by serotonin and dopamine: dopamine plays major role in activation of previously remembered patterns and serotonin in pattern generation.
+1. *Learning* is impacted by serotonin and dopamine: dopamine plays major role in activation of previously remembered patterns and serotonin in pattern generation.
 1. *Storage* management (long term memory) is influenced both by serotonin and dopamine, higher concentrations of both neurotransmitters the better action is remembered(less probability to forget).
 
 ### Decision making:
@@ -104,6 +125,15 @@ Noradrenaline influences overall speed of thinking process, dopamine and seroton
 
 **For example**: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
+##What are the neuromodulators?
+
+###Neurotransmission
+
+![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synapse_Illustration2_tweaked.svg/862px-Synapse_Illustration2_tweaked.svg.png)
+
+###Neuromodulation
+
+![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
 ## Emotions objective and subjective.
 
@@ -111,9 +141,9 @@ Noradrenaline influences overall speed of thinking process, dopamine and seroton
 2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting). 
 3. *Nor-adrenaline* impacts attention, vigilance, activity.
 
-### Lovheim cube of emotions 
+### Lövheim cube of emotions 
 
-![Lovheim cube of emotions](cube.png)
+![Lövheim cube of emotions](http://upload.wikimedia.org/wikipedia/commons/c/c1/L%C3%B6vheim_cube_of_emotion.jpg)
 
 Objective brain work is described as neuromodulation process with base of three neuromodulatory systems:
 
@@ -132,7 +162,7 @@ Lövheim uses three dimensional model-cube and assumes that all emotional states
  1. Fear/Terror
  1. Shame/Humiliation
 
-### Wheel of emotions
+### Wheel of emotions by Robert Plutchik
 
 ![Plutchik wheel of emotions](Plutchik wheel 3D.gif)
 
@@ -149,7 +179,7 @@ Emotions are organised in three dimensional circumplex model where third dimensi
 
 Plutchik describes emotional process as following:
 
-![Plutchik's ](feedback loops.png)
+![Plutchik's](feedback loops hor.png)
 
 1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
 1. *Inferred cognition* appraisal and understanding of event
@@ -181,26 +211,9 @@ All thinking processes are developed in levels listed above. We use following as
 1. *Stimulus cognition* is processed in cingulate cortex, frontal cortex (working memory) that we correspond to rest 5 layers of thinking model. Stimulus cognition actions is done in the emotional state under influence of neuromodulation. Stimulus cognition could involve deliberation, further reflection, sef-reflection self-conscious processing (higher emotions) and  emotional state switch.
 1. *Conscious behavior* is activated as the result of stimulus cognition.
 
-#### Stimulus appraisal and stimulus cognition
-
-There are two main ways of inbound stimulus processing: appraisal is done on the instinctive reactions level and usually is processed as non-conscious action, cognition could involve all the rest thinking levels and could consist of complex deliberations and reflections.
-Cognitions also include self-conscious reflections over complex emotions like love, awe and aggression. 
-
-#### Feeling the state and neuromodulation
-
-![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
-
-Feeling the emotional state is closely related to neuromodulation the physiological arousal processes in brain. The result of stimulus appraisal is subjective emotional state one of 8 affects that are used as dimensions and strength of emotion.
-
-For example the system is scared. System switched it's state to terror with maximum strength 1. This subjective terror strength is mapped to objective dopamine(neurotransmitter) concentration, in our case this is maximum 1. Under the influence of maximum concentration of dopamine all further actions is been performed: decisions over instinctive behavior, stimulus cognitions, selection of conscious behavior. All higher thinking processes control and influence lower actions. For example: if human is scared during watching the film he/she usually does not jump and run away. Some kind of reflection(reflection thinking level) is used: "This is just a movie, nothing terrible is going to happen to me". This is done by switching emotional state on reflection thinking level.
-
-##Back to original example
-
-Consciousness and emotions.
-
 ## Conformity with Picard criteria
 
-Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" suggested following criteria to measure emotional capabilities of a computing system:
+Rosalind Picard in her article "What does it mean for a computer to "have" emotions?" (2001) suggested following criteria to measure emotional capabilities of a computing system:
 
 1. Emotional appearance
 1. Multi-level emotion generation
@@ -218,5 +231,10 @@ Mind-body interactions consists of: "conscious and non-conscious events; regulat
 Conscious and non-conscious mechanisms of stimulus processing was presented. 
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
+
+##Cognition and consciousness and emotions.
+
+![Theoretical approach](abstraction_layers.png)
+
 
 #Thank you.
