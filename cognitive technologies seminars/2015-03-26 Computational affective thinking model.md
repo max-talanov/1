@@ -67,6 +67,7 @@ class customer:
 
 **Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)**
 
+##Cognition and consciousness and emotions.
 
 ![Theoretical approach](abstraction_layers.png)
 
