@@ -152,7 +152,7 @@ Lövheim uses three dimensional model-cube and assumes that all emotional states
  1. Fear/Terror
  1. Shame/Humiliation
 
-## Validation
+## Sanity testing
 
 ### Recurrent NN
 
