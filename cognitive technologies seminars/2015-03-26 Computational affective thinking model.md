@@ -160,6 +160,11 @@ Lövheim uses three dimensional model-cube and assumes that all emotional states
 
 The neuromodulation is simulated in primitive way: propagating the output of exit neuron to intermediate layer to 50 percent of neurons (determined randomly).
 
+Training set:
+
+* 1, 2: [0 - 100] and 3, 4: [100 - 255] = 2
+* 1, 2: [100 - 255] and 3, 4: [0 - 100] = 1
+
 #### Results
 
 Below threshold:
@@ -229,11 +234,11 @@ Neuromodulation is implemented by SNc via production of the **dopamine** that in
 
 **No Dopamine:**
 
-![No Dopamine](result_img/cortex_dopa_no.png "No dopamine")
+![No Dopamine](result_img/cortex_dopa_100_no.png "No dopamine")
 
 **Dopamine neuromodulation:**
 
-![Dopamine modulation](result_img/cortex_dopa_yes.png "Dopamine Modulation")
+![Dopamine modulation](result_img/cortex_dopa_100_yes.png "Dopamine Modulation")
 
 ## Conformity with Picard criteria
 
