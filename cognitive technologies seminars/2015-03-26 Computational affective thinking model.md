@@ -1,4 +1,4 @@
-# Computational affective thinking model
+# Neuromodulating Cognitive Architecture: Towards Biomimetic Emotional AI
 
 ## Plan
 
@@ -8,8 +8,9 @@
   2. Domains
 1. Emotional computing system management
 1. Emotions objective and subjective
-1. Conformity with Picard criteria
 1. Validation
+1. Conformity with Picard criteria
+
 
 ## Why bother
 
