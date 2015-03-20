@@ -161,18 +161,26 @@ The neuromodulation is simulated in primitive way: propagating the output of exi
 
 #### Results
 
+Below threshold:
+
 **ANN:**
 
 ![50x100](Graphics/ANN/x;y;h;h/x;y;50;100.png)
-
-![150x150](Graphics/ANN/x;y;h;h/x;y;150;150.png)
 
 **RNN:**
 
 ![50x100](Graphics/RNN/x;y;h;h/x;y;50;100.png)
 
-![150x150](Graphics/RNN/x;y;h;h/x;y;150;150.png)
 
+Above threshold:
+
+**ANN**
+
+![150x150](Graphics/ANN/x;y;h;h/x;y;150;150.png)
+
+**RNN**
+
+![150x150](Graphics/RNN/x;y;h;h/x;y;150;150.png)
 
 ### Spiking NN
 
@@ -192,7 +200,7 @@ This way we simulate:
 1. SNc: substantia nigra compacta
 1. SNr: substantia nigra reticulata
 
-With two main pathways/algorithms:
+With two main pathways:
 
 **Direct pathway**
 
@@ -259,6 +267,5 @@ Psychological and biochemical changes where presented in "Feeling the state and 
 1. Virtual friends
 1. Nursing software
 1. Applications in emotional robots
-
 
 #Thank you.
