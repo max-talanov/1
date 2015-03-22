@@ -1,20 +1,18 @@
 # Neuromodulating Cognitive Architecture: Towards Biomimetic Emotional AI
 
+Max Talanov, Jordi Vallverdu, Salvatore Distefano, Manuel Mazzara, Radhakrishnan Delhibabu.
+
 ## Plan
 
-1. Why bother
-  2. Metafor
-  2. Issues
-  2. Domains
+1. Metafor
+1. Issues
+1. Machine cognition
 1. Emotional computing system management
 1. Emotions objective and subjective
 1. Validation
 1. Conformity with Picard criteria
 
-
-## Why bother
-
-### Metafor
+## Metafor
 
 2006: I have hit the article of Henry Liberman and Hugo Liu: "Feasibility studies for programming in natural languages". It was the description of an approach to generate the code on Python based on Natural language description (English), it was implemented in "Metafor":
 
@@ -22,7 +20,7 @@
 
 ![Metafor GUI](metafor_gui.png)
 
-####Example of processing with Metafor:
+###Example of processing with Metafor:
 
 **(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
 
@@ -53,22 +51,22 @@ class customer:
         bartender.make(drink)
 ```
 
-####Video
+###Video
 
 [...](http://web.media.mit.edu/~hugo/demos/metafor-bartender-simple.mov)
 
-### Issues
+## Issues
 
 1. System is too fragile.
 1. Not capable of the adaptation to the real life.
 1. Not capable of thinking ...
 1. Too many stupid rules.
 
-###Machine cognition
+##Machine cognition
 
 **Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)**
 
-##Cognition and consciousness and emotions.
+###Cognition and consciousness and emotions.
 
 ![Theoretical approach](abstraction_layers.png)
 
