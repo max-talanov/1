@@ -274,6 +274,12 @@ Psychological and biochemical changes where presented in "Feeling the state and 
 
 #References
 
-
+1. Lövheim, H. (2012). A new three-dimensional model for emo-
+tions and monoamine neurotransmitters,
+1. Damasio, A. (1999). The Feeling of What Happens.
+1. Minsky, M. (2006). The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind
+1. R.W. Picard (2001), "What Does it Mean for a Computer to "Have" Emotions?," Chapter in "Emotions in Humans and Artifacts,"
 
 #Thank you.
+
+max.talanov@gmail.com
