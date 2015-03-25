@@ -1092,13 +1092,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="211.28385"
-     inkscape:cy="872.3394"
-     inkscape:current-layer="layer8"
+     inkscape:zoom="1.3763096"
+     inkscape:cx="373.02654"
+     inkscape:cy="834.02193"
+     inkscape:current-layer="layer9"
      showgrid="false"
-     inkscape:window-width="1565"
-     inkscape:window-height="876"
+     inkscape:window-width="1331"
+     inkscape:window-height="744"
      inkscape:window-x="35"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1114,7 +1114,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2034,14 +2034,14 @@
        sodipodi:linespacing="125%"
        id="text4633"
        y="274.37656"
-       x="148.81277"
+       x="148.92999"
        style="font-size:15.58657551px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#05a000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/max/Projects/2/2/doc/emotions/emotional thinking model/parameters mapping180.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180"><tspan
          y="274.37656"
-         x="148.81277"
+         x="148.92999"
          id="tspan4635"
          sodipodi:role="line"
          style="font-size:24.93852234px;text-align:end;text-anchor:end;fill:#05a000;fill-opacity:1">learning</tspan></text>
@@ -2064,14 +2064,14 @@
        sodipodi:linespacing="125%"
        id="text4641"
        y="337.00876"
-       x="148.70625"
+       x="148.80823"
        style="font-size:15.58657551px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#05a000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/max/Projects/2/2/doc/emotions/emotional thinking model/parameters mapping180.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180"><tspan
          y="337.00876"
-         x="148.70625"
+         x="148.80823"
          id="tspan4643"
          sodipodi:role="line"
          style="font-size:24.93852234px;text-align:end;text-anchor:end;fill:#05a000;fill-opacity:1">satisfaction</tspan></text>
@@ -2096,30 +2096,70 @@
        inkscape:export-filename="/home/max/Projects/2/2/doc/emotions/emotional thinking model/parameters mapping180.png"
        xml:space="preserve"
        style="font-size:15.58657551px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001a92;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="605.42322"
+       x="605.2984"
        y="355.16953"
        id="text4698"
        sodipodi:linespacing="125%"><tspan
          style="font-size:24.93852234px;text-align:start;text-anchor:start;fill:#001a92;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4700"
-         x="605.42322"
+         x="605.2984"
          y="355.16953">learning</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4702"
        y="385.33823"
-       x="605.4978"
+       x="605.38367"
        style="font-size:15.58657551px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001a92;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        xml:space="preserve"
        inkscape:export-filename="/home/max/Projects/2/2/doc/emotions/emotional thinking model/parameters mapping180.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180"><tspan
          y="385.33823"
-         x="605.4978"
+         x="605.38367"
          id="tspan4704"
          sodipodi:role="line"
          style="font-size:24.93852234px;text-align:start;text-anchor:start;fill:#001a92;fill-opacity:1">motivation</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/max/Projects/2/2/doc/emotions/emotional thinking model/parameters mapping.png"
+       xml:space="preserve"
+       style="font-size:21.82120514px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001a92;fill-opacity:1;stroke:none;font-family:Sans"
+       x="606.27258"
+       y="258.32648"
+       id="text3390"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:24.93852234px;text-align:start;text-anchor:start;fill:#001a92;fill-opacity:1;stroke:none"
+         sodipodi:role="line"
+         id="tspan3392"
+         x="606.27258"
+         y="258.32648">computing </tspan><tspan
+         style="font-size:24.93852234px;text-align:start;text-anchor:start;fill:#001a92;fill-opacity:1;stroke:none"
+         sodipodi:role="line"
+         x="606.27258"
+         y="289.49963"
+         id="tspan3395">power</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3397"
+       y="174.7697"
+       x="146.66507"
+       style="font-size:21.82120514px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#05a000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/max/Projects/2/2/doc/emotions/emotional thinking model/parameters mapping.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="174.7697"
+         x="154.60448"
+         id="tspan3399"
+         sodipodi:role="line"
+         style="font-size:24.93852234px;text-align:end;text-anchor:end;fill:#05a000;fill-opacity:1;stroke:none">computing </tspan><tspan
+         id="tspan3401"
+         y="205.94286"
+         x="146.66507"
+         sodipodi:role="line"
+         style="font-size:24.93852234px;text-align:end;text-anchor:end;fill:#05a000;fill-opacity:1;stroke:none">power</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

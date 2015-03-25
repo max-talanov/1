@@ -88,7 +88,8 @@ class customer:
 ![Computing system parameters mapping](figure3_cube_of_parameters_front.png)
 
  1. Generic:
-   2. Computing power: noradrenaline
+   2. Computing power load: dopamine, serotonin
+   2. Computing power redistribution: noradrenaline
    2. Memory distribution (attention): noradrenaline
    2. Learning: serotonin, dopamine
    2. Storage: serotonin, dopamine
@@ -101,7 +102,8 @@ class customer:
 
 ### Generic:
 
-1. *CPU power*(computing processes distribution or load balancing) is influenced by noradrenaline the higher is noradrenaline more computing processes should be concentrated on current activity.
+1. *Computing power load* overall load of the computational system is influenced by dopamine that makes cortex fire spikes more actively.
+1. *Computing power distribution*(computing processes distribution or load balancing) is influenced by noradrenaline the higher is noradrenaline more computing processes should be concentrated on current activity.
 1. *Working memory(short term)* distribution is influenced by noradrenaline as neurotransmitter regulating attention.
 1. *Learning* is impacted by serotonin and dopamine: dopamine plays major role in activation of previously remembered patterns and serotonin in pattern generation.
 1. *Storage* management (long term memory) is influenced both by serotonin and dopamine, higher concentrations of both neurotransmitters the better action is remembered(less probability to forget).
