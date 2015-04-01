@@ -10,6 +10,8 @@ In the domain presented above there are several possible directions. First of al
 
 ![Anthropocentric to computer processes mapping](layers_binding.png)
 
+![Ubique method](p3_model.png)
+
 #Cortical column topology and correlation of spikes
 
 #Neuromodulation affective cognitive architecture project (NEUCOGAR)
