@@ -8,8 +8,7 @@ For this purposes the group of international scientists was created that include
 
 In the domain presented above there are several possible directions. First of all most obvious direct mapping of the psychological and/or philosophical models in to the computational system this was done in implementations of several cognitive architectures. But, main disadvantage of strait mapping leads to miss low level details that could be crucial for implementation of machine consciousness.
 
-
-
+![Anthropocentric to computer processes mapping](layers_binding.png)
 
 #Cortical column topology and correlation of spikes
 
