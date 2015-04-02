@@ -8,7 +8,14 @@ For this purposes the group of international scientists was created that include
 
 In the domain presented above there are several possible directions. First of all most obvious direct mapping of the psychological and/or philosophical models in to the computational system this was done in implementations of several cognitive architectures. But, main disadvantage of strait mapping leads to miss low level details that could be crucial for implementation of machine consciousness.
 
+The other way could be the creation of uniform theory of complex phenomena like: emotions, awareness, learning, anticipation or subjective experience that could run through perspectives: philosophical, psychological, neurobiological:
+
 ![Anthropocentric to computer processes mapping](layers_binding.png)
+
+Based on this theory the phenomena could be recreated starting from lowest level of cellular mechanisms rebuilding all the phenomena in the other perspectives.
+This approach demands new holistic and functional ways to deal with complex problems to maintain overall picture and functions that implements phenomena of overall picture and have low level mechanisms taken in account in the same time. ...
+
+On the other hand the view on recreation of psychological and philosophical phenomena in a computational system puts us in front of perspective of definition of new domains in computer science:
 
 ![Ubique method](p3_model.png)
 
