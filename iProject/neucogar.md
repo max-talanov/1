@@ -118,3 +118,4 @@ Teamlead - 25%
 
 ##Project plan
 
+![NEUCOGAR project plan](NEUCOGAR_validation_plan.png)
