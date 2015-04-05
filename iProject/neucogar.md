@@ -4,7 +4,7 @@ The ultimate goal of the laboratory should be the artificial consciousness.
 This is called "hard problem" and involves several cross-disciplinary research fields from Cognitive Science (cognitive hexagon): Neuroscience, Psychology, Philosophy, Anthropology and Sociology.
 For this purposes the group of international scientists was created that includes: neuro-scientist, psychologist, philosopher and specialists from AI domain.
 
-##Method
+##Approach
 
 In the domain presented above there are several possible directions. First of all most obvious direct mapping of the psychological and/or philosophical models in to the computational system this was done in implementations of several cognitive architectures. But, main disadvantage of strait mapping leads to miss low level details that could be crucial for implementation of machine consciousness.
 
@@ -17,10 +17,29 @@ This approach demands new holistic and functional ways to deal with complex prob
 
 On the other hand the view on recreation of psychological and philosophical phenomena in a computational system puts us in front of perspective of definition of new domains in computer science:
 
-![Ubique method](p3_model.png)
+![P^3 model](p3_model.png)
+
+##Ubique method
+
+It is quite common to use functional decomposition method to deal with the complex problems, but we see one problem of this approach that are widely used in modern research. Dealing with low-level details researches usually loose overall picture high-level goals. In contrast dealing with only high-level descriptions lead to implementation of undulate models in computational systems, that was mentioned above.  
 
 #Cortical column topology and correlation of spikes
 
+##Description
+
+##Goal
+
+##Team
+
+##Project plan
+
 #Neuromodulation affective cognitive architecture project (NEUCOGAR)
 
+##Description
+
+##Goal
+
+##Team
+
+##Project plan
 
