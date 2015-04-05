@@ -47,7 +47,7 @@ Teamlead - 25%
 
 ##Project plan
 
-![Spikes project plan](Spikes_project_plan.png)
+![Spikes project plan](https://raw.githubusercontent.com/research-team/Spikes/master/Spikes_project_plan.png)
 
 #Neuromodulation affective cognitive architecture project (NEUCOGAR)
 
