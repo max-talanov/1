@@ -21,11 +21,13 @@ On the other hand the view on recreation of psychological and philosophical phen
 
 ##Ubique method
 
-It is quite common to use functional decomposition method to deal with the complex problems, but we see one problem of this approach that are widely used in modern research. Dealing with low-level details researches usually loose overall picture high-level goals. In contrast dealing with only high-level descriptions lead to implementation of undulate models in computational systems, that was mentioned above.  
+It is quite common to use functional decomposition method to deal with the complex problems, but we see one problem of this approach that are widely used in modern research. Dealing with low-level details researches usually loose overall picture high-level goals. In contrast dealing with only high-level descriptions lead to implementation of inadequate models in computational systems, that was mentioned above. To avoid both situations we proposed bidirectional approach that should take in account both functional decomposition and holistic view on the complex problem like: 'hard problem' of machine consciousness, machine perception, machine self-awareness, subjective experience. This method could be described like: **Imagine 1 neuron -> cortical column ~ 10 000 neurons -> Brodmann area (V1) 140 million -> Cortex 19 - 23 billions -> Whole brain 86 billions (10^14–10^15 Synapses)**
 
 #Cortical column topology and correlation of spikes
 
 ##Description
+
+
 
 ##Goal
 
