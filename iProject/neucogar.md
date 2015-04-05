@@ -47,6 +47,8 @@ Teamlead - 25%
 
 ##Project plan
 
+![Spikes project plan](Spikes_project_plan.png)
+
 #Neuromodulation affective cognitive architecture project (NEUCOGAR)
 
 ##Description
@@ -118,4 +120,4 @@ Teamlead - 25%
 
 ##Project plan
 
-![NEUCOGAR project plan](NEUCOGAR_validation_plan.png)
+![NEUCOGAR project plan](https://raw.githubusercontent.com/research-team/NEUCOGAR/master/NEUCOGAR_validation_plan.png)
