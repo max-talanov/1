@@ -20,12 +20,11 @@ Team and plan/schedule can be added to this structure.
 
 ##Background
 
-Human and more than that machine consciousness is called the 'Hard problem' for obvious reasons. The efforts that are concentrated in this direction are enormous at the moment: Daniel Dennet, David Chalmers, Marvin Minsky, Aaron Sloman, Antonio Damasio that are most significant thinkers that work currently in this field. More than that projects like Blue Brain Project and Human Brain Project declares their goal to impact the understanding the human consciousness phenomena. 
+Human and more than that machine consciousness is called the 'Hard problem' for obvious reasons. The efforts that are concentrated in this direction are enormous at the moment: Daniel Dennet, David Chalmers, Marvin Minsky, Aaron Sloman, Antonio Damasio that are most significant thinkers that work currently in this field. More than that projects like Blue Brain Project and Human Brain Project declare their goal to impact the understanding the human consciousness phenomena. The concentration of funding and computational power is the indication of the highest interest of modern computer society to the topic of consciousness and machine consciousness in particular. The complexity of the problem increases because this field involves several cross-disciplinary research fields from Cognitive Science (cognitive hexagon): Neuroscience, Psychology, Philosophy, Anthropology and Sociology. This puts us in the context of cross disciplinary research of: neuro-psychology, neuro-philosophy and all of them mapped to computational systems scientists and engineers.
 
 ##Objectives
 
-The ultimate goal of the project is to create the 
-This is called "hard problem" and involves several cross-disciplinary research fields from Cognitive Science (cognitive hexagon): Neuroscience, Psychology, Philosophy, Anthropology and Sociology.
+The ultimate goal of the project is to create the computer simulation of human consciousness with realistic neurobiological background processes.
 For this purposes the group of international scientists was created that includes: neuro-scientist, psychologist, philosopher and specialists from AI domain.
 
 ##Approach
