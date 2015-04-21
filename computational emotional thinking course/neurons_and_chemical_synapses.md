@@ -70,6 +70,10 @@
 
 ![LTD](http://upload.wikimedia.org/wikipedia/en/9/9c/Bi-directional_modulation_of_AMPA_receptor.png)
 
+##Hebbian plasticity 
+
+![Hebbian plasticity](hebbian_plasticity.png)
+
 ##References
 
 1. [Neuron Wikipedia page](http://en.wikipedia.org/wiki/Neuron)
