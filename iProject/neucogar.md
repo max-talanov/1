@@ -24,10 +24,13 @@ Human and more than that machine consciousness is called the 'Hard problem' for 
 
 ##Objectives
 
-The ultimate goal of the project is to create the computer simulation of human consciousness with realistic neurobiological background processes.
-For this purposes the group of international scientists was created that includes: neuro-scientist, psychologist, philosopher and specialists from AI domain.
+The ultimate goal of the project is to create the computer simulation of human consciousness with realistic neurobiological background processes. We have to use some simplification that should be based on understanding of brain work principles. In other words main goal is to create cognitive architecture with realistic for modern computers (clusters) performance implementation of neurobiological nature of mental processes, this could be decomposed into:
 
-##Approach
+1. Implementation of simplified to one of cognitive architectures Model of Six or/and H-CogAff.
+
+##Methodology
+
+For the purposes of the cross-disciplinary research the group of international scientists was created that includes: neuro-scientist, psychologist, philosopher and specialists from AI domain.
 
 In the domain presented above there are several possible directions. First of all most obvious direct mapping of the psychological and/or philosophical models in to the computational system this was done in implementations of several cognitive architectures. But, main disadvantage of strait mapping leads to miss low level details that could be crucial for implementation of machine consciousness.
 
