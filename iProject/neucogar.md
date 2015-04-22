@@ -26,7 +26,25 @@ Human and more than that machine consciousness is called the 'Hard problem' for 
 
 The ultimate goal of the project is to create the computer simulation of human consciousness with realistic neurobiological background processes. We have to use some simplification that should be based on understanding of brain work principles. In other words main goal is to create cognitive architecture with realistic for modern computers (clusters) performance implementation of neurobiological nature of mental processes, this could be decomposed into:
 
-1. Implementation of simplified to one of cognitive architectures Model of Six or/and H-CogAff.
+1. Develop theoretical model of consciousness encapsulating:
+    2. Philosophical point of view (Model of six, H-CogAff)
+	2. Neurobiological nature of processes in a brain
+	2. Psychological phenomena: emotions, motivation, self-awareness ...
+1. Implementation of abstract/simplified cognitive architectures of Model of Six or/and H-CogAff based on theoretical model
+    2. Study implementation approaches of cognitive architecture
+    2. Implement approaches in the way of concept software architecture
+    2. Implement of simplified cognitive architecture as prototype generation 0
+
+1. Implementation of more realistic cognitive architectures of Model of Six or/and H-CogAff based on theoretical model
+    2. Study implementation approaches of cognitive architecture
+    2. Implement approaches in the way of concept software architecture
+    2. Implement of simplified cognitive architecture prototype generation 1
+
+1. Implementation of realistic cognitive architectures of Model of Six or/and H-CogAff based on theoretical model
+    2. Study implementation approaches of cognitive architecture
+    2. Implement approaches in the way of concept software architecture
+    2. Implement of simplified cognitive architecture prototype generation 2
+
 
 ##Methodology
 
