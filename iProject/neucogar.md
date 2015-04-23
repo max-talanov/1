@@ -45,6 +45,10 @@ The ultimate goal of the project is to create the computer simulation of human c
     2. Implement approaches in the way of concept software architecture
     2. Implement of simplified cognitive architecture prototype generation 2
 
+##Relevance
+
+
+
 
 ##Methodology
 
