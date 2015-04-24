@@ -47,8 +47,13 @@ The ultimate goal of the project is to create the computer simulation of human c
 
 ##Relevance
 
-
-
+The Development in the field of artificial intelligence are stimulated by the rapid increase of data to be processed which, through formalization, analysis and synthesis,  traditional logico-mathematical methods are not considered sufficient. Research in the field of fuzzy logic has received wide support. 
+Appeared microchips based on fuzzy logic, indicate a qualitatively new level of development of information technologies. 	
+The main issue in the evolution of Neurobiologically inspired systems is to understand how mammals brains work (in particular how rats' brains function, and as a consequence human brain). The current study due to its cross-disciplinarity has 2 aspects: 
+Medical: rehabilitation of the brain after patrimonial damage;
+Artificial intelligence: to reconstruct the cortical column in computing systems functions and subsequent expansion to systems capable of performing basic cognitive functions.
+Many scientists in Europe and USA work on  Neurobiologically inspired systems research. Here we can mention Blue Brain and Human Brain projects. The second project had a budget of 1.4 billion Euros. There is a program in the USA costing 300 million dollars per year. Under this program, Von Neumann architecture chips have already been developed, consuming 10 000 times less energy than other current microprocessors.
+We already have a base for building a new class of dynamic models of understanding, designed for medium-term forecasting, with the conclusion of action for decision-making. This creates opportunities for the creation of self-learning systems comparable with the human brain.  At this point we must mention IBM company (USA) which has outstanding results in research in this area.  They have developed a technology reproducing1 million neurons in 1 chip. But IBM is not selling the chip  and offers services (IBM Watson Analytics) based on super computer Watson for medical and financial markets. The relevance of cross-disciplinary research in the field of AI + Neuroscience can not be underestimated, it is necessary to take into account the creation of the so called "dumbbell" laboratories at Harvard, where scientists were asked to work in one lab to enhance communications. A major breakthrough in the field of robotic systems is virtually impossible without controls for autonomous robotic systems, which has demonstrated its extreme inefficiency and inflexibility, creating a precedent impossible to build a robotic system that can survive in real life and social interactions.
 
 ##Methodology
 
