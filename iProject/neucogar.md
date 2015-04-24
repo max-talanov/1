@@ -77,31 +77,6 @@ On the other hand the view on recreation of psychological and philosophical phen
 It is quite common to use functional decomposition method to deal with the complex problems, but we see one problem of this approach that are widely used in modern research. Dealing with low-level details researches usually loose overall picture high-level goals. In contrast dealing with only high-level descriptions lead to implementation of inadequate models in computational systems, that was mentioned above. To avoid both situations we proposed bidirectional approach that should take in account both functional decomposition and holistic view on the complex problem like: 'hard problem' of machine consciousness, machine perception, machine self-awareness, subjective experience. This method could be described like: **Imagine 1 neuron -> cortical column ~ 10 000 neurons -> Brodmann area (V1) 140 million -> Cortex 19 - 23 billions -> Whole brain 86 billions (10^14–10^15 Synapses)**
 Inside this paradigm we should build first overall model that could describe neuro-psychological and psychologically-philosophical and neuro-philosophical phenomena and then with proper understanding we could implement them in the computational systems.
 
-This way we propose bidirectional projects:
-
-#Cortical column topology and correlation of spikes
-
-##Description
-
-![Experiment description](https://raw.githubusercontent.com/research-team/Spikes/master/Spikes_description.jpg)
-
-Neocortex of mammals contains 6 layers. This is been explored with the special probes with 16 sensors.
-You can see this as the needle (cylinder) on the picture with dots. Every sensor produces gamma oscillation 30-100 Hz. Every oscillation is the combination of the spikes of each and every neuron in the sphere of sensitivity of the sensor that is 50 mkm. As the form of the spike is unique for each cell (neuron) we could sort spikes according to their form. Sorting based on the machine learning techniques is *primary goal* of the project.
-
-*Second goal* could be the discovering correlations of the neurons that trigger spikes on different levels and discovering causality of the neurons triggering.
-
-*Third goal* could be discovering negative feedback connection between neurons of 4th and 6th levels.
-
-##Team
-
-Teamlead - 25%
-
-3 Developers - 25% Bachelor and Master students
-
-##Project plan
-
-![Spikes project plan](https://raw.githubusercontent.com/research-team/Spikes/master/Spikes_project_plan.png)
-
 #Neuromodulation affective cognitive architecture project (NEUCOGAR)
 
 ##Description
