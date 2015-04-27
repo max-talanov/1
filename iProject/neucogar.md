@@ -89,6 +89,8 @@ The main output should be the prototypes as software and analysis published in s
 
 ##Team
 
+|Role            | N
+|----------------|-----
 |Project manager | 1
 |Lead researcher | 2
 |Researchers     | 4 
