@@ -1,23 +1,5 @@
 #Artificial consciousness project
 
-##Manuel comments
-
-* Project should be planned for 2 years
-* Goal/team/plan are not elaborated: this should be a well-developed part
-* Impact and relevance: it is not stated. Whoever has to invest in a project needs to clearly understand the return
-* The project has not the nature of  a project, but more than an experiment. It seems to me the objectives are too narrow for a “project”
-
-There are no references
-
-I attach for you an example of project proposal. This example is still missing team and planning, but I think the structure (not the content) can be useful:
- 
-+ * Background
-+ * Objectives
-+ * Relevance
-+ * Methodology
-* References
-Team and plan/schedule can be added to this structure.
-
 ##Background
 
 Human and more than that machine consciousness is called the 'Hard problem' for obvious reasons. The efforts that are concentrated in this direction are enormous at the moment: Daniel Dennet, David Chalmers, Marvin Minsky, Aaron Sloman, Antonio Damasio that are most significant thinkers that work currently in this field. More than that projects like Blue Brain Project and Human Brain Project declare their goal to impact the understanding the human consciousness phenomena. The concentration of funding and computational power is the indication of the highest interest of modern computer society to the topic of consciousness and machine consciousness in particular. The complexity of the problem increases because this field involves several cross-disciplinary research fields from Cognitive Science (cognitive hexagon): Neuroscience, Psychology, Philosophy, Anthropology and Sociology. This puts us in the context of cross disciplinary research of: neuro-psychology, neuro-philosophy and all of them mapped to computational systems scientists and engineers.
