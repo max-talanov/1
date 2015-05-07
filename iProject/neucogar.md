@@ -1,4 +1,9 @@
-#Artificial consciousness project
+#Artificial cognitive architecture with consciousness option
+
+- Clarify Model of Six and H-CogAff
+-Results are too ambitious: I doubt the goal “Theoretical artificial consciousness prototypes” can be really funded (and to be honest achieved in 2 years)
+- 15 publications: this is not a goal (only in KFU mindset J)!
+- Plan in 24 months
 
 ##Background
 
@@ -6,12 +11,37 @@ Human and more than that machine consciousness is called the 'Hard problem' for 
 
 ##Objectives
 
-The ultimate goal of the project is to create the computer simulation of human consciousness with realistic neurobiological background processes. We have to use some simplification that should be based on understanding of brain work principles. In other words main goal is to create cognitive architecture with realistic for modern computers (clusters) performance implementation of neurobiological nature of mental processes, this could be decomposed into:
+The ultimate goal of the project is to create the cognitive architecture with the option of human consciousness with close to realistic, but still effective in modern Von Neumann architectures, neurobiological processes. We have to use some simplification that should be based on understanding of brain work principles. In other words main goal is to create cognitive architecture with realistic for modern computers (clusters) performance implementation of neurobiological nature of mental processes. We decided to use two cognitive architectures of Marvin Minsky and Aaron Sloman that provide the complete picture of human mental processes. Marvin Minsky proposed "Model of six" in his book [@emotionmachine] that contains of six levels of mental activities:
 
-1. Develop theoretical model of consciousness encapsulating:
-    2. Philosophical point of view (Model of six, H-CogAff)
+1. Instinctive reactions
+1. Learned reactions
+1. Deliberative thinking
+1. Reflective thinking
+1. Self-reflective thinking
+1. Self-conscious reflections
+
+With following mechanism of mental processing: Critic -> Selector -> Way to think / Critic, for details please see [@emotionmachine].
+
+Aaron Sloman proposed H-CogAff that consist of following parts:
+
+1. Perception mechanisms (hierarchy)
+1. Actions mechanisms (hierarchy)
+
+1. Reactive processes system with alarms
+1. Deliberative processes system
+1. Long term associative memory
+1. Motive activation
+1. Meta-management (reflective) processes
+1. Personae
+
+For further details please see [@sloman2003]
+
+Work breakdown structure is presented below:
+
+1. Develop theoretical model of cognitive architecture with option of consciousness encapsulating:
+    2. Philosophical point of view (Model of six [@emotionmachine], H-CogAff[sloman2003])
 	2. Neurobiological nature of processes in a brain
-	2. Psychological phenomena: emotions, motivation, self-awareness ...
+	2. Psychological phenomena: emotions, learning, self-awareness ...
 1. Implementation of abstract/simplified cognitive architectures of Model of Six or/and H-CogAff based on theoretical model
     2. Study implementation approaches of cognitive architecture
     2. Implement approaches in the way of concept software architecture
@@ -41,14 +71,14 @@ Current state of the research field creates options for the creation of self-lea
 
 For the purposes of the cross-disciplinary research the group of international scientists was created that includes: neuro-scientist, psychologist, philosopher and specialists from AI domain.
 
-In the domain presented above there are several possible directions. First of all most obvious direct mapping of the psychological and/or philosophical models in to the computational system this was done in implementations of several cognitive architectures. But, main disadvantage of strait mapping leads to miss low level details that could be crucial for implementation of machine consciousness.
+In the domain presented above there are several possible directions. First of all most obvious direct mapping of the psychological and/or philosophical models in to the computational system this was done in implementations of several cognitive architectures. But, main disadvantage of strait mapping leads to miss low level details that could be crucial for implementation of cognitive architectures with option of machine consciousness.
 
 The other way could be the creation of uniform theory of complex phenomena like: emotions, awareness, learning, anticipation or subjective experience that could run through perspectives: philosophical, psychological, neurobiological:
 
 ![Anthropocentric to computer processes mapping](layers_binding.png)
 
 Based on this theory the phenomena could be recreated starting from lowest level of cellular mechanisms rebuilding all the phenomena in the other perspectives.
-This approach demands new holistic and functional ways to deal with complex problems to maintain overall picture and functions that implements phenomena of overall picture and have low level mechanisms taken in account in the same time. ...
+This approach demands new holistic and functional ways to deal with complex problems to maintain overall picture and functions that implements phenomena of overall picture and have low level mechanisms taken in account in the same time.
 
 On the other hand the view on recreation of psychological and philosophical phenomena in a computational system puts us in front of perspective of definition of new domains in computer science:
 
@@ -61,14 +91,12 @@ Inside this paradigm we should build first overall model that could describe neu
 
 ##Results
 
-In two years to produce several prototypes that could help to identify current problems in implementation of the artificial consciousness from high-level (philosophical) and low-level neurobiological perspectives.
+In two years to produce several prototypes that could help to identify current problems in implementation of the cognitive architecture with function of consciousness from high-level (philosophical) and low-level neurobiological perspectives.
 The main output should be the prototypes as software and analysis published in scientific journals and presented on conferences:
 
-1. Theoretical artificial consciousness prototypes v. 1 and v. 2
+1. Theoretical cognitive architecture with the function of consciousness prototypes v. 1 and v. 2
 1. Neuromodulatory cognitive architecture (NEUCOGAR) Dopamine prototype, Serotonin prototype and Noradrenaline prototype (integrated prototype
 1. Cortical column topology prototype of generation v. 1 and v. 2
-1. 15 publications
-
 
 ##Team
 
