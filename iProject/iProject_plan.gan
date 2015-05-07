@@ -7,8 +7,8 @@
         <field id="tpd6" name="Duration" width="5" order="3"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="52" order="0"/>
-        <field id="1" name="Default role" width="47" order="1"/>
+        <field id="0" name="Name" width="50" order="0"/>
+        <field id="1" name="Default role" width="49" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -42,7 +42,7 @@
             <depend id="2" type="2" difference="0" hardness="Strong"/>
             <depend id="4" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="1" name="Theoretical model of consciousness" meeting="false" start="2015-06-29" duration="380" complete="0" expand="true">
+        <task id="1" name="Theoretical model of consciousness" meeting="false" start="2015-06-29" duration="500" complete="0" expand="true">
             <task id="5" name="Scientific sources review" color="#8cb6ce" meeting="false" start="2015-06-29" duration="60" complete="0" expand="true">
                 <depend id="12" type="2" difference="0" hardness="Strong"/>
             </task>
@@ -71,7 +71,19 @@
             <task id="19" name="Testing and experiments" color="#8cb6ce" meeting="false" start="2016-10-03" duration="30" complete="0" expand="true">
                 <depend id="20" type="2" difference="0" hardness="Strong"/>
             </task>
-            <task id="20" name="Analysis of results" color="#8cb6ce" meeting="false" start="2016-11-14" duration="20" complete="0" expand="true"/>
+            <task id="20" name="Analysis of results" color="#8cb6ce" meeting="false" start="2016-11-14" duration="20" complete="0" expand="true">
+                <depend id="80" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="80" name="Model update" meeting="false" start="2016-12-12" duration="30" complete="0" expand="true">
+                <depend id="82" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="82" name="Prototype version 3" meeting="false" start="2017-01-23" duration="60" complete="0" expand="true">
+                <depend id="84" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="84" name="Testing and experiments" meeting="false" start="2017-04-17" duration="20" complete="0" expand="true">
+                <depend id="86" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="86" name="Analysis of results" meeting="false" start="2017-05-15" duration="10" complete="0" expand="true"/>
         </task>
         <task id="0" name="NEUCOGAR" meeting="false" start="2015-06-29" duration="350" complete="0" expand="true">
             <task id="30" name="Neuromodulation Architecture specification" meeting="false" start="2015-06-29" duration="1" complete="0" expand="true"/>
@@ -96,6 +108,7 @@
                 <task id="79" name="Serotonin pathway relistic scale" meeting="false" start="2016-02-08" duration="60" complete="0" expand="true"/>
             </task>
             <task id="57" name="Noradrenaline" meeting="false" start="2016-05-02" duration="130" complete="0" expand="true">
+                <depend id="94" type="2" difference="0" hardness="Strong"/>
                 <task id="59" name="Noradrenaline neuron/synapse model" meeting="false" start="2016-05-02" duration="20" complete="0" expand="true">
                     <depend id="61" type="2" difference="0" hardness="Strong"/>
                 </task>
@@ -108,6 +121,12 @@
                 <task id="65" name="Noradrenaline projections realistic scales" meeting="false" start="2016-08-08" duration="60" complete="0" expand="true"/>
             </task>
         </task>
+        <task id="94" name="Instinctive reactions" meeting="false" start="2016-10-31" duration="60" complete="0" expand="true">
+            <depend id="95" type="2" difference="0" hardness="Strong"/>
+            <depend id="96" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="95" name="Learned reactions" color="#8cb6ce" meeting="false" start="2017-01-23" duration="94" complete="0" expand="true"/>
+        <task id="96" name="Deliberative thinking" color="#8cb6ce" meeting="false" start="2017-01-23" duration="94" complete="0" expand="true"/>
         <task id="2" name="Cortical column topology" meeting="false" start="2015-06-29" duration="180" complete="0" expand="true">
             <task id="67" name="Filetering" meeting="false" start="2015-06-29" duration="30" complete="0" expand="true">
                 <depend id="70" type="2" difference="0" hardness="Strong"/>
@@ -117,7 +136,7 @@
             </task>
             <task id="72" name="Spikes casuality" meeting="false" start="2015-11-02" duration="90" complete="0" expand="true"/>
         </task>
-        <task id="4" name="Publications" color="#8cb6ce" meeting="false" start="2016-01-11" duration="255" complete="0" expand="true"/>
+        <task id="4" name="Publications" color="#8cb6ce" meeting="false" start="2016-01-11" duration="364" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
@@ -131,9 +150,9 @@
         <displaycolumn property-id="tpd9" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd1" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd0" order="-1" width="75" visible="false"/>
-        <displaycolumn property-id="tpd3" order="0" width="365" visible="true"/>
-        <displaycolumn property-id="tpd4" order="1" width="79" visible="true"/>
-        <displaycolumn property-id="tpd5" order="2" width="76" visible="true"/>
+        <displaycolumn property-id="tpd3" order="0" width="354" visible="true"/>
+        <displaycolumn property-id="tpd4" order="1" width="77" visible="true"/>
+        <displaycolumn property-id="tpd5" order="2" width="74" visible="true"/>
         <displaycolumn property-id="tpd6" order="3" width="28" visible="true"/>
     </taskdisplaycolumns>
     <previous/>
