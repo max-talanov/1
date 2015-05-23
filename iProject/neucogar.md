@@ -1,10 +1,5 @@
 #Artificial cognitive architecture with consciousness option
 
-- Clarify Model of Six and H-CogAff
--Results are too ambitious: I doubt the goal “Theoretical artificial consciousness prototypes” can be really funded (and to be honest achieved in 2 years)
-- 15 publications: this is not a goal (only in KFU mindset J)!
-- Plan in 24 months
-
 ##Background
 
 Human and more than that machine consciousness is called the 'Hard problem' for obvious reasons. The efforts that are concentrated in this direction are enormous at the moment: Daniel Dennet, David Chalmers, Marvin Minsky, Aaron Sloman, Antonio Damasio that are most significant thinkers that work currently in this field. More than that projects like Blue Brain Project and Human Brain Project declare their goal to impact the understanding the human consciousness phenomena. The concentration of funding and computational power is the indication of the highest interest of modern computer society to the topic of consciousness and machine consciousness in particular. The complexity of the problem increases because this field involves several cross-disciplinary research fields from Cognitive Science (cognitive hexagon): Neuroscience, Psychology, Philosophy, Anthropology and Sociology. This puts us in the context of cross disciplinary research of: neuro-psychology, neuro-philosophy and all of them mapped to computational systems scientists and engineers.
@@ -39,7 +34,7 @@ For further details please see [@sloman2003]
 Work breakdown structure is presented below:
 
 1. Develop theoretical model of cognitive architecture with option of consciousness encapsulating:
-    2. Philosophical point of view (Model of six [@emotionmachine], H-CogAff[sloman2003])
+    2. Philosophical point of view (Model of six [@emotionmachine], H-CogAff[@sloman2003])
 	2. Neurobiological nature of processes in a brain
 	2. Psychological phenomena: emotions, learning, self-awareness ...
 1. Implementation of abstract/simplified cognitive architectures of Model of Six or/and H-CogAff based on theoretical model
