@@ -204,7 +204,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 ##[mozaik](http://neuralensemble.org/mozaik/)
 
-###Mani features
+###Main features
 
 1. High-level components for definition of topologically organized spiking networks (built on top of PyNN)
 1. Experiment control (description and execution of experiments)
