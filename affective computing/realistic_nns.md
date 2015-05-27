@@ -12,8 +12,8 @@ Number |SNN                    |Score|Reference
 6.     |mozaik                 | 0   |
 7.     |Mvaspike               | 0   |
 8.     |**NCS**                | 6   |[*](realistic_nns.md#ncs)
-9.     |**Nengo**              | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/realistic_nns.md#the-nengo-neural-simulator)
-10.    |**NEST**               | 7   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/realistic_nns.md#nest)
+9.     |**Nengo**              | 6   |[*](realistic_nns.md#the-nengo-neural-simulator)
+10.    |**NEST**               | 7   |[*](realistic_nns.md#nest)
 11.    |NSL                    | 1   |
 12.    |ReMoto                 | 0   |
 13.    |SpikeNet               | 1   |
