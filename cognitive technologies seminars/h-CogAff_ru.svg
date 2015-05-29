@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="h_CogAff_ru.svg"
+   inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/model_6_ru.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3875"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3834">
+      <stop
+         style="stop-color:#001cff;stop-opacity:0.35294119;"
+         offset="0"
+         id="stop3836" />
+      <stop
+         style="stop-color:#009bff;stop-opacity:0.35294119;"
+         offset="1"
+         id="stop3838" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3834"
+       id="linearGradient3840"
+       x1="59.060532"
+       y1="49.589724"
+       x2="316.5295"
+       y2="49.589724"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.2574755,-0.5940196)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3834"
+       id="linearGradient3848"
+       x1="59.060532"
+       y1="-572.41028"
+       x2="316.52951"
+       y2="-572.41028"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.2574755,-15.188039)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1903762"
+     inkscape:cx="282.99146"
+     inkscape:cy="876.36645"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1565"
+     inkscape:window-height="876"
+     inkscape:window-x="35"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="307.1638,1002.5508"
+       id="guide3856" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-16.038529,1002.5508"
+       id="guide3860" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="556.00234,1002.5508"
+       id="guide3862" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#272e34;fill-opacity:1;stroke:#000000;stroke-width:1.40886688;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3785"
+       width="973.073"
+       height="594.50897"
+       x="-231.26736"
+       y="-121.25875" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0efff0;fill-opacity:0.35294118;stroke:#c5c5c5;stroke-width:1.47573555;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="570.95203"
+       height="49.201485"
+       x="-15.243209"
+       y="334.45349"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="218.25989"
+       x="-15.43876"
+       height="88.479706"
+       width="571.73761"
+       id="rect2987"
+       style="fill:#009bff;fill-opacity:0.35294118;stroke:#c5c5c5;stroke-width:0.99500924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="50.323845"
+       x="-16.055532"
+       height="102.74416"
+       width="316.84879"
+       id="rect2991"
+       style="fill:#001cff;fill-opacity:0.35294118000000002;stroke:#c5c5c5;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="270.95547"
+       y="369.96634"
+       id="text3787"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3789"
+         x="270.95547"
+         y="369.96634"
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1">среда</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3795"
+       y="278.01373"
+       x="270.604"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1"
+         y="278.01373"
+         x="270.604"
+         id="tspan3797"
+         sodipodi:role="line">реактивные процессы</tspan></text>
+    <rect
+       y="158.30823"
+       x="-16.469009"
+       height="49.573563"
+       width="316.89856"
+       id="rect3858"
+       style="fill:#008dff;fill-opacity:0.35294118;stroke:#c5c5c5;stroke-width:0.99928242;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="142.66664"
+       y="195.20712"
+       id="text3799"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3801"
+         x="142.66664"
+         y="195.20712"
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1">рассуждение</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3803"
+       y="90.536034"
+       x="142.87904"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1"
+         y="90.536034"
+         x="142.87904"
+         id="tspan3805"
+         sodipodi:role="line">мета-</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1"
+         y="140.53604"
+         x="142.87904"
+         sodipodi:role="line"
+         id="tspan3814">управление</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3840);fill-opacity:1;stroke:#c5c5c5;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3032"
+       width="256.46896"
+       height="49.683323"
+       x="50.303055"
+       y="24.154043"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-179.28949"
+       y="-39.954685"
+       id="text3034"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3036"
+         x="-179.28949"
+         y="-39.954685"
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1">восприятие</tspan></text>
+    <rect
+       y="104.25114"
+       x="307.47391"
+       height="49.687729"
+       width="248.05421"
+       id="rect3852"
+       style="fill:#0046ff;fill-opacity:0.35294119;stroke:#c5c5c5;stroke-width:0.88511746999999985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3810"
+       y="140.01297"
+       x="430.87601"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1"
+         y="140.01297"
+         x="430.87601"
+         id="tspan3812"
+         sodipodi:role="line">память</tspan></text>
+    <rect
+       style="fill:#008dff;fill-opacity:0.35294119;stroke:#c5c5c5;stroke-width:0.88511746999999996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3816"
+       width="248.05421"
+       height="49.687729"
+       x="307.47391"
+       y="158.25114"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="431.38382"
+       y="195.20712"
+       id="text3818"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3820"
+         x="431.38382"
+         y="195.20712"
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1">мотивация</tspan></text>
+    <rect
+       style="fill:#001cff;fill-opacity:0.35294119;stroke:#c5c5c5;stroke-width:0.88511746999999985;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3854"
+       width="248.05421"
+       height="49.687729"
+       x="307.47391"
+       y="50.251137"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="431.95023"
+       y="86.01297"
+       id="text3824"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3826"
+         x="431.95023"
+         y="86.01297"
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1">личность</tspan></text>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-612.44"
+       x="50.303055"
+       height="49.683323"
+       width="256.46896"
+       id="rect3828"
+       style="fill:url(#linearGradient3848);fill-opacity:1;stroke:#c5c5c5;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text3830"
+       y="596.63934"
+       x="-179.28949"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="text-align:center;text-anchor:middle;fill:#f0f0f0;fill-opacity:1"
+         y="596.63934"
+         x="-179.28949"
+         id="tspan3832"
+         sodipodi:role="line">поведение</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#0046ff;fill-opacity:0.35294118;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4312"
+       sodipodi:sides="3"
+       sodipodi:cx="-72.246071"
+       sodipodi:cy="-58.211117"
+       sodipodi:r1="11.270729"
+       sodipodi:r2="5.6353645"
+       sodipodi:arg1="2.6179939"
+       sodipodi:arg2="3.6651914"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.05"
+       inkscape:randomized="0"
+       d="m -82.006809,-52.575752 c -0.488037,-0.845305 8.784665,-16.906094 9.760738,-16.906094 0.976074,0 10.248775,16.060789 9.760738,16.906094 -0.488037,0.845305 -19.033439,0.845304 -19.521476,0 z"
+       inkscape:transform-center-y="-2.5006931"
+       transform="translate(24.481553,376.35162)"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0,-1,1,0,626.21834,290.21782)"
+       d="m -82.006809,-52.575752 c -0.488037,-0.845305 8.784665,-16.906094 9.760738,-16.906094 0.976074,0 10.248775,16.060789 9.760738,16.906094 -0.488037,0.845305 -19.033439,0.845304 -19.521476,0 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.05"
+       inkscape:flatsided="true"
+       sodipodi:arg2="3.6651914"
+       sodipodi:arg1="2.6179939"
+       sodipodi:r2="5.6353645"
+       sodipodi:r1="11.270729"
+       sodipodi:cy="-58.211117"
+       sodipodi:cx="-72.246071"
+       sodipodi:sides="3"
+       id="path4318"
+       style="fill:#0046ff;fill-opacity:0.35294118;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:transform-center-x="0.82054765"
+       inkscape:transform-center-y="2.5202117"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -47.779013,324.65105 0.136473,39.5842 31.604011,0.10913"
+       id="path4322"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4324"
+       d="m 574.24457,362.36795 14.93239,-0.13647 -0.0394,-55.36479"
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/max/Projects/1/1/cognitive technologies seminars/h-CogAff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
