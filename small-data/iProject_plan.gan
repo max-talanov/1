@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Artificial consciousness project" company="IU" webLink="https://github.com/max-talanov/1/blob/master/iProject/neucogar.md" view-date="2015-06-01" view-index="0" gantt-divider-location="552" resource-divider-location="300" version="2.0" locale="en_GB">
+    <description/>
+    <view zooming-state="default:11" id="gantt-chart">
+        <field id="tpd3" name="Name" width="66" order="0"/>
+        <field id="tpd4" name="Begin date" width="14" order="1"/>
+        <field id="tpd5" name="End date" width="13" order="2"/>
+        <field id="tpd6" name="Duration" width="5" order="3"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="50" order="0"/>
+        <field id="1" name="Default role" width="49" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <calendar id="1" name="default">
+                <default-week sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+                <only-show-weekends value="false"/>
+                <overriden-day-types/>
+                <days/>
+            </calendar>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="3" name="Team forming" color="#8cb6ce" meeting="false" start="2015-06-01" duration="20" complete="0" expand="true">
+            <depend id="0" type="2" difference="0" hardness="Strong"/>
+            <depend id="1" type="2" difference="0" hardness="Strong"/>
+            <depend id="2" type="2" difference="0" hardness="Strong"/>
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="1" name="Theoretical model of consciousness" meeting="false" start="2015-06-29" duration="500" complete="0" expand="true">
+            <task id="5" name="Scientific sources review" color="#8cb6ce" meeting="false" start="2015-06-29" duration="60" complete="0" expand="true">
+                <depend id="12" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="12" name="Analysis" meeting="false" start="2015-09-21" duration="40" complete="0" expand="true">
+                <depend id="13" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="13" name="Model development" meeting="false" start="2015-11-16" duration="40" complete="0" expand="true">
+                <depend id="4" type="2" difference="0" hardness="Strong"/>
+                <depend id="14" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="14" name="Prototype version 1" color="#8cb6ce" meeting="false" start="2016-01-11" duration="60" complete="0" expand="true">
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="15" name="Testing and experimenting" meeting="false" start="2016-04-04" duration="20" complete="0" expand="true">
+                <depend id="16" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="16" name="Analysis of results" color="#8cb6ce" meeting="false" start="2016-05-02" duration="20" complete="0" expand="true">
+                <depend id="17" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="17" name="Model update" color="#8cb6ce" meeting="false" start="2016-05-30" duration="30" complete="0" expand="true">
+                <depend id="18" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="18" name="Prototype version 2" meeting="false" start="2016-07-11" duration="60" complete="0" expand="true">
+                <depend id="19" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="19" name="Testing and experiments" color="#8cb6ce" meeting="false" start="2016-10-03" duration="30" complete="0" expand="true">
+                <depend id="20" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="20" name="Analysis of results" color="#8cb6ce" meeting="false" start="2016-11-14" duration="20" complete="0" expand="true">
+                <depend id="80" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="80" name="Model update" meeting="false" start="2016-12-12" duration="30" complete="0" expand="true">
+                <depend id="82" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="82" name="Prototype version 3" meeting="false" start="2017-01-23" duration="60" complete="0" expand="true">
+                <depend id="84" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="84" name="Testing and experiments" meeting="false" start="2017-04-17" duration="20" complete="0" expand="true">
+                <depend id="86" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="86" name="Analysis of results" meeting="false" start="2017-05-15" duration="10" complete="0" expand="true"/>
+        </task>
+        <task id="0" name="NEUCOGAR" meeting="false" start="2015-06-29" duration="350" complete="0" expand="true">
+            <task id="30" name="Neuromodulation Architecture specification" meeting="false" start="2015-06-29" duration="1" complete="0" expand="true"/>
+            <task id="47" name="Dopamine" meeting="false" start="2015-06-29" duration="110" complete="0" expand="true">
+                <depend id="51" type="2" difference="0" hardness="Strong"/>
+                <task id="43" name="Basal ganglia simple model implementation" meeting="false" start="2015-06-29" duration="20" complete="0" expand="true">
+                    <depend id="45" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="45" name="Basal ganglia with extended feedback loops" meeting="false" start="2015-07-27" duration="30" complete="0" expand="true">
+                    <depend id="49" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="49" name="Basal ganglia with feedback loops and realistic number of neurons" meeting="false" start="2015-09-07" duration="60" complete="0" expand="true"/>
+            </task>
+            <task id="51" name="Serotonin" meeting="false" start="2015-11-30" duration="110" complete="0" expand="true">
+                <depend id="57" type="2" difference="0" hardness="Strong"/>
+                <task id="53" name="Serotonin neuron/synapse" meeting="false" start="2015-11-30" duration="30" complete="0" expand="true">
+                    <depend id="55" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="55" name="Serotonin pathway reduced number of neurons" meeting="false" start="2016-01-11" duration="20" complete="0" expand="true">
+                    <depend id="79" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="79" name="Serotonin pathway relistic scale" meeting="false" start="2016-02-08" duration="60" complete="0" expand="true"/>
+            </task>
+            <task id="57" name="Noradrenaline" meeting="false" start="2016-05-02" duration="130" complete="0" expand="true">
+                <depend id="94" type="2" difference="0" hardness="Strong"/>
+                <task id="59" name="Noradrenaline neuron/synapse model" meeting="false" start="2016-05-02" duration="20" complete="0" expand="true">
+                    <depend id="61" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="61" name="Noradrenaline neuron/synapse" meeting="false" start="2016-05-30" duration="30" complete="0" expand="true">
+                    <depend id="63" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="63" name="Noradrenaline projections reduced number of neurons" meeting="false" start="2016-07-11" duration="20" complete="0" expand="true">
+                    <depend id="65" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="65" name="Noradrenaline projections realistic scales" meeting="false" start="2016-08-08" duration="60" complete="0" expand="true"/>
+            </task>
+        </task>
+        <task id="94" name="Instinctive reactions" meeting="false" start="2016-10-31" duration="60" complete="0" expand="true">
+            <depend id="95" type="2" difference="0" hardness="Strong"/>
+            <depend id="96" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="95" name="Learned reactions" color="#8cb6ce" meeting="false" start="2017-01-23" duration="94" complete="0" expand="true"/>
+        <task id="96" name="Deliberative thinking" color="#8cb6ce" meeting="false" start="2017-01-23" duration="94" complete="0" expand="true"/>
+        <task id="2" name="Cortical column topology" meeting="false" start="2015-06-29" duration="180" complete="0" expand="true">
+            <task id="67" name="Filetering" meeting="false" start="2015-06-29" duration="30" complete="0" expand="true">
+                <depend id="70" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="70" name="Clastering" meeting="false" start="2015-08-10" duration="60" complete="0" expand="true">
+                <depend id="72" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="72" name="Spikes casuality" meeting="false" start="2015-11-02" duration="90" complete="0" expand="true"/>
+        </task>
+        <task id="4" name="Publications" color="#8cb6ce" meeting="false" start="2016-01-11" duration="364" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <taskdisplaycolumns>
+        <displaycolumn property-id="tpd2" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd7" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd8" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd10" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd11" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd9" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd1" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd0" order="-1" width="75" visible="false"/>
+        <displaycolumn property-id="tpd3" order="0" width="354" visible="true"/>
+        <displaycolumn property-id="tpd4" order="1" width="77" visible="true"/>
+        <displaycolumn property-id="tpd5" order="2" width="74" visible="true"/>
+        <displaycolumn property-id="tpd6" order="3" width="28" visible="true"/>
+    </taskdisplaycolumns>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+    <roles>
+        <role id="1" name="researcher"/>
+        <role id="2" name="lead researcher"/>
+        <role id="3" name="developer"/>
+        <role id="4" name="architect"/>
+        <role id="5" name="teamlead"/>
+    </roles>
+</project>
