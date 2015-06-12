@@ -22,9 +22,34 @@ First fact that biased our mindset is that brain contributes the 20 Watts only a
 
 ##My Idea = 2 pages
 
-As von Neumann architecture origins from human brain structure we again are looking into the neurobiological nature of the human mind. 
+As von Neumann architecture origins from human brain structure we again are looking into the neurobiological nature of the human mind. We gain our inspiration in research in neuroscience.
 
+We propose combined approach based on:
 
+1. Neurobiologically inspired reasoning
+1. [Non axiomatic reasoning system](https://github.com/opennars/opennars)
+
+###Neurobiologically inspired reasoning
+
+We run the analysis of several psychological phenomena including emotions, decision making and consciousness based on the current state of neurobiological and psychological sources. As the result of our work we produced the semantic network of connected concepts, that is too complex to present here.
+Main target of this analysis was the missing mechanisms in current AI solutions that could make analytical mechanisms more robust and flexible to gain an option proposing decision based on relatively small amount of data and in real-time.
+
+System should be:
+1. Alive:
+    2. Capable of maintaining homeostasis
+    2. Active 
+1. Capable of synchronization of several events
+1. Capable of association of events
+1. Capable of self-training
+
+All the items of the list above are not strait-forward and requires further definition:
+System capacity for self-maintenance is crucial and should be developed in some extent in the computational system, for example there should be the mechanism of self-regulating of computational capacity redistribution, for robotic system self integrity maintenance, temperature, humidity and power consumption.
+
+Active systems are more capable of outer wold exploration that is critical in system training [Oudeyer2013]. A computational system actively exploring and changing the world could be capable of self-training using options of virtual simulations, as for robotic system it should be capable of using physical playground.
+
+Mammalian brain uses synchronization actively to combine the analytical events like detecting vertical and horizontal lines in visual stimulus.
+
+...
 
 ##The details = 5 pages
 
