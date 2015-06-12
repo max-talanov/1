@@ -18,9 +18,13 @@ Several last years big data was in the center of interest of and thus data scien
 
 But demand is really high current robotics systems are not able of doing more or less reasonable reactions in complex social environment, analytical systems are capable of decision support in environment of the exabytes of data. IoT demands distributed decision making in real time that puts us into position of inventing of new methods and approaches.
 
+First fact that biased our mindset is that brain contributes the 20 Watts only and still capable of much more that modern computational systems. Second is the decision making is done with much less data required for the training and still we tend to rely on human decision making much more than on machine with big data analysis. In medicine there are decision support systems that leaves final decision to human doctor.
+
 ##My Idea = 2 pages
 
-As von Neumann architecture origins from human brain structure we again are looking into the neurobiological nature of the human mind.
+As von Neumann architecture origins from human brain structure we again are looking into the neurobiological nature of the human mind. 
+
+
 
 ##The details = 5 pages
 
