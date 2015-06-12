@@ -35,6 +35,7 @@ We run the analysis of several psychological phenomena including emotions, decis
 Main target of this analysis was the missing mechanisms in current AI solutions that could make analytical mechanisms more robust and flexible to gain an option proposing decision based on relatively small amount of data and in real-time.
 
 System should be:
+
 1. Alive:
     2. Capable of maintaining homeostasis
     2. Active 
