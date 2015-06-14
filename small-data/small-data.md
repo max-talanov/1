@@ -43,16 +43,45 @@ System should be:
 1. Capable of association of events
 1. Capable of self-training
 
-All the items of the list above are not strait-forward and requires further definition:
+All the items of the list above are not strait-forward and requires further elaboration:
 System capacity for self-maintenance is crucial and should be developed in some extent in the computational system, for example there should be the mechanism of self-regulating of computational capacity redistribution, for robotic system self integrity maintenance, temperature, humidity and power consumption.
 
 Active systems are more capable of outer wold exploration that is critical in system training [Oudeyer2013]. A computational system actively exploring and changing the world could be capable of self-training using options of virtual simulations, as for robotic system it should be capable of using physical playground.
 
-Mammalian brain uses synchronization actively to combine the analytical events like detecting vertical and horizontal lines in visual stimulus.
+Mammalian brain uses synchronization actively to combine the analytical events like detecting vertical and horizontal lines in visual stimulus. Association of events is closely related to synchronization but not limited to it, sequences of events that could cause some result for example knows as conditional reflexes are based on associations. One more example of association is word to object association this could be understood as first layer of abstraction developed during our life. Based on this words abstraction later humans develops deliberations learning logical rules of composition of objects and actions in facts and then in more abstract rules.
+
+Human brain is self adaptive live system that does the training because of its vital functions. Self-adaptation of synapses is believed to be main source of brain training <add reference here>. This is in contrast to current NN systems that usually uses feed forward or back propagation algorithms external to neurons to setup proper weights of the connections.
+
+###NARS (nonaxiomatic reasoning system)
+
+Possible base for implementation base  could be use of NARS, with following features are promising in the light of listed above requirements:
+
+System is capable of:
+
+1. Active automatic inference: induction, deduction, abduction
+1. Automatic association of several concepts in logical networks
+1. Self-training in the boundaries of automatic inference
+1. Work with contradictions
+
+Current state of NARS server crates the proper base for further research in small-data field.
+As it was mentioned the active automatic inference is crucial for self-development option. On the other hand this approach is proposed as the compromise to computational current industrial computational systems. Current full size simulation of human brain is impossible for two reasons:
+
+1. Computational power required to simulate of full human brain is not available
+1. The funding of this full size simulation is too giant.
+
+Latest simulation of human brain was done by RIKEN[@Riken] in 2013. There was used 250 supercomputers "K" to simulate 1 percent of brain in realistic neural network [NEST](http://www.nest-initiative.org/), the simulation was 1000 times slower that human brain. One year of use of one supercomputer "K" costs 10 Million USD. Full size human brain simulation could cost: 2 Trillion 500 Billion of USD. This simple calculation does not include possible technological breakthrough for example TrueNorth architecture that was introduced recently, and could make human brain simulations more effective, but currently there is no evidence in use of TrueNorth architecture in brain simulations and there is no clear understanding how this possible simulations could be used in industry.
+
+This brings us to the position of required compromise to cope with current technological limitations of von Neumann computer. It seems that rising abstraction layer could be promising approach that provides option to deal with less number of instances in memory maintaining less parallel processes thus using less resources for computational tasks. This approach could be most useful for distributed systems like IoT and modern robotic systems that should make decisions in real-time.
+This is crucial option for quickly developing market of Smart Cities and Autonomous Robotic Systems.
+
+
+####Resources
 
 ...
 
-##The details = 5 pages
+####Project plan
+
+...
 
 ##Related work = 1-2 pages
 
