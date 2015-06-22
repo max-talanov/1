@@ -20,6 +20,18 @@ But demand is really high current robotics systems are not able of doing more or
 
 First fact that biased our mindset is that brain contributes the 20 Watts only and still capable of much more that modern computational systems. Second is the decision making is done with much less data required for the training and still we tend to rely on human decision making much more than on machine with big data analysis. In medicine there are decision support systems that leaves final decision to human doctor.
 
+**The problem**: Currently data processing is dominated by statistical methods, which has the following limitations:
+
+(1) The required data is not available -- e.g., the prior distribution required by the Bayesian approach cannot be effectively determined in many situations. It has been point out by many researchers that probability theory cannot handle ignorance ("I don't know") naturally.
+
+(2) The required data is not available at the same moment -- For systems that work in real time or handle online information, the data come prom time to time, which statistical methods usually cannot handle incremental revision very well.
+
+(3) The available data are inconsistent -- When data comes from multiple sources or at different periods, it is common that they support conflicting or contradicting conclusions. Since statistical methods usually assume each event has a unique probability (though it can be unknown), this "data fusion" problem has not got a widely accepted statistical solution.
+
+(4) Statistical methods often take a long time to compute, which is not always affordable in practical situations where problems demands real-time solutions.
+
+(5) Since statistical methods usually works on a constant sample (or propositional) space, they normally can only evaluate given hypotheses, but cannot generate hypotheses. For many practical problems, it is very unnatural to assume all the candidate answers are known at the beginning.
+
 ##My Idea = 2 pages
 
 As von Neumann architecture origins from human brain structure we again are looking into the neurobiological nature of the human mind. We gain our inspiration in research in neuroscience.
@@ -81,7 +93,13 @@ This is crucial option for quickly developing market of Smart Cities and Autonom
 
 ####Project plan
 
-...
+(1) Case study: collect a few actual use cases, and analyze it by manually translate each of them into a step-by-step inference process in NAL, similar to what was done in Reasoning in Non-Axiomatic Logic: A Case Study in Medical Diagnosis(also see Using NAL in Medical Diagnosis).
+
+(2) Conceptual design of the system: The formal language and inference rules should be obtained by customizing NAL, but the control mechanism must be re-do, since this system is designed for a different purpose from NARS. The system will still be restricted by available resource, so that exhaustive search (or inference) is probably not affordable. Therefore, all knowledge should be prioritized, so only the high priority knowledge will be used for this problem. Also, the inference process will follow a predetermined algorithm, rather than handled in a case-by-case manner as in NARS.
+
+(3) Software design and implementation -- nothing special here. 
+
+Related works and conclusions -- too early to talk about the details. We can keep these topics in mind, and keep a record, which will be extended and revised as the research goes
 
 ##Related work = 1-2 pages
 
