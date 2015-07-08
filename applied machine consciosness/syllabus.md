@@ -1,4 +1,4 @@
-#Applied machine cosciousness syllabus
+#Applied machine consciousness syllabus
 
 Max Talanov: talanov.max@gmail.com
 
@@ -22,7 +22,7 @@ Max Talanov: talanov.max@gmail.com
         3. Commonsense
     2. Reflections ?
 1. Artificial consciousness:
-    2. State of art
+    2. State of the art
     2. Cognitive architectures
     2. Spiking NNs and HTM
 
