@@ -10,9 +10,7 @@ This is the way I have discovered the power of imagination.
 ##Problem
 
 I had a problem and the problem was big and ubiquitous: I had too many ideas per day.
-My colleagues in the big company usually told me that no one needs my ideas and it is only me
-who is interested in them. I was depressed: I could not self-realize all attempts seems to lead to
-no result. I have started [blogging](https://cosmicdustman.wordpress.com/category/rd/) expressing the
+I have started [blogging](https://cosmicdustman.wordpress.com/category/rd/) expressing the
 ides just in the internet space like radiating them. Then I have understood that radiating ides does
 not make much sense without the implementation. So I needed some focus and that was the Machine
 Consciousness.
