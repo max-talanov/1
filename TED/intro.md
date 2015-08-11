@@ -101,7 +101,7 @@ that would help humans during their life having no emotions? No compassion, love
 
 I don't think so!
 
-Recently I had speech on TEDx: https://www.youtube.com/watch?v=BLvS7h3kRbo
+Recently I had speech on [TEDx](https://www.youtube.com/watch?v=BLvS7h3kRbo)
 This speech is science popular interpretation of my position regarding machines and their consciousness.
 
 We have to have conscious machines and capable of having emotional feelings not only the logic.
