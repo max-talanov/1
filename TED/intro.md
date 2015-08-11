@@ -64,33 +64,45 @@ We are doing computational neurobiology collaborating with neuroscientists
 There are group of scientists and we started the book about the machine consciousness mainly as the neural correlate
 to several mental activities, in other words: explaining philosophical/psychological phenomena in neurobiological terms.
 
-##Conclusion
+##The speech
+
+###Fear simulation
 
 Recently we have received the preliminary results with simulation of fear in the machines.
-Why - fear because currently it is the easiest way to simulate emotions in the machines. The research is in it's early
-stage though we have done some modeling and validation. We even managed to simulate the fear in its simplest form
-and indicate the connection of emotions and computational system parameters like computational power consumption,
-learning and storage. We actually can indicate the moment when machine was in fear like state.
+Why fear, because currently it is the easiest way to simulate emotions in the machines.
+Our research is in it's early
+stage but already we have done some modeling and validation.
+We even managed to simulate the fear in its simplest form
+and indicate the connection of emotions and computational system parameters: computational power consumption,
+learning and storage and we are able to indicate the moment when machine was in fear-like state.
+
+Nick Bostrom in his [TED speech](http://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are) indicated the importantce that super-intelligence "shares our(human) values". We completely share
+this position and more than that we propose that emotions and consciousness 
+creates proper basement for the values system of future safe and friendly artificial intelligence or
+super-intelligence.
+
+
+###Machine consciousness 
 
 Why consciousness is interesting and so complex/challenging?
 Mainly because we do not understand the human consciousness, there are brilliant minds working on this problem:
-Daniel Dennett, David Chalmers, Antonio Damasio, Marvin Minsky, Aaron Sloman ...
+[Daniel Dennett](http://www.ted.com/talks/dan_dennett_on_our_consciousness), [David Chalmers](http://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness), [Antonio Damasio](http://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness], Marvin Minsky, Aaron Sloman ...
 
 Currently we have a lot of machines that can do a lot of interesting and amazing things like Watson. But still
 there is no sign of the consciousness they still are unconsciously following the program collective of programmers
 created. This is not that bad. But can we imagine the future with intelligent unconscious robots? With robots
 that would help humans during their life having no emotions? No compassion, love?
 
-I don't think so.
+I don't think so!
 
 Recently I had speech on TEDx: https://www.youtube.com/watch?v=BLvS7h3kRbo
 This speech is science popular interpretation of my position regarding machines and their consciousness.
 
 We have to have conscious machines and capable of having emotional feelings not only the logic.
 
-I' pretty sure that if there was no crucial need for the consciousness and emotions then the evolution would get rid
-of them but there are and there is the Reason of it. We want to create responsible and complete members of society
-that will help us possibly already old humans in future.
+I'm pretty sure that if there was no crucial need for the consciousness and emotions then the evolution would get rid
+of them. We want to create responsible and reasonable members of society
+that will help us possibly already "old humans" in future.
 
 
 
