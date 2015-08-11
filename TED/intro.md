@@ -90,7 +90,8 @@ super-intelligence.
 
 Why consciousness is interesting and so complex/challenging?
 Mainly because we do not understand the human consciousness, there are brilliant minds working on this problem:
-[Daniel Dennett](http://www.ted.com/talks/dan_dennett_on_our_consciousness), [David Chalmers](http://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness), [Antonio Damasio](http://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness), [Marvin Minsky](https://en.wikipedia.org/wiki/The_Emotion_Machine), Aaron Sloman ...
+[Daniel Dennett](http://www.ted.com/talks/dan_dennett_on_our_consciousness), [David Chalmers](http://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness),
+[Antonio Damasio](http://www.ted.com/talks/antonio_damasio_the_quest_to_understand_consciousness), [Marvin Minsky](https://en.wikipedia.org/wiki/The_Emotion_Machine), Aaron Sloman ...
 
 Currently we have a lot of machines that can do a lot of interesting and amazing things like IBM Watson. But still
 there is no sign of the consciousness they still are unconsciously following the program that collective of
