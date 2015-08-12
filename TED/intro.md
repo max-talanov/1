@@ -26,7 +26,7 @@ some progress in the automation but still the system was:
 
 * too fragile
 * had redundant and stupid rules
-* was unable capable of self-development
+* was unable of the self-development
 
 So we had to use different approach.
 
