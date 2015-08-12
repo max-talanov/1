@@ -33,7 +33,8 @@ So we had to use different approach.
 ##The book
 
 Around 2007 I have explored the book of Marvin Minsky "The emotion machine". That was fresh and unusual view on
-the Artificial Intelligence(AI) and the emotions. For some reasons we still perceive the machines even the intelligent
+the Artificial Intelligence(AI) and the emotions. For some historical reason we still perceive the machines
+even the intelligent
 ones as completely unemotional. This point of view is really common not only among non specialists in AI but also
 among scientists. Machines are frequently associated with "pure" logic contrasted to emotional thinking. This was
 the turning point of my life. Indeed we have cognition and consciousness working in our heads and nicely.
