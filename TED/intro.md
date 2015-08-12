@@ -71,10 +71,8 @@ terms.
 
 ###Fear simulation
 
-Recently we have received the preliminary results with simulation of fear in the machines.
-Why fear, because currently it is the easiest way to simulate emotions in the machines.
-Our research is in it's early
-stage but already we have done some modeling and validation.
+Recently we have received the preliminary results of the simulation of fear in the machines.
+Our research is in it's early stage but already we have done some modeling and validation.
 We even managed to simulate the fear in its simplest form
 and indicate the connection of emotions and computational system parameters: computational power consumption,
 learning and storage and we are able to indicate the moment when machine was in fear-like state.
