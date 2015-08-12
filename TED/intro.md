@@ -59,7 +59,7 @@ problems that we had: was absence of the understanding of what is human understa
 
 Now I do the research in machine consciousness that is mandatory part of the machine cognition and I'm the head of
 the Machine Cognition lab in KFU(Kazan Federal University). There is group of scientists that work with me
-including philosopher, neuro-scientist
+including the philosopher and the neuro-scientist.
 
 One of our directions is simulation of the basic (inborn emotional reactions) in a machine .
 We are doing computational neurobiology collaborating with neuroscientists 
