@@ -92,7 +92,7 @@ Currently we have a lot of machines that can do a lot of interesting and amazing
 there is no sign of the consciousness they still are unconsciously following the program that collective of
 programmers
 created. This is not that bad. But can we imagine the future with intelligent unconscious robots? With robots
-that would help humans during their life having no emotions? No compassion, love?
+that would help humans during their life having no emotions: no compassion, love?
 
 I don't think so!
 
