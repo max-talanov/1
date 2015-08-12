@@ -11,7 +11,7 @@ This is the way I have discovered the power of imagination.
 
 I had a problem and the problem was big and ubiquitous: I had too many ideas per day.
 I have started [blogging](https://cosmicdustman.wordpress.com/category/rd/) expressing the
-ides just in the internet space like radiating them. Then I have understood that radiating the ides
+ideas just in the internet space like radiating them. Then I have understood that radiating the ides
 did not make much sense without their implementation.
 I needed some focus and that was the Machine Consciousness.
 
@@ -56,7 +56,7 @@ activities to my open-source projects:
 * [TU](https://github.com/development-team/2) the project dedicated for the automation of incident processing in
 infrastructure as service domain.
 
-I have decided to return to the academia. At this point I got the understanding that the main cause of the
+I have decided to return to the academia. At this point I got the understanding that the main reason of the
 problems that we had: was absence of the understanding of what is human understanding (or cognition).
 
 Now I do the research in machine consciousness that is mandatory part of the machine cognition and I'm the head of
