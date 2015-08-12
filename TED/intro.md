@@ -39,9 +39,7 @@ ones as completely unemotional. This point of view is really common not only amo
 among scientists. Machines are frequently associated with "pure" logic contrasted to emotional thinking. This was
 the turning point of my life. Indeed we have cognition and consciousness working in our heads and nicely.
 
-Let's have a look at the human brain and mind!
-
-Again.
+Let's have a look at the human brain and mind! Again.
 
 To be honest the history of modern computing starts with high-level model of human brain implemented in
 chips that what we know as Von Neumann architecture.
@@ -56,7 +54,7 @@ activities to my open-source projects:
 * [TU](https://github.com/development-team/2) the project dedicated for the automation of incident processing in
 infrastructure as service domain.
 
-I have decided to return to the academia. At this point I got the understanding that the main reason of the
+I have returned to the academia. At this point I got the understanding that the main reason of the
 problems that we had: was absence of the understanding of what is human understanding (or cognition).
 
 Now I do the research in machine consciousness that is mandatory part of the machine cognition and I'm the head of
