@@ -61,9 +61,9 @@ Now I do the research in machine consciousness that is mandatory part of the mac
 the Machine Cognition lab in KFU(Kazan Federal University). There is group of scientists that work with me
 including the philosopher and the neuro-scientist.
 
-One of our directions is simulation of the basic (inborn emotional reactions) in a machine .
-We are doing computational neurobiology collaborating with neuroscientists 
-There are group of scientists and we started the book about the machine consciousness mainly as the neural correlate
+One of our directions is simulation of the basic (inborn emotional reactions) in a machine.
+We are doing computational neurobiology collaborating with neuroscientists.
+We have started the book about the machine consciousness mainly as the neural correlate
 to several mental activities, in other words: explaining philosophical/psychological phenomena in neurobiological
 terms.
 
