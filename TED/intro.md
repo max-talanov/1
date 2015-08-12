@@ -15,7 +15,7 @@ ideas just in the internet space like radiating them. Then I have understood tha
 have not make much sense without their implementation.
 I needed some focus and that was the Machine Consciousness.
 
-I have spent 8 years as engineer in one big company and they have had the problem:
+I have spent 8 years as engineer in one big company and they have had the problem.
 Imagine one industrial company with something like 5000 employees, almost all of them have a computer
 and someone had to maintain this infrastructure.
 There are companies that provide the infrastructure
