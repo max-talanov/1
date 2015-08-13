@@ -25,7 +25,7 @@ I have started what they call "On bench project" . After one year we have manage
 some progress in the automation but still the system was:
 
 * too fragile
-* had redundant and stupid rules
+* had redundant and restrictive rules
 * was unable of the self-development
 
 So we had to use different approach.
