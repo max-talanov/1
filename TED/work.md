@@ -7,9 +7,12 @@ phenomena. We understand that this is lifetime work and demands concentration of
 I guess this complexity is what attracts most members of our group to this problem.
 
 There are several directions that worth to mention:
-Simulation of the basic (inborn emotional reactions) in a machine, This includes the simulation of the neurobiological processes
-that forms the emotional state. We have payed special attention to the neuropsychological connections to ...
 
-We are doing computational neurobiology collaborating with neuroscientists.
-We have started the book about the machine consciousness mainly as the neural correlate
-to several mental activities, in other words: explaining philosophical/psychological phenomena in neurobiological terms.
+Simulation of the basic (inborn emotional reactions) in a machine, This includes the simulation of the neurobiological processes
+that forms the emotional state. We have payed special attention to the neuropsychological nature of emotions on new generation
+of neural networks (realistic). Our idea was to use as much as possible close to nature mechanisms to gain an option to draw
+an analogy to the neurobiological experiments. 
+
+In close collaboration with neuroscientists we do computational neurobiological research with main goal to build the connectome of cortical
+column of a rat. This research is interesting from both medical: treatment of birth defects and AI: to build the realistic cortical column
+computational function. 
