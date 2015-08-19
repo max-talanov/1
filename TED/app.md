@@ -15,7 +15,7 @@ All responses are limited to 1500 characters except where noted.
 
 ###What are you best known for? What is your crowning achievement? *
 
-[Affective computing and Simulation of fear?](fear.md)
+[Affective computing and machine consciousness](consciousness.md)
 
 ###What other accomplishments would you like to share? Please give context! (e.g. you're a wine expert, you own a bakery, etc.)
 
@@ -43,7 +43,7 @@ All responses are limited to 1500 characters except where noted.
 
 ###What hobbies, causes or activities are you passionate about aside from your work? *
 
-Childhood.
+[Childhood, punk rock, bike](hobbies.md).
 
 ###Share an example of something you have been a part of, created, led, or joined that you consider unique. Why do you think it is groundbreaking? *
 (Limit 2250 characters)
@@ -54,7 +54,7 @@ Childhood.
 ###What questions should we have asked, but didn’t? Please write them down and answer them! (In other words, tell us something about yourself that we don’t know yet.) *
 (Limit 2250 characters)
 
-[Too many ideas](ideas.md)
+[Too many ideas](2many_ideas.md)
 
 
 ###Can you share a memorable anecdote from your life that will give us a further sense of what makes you tick? *
