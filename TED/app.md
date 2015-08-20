@@ -72,6 +72,9 @@ Good examples include: your blog, your company's website, press coverage of your
 Website Description *: Nick Bostrom TED speech
 URL *: http://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are
 
+Website Description: TEDx speech (In Russian)
+URL: https://www.youtube.com/watch?v=BLvS7h3kRbo
+
 Website Description: menta project repository
 URL: https://code.google.com/p/menta/
 
