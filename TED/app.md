@@ -19,7 +19,7 @@ All responses are limited to 1500 characters except where noted.
 
 ###What other accomplishments would you like to share? Please give context! (e.g. you're a wine expert, you own a bakery, etc.)
 
-[science popular activity](science_popular.md)
+[industrial projects](ind_projects.md)
 
 ###List any awards, prizes or other Fellowships you have won, with the details below:
 
@@ -59,7 +59,7 @@ All responses are limited to 1500 characters except where noted.
 
 ###Can you share a memorable anecdote from your life that will give us a further sense of what makes you tick? *
 
-Grandpa?
+[Birthday](birthday.md)
 
 ###How did you hear about the TED Fellows program? If you can, share the specific person, organization, etc.
 
