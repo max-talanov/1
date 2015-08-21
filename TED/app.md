@@ -46,13 +46,13 @@ All responses are limited to 1500 characters except where noted.
 [Childhood, punk rock, bike](hobbies.md).
 
 ###Share an example of something you have been a part of, created, led, or joined that you consider unique. Why do you think it is groundbreaking? *
-(Limit 2250 characters)
+(Limit 2250 characters) check this 
 
 [Menta](menta.md)
 
 
 ###What questions should we have asked, but didn’t? Please write them down and answer them! (In other words, tell us something about yourself that we don’t know yet.) *
-(Limit 2250 characters)
+(Limit 2250 characters) check this 
 
 [Too many ideas](2many_ideas.md)
 
