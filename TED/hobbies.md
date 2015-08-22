@@ -17,7 +17,7 @@ Switching the perspective and using unconventional angles and approaches to look
 problem is one of the powerful tools that I currently use.
 
 ##Bike and midlife crisis
-At my 35-38 during midlife crisis I bough a bike, possibly this is not really original. I perceived it
+At my 35-38 during midlife crisis I bought a bike, possibly this is not really original. I perceived it
 as escape from the ordinary life and way to detach from the everyday routine. 
 Later I understood that powerful emotions as much dangerous as alcohol and this triggers my interest
 to human emotions and their simulations.
