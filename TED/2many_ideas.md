@@ -1,7 +1,7 @@
 ##What problem did you have?
 
 I had a problem and the problem was big and ubiquitous: I had too many ideas per day.
-I have started [blogging](https://cosmicdustman.wordpress.com/category/rd/) expressing the
+I have started blogging: https://cosmicdustman.wordpress.com/category/rd/ expressing the
 ideas just in the internet space like radiating them. Then I have understood that radiating the ideas
 have not make much sense without their implementation.
 I needed some focus and that was the Machine Consciousness.
@@ -28,6 +28,6 @@ When I turned 40 I have understood that there is no more time to waste if I want
 I have to do this now. At this time I was SDA(Software design architect) and had some experience in some research
 projects without any significant support from the company that made me to migrate all my research
 activities to my open-source projects:
-* [menta](https://code.google.com/p/menta/) the project to automate simple software maintenance tasks.
-* [TU](https://github.com/development-team/2) the project dedicated for the automation of incident processing in
+* [menta](https://code.google.com/p/menta/) - the project to automate simple software maintenance tasks.
+* TU (thinking and understanding) - the project dedicated for the automation of incident processing in
 infrastructure as service domain.
