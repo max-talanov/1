@@ -13,7 +13,11 @@ Max Talanov: talanov.max@gmail.com
 	2. H-CogAff and virtual machines
 1. Neuro-physiological perspective:
     2. [Living cells: neurons, chemical synapses, neurotransmission](neurons_and_chemical_synapses.md)
-    2. Instincts
+    2. Memory
+        3. Cellular layer: Hebbian and anti-Hebbian learning
+        3. Associations, Circuits, K-lines, Cognits
+        3. Distributed systems memory    
+    2. Instincts 
     2. Learning
         3. Memory: synchronization and association
         3. Curiosity
