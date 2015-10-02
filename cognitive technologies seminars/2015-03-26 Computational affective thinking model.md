@@ -102,7 +102,7 @@ class customer:
 
 ### Generic:
 
-1. *Computing power load* overall load of the computational system is influenced by dopamine that makes cortex fire spikes more actively.
+1. *Computing power load* overall load of the computational system is influenced by dopamine and serotonin that makes cortex fire spikes more actively.
 1. *Computing power distribution*(computing processes distribution or load balancing) is influenced by noradrenaline the higher is noradrenaline more computing processes should be concentrated on current activity.
 1. *Working memory(short term)* distribution is influenced by noradrenaline as neurotransmitter regulating attention.
 1. *Learning* is impacted by serotonin and dopamine: dopamine plays major role in activation of previously remembered patterns and serotonin in pattern generation.
