@@ -1,6 +1,13 @@
 #Affective computation (computational emotions) syllabus
 
-Max Talanov: talanov.max@gmail.com
+## Contact information
+
+Max Talanov: talanov.max@gmail.com (main), dr.max@machine-cognition.org (alternative)
+
+The address of this page:
+
+https://github.com/max-talanov/1/blob/master/affective%20computing/plan.md
+
 
 1. [Intro](intro.md), [lab](lab_0.md).
 1. [Artificial and natural intelligence in one practical example](one_example.md)
