@@ -2,7 +2,9 @@
 
 ## Contact information
 
-Max Talanov: talanov.max@gmail.com (main), dr.max@machine-cognition.org (alternative)
+Max Talanov
+
+email: talanov.max@gmail.com (main), dr.max@machine-cognition.org (alternative)
 
 The address of this page:
 
