@@ -8,6 +8,7 @@ The address of this page:
 
 https://github.com/max-talanov/1/blob/master/affective%20computing/plan.md
 
+##Syllabus
 
 1. [Intro](intro.md), [lab](lab_0.md).
 1. [Artificial and natural intelligence in one practical example](one_example.md)
