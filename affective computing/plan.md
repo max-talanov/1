@@ -4,11 +4,11 @@
 
 Max Talanov
 
-email: talanov.max@gmail.com (main), dr.max@machine-cognition.org (alternative)
+####email: talanov.max@gmail.com (main), dr.max@machine-cognition.org (alternative)
 
 The address of this page:
 
-https://github.com/max-talanov/1/blob/master/affective%20computing/plan.md
+####https://github.com/max-talanov/1/blob/master/affective%20computing/plan.md
 
 ##Syllabus
 
