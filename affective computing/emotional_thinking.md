@@ -225,7 +225,7 @@ Anger/rage         | Frown, clenched jaw, eyes narrowed, red face               
 
 ###Dopamine and serotonin pathways
 
-![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
+![Dopamine and serotonin pathways](upload.wikimedia.org/wikipedia/commons/e/ee/NorepinephrineDopamineSerotonin.png)
 
 ##References
 
