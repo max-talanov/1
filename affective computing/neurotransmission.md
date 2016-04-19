@@ -82,7 +82,7 @@ The frontal lobes also play an important part in retaining longer term memories 
 
 ##Role of Noradrenaline, Dopamine and  Serotonin
 
-![Role of Noradrenaline, Dopamine and Serotonin](http://upload.wikimedia.org/wikipedia/commons/e/ee/NorepinephrineDopamineSerotonin.png)
+![Role of Noradrenaline, Dopamine and Serotonin](https://images.duckduckgo.com/iu/?u=http://opiateaddictionsupport.com/wp-content/uploads/2015/01/dopamine.png&f=1)
 
 ###Emotional loop
 
