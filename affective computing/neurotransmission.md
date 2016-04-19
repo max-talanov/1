@@ -34,7 +34,7 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 ###Dopamine and Serotonin pathways
 
-![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
+![Dopamine and serotonin pathways](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pubmed_equitativa_hormonal.png)
 
 ###Major neuromodulation systems
 
