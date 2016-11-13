@@ -5,8 +5,4 @@
 \beamer@sectionintoc {2}{Robot Dream}{8}{0}{2}
 \beamer@subsectionintoc {2}{1}{The problem}{9}{0}{2}
 \beamer@subsectionintoc {2}{2}{Solution}{11}{0}{2}
-\beamer@sectionintoc {3}{RoboCell}{16}{0}{3}
-\beamer@subsectionintoc {3}{1}{The problem}{17}{0}{3}
-\beamer@subsectionintoc {3}{2}{Questions}{18}{0}{3}
-\beamer@subsectionintoc {3}{3}{Solution}{19}{0}{3}
-\beamer@sectionintoc {4}{Thank you}{20}{0}{4}
+\beamer@sectionintoc {3}{Thank you}{16}{0}{3}
