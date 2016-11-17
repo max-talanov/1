@@ -1,6 +1,6 @@
 Max Talanov
 
-Head of the Robotics chair in ITIS, KFU
+Vice head for science of ITIS, KFU
 
 [max.talanov@gmail.com](mailto:max.talanov@gmail.com)
 
