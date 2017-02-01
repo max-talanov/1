@@ -17,7 +17,7 @@
 
 %\documentclass{beamer}
 \documentclass[12pt, aspectratio=169]{beamer}
-\usepackage{keynote-portfolio}
+\usepackage{keynote-gradient}
 
 \mode<presentation> {
 
@@ -73,9 +73,9 @@
 %\usecolortheme{wolverine}
 
 %\setbeamertemplate{footline} % To remove the footer line in all slides uncomment this line
-%\setbeamertemplate{footline}[page number] % To replace the footer line in all slides with a simple slide count uncomment this line
+\setbeamertemplate{footline}[page number] % To replace the footer line in all slides with a simple slide count uncomment this line
 
-%\setbeamertemplate{navigation symbols}{} % To remove the navigation symbols from the bottom of all slides uncomment this line
+\setbeamertemplate{navigation symbols}{} % To remove the navigation symbols from the bottom of all slides uncomment this line
 }
 
 \usepackage{graphicx} % Allows including images
@@ -85,12 +85,15 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\title[Robot dream]{Robot dream: why do robots sleep?} % The short title appears at the bottom of every slide, the full title is only on the title page
+\title[Robot dream]{Neuromorphic Robot Dream} % The short title appears at the bottom of every slide, the full title is only on the title page
 
-\author{Max Talanov} 
+\author[Max Talanov]{
+  \includegraphics[height=3cm]{ITIS_logo_bright}\\
+  Max Talanov
+} 
 \institute[ITIS: KFU] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
 {
-Intellectual robotics department, ITIS \\ % Your institution for the title page
+Machine cognition lab, Intellectual robotics department, ITIS \\ % Your institution for the title page
 \medskip
 \textit{max.talanov@gmail.com} % Your email address
 }
@@ -146,7 +149,7 @@ Intellectual robotics department, ITIS \\ % Your institution for the title page
 \begin{itemize}
 \item Biologically plausible
 \item Updated cube of emotions by Hugo L\"{o}vheim
-\item Implementation: Realistic Neural Network (rNN) 
+\item Implementation: Spiking Neural Network (sNN) 
 \end{itemize}
 
 
