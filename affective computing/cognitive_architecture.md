@@ -6,7 +6,7 @@ See [Computational Models of Emotion and Cognition](https://github.com/developme
 
 N      |Cognitive architecture |Score|Reference
 -------|:----------------------|----:|---------
-1.     |4CAPS                  | 4   |
+1     |4CAPS                  | 4   |
 2.     |ACT-R                  | 3   |
 3.     |ALifeE                 | 3   |
 4.     |Apex                   | 4   |
