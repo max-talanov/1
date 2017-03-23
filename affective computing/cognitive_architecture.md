@@ -2,9 +2,9 @@
 
 See [Computational Models of Emotion and Cognition](https://github.com/development-team/2/blob/master/doc/analysis/computational_models_of_emotion_and_cognition.md)
 
-##Cumulative table
+## Cumulative table
 
-Number |Cognitive architecture |Score|Reference
+N      |Cognitive architecture |Score|Reference
 -------|:----------------------|----:|---------
 1.     |4CAPS                  | 4   |
 2.     |ACT-R                  | 3   |
@@ -72,7 +72,7 @@ Number |Cognitive architecture |Score|Reference
 1. Parallel processing
 1. Self-emergent/self-organized
 
-##4CAPS
+## 4CAPS
 
 https://en.wikipedia.org/wiki/4CAPS
 
@@ -118,7 +118,7 @@ Notably, 4CAPS differs from other architectures for its stress on the capacity c
 
 **Total = 4**
 
-##ACT-R
+## ACT-R
 
 There are two types of modules:
 1. Perceptual-motor modules, which take care of the interface with the real world (i.e., with a simulation of the real world). The most well-developed perceptual-motor modules in ACT-R are the visual and the manual modules.
@@ -161,7 +161,7 @@ There are two types of modules:
 
 **Total = 3**
 
-#ALifeE
+# ALifeE
 
 http://aihandbook.intsys.org.ru/index.php/ai-cogarcs/478-cogarc-35
 
@@ -202,7 +202,7 @@ ALifeE (Artificial Life Environment) is a cognitive architecture, including virt
 
 **Total = 3**
 
-##Apex
+## Apex
 
 http://www.hf.faa.gov/workbenchtools/default.aspx?rPage=Tooldetails&subCatId=30&toolID=301
 
@@ -245,7 +245,7 @@ Apex is a software architecture for modeling human performance in complex, dynam
 
 **Total = 4**
 
-##ASMO
+## ASMO
 
 http://cfsites1.uts.edu.au/feit/it/students/profiles/detail.cfm?ItemId=25175
 http://www.ronynovianto.com/publications/the_role_of_attention_in_robot_self-awareness.pdf
@@ -287,7 +287,7 @@ To support self-modification capabilities in a self-modifying robot, I have been
 
 **Total = 8**
 
-##CHREST
+## CHREST
 
 https://en.wikipedia.org/wiki/CHREST_(cognitive_architecture)
 
@@ -330,7 +330,7 @@ CHREST (Chunk Hierarchy and REtrieval STructures) is a symbolic cognitive archit
 
 **Total = 5**
 
-##CLARION
+## CLARION
 
 https://en.wikipedia.org/wiki/CLARION_(cognitive_architecture)
 https://github.com/development-team/2/blob/master/doc/analysis/artificial_consciousness.md#ron-suns-cognitive-architecture-clarion
@@ -377,7 +377,7 @@ CLARION is an integrative architecture, consisting of a number of distinct subsy
 
 **Total = 6**
 
-##CopyCat
+## CopyCat
 
 https://en.wikipedia.org/wiki/Copycat_(software)
 
@@ -423,7 +423,7 @@ Main features:
 
 **Total = 4**
 
-##DUAL
+## DUAL
 
 DUAL is a general cognitive architecture integrating the connectionist and symbolic approaches at the micro level. DUAL is based on decentralized representation and emergent computation. It was inspired by the Society of Mind idea proposed by Marvin Minsky but departs from the initial proposal in many ways. Computations in DUAL emerge from the interaction of many micro-agents each of which is hybrid symbolic/connectionist device. The agents exchange messages and activation via links that can be learnt and modified, they form coalitions which collectively represent concepts, episodes, and facts.
 Several models have been developed on the basis of DUAL. These include: AMBR (a model of analogy-making and memory), JUDGEMAP (a model of judgment), PEAN (a model of perception), etc.
@@ -464,7 +464,7 @@ DUAL is developed by a team at the New Bulgarian University led by Boicho Kokino
 
 **Total = 6**
 
-##EPIC
+## EPIC
 
 https://en.wikipedia.org/wiki/EPIC_(cognitive_architecture)
 
@@ -519,7 +519,7 @@ https://en.wikipedia.org/wiki/FORR
 
 A FORR architecture has three components: a set of descriptives that describe the state of the problem, a tiered set of Advisors that are consulted in order to decide what action to perform, and a behavioral script that queries the Advisors and performs the action that they suggest.[2]
 
-###Advisors
+### Advisors
 
 The Advisors are the set of rationales or heuristics for making a decision. They can be considered the procedural memory component of the architecture. Upon each new decision, Advisors are queried in order to decide which action to perform. Advisors never communicate with each other or learn on their own: they simply ask for information about the state of the problem stored in the form of descriptives, and make a suggestion based on that information. The Advisors are divided into three tiers, which are queried in the following order:
 
@@ -527,11 +527,11 @@ The Advisors are the set of rationales or heuristics for making a decision. They
 1. Tier 2: if one of these Advisors is triggered, it proposes a sub-problem, or an ordered set of actions, achieving a sub-goal in solving the overall problem (such as moving around one obstacle in a maze). If no tier 2 advisor is triggered, move to last tier.
 1. Tier 3: these are all other rationales. They are not always right, but compete with each other. They vote on an action, and the highest-voted suggestion is performed. Different problem classes in the same domain will have different weights for the same Advisors, and the weights are developed from experience through learning algorithms.
 
-###Descriptives
+### Descriptives
 
 The declarative memory component of the architecture, the descriptives represent the state of the problem and are available to any Advisor.
 
-###Behavioral script
+### Behavioral script
 
 The behavioral script queries each tier of Advisors sequentially. If a tier 1 Advisor suggests an action, the script performs the action. Otherwise, if a tier 2 Advisor is triggered, it means that a sub-problem has been encountered. A tier 1 Advisor guarantees that only one tier 2 Advisor is active at any time. If no tier 1 Advisor comments and no tier 2 Advisor is triggered, the behavioral script asks for suggestions or comments from all tier 3 Advisors and lets them vote. The script performs the action with the highest vote among all tier 3 advisors.
 
@@ -570,7 +570,7 @@ The behavioral script queries each tier of Advisors sequentially. If a tier 1 Ad
 
 **Total = 2**
 
-##GAIuS
+## GAIuS
 
 http://www.slideshare.net/sevakprime/gaius-tutorial
 
@@ -611,7 +611,7 @@ http://www.slideshare.net/sevakprime/gaius-tutorial
 
 **Total = 3**
 
-##H-Cogaff
+## H-Cogaff
 
 http://www.cs.bham.ac.uk/research/projects/cogaff/
 
@@ -669,7 +669,7 @@ However, two main features of layered architectures are missing in H-CogAff. In 
 
 **Total = 16**
 
-##CoJack
+## CoJack
 
 https://en.wikipedia.org/wiki/JACK_Intelligent_Agents
 
@@ -722,7 +722,7 @@ JACK Intelligent Agents is a mature commercial multi-agent platform that has bee
 
 **Total = 5**
 
-##LIDA
+## LIDA
 
 https://en.wikipedia.org/wiki/LIDA_(cognitive_architecture)
 
@@ -767,7 +767,7 @@ As a comprehensive, conceptual and computational cognitive architecture the LIDA
 
 **Total = 6**
 
-##PreAct
+## PreAct
 
 https://en.wikipedia.org/wiki/PreAct
 
@@ -807,7 +807,7 @@ https://en.wikipedia.org/wiki/PreAct
 
 **Total = 4**
 
-##PRODIGY
+## PRODIGY
 
 http://www.isi.edu/~blythe/papers/jetai95.html
 
@@ -849,11 +849,11 @@ Planning is a complex reasoning task that is well suited for the study of improv
 
 **Total = 3** Possibly underestimated
 
-##PRS
+## PRS
 
 https://en.wikipedia.org/wiki/Procedural_Reasoning_System
 
-###Architecture
+### Architecture
 
 The system architecture of SRI's PRS includes the following components:
 * '''Database''' for beliefs about the world, represented using first order predicate calculus.
@@ -862,7 +862,7 @@ The system architecture of SRI's PRS includes the following components:
 * '''Intentions''' that include those KAs that have been selected for current and eventual execution.
 * '''Interpreter''' or inference mechanism that manages the system.
 
-###Features
+### Features
 
 SRI's PRS was developed for embedded application in dynamic and real-time environments. As such it specifically addressed the limitations of other contemporary control and reasoning architectures like [[expert system]]s and the [[blackboard system]]. The following define the general requirements for the development of their PRS:
 
@@ -916,7 +916,7 @@ SRI's PRS was developed for embedded application in dynamic and real-time enviro
 
 **Total = 4**
 
-##Psi-Theory
+## Psi-Theory
 
 https://en.wikipedia.org/wiki/Psi-Theory
 
@@ -958,7 +958,7 @@ While the concepts of the Psi-theory are distributed over many individual public
 
 **Total = 10**
 
-##R-CAST
+## R-CAST
 
 https://en.wikipedia.org/wiki/R-CAST
 
@@ -1000,7 +1000,7 @@ R-CAST is a group decision support system based on research on naturalistic deci
 
 **Total = 2**
 
-##Soar
+## Soar
 
 https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)
 
@@ -1042,7 +1042,7 @@ Soar is a cognitive architecture, created by John Laird, Allen Newell, and Paul 
 
 **Total = 6**
 
-##Society of mind
+## Society of mind
 
 https://en.wikipedia.org/wiki/Society_of_mind
 
@@ -1082,7 +1082,7 @@ https://en.wikipedia.org/wiki/Society_of_mind
 
 **Total = 7** Possibly underestimated
 
-##Subsumption architecture
+## Subsumption architecture
 
 https://en.wikipedia.org/wiki/Subsumption_architecture
 
@@ -1130,7 +1130,7 @@ It does this by decomposing the complete behavior into sub-behaviors. These sub-
 
 **Total = 2**
 
-##WASABI
+## WASABI
 
 http://www.becker-asano.de/AffectiveComputingWithPrimaryAndSecondaryEmotionsInAVirtualHuman.pdf
 
@@ -1171,7 +1171,7 @@ http://www.becker-asano.de/AffectiveComputingWithPrimaryAndSecondaryEmotionsInAV
 
 **Total = 9**
 
-##EMA
+## EMA
 
 http://people.ict.usc.edu/~gratch/N_Emcsr_Marsella.pdf
 
@@ -1211,7 +1211,7 @@ http://people.ict.usc.edu/~gratch/N_Emcsr_Marsella.pdf
 
 **Total = 9**
 
-##Haikonen's cognitive architecture
+## Haikonen's cognitive architecture
 
 https://github.com/development-team/2/blob/master/doc/analysis/artificial_consciousness.md#haikonens-cognitive-architecture
 
@@ -1270,7 +1270,7 @@ approach generally.
 
 **Total = 13**
 
-##Shanahan's cognitive architecture
+## Shanahan's cognitive architecture
 
 https://github.com/development-team/2/blob/master/doc/analysis/artificial_consciousness.md#shanahans-cognitive-architecture
 
