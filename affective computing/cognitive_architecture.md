@@ -7,32 +7,32 @@ See [Computational Models of Emotion and Cognition](https://github.com/developme
 N      |Cognitive architecture |Score|Reference
 -------|:----------------------|----:|---------
 1     |4CAPS                  | 4   |
-2.     |ACT-R                  | 3   |
-3.     |ALifeE                 | 3   |
-4.     |Apex                   | 4   |
-5.     |**ASMO**               | 8   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#asmo)
-6.     |CHREST                 | 5   |
-7.     |**CLARION**            | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#clarion)
-8.     |CopyCat                | 4   |
-9.     |**DUAL**               | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#dual)
-10.    |EPIC                   | 3   |
-11.    |FORR                   | 2   |
-12.    |GAIuS                  | 3   |
-13.    |**H-CogAff**           | 16  |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#h-cogaff)
-14.    |CoJack                 | 5   |
-15.    |**LIDA**               | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#lida)
-16.    |PreAct                 | 4   |
-17.    |PRODIGY(*)             | 3   |
-18.    |PRS                    | 4   |
-19.    |**Psi-Theory**         | 10  |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#psi-theory)
-20.    |R-CAST                 | 2   |
-21.    |**Soar**               | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#soar)
-22.    |**Society of mind** (*)| 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#society-of-mind)
-23.    |Subsumption            | 2   |
-24.    |**WASABI**             | 9   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#wasabi)
-25.    |**EMA**                | 9   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#ema)
-26.    |**Hikonen**            | 13  |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#haikonens-cognitive-architecture)
-27.    |**Shanahan**           | 9   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#shanahans-cognitive-architecture)
+2     |ACT-R                  | 3   |
+3     |ALifeE                 | 3   |
+4     |Apex                   | 4   |
+5     |**ASMO**               | 8   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#asmo)
+6     |CHREST                 | 5   |
+7     |**CLARION**            | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#clarion)
+8     |CopyCat                | 4   |
+9      |**DUAL**               | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#dual)
+10     |EPIC                   | 3   |
+11     |FORR                   | 2   |
+12     |GAIuS                  | 3   |
+13     |**H-CogAff**           | 16  |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#h-cogaff)
+14     |CoJack                 | 5   |
+15     |**LIDA**               | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#lida)
+16     |PreAct                 | 4   |
+17     |PRODIGY(*)             | 3   |
+18     |PRS                    | 4   |
+19     |**Psi-Theory**         | 10  |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#psi-theory)
+20     |R-CAST                 | 2   |
+21     |**Soar**               | 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#soar)
+22     |**Society of mind** (*)| 6   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#society-of-mind)
+23     |Subsumption            | 2   |
+24     |**WASABI**             | 9   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#wasabi)
+25     |**EMA**                | 9   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#ema)
+26     |**Hikonen**            | 13  |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#haikonens-cognitive-architecture)
+27     |**Shanahan**           | 9   |[*](https://github.com/max-talanov/1/blob/master/computational%20emotional%20thinking%20course/cognitive_architecture.md#shanahans-cognitive-architecture)
 
 (*) - possibly underestimated.
 
