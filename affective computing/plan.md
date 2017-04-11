@@ -21,11 +21,11 @@ The address of this page:
   * [Neurotransmission and emotional loops](neurotransmission.md)
 1. [Psychological models of emotion.](psychological_models_of_emotion.md)
 1. Philosophical theories of emotions
-  2. [Consciousness (lectures: 1, 2, 3).](consciousness.md)
-  2. [Levels of mental activities (lectures 1 and 2).](levels_of_mental_activities.md)
-  2. [Thinking (lectures 1 and 2).](thinking.md)
+  * [Consciousness (lectures: 1, 2, 3).](consciousness.md)
+  * [Levels of mental activities (lectures 1 and 2).](levels_of_mental_activities.md)
+  * [Thinking (lectures 1 and 2).](thinking.md)
 1. Artificial emotions:
-  2. [Cognitive architectures](cognitive_architecture.md)
-  2. [Spiking NNs: HTM, NEST](realistic_nns.md)
+  * [Cognitive architectures](cognitive_architecture.md)
+  * [Spiking NNs: HTM, NEST](realistic_nns.md)
 
 ![Emotions mind map](emotions.png)
