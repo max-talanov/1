@@ -1,6 +1,6 @@
-#Main ideas of Intro and Artificial and natural intelligence in one practical example
+# Main ideas of Intro and Artificial and natural intelligence in one practical example
 
-##Intro
+## Intro
 
 1. AI is a challenge.
 1. There is revolution now going in AI (see: NeuroGrid, SyNAPSE projects).
@@ -10,7 +10,7 @@
 
 [Cognitive science wikipedia page](http://en.wikipedia.org/wiki/Cognitive_science)
 
-##Artificial and natural intelligence in one practical example
+## Artificial and natural intelligence in one practical example
 
 1. Problems of GOFAI approaches:
   2. Fragile:
