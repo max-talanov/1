@@ -1,7 +1,7 @@
-#Thinking
+# Thinking
 Based on Marvin Minksy chapter of "The emotion machine"
 
-##Critic-Selector model of mind
+## Critic-Selector model of mind
 
 ![Critic-Selector](http://web.media.mit.edu/~minsky/E7/eb7_files/image001.png)
 
@@ -17,13 +17,13 @@ In most simple variant we could use one of those ways to think:
 * If it still seems difficult, Replace it by a simpler problem.
 * If none of these work, Ask someone for help!
 
-###Conflicts
+### Conflicts
 
 1. Choose the resource with the highest priority.
 1. Choose the one that is most strongly aroused.
 1. Choose the one that gives the most specific advice.
 
-####Reflective policies
+#### Reflective policies
 
 1. If too many Critics are aroused, then describe the problem in more detail.
 1. If too few Critics are aroused, then make the description more abstract.
@@ -32,13 +32,13 @@ In most simple variant we could use one of those ways to think:
 
 ![Critic selector model reflected in model of six](http://web.media.mit.edu/~minsky/E7/eb7_files/image003.png)
 
-##Emotional thinking
+## Emotional thinking
 
 Most of the time, your thinking proceeds in uneventful streams—but when you run into obstacles and none of your usual methods help, you may resort to mental strategies that may appear to be somewhat irrational. For example, when tempted to abandon your task, you can renew your motivation by bribing yourself with imagined rewards, or with threats of the prospect of failure—or you could try to shame yourself by imagining how you (or your Imprimers) might feel if your performance conflicted with your highest values. For even a brief flash of impatience, or of anger or desperation, can cut through what seems like a hopelessly tangled knot.
 
 Damasio 1995: "One might say that the particular step of the task at which Elliot balked was actually being carried out too well, and at the expense of the overall purpose…. True, he was still physically capable and most of his mental capacities were intact. But his ability to reach decisions was impaired, as was his ability to make an effective plan for the hours ahead of him, let alone to plan for the months and years of his future."
 
-##Useful Ways to Think
+## Useful Ways to Think
 
 **Knowing How**. The best way to solve a problem is to already know a way to solve it. However, we may not be able to retrieve that knowledge—and often we don’t even know that we have it.
 
@@ -56,7 +56,7 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 **Elevating**. If you are bogged down in too many details, describe the situation in more general terms. But if your description seems too vague, switch to one that is more concrete.
 **Changing the subject**. Whatever you are working on now, if you get discouraged enough, you can always abandon it and simply switch to a different task.
 
-###Reflective Ways to Think
+### Reflective Ways to Think
 
 **Simplifying**. Often a good way to solve a difficult problem is first to solve a simpler version that ignores some features of that problem. Then any such solution may serve as a sequence of stepping-stones for solving the original problem.
 
@@ -84,11 +84,11 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 
 **Resignation**. Whenever you find yourself totally stuck, you can shut down the resources you’re using now and relax, lie back, drop out, and stop. Then the “rest of your mind” may find an alternative—or conclude that you don’t have to do this at all.
 
-#Icebreaker
+# Icebreaker
 
 [Brain to brain interface](http://www.extremetech.com/extreme/188883-the-first-human-brain-to-brain-interface-has-been-created-in-the-future-will-we-all-be-linked-telepathically)
 
-##Useful Types of Critics
+## Useful Types of Critics
 
 **Innate Reactions and Built-in Alarms**. Many types of external events arouse detectors that make us quickly react—such as when an object rapidly moves toward you, or a light is too bright, or you touch something hot. We’re also born equipped with ways to detect certain conditions inside our skins—such as abnormal blood levels of chemicals—along with built-in connections that make us react to correct those conditions without any need to think about them.
 
@@ -115,14 +115,14 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 * My friends might disapprove of this. (Insecurity.)
 * This works so well that I should make it my specialty!
 
-##Poincaré’s Unconscious Processes
+## Poincaré’s Unconscious Processes
 
 * **Preparation**: activate resources to deal with this particular type of problem
 * **Incubation**: generate many potential solutions
 * **Revelation**: recognize a promising one
 * **Evaluation**: verify that it actually works
 
-##What if, or how we control the persistence of the processes
+## What if, or how we control the persistence of the processes
 
 **What if your set of active Critics does not change**? Then you would likely keep repeating the same approach because, after each attempt to change your Way to Think, those Critics would try to switch you back again—and you might get stuck with a "one-track mind."
 
@@ -136,6 +136,6 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 
 **What if your Critics too often get switched**? Your thinking would become chaotic if too many goals were to freely compete without any larger-scale management.
 
-##References
+## References
 
 1. [Marvin Minsky, The emotion machine Draft, Thinking](http://web.media.mit.edu/~minsky/E7/eb7.html)
