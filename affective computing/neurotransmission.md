@@ -1,14 +1,14 @@
-#Neurotransmission and neuromodulation
+# Neurotransmission and neuromodulation
 
-##Action potential distribution
+## Action potential distribution
 
 ![Action Potential distribution](http://upload.wikimedia.org/wikipedia/commons/9/95/Action_Potential.gif)
 
-##Neurotransmitters
+## Neurotransmitters
 
 [Common neurotransmitters](http://en.wikipedia.org/wiki/Neurotransmitter#Common_neurotransmitters)
 
-##Metabotropic and ionotropic receptors
+## Metabotropic and ionotropic receptors
 
 1. Ionotropic and metabotropic receptors are both ligand gated transmembrane proteins.
 1. Ionotropic receptors change shape when they are bound by a ligand. This change in shape creates a channel that allows ions to flow through.
@@ -16,27 +16,27 @@
 1. Metabotropic receptors activate a G-protein that in turn acivates a secondary messenger, that in turn will activate something else.
 1. Metabotropic receptor activation may or may not result in the opening of ion channels somewhere else on the membrane.
 
-##Receptors
+## Receptors
 
-###Ligand-gated channels
+### Ligand-gated channels
 
-####Acetylcholine (ACh) ligand gated channel
+#### Acetylcholine (ACh) ligand gated channel
 
 ![Ligand-gated channels](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Blausen_0225_ChemicallyGatedChannel.png/640px-Blausen_0225_ChemicallyGatedChannel.png)
 
-####AMPA receptor
+#### AMPA receptor
 
 ![AMPA receptor](http://upload.wikimedia.org/wikipedia/commons/7/78/AMPA3Dan.gif)
 
-##Neuromodulation
+## Neuromodulation
 
 In case neurotransmitter lives the synaptic cleft and avoids degradation it massively influences neurons (even brain areas) on it's pathway.
 
-###Dopamine and Serotonin pathways
+### Dopamine and Serotonin pathways
 
 ![Dopamine and serotonin pathways](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pubmed_equitativa_hormonal.png)
 
-###Major neuromodulation systems
+### Major neuromodulation systems
 
 [Major neurotransmitter systems](http://en.wikipedia.org/wiki/Neuromodulation#The_major_neurotransmitter_systems)
 
@@ -47,44 +47,44 @@ serotonin     |raphe nucleus   |serotonin receptors in: deep cerebellar nuclei, 
 dopamine      |dopamine pathways |dopamine receptors at pathway terminations| motor system, reward system, cognition, endocrine, nausea
 
 
-###VTA
+### VTA
 
 "the VTA, in particular the VTA dopamine neurons, serve several functions in the reward system, motivation, cognition, drug addiction, and may be the focus of several psychiatric disorders. It has also been shown to process various types of emotion output from the amygdala, where it may also play a role in avoidance and fear-conditioning. Electrophysiological recordings have demonstrated that VTA neurons respond to novel stimuli, unexpected rewards, and reward-predictive sensory cues. The firing pattern of these cells is consistent with the encoding of a reward expectancy error. In 2006 MRI Studies by Helen Fisher and her research team found and documented various emotional states relating to intense love correlated with activity in the VTA, which may help explain obsessive behaviors of rejected partners since this is shared by the reward system."
 
-###Substantia nigra
+### Substantia nigra
 
 "The substantia nigra is an important player in brain function, in particular, in eye movement, motor planning, reward-seeking, learning, and addiction. Many of the substantia nigra's effects are mediated through the striatum. The nigral dopaminergic input to the striatum via the nigrostriatal pathway is intimately linked with the striatum's function. The co-dependence between the striatum and substantia nigra can be seen in this way: when the substantia nigra is electrically stimulated, no movement occurs; however, the symptoms of nigral degeneration due to Parkinson's is a poignant example of the substantia nigra's influence on movement. In addition to striatum-mediated functions, the substantia nigra also serves as a major source of GABAergic inhibition to various brain targets."
 
-###Raphe nuclei
+### Raphe nuclei
 
 "The raphe nuclei have a vast impact upon the central nervous system. Many of the neurons in the nuclei (but not the majority) are serotonergic; i.e., contain serotonin, a type of monoamine neurotransmitter and are modulated through fibrous pathways in the midbrain.
 Projections from the raphe nuclei also terminate in the dorsal horn of spinal gray matter where they regulate the release of enkephalins, which inhibit pain sensation."
 
-###Nucleus accumbens
+### Nucleus accumbens
 
 "... it plays an equal role in processing many rewards such as food and sex. The nucleus accumbens is selectively activated during the perception of pleasant, emotionally arousing pictures and during mental imagery of pleasant, emotional scenes.[Costa et al, Sabatinelli et al] ...  The nucleus accumbens plays a role in rhythmic timing and is considered to be of central importance to the limbic-motor interface (Mogensen).
 ... the area is the "pleasure center" of the brain and is involved in reinforcement learning.[Olds J, Milner] In rats, stimulation of the ventral tegmental area causes the release of dopamine in the nucleus accumbens much in the same way as addictive drugs and natural reinforcers, such as water or food, initiate the release of dopamine in the nucleus accumbens.[Nakahara] The same results have been seen in human subjects in functional imaging studies."
 
-###Striatum
+### Striatum
 
 "Metabotropic dopamine receptors are present both on spiny neurons and on cortical axon terminals. Second messenger cascades triggered by activation of these dopamine receptors can modulate pre- and postsynaptic function, both in the short term and in the long term. The striatum is best known for its role in the planning and modulation of movement pathways but is also potentially involved in a variety of other cognitive processes involving executive function, such as working memory. In humans, the striatum is activated by stimuli associated with reward, but also by aversive, novel, unexpected, or intense stimuli, and cues associated with such events."
 
-###Hippocampus
+### Hippocampus
 
 "Psychologists and neuroscientists generally agree that the hippocampus plays an important role in the formation of new memories about experienced events (episodic or autobiographical memory). Part of this function is hippocampal involvement in the detection of novel events, places and stimuli. Some researchers regard the hippocampus as part of a larger medial temporal lobe memory system responsible for general declarative memory (memories that can be explicitly verbalized—these would include, for example, memory for facts in addition to episodic memory)."
 
 "Studies conducted on freely moving rats and mice have shown that many hippocampal neurons have "place fields", that is, they fire bursts of action potentials when a rat passes through a particular part of the environment."
 
-###Frontal cortex
+### Frontal cortex
 
 "The executive function of the frontal lobes involve the ability to recognize future consequences resulting from current actions, to choose between good and bad actions (or better and best), override and suppress socially unacceptable responses, and determine similarities and differences between things or events.
 The frontal lobes also play an important part in retaining longer term memories which are not task-based. These are often memories associated with emotions derived from input from the brain's limbic system. The frontal lobe modifies those emotions to generally fit socially acceptable norms."
 
-##Role of Noradrenaline, Dopamine and  Serotonin
+## Role of Noradrenaline, Dopamine and  Serotonin
 
 ![Role of Noradrenaline, Dopamine and Serotonin](https://images.duckduckgo.com/iu/?u=http://opiateaddictionsupport.com/wp-content/uploads/2015/01/dopamine.png&f=1)
 
-###Emotional loop
+### Emotional loop
 
 ![Basal ganglia circuits](http://upload.wikimedia.org/wikipedia/commons/9/9e/Basal_ganglia_circuits.svg)
 
@@ -92,35 +92,35 @@ The frontal lobes also play an important part in retaining longer term memories 
 
 Connectivity diagram showing excitatory glutamatergic pathways as red, inhibitory GABAergic pathways as blue, and modulatory dopaminergic pathways as magenta. (Abbreviations: GPe: globus pallidus external; GPi: globus pallidus internal; STN: subthalamic nucleus; SNc: substantia nigra compacta; SNr: substantia nigra reticulata)
 
-####Direct pathway
+#### Direct pathway
 
 **Cortex** (stimulates) → **Striatum** (inhibits) → **"SNr-GPi" complex** (less inhibition of thalamus) → **Thalamus** (stimulates) → **Cortex** (stimulates) → **Muscles, etc.**
 
 
-####Indirect pathway
+#### Indirect pathway
 
 **Cortex** (stimulates) → **Striatum** (inhibits) → **GPe** (less inhibition of STN) → **STN** (stimulates) → **"SNr-GPi" complex** (inhibits) → **Thalamus** (is stimulating less) → **Cortex** (is stimulating less) → Muscles, etc.
 
 The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons, and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**. 
 
-##Homeostasis
+## Homeostasis
 
 Role of affects and emotions in homeostasis and emotional regulation.
 
 Marvin Minsky's brain bug.
 
 
-##Functional brain zones
+## Functional brain zones
 
 ![Lobes](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cerebrum_lobes.svg/1024px-Cerebrum_lobes.svg.png)
 
-###Brodmann areas
+### Brodmann areas
 
 ![Brodmann areas](http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1307_Brodmann_Areas.jpg/1024px-1307_Brodmann_Areas.jpg)
 
 ![Brodmann areas 3D](http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brodmann_areas_3D.png/640px-Brodmann_areas_3D.png)
 
-##References
+## References
 
 1. [Neurotransmitter Wikipedia page](http://en.wikipedia.org/wiki/Neurotransmitter)
 1. [Neurotransmission Wikipedia page](http://en.wikipedia.org/wiki/Neurotransmission)
