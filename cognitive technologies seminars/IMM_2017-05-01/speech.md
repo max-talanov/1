@@ -18,3 +18,10 @@ How do we validate this model? We could program this "cube" during half an hour,
 ## 5
 
 The dopamine pathways or system works in balance of direct and indirect pathways. The balancing is implemented by striatum. If the dopamine level is high the system is more balanced to the direct pathway (left part of the diagram) and thalamus is less inhibited and excites more cortex. If the dopamine is low striatum balances more to the indirect pathway and inhibits more thalamus and cortex.
+
+## 6
+
+This more complex version was implemented in the python code in NEST neuro-simulator.
+
+## 7
+
