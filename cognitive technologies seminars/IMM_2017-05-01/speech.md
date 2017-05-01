@@ -13,4 +13,8 @@ to demonstrate the emotions in a robotic system.
 
 ## 4
 
-How do we validate this model? We could program this "cube" during half an hour, but this approach would indicate only that we have programmed it correctly but not that something similar is going on in a mammalian brain. We have done the validation in different way: we have recreated the structures of a rat brain in a  neuro-simulator NEST. In the diagram you see the dopamine pathways  
+How do we validate this model? We could program this "cube" during half an hour, but this approach would indicate only that we have programmed it correctly but not that something similar is going on in a mammalian brain. We have done the validation in different way: we have recreated the structures of a rat brain in a  neuro-simulator NEST. In the diagram you see the dopamine pathways re-implemented to validate only one axis and 1 psycho-emotional state: fear, or what we call the "fear-like" state.
+
+## 5
+
+
