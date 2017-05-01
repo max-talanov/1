@@ -31,4 +31,6 @@ In the graph you see the "fear-like" state. On 400 ms we increase the level of d
 
 The second graph represents computational power used for each 10 ms of the simulation: on 200 - 300 ms we increase the serotonin level that decreases the utilization of the computational power, during 400 - 500 ms of the simulation we increase the dopamine level that increases the utilization of the computational power, during 700 - 800 ms we increase the dopamine and the serotonin levels this slightly increase the computational power utilization above the baseline.
 
+## Thank you
 
+This way we demonstrated the validation of two axis of the extended version of the "cube of emotions" of dopamine and serotonin this indicates overall feasibility of the study and perspective to reimplement basic emotional states  in a machine.
