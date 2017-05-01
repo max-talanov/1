@@ -3,3 +3,4 @@
 ## 1
 This is the main assumption of our research.
 Human or mammalian cognition is not possible without consciousness and in its turn consciousness is not possible without emotions. This way we assume that it is the same for machines. 
+On the right side is robot "Kismet" that was invented and created in MIT in 1997
