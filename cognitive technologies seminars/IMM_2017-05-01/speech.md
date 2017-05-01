@@ -25,3 +25,8 @@ This more complex version was implemented in the python code in NEST neuro-simul
 
 ## 7
 
+In the graph you see the "fear-like" state. On 400 ms we increase the level of dopamine and at the same time you see the increment of cortex and thalamus neuronal activity and the increase of computational power used to compute the simulation.
+
+## 8
+
+The second graph represents 
