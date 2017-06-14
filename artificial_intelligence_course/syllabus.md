@@ -32,4 +32,4 @@ Alik Kirilivich alik.kirillovich@gmail.com
    
 
 Artificial intelligence mind map
-![](https://en.wikipedia.org/wiki/Artificial_intelligence#/media/File:Complex_systems_organizational_map.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
