@@ -1,6 +1,7 @@
 # Applied machine consciousness syllabus
 
 Max Talanov: talanov.max@gmail.com
+
 Alik Kirilivich alik.kirillovich@gmail.com
 
 1. [Intro](intro.md).
