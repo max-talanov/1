@@ -4,6 +4,8 @@ Max Talanov: talanov.max@gmail.com
 
 Alik Kirilivich alik.kirillovich@gmail.com
 
+Text book: Artificial Intelligence: A Modern Approach 
+
 1. [Intro](intro.md).
 1. Intelligent Agents
 1. Solving problems using search
