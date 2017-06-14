@@ -44,3 +44,4 @@ obj
 *.bak
 *.tmp.*
 .DS_Store
+*.out
