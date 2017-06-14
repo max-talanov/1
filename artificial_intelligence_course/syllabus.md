@@ -20,9 +20,16 @@ Alik Kirilivich alik.kirillovich@gmail.com
    1. Machine learning intro
    1. Bayesian network
    1. Neural networks
+   1. HMM
+   1. Markov Decision Processes
    1. Reinforcement learning
    1. Deep learning ?
 1. Natural language processing
-
+1. Cognitive architectures
+   1. The emotion machine
+   1. H-CogAff
+   1. SOAR
+   
 
 Artificial intelligence mind map
+![](https://en.wikipedia.org/wiki/Artificial_intelligence#/media/File:Complex_systems_organizational_map.jpg)
