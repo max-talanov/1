@@ -9,8 +9,12 @@
 \usepackage{url}
 %\usepackage{bibtopic}
 %\usepackage[round]{natbib}
-\usepackage{multibib}
-\newcites{sel}{Selected works}
+%\usepackage{multibib}
+%\newcites{sel,all}{Selected works, Papers}
+
+\usepackage[style=authoryear]{biblatex}
+\bibliography{my_papers}
+\DeclareBibliographyCategory{crucial}
 
 % moderncv styles
 %\moderncvstyle{casual}       % optional argument are 'nocolor' (black & white cv) and 'roman' (for roman fonts, instead of sans serif fonts)
@@ -130,21 +134,13 @@ Neo4j, OpenCog.PLN, Stanford Parser, open NARS, MinorThird, Java, EJB, Hibernate
 
 Thinking-Understanding the registration of intellectual property of software product or technology.
 
-\nocite{talanov_2015,vallverdu_2016a,jordi2016importance}
-
-%\begin{btSect}[defaultbib]{my_papers}
-%  \btPrintCited
-  %\section{Papers}
-%  \btPrintAll
-%\end{btSect}
-
-% Selected works (my_papers.bib)
-\bibliographystylesel{spmpsci}
-\bibliographysel{my_papers}
+%Selected papers
+\addtocategory{crucial}{talanov_2015,vallverdu_2016a,jordi2016importance}
+\printbibliography[title={Most popular papers}, category = crucial]
  
-% Other (my_papers.bib)
-\bibliographystyle{spmpsci}
-\bibliography{my_papers}
+% all papers (my_papers.bib)
+\nocite{*}
+\printbibliography[title={Papers}]
 
 \cvitem{}{}
 
