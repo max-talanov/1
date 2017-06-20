@@ -1,0 +1,178 @@
+%% start of file `jdoe_classic.tex'.
+%% Copyright 2006 Xavier Danaux.
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass{moderncv}
+\usepackage{url}
+\usepackage{bibtopic}
+\usepackage[round]{natbib}
+
+% moderncv styles
+%\moderncvstyle{casual}       % optional argument are 'nocolor' (black & white cv) and 'roman' (for roman fonts, instead of sans serif fonts)
+\moderncvstyle{classic}       % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}   % replace by the encoding you are using
+%
+% personal data (the given example is exhaustive; just give what you want)
+\firstname{} \familyname{}
+%\title{Highly-creative cognitive researcher}
+%\address{Via Ciro Menotti, 15 – 47042, Cesenatico (FC), Italy}  % for classic style
+%%\address{Via Ciro Menotti, 15 – 47042, Cesenatico (FC), Italy} % for casual style
+\address{Max Talanov}
+\phone{+7 962 571 8296} 
+\email{max.talanov@gmail.com}
+%\extrainfo{\url{https://www.scopus.com/authid/detail.uri?authorId=41762833600}}
+\extrainfo{\url{https://www.researchgate.net/profile/Max_Talanov}}
+%\extrainfo{\url{www.linkedin.com/in/max-talanov-a004aa16}}
+\photo[100pt]{Talanov_Max_2012} % also optional, and the optional argument is the height the picture must be resized to
+
+%\quote{Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.}% also optional
+%\quote{Video meliora proboque, deteriora sequor (Ovidio, Metamorphosis, VII, 20)}
+%\renewcommand{\listsymbol}{{\fontencoding{U}\fontfamily{ding}\selectfont\tiny\symbol{'102}}} % define another symbol to be used in front of the list items
+
+% the ConTeXt symbol
+%\def\ConTeXt{%
+ % C%
+  %\kern-.0333emo%
+  %\kern-.0333emn%
+  %\kern-.0667em\TeX%
+  %\kern-.0333emt}
+
+% slanted small caps (only with roman family; the sans serif font doesn't exists :-()
+%\usepackage{slantsc}
+%\DeclareFontFamily{T1}{myfont}{}
+%\DeclareFontShape{T1}{myfont}{m}{scsl}{ <-> cork-lmssqbo8}{}
+%\usefont{T1}{myfont}{m}{scsl}Testing the font
+
+% command and color used in this document, independently from moderncv
+%\definecolor{see}{rgb}{0.5,0.5,0.5}% for web links
+%\newcommand{\up}[1]{\ensuremath{^\textrm{\scriptsize#1}}}% for text subscripts
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\maketitle
+%\makequote
+\makecvtitle
+
+%\section{Personal Information}
+%\cvitem{Name}{\small Max Talanov}
+%\cvitem{Passport}{\small Russia}
+%\cvitem{Date of birth}{\small 12 April 1974}
+%\cvitem{Contacts}{\small mtalanov@it.kfu.ru (preferred), max.talanov@gmail.com}{}
+%\cvitem{Research Gate}{https://www.researchgate.net/profile/Max\char`_Talanov}
+ 
+\section{Personal Profile}
+
+\cventry
+    {Bio}{Highly-creative cognitive researcher with broad research experience}{}{}{}{Self motivated highly productive ideas generator with broad experience in: neuro-biological simulations, affective computing, bio-inspired architectures, natural language processing, probabilistic reasoning. Head of the lab for 3 years managing three breaking-through projects (see below).\\
+      Currently he has the position of the deputy director for science of the Information Technology and Information Systems institute (ITIS) of the Kazan Federal University, where he manages the research and publication policies. Also he has industrial experience as software architect and team leader for 16 years in international projects in Fujitsu.}
+
+\cvitem
+{Strengths}{Highly creative, ideas generator, good at managing team research in multidisciplinary research, has cross-disciplinary understanding in: cognitive science, psychology, neuroscience, philosophy, computer science, IT, electronics}
+%{Weaknesses}{Unable to work for a long time on a trivial tasks, has difficulties to work with demotivated team}
+
+\section{Projects}
+\cvitem{NEUCOGAR (2014-now)}{\small Neurobiologically inspired cognitive architecture for simulation of neurobiologically plausible emotions in a computational and robotic systems based on neural simulations. Breakthrough: \emph{Affective computing} - first time the bio-plausible implementation of psycho-emotional states mapped to computational processes will be demonstrated. \emph{Cognitive architectures and robotics} - first time the bio-plausible emotional drives will be implemented to form behavioral strategies of an artificial system. We have already demonstrated: ``fear-like'' and ``disgust-like'' states.}
+\cvitem{Memristive brain (2016-now)}{\small The robotic part of the Robot Dream project dedicated to bio-inspired memristive implementation of a mammalian brain circuits and brain areas capable of real-time emotional processing in a robotic system, based on memristive neurons implementation capable of inhibition and neuromodulation. Breakthrough : \emph{Computer science, AI and robotics}: a new level using bio-inspired architectures with understanding of the functions of neurobiological mechanisms implemented in new type of hardware with new options of self-learning and adaptation in real-time. \emph{Electronics}: the development of memristive direction could lead to a revolution in IT industry. \emph{Neuro-science}: the brain-computer interface has new boost with use of memristors as the interface between living cells and not-living electronic memristors in a hybrid system.}
+\cvitem{Robot Dream (2015-now)}{\small The integration of a HPC mammalian brain simulation with real-time robotic system. Two phase architecture based on working metaphor of mammalian dream. The emotional experience collection, processing and behavioral strategy update are based on neural simulations in HPC cluster the robotic system is based on memristive implementation of a mammalian brain circuits. Breakthrough: \emph{Robotics} - first time the bio-plausible emotional driven cognitive architecture integrated with robotics embodiment will be demonstrated.}
+\cvitem{QME (2015-now)}{\small Quantitative model of emotions based on neuromodulatory model of affects implemented in the spiking neuronal network NEST}
+\cvitem{BioDynaMo (2015-now)}{\small Highly distributed simulation framework of the biologically plausible dynamic, growing neural network of a mammalian growing brain, joint with CERN, New castle university, Intel, Innopolis University}
+\cvitem{GDP (2015-now)}{Simulation of hippocampus Giant Depolarizing Potentials in nerobiologically plausible computational models}
+\cvitem{TU (2012-now)}{\small Thinking-Understanding. The approach and implementation of the intelligent system for a help desk automation based on: machine cognition: natural language processing (NLP), probabilistic reasoning and ``Model of six'' by Marvin Minsky}
+%\cvitem{CellCircuit (2015-now)}{\small Nanometers neural activity sensors to be placed, powered and radiate radio frequency in neuronal cells}
+\cvitem{Menta (2011-2012)}{\small The framework for automatic software application construction via genetic algorithms and NLP}
+\cvitem{IDP (2010-2011)}{\small Intellectual document processing, the project for data-mining of unstructured documents via NLP} 
+
+\section{Computing Professional Experience}
+
+\cventry{current}{Deputy director for science of the Information Technology and Information Systems institute (ITIS) in the Kazan Federal University}{}{Kazan, Russian Federation}{}{Management of research activities: planning, funding, publications strategy, publicity and international networking management.}
+
+\cventry{current}{Head of Machine Cognition lab}{}{Kazan, Russian Federation}{}{Creation and management of the scientific group; leading research in several directions: affective computation, neurobiologically inspired systems, computational neurobiology; grant applications, publication activities, managing master students, international communications and collaborations, joint lab activities. In collaboration with research centers: CERN OpenLab V, Lanzhou University School of information science and engineering, Samsung Research Center; scientists: Roustem Khazipov, Jordi Vallverd\"{u}, Hu Bin, Philip Moore, Salvatore Distefano, Manuel Mazzara, Marat Minlebaev, Pei Wang.}
+
+\cventry{2014-2015}{Lecturer at Innopolis University}{}{Kazan, Russian Federation}{}{Lecturing Affective computation course from three perspectives: Philosophical (Model of six by Marvin Minsky), Psychological (Wheel of emotions by Plutchik), Neurobiological: (``Cube of emotions'' by L\"{o}vheim).}
+
+\cventry{2006-2014}{Software and solution Architect in Fujitsu GDC Russia}{}{}{}{Leading several research projects: affective computing, machine cognition, code generation automation, natural language processing. Software Design architect in different projects based on: Scala, OpenCog.RelEx, 
+Neo4j, OpenCog.PLN, Stanford Parser, open NARS, MinorThird, Java, EJB, Hibernate, Spring, IBM MQ, Oracle BPEL}{}{}
+
+\section{Teaching Experience}
+
+\cvitem{2016-Now, Kazan Federal University}{\small Affective computation: the extended view on the emotions and reimplementation in a computational system problem  including: philosophical, psychological, neurobiological and computational perspectives. The course starts from birds eye view on the problem, carries on to neurobiological details of a neuromodulation and psychological models of emotions, then progresses into philosophical questions of consciousness and thinking and ends up with cognitive architectures and spiking neural networks review.}
+
+\cvitem{2016-2017, Kazan Federal University}{\small Artificial intelligence Introduction: the introduction in artificial intelligence including: machine learning and reinforcement learning, decision making, reasoning, knowledge bases and representations, natural language processing, intelligent agents. During the course students should develop the AI project using principles and technologies discussed in the course.}
+
+\cvitem{2014-2016, Kazan Federal University}{\small Software Design Architecture: the course for bachelor students, intended to be starting point from basics of software design and UML to principles and design patterns, with extended use of practical examples. During the course students should develop project using principles of design studied.}
+
+\cvitem{2014-2015, Innopolis University}{\small Affective computation: the extended view on the emotions and reimplementation in a computational system problem  including: philosophical, psychological, neurobiological and computational perspectives. The course starts from birds eye view on the problem, carries on to neurobiological details of a neuromodulation and psychological models of emotions, then progresses into philosophical questions of consciousness and thinking and ends up with cognitive architectures and spiking neural networks review.}
+
+
+\section{Prizes and Awards}
+
+2005 - Received honorary diploma of the Sun microsystems, Java projects competition, for the MILK - domain specific language for web sites creation.
+
+\section{Grants}
+
+His projects received funding according to the Russian Government Program of Competitive Growth of Kazan Federal University as well as subsidy allocated to Kazan Federal University for the state assignment in the sphere of scientific activities.
+
+\section{Granted patent(s)}
+
+Thinking-Understanding the registration of intellectual property of software product or technology.
+
+\begin{btSect}[unsrtnat]{my_papers}
+\btPrintNotCited
+\end{btSect}
+
+\cvitem{}{}
+
+\section{Conference and Workshop Activities}
+
+\cvitem{2010}{\small CEE-SECR}
+\cvitem{2013}{\small AINL}
+\cvitem{2015}{\small AOC@AMSTA}
+\cvitem{2015}{\small AINA}
+\cvitem{2015}{\small BICA}
+\cvitem{2016}{\small Fierces on BICA}
+\cvitem{2016}{\small AOC@AMSTA}
+\cvitem{2016}{\small AGI}
+\cvitem{2016}{\small BICA}
+\cvitem{2017}{\small BICA}
+\cvitem{2017}{\small ICAROB}
+\cvitem{2017}{\small ICINCO}
+
+Took part in organisation of special sessions of AOC@AMSTA-2016 and AOC@AMSTA-2016.
+Took part in organisation of local series of Software engineering, seminars AKSES-2014.
+
+\section{Professional Training}
+
+\cvitem{2014}{\small Teaching Excellence, Carnegie Mellon University}
+\cvitem{2009}{\small Software Architecture}
+\cvitem{2008}{\small Software Requirements Analysis}
+\cvitem{2007}{\small Managing Software Project Team}
+
+\section{Computing Knowledge}
+
+\cvitem{Spiking NN, Reasoner}{NEST, open NARS, OpenCog.PLN, Pellet}
+\cvitem{OWL and mind map}{Protege, FreeMind, XMind}
+\cvitem{Electrophy}{OpenElectrophy, Spike viewer, StimFit} 
+\cvitem{OS}{Microsoft Windows, Linux, Mac OS}
+\cvitem{Programming}{Scala, Python, Java, Prolog, Refal, C++, Haskell, PLSQL, TSQL, Java SE, EJB, Hibernate, Spring, Seam, IBM MQ, Oracle BPEL, JBoss, Tomcat, Web Services}
+\cvitem{Databases}{MSSQL, Oracle DB, PostgreSQL, Neo4j, HypergraphDB}
+\cvitem{Development}{Jetbrains PyCharm, Jetbrains Idea, Eclipse, Visual Studio, Maven, Emacs, ArgoUML, Visual Paradigm, Rational Rose, Enterprise Architect, QTCreator, Oracle JDeveloper} 
+\cvitem{ML, NLP}{Rapid miner, Weka, OpenCog.RelEx, Stanford parser, Gate, MinorThird}
+
+
+\section{Education Background}
+
+\cventry{2000}{PHD degree in Math modelling of Electromagnetic fields in plasma}{Kazan State Technological University,
+Russia}{Faculty of enterprise processes management}{}{Thesis: \emph{Electromagnetic picture of high frequency plasma}}{}
+
+\section{Language Competence}
+
+\cvcomputer{English}{Full professional proficiency}{Russian}{mother tongue}
+
+\end{document}
