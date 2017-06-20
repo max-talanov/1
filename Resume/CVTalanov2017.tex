@@ -7,8 +7,10 @@
 
 \documentclass{moderncv}
 \usepackage{url}
-\usepackage{bibtopic}
-\usepackage[round]{natbib}
+%\usepackage{bibtopic}
+%\usepackage[round]{natbib}
+\usepackage{multibib}
+\newcites{sel}{Selected works}
 
 % moderncv styles
 %\moderncvstyle{casual}       % optional argument are 'nocolor' (black & white cv) and 'roman' (for roman fonts, instead of sans serif fonts)
@@ -130,12 +132,19 @@ Thinking-Understanding the registration of intellectual property of software pro
 
 \nocite{talanov_2015,vallverdu_2016a,jordi2016importance}
 
-\begin{btSect}[unsrtnat]{my_papers}
-  %\section{Most popular papers}
-  \btPrintCited
+%\begin{btSect}[defaultbib]{my_papers}
+%  \btPrintCited
   %\section{Papers}
-  \btPrintNotCited
-\end{btSect}
+%  \btPrintAll
+%\end{btSect}
+
+% Selected works (my_papers.bib)
+\bibliographystylesel{spmpsci}
+\bibliographysel{my_papers}
+ 
+% Other (my_papers.bib)
+\bibliographystyle{spmpsci}
+\bibliography{my_papers}
 
 \cvitem{}{}
 

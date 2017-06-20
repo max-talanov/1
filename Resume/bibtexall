@@ -1,0 +1,21 @@
+#!/bin/bash
+#
+# Evoke bibtex for each .aux file in the present directory.
+#
+# Usage:
+# Change to the directory where you want to bibtex all .aux files which 
+# have a citation command and type  
+#
+#     bibtexall
+#
+# Thorsten Hansen, 2003-03-24 (first entry) 
+#                  2005-10-26 do not evoke bibtex on .aux files w/o \citation's
+#                  2008-11-06 no message for files w/o citations
+for file in *.aux ; do
+  if grep -c -q '\\citation' $file; then
+    echo "process $file"
+    bibtex `basename $file .aux`
+#  else
+#    echo "ignore file $file which has no \citation command" 
+  fi
+done
