@@ -7,10 +7,10 @@ Max Talanov: talanov.max@gmail.com
     1. Roles in project
     1. Phases of the project
 1. [Methodologies](methodologies.md)
-  2. Waterfall
-  2. Spiral
-  2. Agile
-  2. Agile/Scrum
+  1. Waterfall
+  1. Spiral
+  1. Agile
+  1. Agile/Scrum
 1. [Requirements](requirements.md)
   2. Vision
   2. Business requirements
