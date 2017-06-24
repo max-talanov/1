@@ -7,19 +7,19 @@ Max Talanov: talanov.max@gmail.com
     1. Roles in project
     1. Phases of the project
 1. [Methodologies](methodologies.md)
-  1. Waterfall
-  1. Spiral
-  1. Agile
-  1. Agile/Scrum
+    1. Waterfall
+    1. Spiral
+    1. Agile
+    1. Agile/Scrum
 1. [Requirements](requirements.md)
-  2. Vision
-  2. Business requirements
-  2. Functional requirements
-  2. Non-functional requirements
+    1. Vision
+    1. Business requirements
+    1. Functional requirements
+    1. Non-functional requirements
 1. Project documentation
-  2. [HLD](high level design.md)
-  2. [MLD](mid%20level%20design.md#mid-level-design)
-  2. [LLD](mid%20level%20design.md#low-level-design)
+    1. [HLD](high level design.md)
+    1. [MLD](mid%20level%20design.md#mid-level-design)
+    1. [LLD](mid%20level%20design.md#low-level-design)
 1. [UML](uml.md)
   2. 15(9) types of diagrams
   2. Structure
