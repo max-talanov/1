@@ -56,7 +56,7 @@
 * Aggregation "has a" connection
 * Composition "owns a" connection
 
-![Aggregation and composition](https://en.wikipedia.org/wiki/Object_composition#/media/File:AggregationAndComposition.svg)
+![Aggregation and composition](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/AggregationAndComposition.svg/400px-AggregationAndComposition.svg.png)
 
 ### Import (Package)
 
