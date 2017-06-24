@@ -1,4 +1,4 @@
-#Software life-cycle
+# Software life-cycle
 
 [Definition](http://en.wikipedia.org/wiki/Software_development_process)
 
