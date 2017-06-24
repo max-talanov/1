@@ -17,7 +17,7 @@ Max Talanov: talanov.max@gmail.com
     1. Functional requirements
     1. Non-functional requirements
 1. Project documentation
-    1. [HLD](high level design.md)
+    1. [HLD](high%20level%20design.md)
     1. [MLD](mid%20level%20design.md#mid-level-design)
     1. [LLD](mid%20level%20design.md#low-level-design)
 1. [Principles of design](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) )
