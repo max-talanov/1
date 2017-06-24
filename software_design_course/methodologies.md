@@ -1,15 +1,16 @@
 # Documenting architecture
 
 ## Plan
-2. Methodologies
-     3. Waterfall
-     3. Agile
-     3. Agile/Scrum
-2. Project documentation
-     3. Requirements
-     3. HLD
-     3. MLD
-     3. LLD
+
+1. Methodologies
+  1. Waterfall
+  1. Agile
+  1. Agile/Scrum
+1. Project documentation
+  1. Requirements
+  1. HLD
+  1. MLD
+  1. LLD
 
 ## Methodologies
 
