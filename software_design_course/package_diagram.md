@@ -1,4 +1,4 @@
-#Package diagram.
+# Package diagram.
 
 [Package diagram](https://en.wikipedia.org/wiki/Package_diagram) A package diagram in the Unified Modeling Language depicts the dependencies between the packages that make up a model.
 
