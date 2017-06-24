@@ -1,4 +1,4 @@
-#Class diagram.
+# Class diagram.
 
 [Class diagram](http://en.wikipedia.org/wiki/Class_diagram) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.
 
@@ -56,7 +56,7 @@
 * Aggregation "has a" connection
 * Composition "owns a" connection
 
-![Aggregation and composition](http://upload.wikimedia.org/wikipedia/en/9/9f/AggregationAndComposition.svg)
+![Aggregation and composition](https://en.wikipedia.org/wiki/Object_composition#/media/File:AggregationAndComposition.svg)
 
 ### Import (Package)
 
