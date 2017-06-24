@@ -1,4 +1,4 @@
-#Component diagram
+# Component diagram
 
 [Component diagram](https://en.wikipedia.org/wiki/Component_diagram): describes how a software system is split up into components and shows the dependencies among these components.
 
@@ -6,7 +6,7 @@
 
 ## Classifiers
 
-###Components
+### Components
 
 1. Black box
 
@@ -19,7 +19,7 @@
 
 ![White box with nested components diagram](component_nested.png)
 
-###Ports
+### Ports
 
 ![White box with internal structure and ports](component_internal_white_box.png)
 
