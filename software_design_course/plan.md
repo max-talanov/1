@@ -1,4 +1,4 @@
-# Design course plan
+# Sofware design course syllabus
 
 Max Talanov: talanov.max@gmail.com
 
