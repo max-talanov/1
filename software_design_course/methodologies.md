@@ -3,14 +3,14 @@
 ## Plan
 
 1. Methodologies
-  1. Waterfall
-  1. Agile
-  1. Agile/Scrum
+    1. Waterfall
+    1. Agile
+    1. Agile/Scrum
 1. Project documentation
-  1. Requirements
-  1. HLD
-  1. MLD
-  1. LLD
+    1. Requirements
+    1. HLD
+    1. MLD
+    1. LLD
 
 ## Methodologies
 
