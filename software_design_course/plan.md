@@ -1,4 +1,4 @@
-#Design course plan
+# Design course plan
 
 Max Talanov: talanov.max@gmail.com
 
