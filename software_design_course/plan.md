@@ -34,8 +34,7 @@ Max Talanov: talanov.max@gmail.com
     1. [Event driven](https://en.wikipedia.org/wiki/Event-driven_architecture)
     1. [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
     1. [Pipeline](https://en.wikipedia.org/wiki/Pipe_and_filter_architecture)
-1. [UML](uml.md)
-    1. 15(9) types of diagrams
+1. [UML](uml.md) 15(9) types of diagrams
     1. Structure
         1. [Component](Component_diagram.md)
         1. [Class](class_diagram.md)
