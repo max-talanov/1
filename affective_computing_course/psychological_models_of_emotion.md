@@ -164,7 +164,7 @@ The actions of the head and face when disgust is triggered involve a forward mov
 
 ### References 
 
-1. [Vernon C. Kelly, Jr., M.D., A Primer Of Affect Psychology](http://www.tomkins.org/uploads/Primer_of_Affect_Psychology.pdf)
+1. [Vernon C. Kelly, Jr., M.D., A Primer Of Affect Psychology](http://www.tomkins.org/wp-content/uploads/2014/07/Primer_of_Affect_Psychology-Kelly.pdf)
 1. [Robert Plutchik, The Nature of Emotions](http://www.americanscientist.org/my_amsci/restricted.aspx?act=pdf&id=2762150868143)
 1. [Tom Ziemke and Robert Lowe, On the Role of Emotion in Embodied Cognitive Architectures: From Organisms to Robots](http://link.springer.com/article/10.1007%2Fs12559-009-9012-0?LI=true)
 1. Prescott TJ, Redgrave P, Gurney K. Layered control architectures in robots and vertebrates. Adapt Behav. 1999;7:99–127.
