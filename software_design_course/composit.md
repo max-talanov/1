@@ -1,4 +1,4 @@
-#Composit structure diagram.
+# Composit structure diagram.
 
 [Composite structure diagram](https://en.wikipedia.org/wiki/Composite_structure_diagram) in the Unified Modeling Language (UML) is a type of static structure diagram, that shows the internal structure of a class and the collaborations that this structure makes possible.
 
