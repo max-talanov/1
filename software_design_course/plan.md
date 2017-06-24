@@ -4,8 +4,8 @@ Max Talanov: talanov.max@gmail.com
 
 1. [Intro](intro.md)
 1. [Software life-cycle](software_lifecycle.md)
-    2. Roles in project
-    2. Phases of the project
+    1. Roles in project
+    1. Phases of the project
 1. [Methodologies](methodologies.md)
   2. Waterfall
   2. Spiral
