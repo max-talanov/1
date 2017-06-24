@@ -12,7 +12,7 @@ The address of this page:
 
 ## Syllabus
 
-1. [Intro](intro.md), [lab](lab_0.md).
+1. [Intro](intro.md).
 1. [Artificial and natural intelligence in one practical example](one_example.md)
 1. [Main ideas of Intro and Artificial and natural intelligence in one practical example lectures](main_ideas_of_1_and_2.md)
 1. [Emotional thinking from bird eye view (lectures: 1, 2 and 3).](emotional_thinking.md)
