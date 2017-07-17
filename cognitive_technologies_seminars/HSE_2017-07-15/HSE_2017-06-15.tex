@@ -242,16 +242,10 @@ Excitatory memristive elements are trained via Hebbian learning, inhibitory memr
 \begin{frame}
 \frametitle{Robot dream}
 \begin{description}
-  \item[a.] In this position a robotic system transfers the accumulated experience into spiking neural network.
-  \item[b.] Processing is done as follows:
-      \begin{enumerate}
-      \item First the accumulated experience is transferred from a robotic system to the processing center;
-      \item Then bisimulation starts producing a set of updated rules for robot's control system;
-      \item Finally update is transferred to the robotic system.
-      \end{enumerate}
-  \item[c.] The updated rules of the control system are transferred to the robotic system and applied to it.
-  \item[d.] The robotic system continues it's job running updated control system with adjusted emotional reactions
-            and accumulating new experience to be processed again starting from \textbf{a}.
+  \item[a.] In this position a real-time ``wake system'' (shown as robot) transfers the accumulated experience into simulated ``dreaming brain'' (sNN).
+  \item[b.] Transferred information in form of pseudo-spiking activity is played-back over simulated ``dreaming brain''
+  \item[c.] The updated neuronal structures are translated into rules  of the ``wake system'' and applied to it.
+  \item[d.] The real-time ``wake system'' system continues it's job running updated control system with adjusted emotional reactions and accumulating new experience to be processed again starting from \emph{a}.
   \end{description}
 \end{frame}
 
