@@ -90,9 +90,9 @@
 \author[Max Talanov]{
   Max Talanov
 } 
-\institute[for: HSE] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+\institute[for: iPavlov] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
 {
-for HSE \\ % Your institution for the title page
+for iPavlov \\ % Your institution for the title page
 \medskip
 \textit{max.talanov@gmail.com} % Your email address
 }
@@ -209,10 +209,21 @@ for HSE \\ % Your institution for the title page
 %------------------------------------------------
 
 \begin{frame}
-\frametitle{\#2 Memristive brain}
+\frametitle{\#2 Memristive brain (hardware)}
 \begin{figure}
 \includegraphics[width=0.8\linewidth]{HL_Emristor}
 \end{figure}
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Memristive brain}
+  
+Inputs $1, ..n, ..n + m$ where n is the number of excitatory synapses and m is number of inhibitory synapses per one cell. The scale of the n+m is $10^4$.
+
+Excitatory memristive elements are trained via Hebbian learning, inhibitory memristive elements are trained via ``sombrero''. The adder implements balancing of excitatory and inhibitory impact of memristive elements (synapses), and its output starts the output impulse (spike) generator. The inverting adder to be compared with integrated input of the neuron provided and extended via the integrator 1. The inverting adder output is transmitted to inhibitory memristive elements and implements ``sombrero'' training. The monostable multivibrator is activated via positive signal of the inverting adder triggering a relay that grounds the slave inverter crating the positive half of $\Delta t$ axis of the learning function graph. The negative half of the graph is created via the slave inverter in the non-grounded mode. The output of the feedback: $\frac{1}{x}$ or Hebbian learning is transferred to excitatory memristive elements.
+  
 \end{frame}
 
 %------------------------------------------------
