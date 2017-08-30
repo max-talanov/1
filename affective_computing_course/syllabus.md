@@ -8,7 +8,7 @@ Max Talanov
 
 The address of this page:
 
-#### https://github.com/max-talanov/1/blob/master/affective%20computing/plan.md
+#### https://github.com/max-talanov/1/blob/master/affective_computing_course/syllabus.md
 
 ## Syllabus
 
