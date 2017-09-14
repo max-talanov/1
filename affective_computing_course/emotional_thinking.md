@@ -136,7 +136,7 @@ Evolutionary psychology.
 1. Sensitivity (anger - fear)
 1. Aptitude (trust - disgust)
 
-![Hourglass of emotions](Sentic Computing - sentic-computing.pdf.png)
+![Hourglass of emotions](Sentic_Computing-sentic-computing.pdf.png)
 
 Practical use: Trolling detection software.
 
@@ -186,7 +186,7 @@ When, do you think robot will bring human to court?
 
 ## [PAD space](http://en.wikipedia.org/wiki/PAD_emotional_state_model)
 
-![PAD space used from: Emotion and sociable humanoid robots](Emotion and sociable humanoid robots_PAD space.png)
+![PAD space used from: Emotion and sociable humanoid robots](Emotion_and_sociable_humanoid_robots_PAD_space.png)
 
 The **Pleasure-Displeasure** Scale measures how pleasant an emotion may be. For instance both anger and fear are unpleasant emotions, and score high on the displeasure scale. However joy is a pleasant emotion. This dimension is usually limited to 16 specific values.
 
