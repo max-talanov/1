@@ -53,16 +53,12 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 **Planning**. Consider the set of subgoals you want to achieve and examine how they affect each other. Then, with those constraints in mind, propose an efficient sequence for achieving them.
 
 **Simplifying**. Often a good way to solve a difficult problem is first to solve a simpler version that ignores some features of that problem. Then any such solution may serve as a sequence of stepping-stones for solving the original problem.
+
 **Elevating**. If you are bogged down in too many details, describe the situation in more general terms. But if your description seems too vague, switch to one that is more concrete.
+
 **Changing the subject**. Whatever you are working on now, if you get discouraged enough, you can always abandon it and simply switch to a different task.
 
 ### Reflective Ways to Think
-
-**Simplifying**. Often a good way to solve a difficult problem is first to solve a simpler version that ignores some features of that problem. Then any such solution may serve as a sequence of stepping-stones for solving the original problem.
-
-**Elevating**. If you are bogged down in too many details, describe the situation in more general terms. But if your description seems too vague, switch to one that is more concrete.
-
-**Changing the subject**. Whatever you are working on now, if you get discouraged enough, you can always abandon it and simply switch to a different task.
 
 **Wishful thinking**. Imagine having unlimited time and all the resources that you might want. If you still can’t envision solving the problem, then you should reformulate it.
 

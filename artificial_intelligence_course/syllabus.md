@@ -1,4 +1,4 @@
-# Applied machine consciousness syllabus
+# Artificial intelligence syllabus
 
 Max Talanov: talanov.max@gmail.com
 
