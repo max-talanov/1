@@ -2,17 +2,24 @@
 
 ## Do we have AI?
 
-## AI is the challenge
+## Why AI is so hard?
 
 1. Biggest - we simply do not know what is natural intelligence.
 1. Derivative: what is consciousness?
 1. Derivative: what is thinking?
-1. Derivative: what is feeling (love)?
-1. Derivative: what is emotion? Why do we need emotions? What is emotional thinking? Does AI need emotion?
+1. Derivative: what is emotion? 
+1. Why do we need emotions? 
+1. Does AI (robot) need emotion?
 1. Are those questions above only philosophical?
 
+## AI records 
+
+1. Deep blue defeated world chess champion Garry Kasparov.
+1. 
+
 ## Some numbers
-Biggest NN built so far - [2013 RIKEN created NEST NN]((http://www.riken.jp/en/pr/press/2013/20130802_1)), according to the is report there were 1.7 billon of neurons with ... trillion of synapses. Is it big enough? 
+
+Biggest spiking NN built so far - [2013 RIKEN created NEST NN]((http://www.riken.jp/en/pr/press/2013/20130802_1)), according to the is report there were 1.7 billon of neurons with ... trillion of synapses. Is it big enough? 
 
 Human brain(typical) contains [86 billion of neurons](http://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons).
 Cats brain contains 1.5 billon neurons.
@@ -43,6 +50,8 @@ This year scientists from Stanford university developed [NeuroGrid](http://news.
 1. Transhumanism
 1. Technological Singularity
 1. AI winter
+
+## AI is the challenge!
 
 ## References
 
