@@ -53,13 +53,11 @@ Do you think anyone could be interested in robot with power station?
 ## Keywords
 
 1. Artificial Life
-vv1. Learning (training)
+1. Learning (training)
 1. Society
 1. Transhumanism
 1. Technological Singularity
 1. AI winter
-
-## AI is the challenge!
 
 ## References
 
