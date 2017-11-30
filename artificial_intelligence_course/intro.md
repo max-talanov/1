@@ -1,5 +1,13 @@
 # Intro
 
+## AI records 
+
+1. [IBM Deep Blue defeated world chess champion Garry Kasparov.](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov)
+1. [AlphaGo defeated Go champion](https://en.wikipedia.org/wiki/AlphaGo)
+1. [IBM Watson defeated Jeopardy champion](https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy!)
+1. [Google self-driving car](https://en.wikipedia.org/wiki/Autonomous_car#Google_self-driving_car)
+1. Intelligent agents: Ok Google, Siri
+
 ## Do we have AI?
 
 ## Why AI is so hard?
@@ -12,13 +20,6 @@
 1. Does AI (robot) need emotion?
 1. Are those questions above only philosophical?
 
-## AI records 
-
-1. [IBM Deep Blue defeated world chess champion Garry Kasparov.](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov)
-1. [AlphaGo defeated Go champion](https://en.wikipedia.org/wiki/AlphaGo)
-1. [IBM Watson defeated Jeopardy champion](https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy!)
-1. [Google self-driving car](https://en.wikipedia.org/wiki/Autonomous_car#Google_self-driving_car)
-1. Intelligent agents: Ok Google, Siri
 
 ## Some numbers
 

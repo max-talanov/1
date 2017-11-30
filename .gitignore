@@ -45,3 +45,9 @@ obj
 *.tmp.*
 .DS_Store
 *.out
+*.dtx
+*.toc
+*.ins
+*.snm
+*.nav
+*.bcf
