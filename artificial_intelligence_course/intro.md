@@ -7,19 +7,19 @@
 1. [IBM Watson defeated Jeopardy champion](https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy!)
 1. [Google self-driving car](https://en.wikipedia.org/wiki/Autonomous_car#Google_self-driving_car)
 1. Intelligent agents: Ok Google, Siri
+1. [Da Vinci Surgical System](https://en.wikipedia.org/wiki/Da_Vinci_Surgical_System)
 
 ## Do we have AI?
 
 ## Why AI is so hard?
 
-1. Biggest - we simply do not know what is natural intelligence.
+1. The biggest AI problem - we simply do not know what is natural intelligence.
 1. Derivative: what is consciousness?
 1. Derivative: what is thinking?
 1. Derivative: what is emotion? 
 1. Why do we need emotions? 
 1. Does AI (robot) need emotion?
 1. Are those questions above only philosophical?
-
 
 ## Some numbers
 
@@ -32,10 +32,14 @@ Monkeys (night monkey) cerebral cortex contains 1.7 billon of neurons.
 Consider energy consumption! 
 Do you think anyone could be interested in robot with power station?
 
-## Good news
+## Good neuromorphic news
 
-[IBM in the SyNAPSE project](http://www.research.ibm.com/cognitive-computing/neurosynaptic-chips.shtml#fbid=f1HQ57tWR3E), developed a chip that emulated 256 neurons, now 1 million, based on new elements - memristors.
-This year scientists from Stanford university developed [NeuroGrid](http://news.stanford.edu/pr/2014/pr-neurogrid-boahen-engineering-042814.html): the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
+1. [IBM in the SyNAPSE project](http://www.research.ibm.com/cognitive-computing/neurosynaptic-chips.shtml#fbid=f1HQ57tWR3E), developed a chip that emulated 256 neurons, now 1 million, based on new elements - memristors.
+1. Scientists from Stanford university developed [NeuroGrid](http://news.stanford.edu/pr/2014/pr-neurogrid-boahen-engineering-042814.html): the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
+2. [Intel and Loihi](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)
+3. [Intel Movidius](https://newsroom.intel.com/news/intel-unveils-neural-compute-engine-movidius-myriad-x-vpu-unleash-ai-edge/)
+4. [Google Tensor flow](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/)
+5. [Huawei Kirin](http://consumer.huawei.com/en/press/news/2017/ifa2017-kirin970/)
 
 
 ## Any challenges missed?
@@ -49,7 +53,7 @@ This year scientists from Stanford university developed [NeuroGrid](http://news.
 ## Keywords
 
 1. Artificial Life
-1. Learning (training)
+vv1. Learning (training)
 1. Society
 1. Transhumanism
 1. Technological Singularity
