@@ -18,3 +18,11 @@
 ### H-CogAff
 
 ### Model of six 
+
+## Examples
+
+### Eliza
+
+### Dialog agents
+
+### Eugeni ...
