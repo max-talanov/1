@@ -1,6 +1,6 @@
 # Intro
 
-## AI records 
+## AI achievements 
 
 1. [IBM Deep Blue defeated world chess champion Garry Kasparov.](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov)
 1. [AlphaGo defeated Go champion](https://en.wikipedia.org/wiki/AlphaGo)
@@ -16,9 +16,7 @@
 1. The biggest AI problem - we simply do not know what is natural intelligence.
 1. Derivative: what is consciousness?
 1. Derivative: what is thinking?
-1. Derivative: what is emotion? 
-1. Why do we need emotions? 
-1. Does AI (robot) need emotion?
+1. Derivative: what is emotion or feeling? 
 1. Are those questions above only philosophical?
 
 ## Some numbers
@@ -40,7 +38,6 @@ Do you think anyone could be interested in robot with power station?
 3. [Intel Movidius](https://newsroom.intel.com/news/intel-unveils-neural-compute-engine-movidius-myriad-x-vpu-unleash-ai-edge/)
 4. [Google Tensor flow](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/)
 5. [Huawei Kirin](http://consumer.huawei.com/en/press/news/2017/ifa2017-kirin970/)
-
 
 ## Any challenges missed?
 
