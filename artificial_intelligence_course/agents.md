@@ -25,8 +25,12 @@
 
 ### Dialog agents
 
-### Eugeni ...
+### Eugene Goostman
+
+https://en.wikipedia.org/wiki/Eugene_Goostman
+
 
 ### IBM Watson
+
 
 
