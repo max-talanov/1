@@ -11,3 +11,10 @@
 1. Goal-based agents
 1. Utility-based agents
 1. Learning agents
+
+
+## Cognitive architectures 
+
+### H-CogAff
+
+### Model of six 
