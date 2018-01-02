@@ -10,4 +10,4 @@
 1. Model-based reflex agents
 1. Goal-based agents
 1. Utility-based agents
-1. learning agents
+1. Learning agents
