@@ -4,7 +4,7 @@
 
 ...
 
-# Peter Norvig and Stuart Russel classification
+## Peter Norvig and Stuart Russel classification
 
 1. Simple reflex agents
 1. Model-based reflex agents
