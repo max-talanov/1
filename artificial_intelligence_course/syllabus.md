@@ -6,8 +6,8 @@ Alik Kirilivich alik.kirillovich@gmail.com
 
 Text book: Artificial Intelligence: A Modern Approach 
 
-1. [Intro](intro.md).
-1. Intelligent Agents
+1. [Intro.](intro.md)
+1. [Intelligent agents.](agents.md)
 1. Solving problems using search
    1. Genetic algorithms
 1. Logical agents [Alik please add the sections here]
@@ -34,4 +34,4 @@ Text book: Artificial Intelligence: A Modern Approach
    
 
 Artificial intelligence mind map
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
+![AI mind map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
