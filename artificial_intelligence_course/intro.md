@@ -19,6 +19,10 @@
 1. Derivative: what is emotion or feeling? 
 1. Are those questions above only philosophical?
 
+## Neat and Scruffy schools
+
+...
+
 ## Some numbers
 
 Biggest spiking NN built so far - [2013 RIKEN created NEST NN]((http://www.riken.jp/en/pr/press/2013/20130802_1)), according to the is report there were 1.7 billon of neurons with ... trillion of synapses. Is it big enough? 
