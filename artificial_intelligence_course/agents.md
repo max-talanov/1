@@ -2,7 +2,7 @@
 
 ## Turing test
 
-...
+![](https://en.wikipedia.org/wiki/Turing_test#/media/File:Turing_test_diagram.png)
 
 ## Peter Norvig and Stuart Russel classification
 
