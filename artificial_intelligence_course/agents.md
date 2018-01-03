@@ -5,6 +5,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png
 )
 
+[Turing test Wikipedia](https://en.wikipedia.org/wiki/Turing_test)
+
 ## Peter Norvig and Stuart Russel classification
 
 1. Simple reflex agents
