@@ -1,4 +1,4 @@
-# Affective computation (computational emotions) syllabus
+# AI: Affective computation syllabus
 
 ## Contact information
 
