@@ -21,7 +21,17 @@
 
 ## Neat and Scruffy schools
 
-...
+### Neat
+
+1. Intelligence is an instrument to help humans 
+1. Pure logic
+1. Expert systems
+
+### Scruffy 
+
+1. Intelligence is something close to human intelligence
+1. Connectivist models
+1. NNs
 
 ## Some numbers
 
