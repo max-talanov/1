@@ -1,0 +1,329 @@
+\documentclass[a4paper,nodocument,nologo,notitle,black,12pt]{europasscv}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{tikz}
+\usepackage{tabu}
+\usepackage{metalogo}
+
+\ifpdf
+\hypersetup{
+     colorlinks   = true
+}
+\fi
+
+% \usepackage{showframe}
+
+\author{Giacomo Mazzamuto\\
+        {\href{mailto:gmazzamuto+ctan@gmail.com}{\texttt{gmazzamuto+ctan@gmail.com}}}\\}
+\title{ Documentation of the \LaTeX\ class\\
+		\Large{\textbf{\texttt{europasscv.cls}}}\\
+		\normalsize{\href{https://github.com/gmazzamuto/europasscv}{\texttt{https://github.com/gmazzamuto/europasscv}}}\\
+		\vspace{0.2cm} Version 2017-11-19
+}
+
+\newcommand{\bs}{\textbackslash}
+
+
+\begin{document}
+\maketitle
+\clearpage
+
+\begin{abstract}
+This paper describes how to use europasscv.cls, a \LaTeX\ document class for typesetting a curriculum vitae according to the Europass initiative of the European Commission. This is an unofficial implementation of that format, featuring the major style updates that came out in 2013.
+
+\end{abstract}
+
+\tableofcontents
+
+\section{Introduction}
+This class is an unofficial \LaTeX\ implementation of the the \emph{Europass~CV\/}, the standard model for curriculum vitae as recommended by the European Commission. The Europass~CV replaces the European CV, launched in~2002. In 2013 a major revision of the Europass~CV came out, featuring a neater, more compact and somewhat fancier layout. This class is an implementation of the 2013 version of that layout and is based on the \textsf{europecv}\footnote{\url{http://ctan.org/pkg/europecv}} class (which is an implementation of the previous layout).
+
+The Europass~CV defines both the content and the layout of a curriculum vitae. The \textsf{europasscv} class provides support for the latter, and for the former as far as personal information, spoken languages and digital competences are concerned. If you want to know how the content of a Europass~CV is structured, refer to the documentation provided by the Europass website\footnote{\url{https://europass.cedefop.europa.eu/en/documents/curriculum-vitae/templates-instructions}.}.
+
+This class tries to be as close as possible to the standard model without sacrificing flexibility. Although it is primarily intended for users in the European Union, the class can be used for any kind of curriculum vitae (possibly with the options \texttt{notitle} and \texttt{nologo}, see below), or even for other kinds of documents.
+
+\section{Tutorial}
+Let's start with a minimal (empty) curriculum vitae:
+\begin{verbatim}
+\documentclass[english,a4paper]{europasscv}
+\begin{document}
+  \begin{europasscv}
+  \end{europasscv}
+\end{document}
+\end{verbatim}
+
+Now you can start writing your CV by entering first of all your personal information and then adding sections and items as described below.
+
+For a complete list of usable class options see section \ref{sec:classOptions}.
+
+% \enlargethispage{2\baselineskip}
+
+\subsection{Personal information}
+\ecvname{Name Surname}
+\ecvtelephone{(+555) 555 555\newline}
+\ecvworkphone{(+555) 123 456}
+\ecvmobile{(+555) 340 123}
+\hypersetup{urlcolor=black}
+\ecvemail{smith@kotmail.com another@email.com}
+\ecvhomepage{www.myhomepage.com www.another.com}
+\ecvgithubpage{https://github.com/smith}
+\ecvlinkedinpage{https://www.linkedin.com/in/smith}
+\ecvaddress{rue Wiertz, B-1047 Brussels}
+\ecvim{AOL Messenger}{betty.smith}
+\ecvim{Google Talk}{bsmith}
+\ecvdateofbirth{1 January 1970}
+\ecvnationality{English}
+\ecvgender{Female}
+\hspace*{-6cm}
+\ecvLeftColumnWidth{90mm}
+\ecvColSep{10pt}
+\begin{minipage}{21cm}
+  \begin{europasscv}
+    \ecvpersonalinfo
+  \end{europasscv}
+\end{minipage}
+
+\bigskip
+\noindent
+The \emph{Personal information} section shown above is specified with the commands:
+\begin{verbatim}
+\ecvname{Name Surname}
+\ecvaddress{rue Wiertz, B-1047 Brussels}
+\ecvtelephone{(+555) 555 555}
+\ecvmobile{(+555) 340 123}
+\ecvworkphone{(+555) 123 456}
+\ecvemail{smith@kotmail.com another@email.com}
+\ecvhomepage{www.myhomepage.com www.another.com}
+\ecvgithubpage{https://github.com/smith}
+\ecvlinkedinpage{https://www.linkedin.com/in/smith}
+\ecvim{AOL Messenger}{betty.smith}
+\ecvim{Google Talk}{bsmith}
+\ecvdateofbirth{1 January 1970}
+\ecvnationality{English}
+\ecvgender{Female}
+\end{verbatim}
+and then typeset inside the \texttt{europasscv} environment with:
+\begin{description}
+\item[\texttt{\bs ecvpersonalinfo}]
+\end{description}
+Photos can be added with the following commands:
+\begin{description}
+\item[\texttt{\bs ecvpictureleft[\textit{options}]\{\textit{filename}\}}]
+\item[\texttt{\bs ecvpictureright[\textit{options}]\{\textit{filename}\}}]
+\end{description}
+where options are passed to \texttt{\bs includegraphics}. The command \texttt{\bs ecvpicture} is an alias for \texttt{\bs ecvpictureleft}.
+
+\hypersetup{urlcolor=magenta}
+
+\subsection{Sectioning and item commands}
+Sectioning commands should be used inside the \texttt{europasscv} environment. All of them have an optional argument that specifies how much vertical space to leave \emph{before} that command. Note that this is the opposite of what happened in the old \texttt{europecv} class.
+
+Use the following simple commands to add items and sections to your CV:\\
+\ecvLeftColumnWidth{50mm}
+\hspace*{-6.4cm}
+\ecvLeftColumnWidth{90mm}
+\ecvColSep{10pt}
+\begin{minipage}{20cm}
+  \begin{europasscv}
+    \ecvbigitem{Job applied for}{ecvbigitem}
+
+    \ecvsection{ecvsection}
+    \ecvtitle{apr 2012 -- apr 2014}{ecvtitle}
+    \ecvitem{}{ecvitem: this is the standard CV item. This is some \ecvhighlight{highlighted} text.}
+    \ecvitem{ecvitemize}{
+    \begin{ecvitemize}
+	\item this is a list item
+	\item this is a list item
+	    \begin{ecvitemize}
+		\item this is a list item
+		\item this is a list item
+	    \end{ecvitemize}
+    \end{ecvitemize}
+    }
+    \ecvblueitem{blue left text}{ecvblueitem}
+    \ecvtitlelevel{apr 2012 -- apr 2014}{ecvtitlelevel}{ISCED 6}
+    \ecvitem{ecvitem}{Item description}
+    \ecvitem{ecvitem}{\ecvhighlightcell{highlighted cell}}
+  \end{europasscv}
+\end{minipage}
+
+\begin{description}
+\item[\texttt{\bs ecvsection[\textit{vspace}]\{\textit{title}\}}] Start a new section with the given \textit{title}.
+\item[\texttt{\bs ecvitem[\textit{vspace}]\{\textit{left}\}\{\textit{right}\}}] Put \textit{left} text on the left part and \textit{right} text on the right part of the page. This is a standard CV item. Note that, in the 2013 version of the Europass CV, text on the left part is much less used than before. Still, it can be sometimes useful to put some text on the left.
+\item[\texttt{\bs ecvtitle[\textit{vspace}]\{\textit{left}\}\{\textit{right}\}}] As above, but the text is typeset in blue and with a larger font on the right. This is used to highlight a block in your CV related to a same job or degree, with dates typically going on the left and job description or degree type on the right.
+\item[\texttt{\bs ecvtitlelevel[\textit{vspace}]\{\textit{left}\}\{\textit{right}\}\{\textit{degree level}\}}] Allows to specify a national or international level for the awarded degree.
+\item[\texttt{\bs ecvblueitem[\textit{vspace}]\{\textit{left}\}\{\textit{right}\}}] As a standard CV item, but text on the left is typeset in blue. This is mainly used in the second part of the CV.
+\item[\texttt{\bs ecvbigitem[\textit{vspace}]\{\textit{left}\}\{\textit{right}\}}] As above, but typeset the left text in capital blue letters and the right text in a bigger font. This is rarely used.
+\end{description}
+
+If you want to highlight some text using the highlight color of the Europass CV palette (section \ref{sec:colors}), you may find this convenience command useful:
+\begin{description}
+ \item[\texttt{\bs ecvhighlight\{\textit{some text}\}}]
+\end{description}
+To hihghlight the background of a cell, use this command instead:
+\begin{description}
+ \item[\texttt{\bs ecvhighlightcell\{\textit{some text}\}}]
+\end{description}
+For example:
+\begin{description}
+ \item[\texttt{\bs ecvitem\{\textit{left}\}\{\texttt{\bs ecvhighlightcell\{\textit{some text}\}\}}}]
+\end{description}
+
+Finally, if you want to put lists in one CV entry, use the \texttt{ecvitemize} and \texttt{ecvenumerate} environments for a better alignment with the text in the left column:
+\begin{verbatim}
+\ecvitem{left text}{
+  \begin{ecvitemize}
+    \item this is a list item
+    \item this is a list item
+  \end{ecvitemize}
+}
+\end{verbatim}
+\enlargethispage{\baselineskip}
+
+
+\subsection{Language skills}
+The language skills table is usually found at the beginning of the ``Personal skills'' section of the Europass CV. The commands needed to typeset the language table are fully highlighted by the following example:
+
+\begin{verbatim}
+\ecvmothertongue{English}
+\ecvlanguageheader
+\ecvlanguage{French}{C1}{C2}{B2}{C1}{C2}
+\ecvlanguagecertificate{Diplôme d'études en langue française (DELF) B1}
+\ecvlastlanguage{German}{A2}{A2}{A2}{A2}{A2}
+\ecvlanguagefooter
+\end{verbatim}
+which is typeset like this:
+
+\vspace{0.5cm}
+\hspace*{-7cm}
+\ecvLeftColumnWidth{80mm}
+\ecvColSep{10pt}
+\begin{minipage}{21cm}
+  \begin{europasscv}
+      \ecvmothertongue{English}
+      \ecvlanguageheader
+      \ecvlanguage{French}{C1}{C2}{B2}{C1}{C2}
+      \ecvlanguagecertificate{Diplôme d'études en langue française (DELF) B1}
+      \ecvlastlanguage{German}{A2}{A2}{A2}{A2}{A2}
+      \ecvlanguagefooter
+  \end{europasscv}
+\end{minipage}
+
+\subsection{Digital competences}
+
+This one is another self-assessment grid which allows to present digital competences.
+It is divided into five categories.
+For each of these, there are three competence levels available.
+To create a self-assessment grid, a single command will suffice.
+Additionally, convenient string definitions are provided to describe each level.
+In the following, an example code snippet and the resulting CV entry is presented:
+
+\begin{verbatim}
+\ecvdigitalcompetence
+    {\ecvBasic}
+    {\ecvIndependent}
+    {\ecvProficient}
+    {\ecvIndependent}
+    {\ecvBasic}
+\end{verbatim}
+
+\vspace{0.5cm}
+\hspace*{-6.5cm}
+\begin{minipage}{21cm}
+	\begin{europasscv}
+		\ecvdigitalcompetence
+			{\ecvBasic}
+			{\ecvIndependent}
+			{\ecvProficient}
+			{\ecvIndependent}
+			{\ecvBasic}
+	\end{europasscv}
+\end{minipage}
+
+\section{Advanced usage}
+
+\subsection{Class options}
+\label{sec:classOptions}
+\subsubsection{Appearance options}
+\begin{description}
+ \item[\texttt{black}] Typeset CV entries in black instead of \texttt{ecvtextcolor} (see \ref{sec:colors}).
+ \item[\texttt{nodocument}] Do not apply the class settings (i.e.\ margins, headers and footers) at \texttt{\bs begin\{document\}}.
+ \item[\texttt{nologo}] Do not draw the Europass logo.
+ \item[\texttt{notitle}] Do not typeset the title ``Curriculum vitae''.
+ \item[\texttt{nototpages}] Do not typeset total page count in the footer.
+  \end{description}
+  
+ The following options affect the font used:
+\begin{description}
+ \item[\texttt{narrow}] Use the Condensed Helvetica font instead of Helvetica.
+ \item[\texttt{bigfont}] Use a sligtly bigger font than the one found in the official Europass CV.
+\end{description}
+\subsubsection{Language options}
+The options hereby described are not related to babel. The choice of the language only affects the appearance of labels appearing e.g.\ in the personal information section, the spoken language table and the footer.
+% In some cases, it may affect the used alphabet (e.g. in Bulgarian).
+If you want to use the hyphenation patterns for the language(s) of your choice, you must include the \textsf{babel} package in your document.
+% The use of \textsf{babel} is mandatory for Greek (see the Greek language option above).
+
+The following language options are currently supported:
+\texttt{danish}, \texttt{english}, \texttt{czech}, \texttt{french}, \texttt{german}, \texttt{greek}\footnote{Requires \XeLaTeX or \LuaLaTeX.}, \texttt{hungarian}, \texttt{italian}, \texttt{polish}, \texttt{portuguese}, \texttt{slo\-venian}, \texttt{spanish}.
+
+If you need a different language, you must create a new \texttt{.def} file and add the corresponding \texttt{\textbackslash DeclareOption} in the class file. Please contribute your \texttt{.def} files so that they can be included in future updates. The \texttt{.def} files in the \texttt{europecv}\footnote{\url{http://ctan.org/pkg/europecv}} package are a good starting point.
+
+\subsubsection{Fonts}
+When using \LaTeX, the default font is \texttt{phv} or Helvetica. To override, use the \texttt{\bs ecvfont} command:
+\begin{verbatim}
+ \ecvfont{lmr}
+\end{verbatim}
+When using \XeLaTeX\ or \LuaLaTeX, the default font is TeX Gyre Heros. To override, use:
+\begin{verbatim}
+ \setmainfont{TeX Gyre Pagella}
+\end{verbatim}
+
+\subsubsection{Debugging}
+If you are editing the class file you may find the \texttt{debug} option useful: if this option is specified, debug messages are printed on the terminal, the boxes making up the structure of the CV are highlighted with background colors, and the package \texttt{showframe} is loaded.
+
+\subsection{Color palette}
+\label{sec:colors}
+The following colors are defined in the package:
+{%
+
+\newcommand{\colpic}[1]{\tikz \draw[fill=#1,ultra thick,#1] (0,0) rectangle (0.5,0.5);}
+\newcommand{\colrow}[1]{\texttt{#1} & \colpic{#1} & \extractcolorspecs{#1}{\model}{\mycolor}%
+    \convertcolorspec{\model}{\mycolor}{HTML}\tmp\texttt{\tmp}}
+    
+\renewcommand{\arraystretch}{1.5}
+\newcommand{\mc}[2]{\multicolumn{#1}{#2}}
+\begin{center}
+  \begin{tabu} {X[1,r,m] X[0.3,c,m] X[1,l,m]}
+    color name & sample & HTML code\\
+    \hline
+    \colrow{ecvrulecolor}\\
+    \colrow{ecvsectioncolor}\\
+    \colrow{ecvhighlightcolor}\\
+    \colrow{ecvhighlightcellcolor}\\
+    \colrow{ecvtablebordercolor}\\
+    \colrow{ecvlanglinkcolor}\\
+    \colrow{ecvtextcolor}\\
+    \tabuphantomline
+  \end{tabu}
+\end{center}
+}%
+You can use these colors wherever you want in your document like this
+\begin{verbatim}
+\textcolor{colorname}{ Some text }
+\end{verbatim} 
+There is also a convenience command \texttt{\bs ecvhighlight\{ Some text \}} which typesets text in \texttt{ecvhighlightcolor}.
+
+\subsection{Deprecated commands}
+Using \texttt{\textbackslash ecvtelephone[\textit{mobile number}]\{\textit{number}\}} with the optional argument is deprecated. Please use \texttt{\textbackslash ecvmobile\{\textit{number}\}} and \texttt{\textbackslash ecvtelephone\{\textit{number}\}} instead.
+
+\section{Copyright and license}
+Europass and the Europass logo are copyright of the European Union.\footnote{See \url{http://europass.cedefop.europa.eu} for more information.} The \texttt{europasscv} class is released under The \LaTeX\ Project Public License version 1.3.\footnote{\url{http://ctan.org/license/lppl1.3}.}
+
+\section{Acknowledgements}
+Special thanks to \LaTeX\ enthusiast Francesco Biccari whom I had the pleasure to meet at LENS in Sesto Fiorentino and who provided useful comments and suggestions.
+
+The following people contributed language definition files: Peter Fink (German); Nuno Vieira (Portuguese), Henry Ajquejay, Gast\'{o}n Simone and Pablo Rodriguez (Spanish); Ale\v s Zadravec (Slovenian); Jan Koprnick\'{y} (Czech); Lennart Jern (Swedish), Daniel Østergaard Andreasen (Danish).
+
+The following people contributed code changes: Stanley Foerster, Andrzej \'{S}liwi\'{n}ski
+\end{document}

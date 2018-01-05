@@ -1,0 +1,56 @@
+%!TEX encoding = UTF-8 Unicode
+%
+%
+\ProvidesFile{europasscv_en.def}[europasscv English definitions]
+% Personal information
+\def\ecv@infosectionkey{\ecv@utf{Personal information}}
+\def\ecv@namekey{\ecv@utf{Surname / First name}}
+\def\ecv@addresskey{\ecv@utf{Address}}
+\def\ecv@telkey{\ecv@utf{Telephone}}
+\def\ecv@mobilekey{\ecv@utf{Mobile}}
+\def\ecv@faxkey{\ecv@utf{Fax(es)}}
+\def\ecv@emailkey{\ecv@utf{Email}}
+\def\ecv@nationalitykey{\ecv@utf{Nationality}}
+\def\ecv@birthkey{\ecv@utf{Date of birth}}
+\def\ecv@genderkey{\ecv@utf{Gender}}
+% Footer
+\def\ecv@pagekey{\ecv@utf{Page}}
+\def\ecv@cvofkey{\ecv@utf{Curriculum vit\ae\ of}}
+% Language table
+\def\ecv@mothertonguekey{\ecv@utf{Mother tongue}}
+\def\ecv@otherlanguageskey{\ecv@utf{Other languages}}
+\def\ecv@assesskey{\ecv@utf{Self-assessment}}
+\def\ecv@levelkey{\ecv@utf{European level}}
+\def\ecv@understandkey{\ecv@utf{Understanding}}
+\def\ecv@speakkey{\ecv@utf{Speaking}}
+\def\ecv@writekey{\ecv@utf{Writing}}
+\def\ecv@listenkey{\ecv@utf{Listening}}
+\def\ecv@readkey{\ecv@utf{Reading}}
+\def\ecv@interactkey{\ecv@utf{Spoken interaction}}
+\def\ecv@productkey{\ecv@utf{Spoken production}}
+\def\ecv@langshortdesckey{\ecv@utf{Levels: A1 and A2: Basic user -- B1 and B2: Independent user -- C1 and C2: Proficient user}}
+\def\ecv@langfooterkey{\ecv@utf{Common European Framework of Reference for Languages}}
+\def\ecv@langlinkkey{\ecv@utf{http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr}}
+\def\ecv@cefbasickey{\ecv@utf{Basic user}}
+\def\ecv@cefindepkey{\ecv@utf{Independent user}}
+\def\ecv@cefprofkey{\ecv@utf{Proficient user}}
+\def\ecv@europeanunionkey{\ecv@utf{European Union}}
+% Digital competences self-assessment grid
+\def\ecv@digitalcompetenceskey{\ecv@utf{Digital competences}}
+\def\ecv@informationprocessingkey{\ecv@utf{Information Processing}}
+\def\ecv@communicationkey{\ecv@utf{Communication}}
+\def\ecv@contentcreationkey{\ecv@utf{Content creation}}
+\def\ecv@safetykey{\ecv@utf{Safety}}
+\def\ecv@problensolvingkey{\ecv@utf{Problem solving}}
+\def\ecv@digcompfooterkey{\ecv@utf{Digital competences - Self-assessment grid}}
+\def\ecv@digcomplinkkey{\ecv@utf{http://europass.cedefop.europa.eu/en/resources/digital-competences}}
+\def\ecv@dcbasickey{\ecv@utf{Basic user}}
+\def\ecv@dcindepkey{\ecv@utf{Independent user}}
+\def\ecv@dcprofkey{\ecv@utf{Proficient user}}
+
+% Width of language columns
+\def\ecv@langcola{0.15}
+\def\ecv@langcolb{0.15}
+\def\ecv@langcolc{0.25}
+\def\ecv@langcold{0.25}
+\def\ecv@langcole{0.2}

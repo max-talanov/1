@@ -1,0 +1,56 @@
+%!TEX encoding = UTF-8 Unicode
+%
+%
+\ProvidesFile{europasscv_pl.def}[europasscv Polish definitions]
+% Personal information
+\def\ecv@infosectionkey{\ecv@utf{Dane osobowe}}
+\def\ecv@namekey{\ecv@utf{Nazwisko / Imi\k{e}}}
+\def\ecv@addresskey{\ecv@utf{Adres}}
+\def\ecv@telkey{\ecv@utf{Telefon}}
+\def\ecv@mobilekey{\ecv@utf{Kom\'orkowy}}
+\def\ecv@faxkey{\ecv@utf{Faks}}
+\def\ecv@emailkey{\ecv@utf{E-mail}}
+\def\ecv@nationalitykey{\ecv@utf{Narodowo\'s\'c}}
+\def\ecv@birthkey{\ecv@utf{Data urodzenia}}
+\def\ecv@genderkey{\ecv@utf{P\l{}e\'c}}
+% Footer
+\def\ecv@pagekey{\ecv@utf{Strona internetowa}}
+\def\ecv@cvofkey{\ecv@utf{Curriculum vit\ae\: }}
+% Language table
+\def\ecv@mothertonguekey{\ecv@utf{J\k{e}zyk ojczysty}}
+\def\ecv@otherlanguageskey{\ecv@utf{Inne j\k{e}zyki}}
+\def\ecv@assesskey{\ecv@utf{Samoocena}}
+\def\ecv@levelkey{\ecv@utf{Poziom europejski}}
+\def\ecv@understandkey{\ecv@utf{Rozumienie}}
+\def\ecv@speakkey{\ecv@utf{M\'owienie}}
+\def\ecv@writekey{\ecv@utf{Pisanie}}
+\def\ecv@listenkey{\ecv@utf{S\l{}uchanie}}
+\def\ecv@readkey{\ecv@utf{Czytanie}}
+\def\ecv@interactkey{\ecv@utf{Porozumiewanie si\k{e}}}
+\def\ecv@productkey{\ecv@utf{Samodzielne wypowiadanie si\k{e}}}
+\def\ecv@langshortdesckey{\ecv@utf{Poziomy: A1/A2: Podstawowy -- B1/B2: Samodzielno\'sci -- C1/C2: Bieg\l{}o\'sci}}
+\def\ecv@langfooterkey{\ecv@utf{Europejski system opisu kszta\l{}cenia j\k{e}zykowego (CEF)}}
+\def\ecv@langlinkkey{\ecv@utf{http://europass.cedefop.europa.eu/pl/resources/european-language-levels-cefr}}
+\def\ecv@cefbasickey{\ecv@utf{Podstawowy}}
+\def\ecv@cefindepkey{\ecv@utf{Samodzielno\'sci}}
+\def\ecv@cefprofkey{\ecv@utf{Bieg\l{}o\'sci}}
+\def\ecv@europeanunionkey{\ecv@utf{Unia Europejska}}
+% Digital competences self-assessment grid
+\def\ecv@digitalcompetenceskey{\ecv@utf{Umiej{\k{e}}tno{\'s}ci cyfrowe}}
+\def\ecv@informationprocessingkey{\ecv@utf{Przetwarzanie informacji}}
+\def\ecv@communicationkey{\ecv@utf{Komunikacja}}
+\def\ecv@contentcreationkey{\ecv@utf{Tworzenie tre{\'s}ci}}
+\def\ecv@safetykey{\ecv@utf{Bezpiecze{\'n}stwo}}
+\def\ecv@problensolvingkey{\ecv@utf{Rozwiązywanie problem{\'o}w}}
+\def\ecv@digcompfooterkey{\ecv@utf{Umiej{\k{e}}tno{\'s}ci cyfrowe - Tabela samooceny}}
+\def\ecv@digcomplinkkey{\ecv@utf{http://europass.cedefop.europa.eu/pl/resources/digital-competences}}
+\def\ecv@dcbasickey{\ecv@utf{Poziom podstawowy}}
+\def\ecv@dcindepkey{\ecv@utf{Poziom samodzielno{\'s}ci}}
+\def\ecv@dcprofkey{\ecv@utf{Poziom bieg\l{}o{\'s}ci}}
+
+% Width of language columns
+\def\ecv@langcola{0.15}
+\def\ecv@langcolb{0.15}
+\def\ecv@langcolc{0.25}
+\def\ecv@langcold{0.25}
+\def\ecv@langcole{0.2}

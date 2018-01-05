@@ -1,0 +1,64 @@
+%!TEX encoding = UTF-8 Unicode
+%
+%
+\ProvidesFile{europasscv_de.def}[europasscv German definitions]
+% Personal information
+\def\ecv@infosectionkey{\ecv@utf{Angaben zur Person}}
+\def\ecv@namekey{\ecv@utf{Nachname(n) / Vorname(n)}}
+\def\ecv@addresskey{\ecv@utf{Adresse}}
+\def\ecv@telkey{\ecv@utf{Telefon}}
+\def\ecv@mobilekey{\ecv@utf{Mobil}}
+\def\ecv@faxkey{\ecv@utf{Telefax}}
+\def\ecv@emailkey{\ecv@utf{E-mail}}
+\def\ecv@nationalitykey{\ecv@utf{Staatsangehörigkeit}}
+\def\ecv@birthkey{\ecv@utf{Geburtsdatum}}
+\def\ecv@genderkey{\ecv@utf{Geschlecht}}
+% Footer
+\def\ecv@pagekey{\ecv@utf{Seite}}
+\def\ecv@cvofkey{\ecv@utf{Lebenslauf von}}
+% Language table
+\def\ecv@mothertonguekey{\ecv@utf{Muttersprache}}
+\def\ecv@otherlanguageskey{\ecv@utf{Weitere Sprachen}}
+\def\ecv@assesskey{\ecv@utf{Selbstbeurteilung}}
+\def\ecv@levelkey{\ecv@utf{Europäische Kompetenzstufe}}
+\def\ecv@understandkey{\ecv@utf{Verstehen}}
+\def\ecv@speakkey{\ecv@utf{Sprechen}}
+\def\ecv@writekey{\ecv@utf{Schreiben}}
+\def\ecv@listenkey{\ecv@utf{Hören}}
+\def\ecv@readkey{\ecv@utf{Lesen}}
+\def\ecv@interactkey{\ecv@utf{An Gesprächen teilnehmen}}
+\def\ecv@productkey{\ecv@utf{Zusammenhängendes Sprechen}}
+\def\ecv@langshortdesckey{\ecv@utf{Niveaus: A1 und A2: Elementar -- B1 und B2: Selbstständig -- C1 und C2: Kompetent}}
+\def\ecv@langfooterkey{\ecv@utf{Gemeinsamer Europäischer Referenzrahmen für Sprachen}}
+\def\ecv@langlinkkey{\ecv@utf{https://europass.cedefop.europa.eu/de/resources/european-language-levels-cefr}}
+\def\ecv@cefbasickey{\ecv@utf{Elementare Sprachverwendung}}
+\def\ecv@cefindepkey{\ecv@utf{Selbständige Sprachverwendung}}
+\def\ecv@cefprofkey{\ecv@utf{Kompetente Sprachverwendung}}
+\def\ecv@europeanunionkey{\ecv@utf{Europäische Union}}
+% Digital competences self-assessment grid
+\def\ecv@digitalcompetenceskey{\ecv@utf{Digitale Kompetenz}}
+\def\ecv@informationprocessingkey{\ecv@utf{Datenverarbeitung}}
+\def\ecv@communicationkey{\ecv@utf{Kommunikation}}
+\def\ecv@contentcreationkey{\ecv@utf{Erstellung von Inhalten}}
+\def\ecv@safetykey{\ecv@utf{Sicherheit}}
+\def\ecv@problensolvingkey{\ecv@utf{Problemlösung}}
+\def\ecv@digcompfooterkey{\ecv@utf{Digitale Kompetenzen - Raster zur Selbstbeurteilung}}
+\def\ecv@digcomplinkkey{\ecv@utf{http://europass.cedefop.europa.eu/de/resources/digital-competences}}
+\def\ecv@dcbasickey{\ecv@utf{Elementare Verwendung}}
+\def\ecv@dcindepkey{\ecv@utf{Selbstständige Verwendung}}
+\def\ecv@dcprofkey{\ecv@utf{Kompetente Verwendung}}
+
+% Width of language columns
+\def\ecv@langcola{0.15}
+\def\ecv@langcolb{0.15}
+\def\ecv@langcolc{0.25}
+\def\ecv@langcold{0.25}
+\def\ecv@langcole{0.2}
+
+% Width of digital competences columns
+\def\ecv@dcompcola{0.24}
+\def\ecv@dcompcolb{0.19}
+\def\ecv@dcompcolc{0.19}
+\def\ecv@dcompcold{0.19}
+\def\ecv@dcompcole{0.19}
+
