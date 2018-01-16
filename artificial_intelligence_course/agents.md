@@ -72,5 +72,7 @@ https://en.wikipedia.org/wiki/Eugene_Goostman
 
 ### IBM Watson
 
+https://en.wikipedia.org/wiki/Watson_(computer)
 
+![](https://commons.wikimedia.org/wiki/File:DeepQA.svg#/media/File:DeepQA.svg)
 
