@@ -57,6 +57,12 @@
 
 ### Eliza
 
+https://en.wikipedia.org/wiki/ELIZA
+
+![](Dialog_with_Eliza_2018-01-16.png)
+
+
+
 ### Dialog agents
 
 ### Eugene Goostman
