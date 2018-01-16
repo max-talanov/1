@@ -76,3 +76,5 @@ https://en.wikipedia.org/wiki/Watson_(computer)
 
 ![](https://commons.wikimedia.org/wiki/File:DeepQA.svg#/media/File:DeepQA.svg)
 
+![](https://upload.wikimedia.org/wikipedia/commons/4/41/DeepQA.svg)
+
