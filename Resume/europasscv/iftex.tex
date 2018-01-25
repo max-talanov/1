@@ -1,0 +1,80 @@
+\documentclass{artikel3}
+\usepackage{calc}
+\usepackage{pifont}
+\usepackage{bbding}
+\usepackage[colorlinks=true,linkcolor=mybrown,urlcolor=mygreen]{hyperref}
+\usepackage{bidicode}
+\newcounter{local}
+\renewcommand\theenumi{\protect\setcounter{local}%
+  {201+\the\value{enumi}}\protect\ding{\value{local}}}
+\renewcommand\labelenumi{\theenumi}
+\renewcommand\labelitemi{\HandRight}
+\renewcommand\labelitemii{\HandRightUp}
+\renewcommand\labelitemiii{\HandCuffRight}
+\renewcommand\labelitemiv{\HandPencilLeft}
+\definecolor{mybrown}{rgb}{.6,0,0}
+\definecolor{mygreen}{rgb}{0,.43,0}
+\definecolor{Orange}{rgb}{1,.4,.2}
+\newcommand\PDFTeX{PDF\TeX}
+\newcommand\XeTeX{Xe\TeX}
+\newcommand\LuaTeX{Lua\TeX}
+\title{The \textsf{iftex} Package\\ \href{https://github.com/persian-tex/iftex}{\texttt{https://github.com/persian-tex/iftex}}}
+\author{Persian TeX Group\\ \href{mailto:persian-tex@tug.org}{\texttt{persian-tex@tug.org}}}
+\date{Version 0.2}
+\begin{document}
+\maketitle
+\tableofcontents
+\section{Introduction}
+This package provides a way to check if a document is being processed with \PDFTeX, or \XeTeX, or \LuaTeX.
+\section{Loading The Package}
+The package can be loaded in the usual way both in Plain \TeX\ and \LaTeX.
+\subsection{Loading The Package in Plain \TeX}
+\begin{BDef}
+\Lcs{input}\quad \Larg{iftex.sty}
+\end{BDef}
+\subsection{Loading The Package in \LaTeX}
+\begin{BDef}
+\Lcs{usepackage}\Largb{iftex}
+\end{BDef}
+\section{Defined Conditionals}
+\subsection{For \PDFTeX}
+\begin{BDef}
+\Lcs{ifPDFTeX}\\
+\qquad\Larga{material for \PDFTeX}\\
+\Lcs{else}\\
+\qquad\Larga{material not for \PDFTeX}\\
+\Lcs{fi}
+\end{BDef}
+\subsection{For \XeTeX}
+\begin{BDef}
+\Lcs{ifXeTeX}\\
+\qquad\Larga{material for \XeTeX}\\
+\Lcs{else}\\
+\qquad\Larga{material not for \XeTeX}\\
+\Lcs{fi}
+\end{BDef}
+\subsection{For \LuaTeX}
+\begin{BDef}
+\Lcs{ifLuaTeX}\\
+\qquad\Larga{material for \LuaTeX}\\
+\Lcs{else}\\
+\qquad\Larga{material not for \LuaTeX}\\
+\Lcs{fi}
+\end{BDef}
+\section{Defined Commands}
+\subsection{For \PDFTeX}
+\begin{BDef}
+\Lcs{RequirePDFTeX}
+\end{BDef}
+This command tests for \PDFTeX\ use and throws an error if a different engine is being used.
+\subsection{For \XeTeX}
+\begin{BDef}
+\Lcs{RequireXeTeX}
+\end{BDef}
+This command tests for \XeTeX\ use and throws an error if a different engine is being used.
+\subsection{For \LuaTeX}
+\begin{BDef}
+\Lcs{RequireLuaTeX}
+\end{BDef}
+This command tests for \LuaTeX\ use and throws an error if a different engine is being used.
+\end{document}
