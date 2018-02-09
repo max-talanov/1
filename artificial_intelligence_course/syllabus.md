@@ -8,8 +8,6 @@ Text book: Artificial Intelligence: A Modern Approach
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
-1. Solving problems using search
-   1. Genetic algorithms
 
 1. Learning
    1. Machine learning intro
@@ -18,14 +16,17 @@ Text book: Artificial Intelligence: A Modern Approach
    1. HMM
    1. Markov Decision Processes
    1. Reinforcement learning
-   1. Deep learning ?
+   1. Deep learning (convolution newroks)
+   
+1. Solving problems using search
+   1. Genetic algorithms
 
 1. Cognitive architectures
    1. The emotion machine
    1. H-CogAff
    1. SOAR
 
-1. Logical agents [Alik please add the sections here]
+1. Logical agents [Alik Kirilovich]
    1. First order logic
    1. Inference 
 
@@ -35,8 +36,6 @@ Text book: Artificial Intelligence: A Modern Approach
    1. Probabilistic logic
    1. Temporal probabilistic logic
    1. Probabilistic reasoning 
-
-1. Natural language processing
    
 
 Artificial intelligence mind map
