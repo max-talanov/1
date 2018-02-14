@@ -19,3 +19,20 @@ Compare it with human learning in school.
 
 Clusterization looks like more human?
 
+What about the number of clusters.
+
+#Reinforcement learning
+
+##Pleasure
+
+##Pain
+
+##Reinforcement
+
+##Punishment
+
+1. Are they connected?
+1. How they are connected?
+
+
+
