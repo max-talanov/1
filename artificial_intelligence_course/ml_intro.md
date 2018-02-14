@@ -1,35 +1,35 @@
-#Machine learning intro
+# Machine learning intro
 
-#What is machine learning?
+# What is machine learning?
 
-#Types of machine learning
+# Types of machine learning
 
 1. Supervised learning 
 1. Unsupervised learning
 1. Reinforcement 
 1. Regression ?
 
-#Supervised or learning with teacher
+# Supervised or learning with teacher
 
 Input parameters vector and class to be classified.
 
 Compare it with human learning in school.
 
-#Unsupervised learning without teacher
+# Unsupervised learning without teacher
 
 Clusterization looks like more human?
 
 What about the number of clusters.
 
-#Reinforcement learning
+# Reinforcement learning
 
-##Pleasure
+## Pleasure
 
-##Pain
+## Pain
 
-##Reinforcement
+## Reinforcement
 
-##Punishment
+## Punishment
 
 1. Are they connected?
 1. How they are connected?
