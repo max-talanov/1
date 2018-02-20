@@ -7,7 +7,6 @@
 1. Supervised learning 
 1. Unsupervised learning
 1. Reinforcement 
-1. Regression ?
 
 # Supervised or learning with teacher
 
@@ -22,7 +21,7 @@ Input parameters vector and class to be classified.
 
 # Unsupervised learning without teacher
 
-[Nearest neighbor search](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
+[Nearest neighbor search Wikipedia page](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
 
 ![kNN process](golf_process.png)
 
@@ -43,9 +42,9 @@ An agent takes actions in an environment, which is interpreted into a reward and
 
 # F measure
 
-https://en.wikipedia.org/wiki/F1_score
+[Wikipedia page](https://en.wikipedia.org/wiki/F1_score)
 
-![F measure formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d63c1f5c659f95b5dfe5893213cc8ea7f8bea0a)
+![F measure formula Wikipedia page](https://wikimedia.org/api/rest_v1/media/math/render/svg/7d63c1f5c659f95b5dfe5893213cc8ea7f8bea0a)
 
 ![F measure figure](https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg)
 
