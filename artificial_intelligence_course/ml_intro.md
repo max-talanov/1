@@ -44,7 +44,7 @@ Input parameters vector and class to be classified.
 1. Are they connected?
 1. How they are connected?
 
-#F measure
+# F measure
 
 https://en.wikipedia.org/wiki/F1_score
 
