@@ -36,7 +36,7 @@ Input parameters vector and class to be classified.
 
 [Wikipedia page](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
-![Pleasant unpleasant emotions](https://en.wikipedia.org/wiki/Emotion#/media/File:Two_Dimensions_of_Emotion.gif.jpg)
+![Pleasant unpleasant emotions](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 ![Reinforcement learning](https://upload.wikimedia.org/wikipedia/commons/1/1b/Reinforcement_learning_diagram.svg)
 An agent takes actions in an environment, which is interpreted into a reward and a representation of the state, which are fed back into the agent.
@@ -51,5 +51,5 @@ https://en.wikipedia.org/wiki/F1_score
 
 # 10 fold
 
-![K fold](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#/media/File:K-fold_cross_validation_EN.jpg)
+![K fold](https://upload.wikimedia.org/wikipedia/commons/1/1c/K-fold_cross_validation_EN.jpg)
 
