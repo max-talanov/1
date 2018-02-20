@@ -36,7 +36,7 @@ Input parameters vector and class to be classified.
 
 [Wikipedia page](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
-![Pleasant unpleasant emotions](https://en.wikipedia.org/wiki/Reinforcement_learning)
+![Pleasant unpleasant emotions](https://upload.wikimedia.org/wikipedia/en/6/62/Two_Dimensions_of_Emotion.gif.jpg)
 
 ![Reinforcement learning](https://upload.wikimedia.org/wikipedia/commons/1/1b/Reinforcement_learning_diagram.svg)
 An agent takes actions in an environment, which is interpreted into a reward and a representation of the state, which are fed back into the agent.
