@@ -13,9 +13,11 @@
 
 Input parameters vector and class to be classified.
 
-![](titanic_data.png)
+![Input data](titanic_data.png)
 
 Compare it with human learning in school.
+
+![Decision tree](decision_tree.png)
 
 # Unsupervised learning without teacher
 
