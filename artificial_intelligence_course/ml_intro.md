@@ -19,6 +19,8 @@ Compare it with human learning in school.
 
 ![Decision tree](decision_tree.png)
 
+![Decision tree process](decision_tree_process.png)
+
 # Unsupervised learning without teacher
 
 Clusterization looks like more human?
