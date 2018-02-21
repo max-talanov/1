@@ -21,6 +21,8 @@ Input parameters vector and class to be classified.
 
 # Unsupervised learning without teacher
 
+## kNN
+
 [Nearest neighbor search Wikipedia page](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
 
 ![kNN process](golf_process.png)
@@ -30,6 +32,10 @@ Input parameters vector and class to be classified.
 ![kNN test](golf_test.png)
 
 ![kNN results](golf_result.png)
+
+## k means 
+
+![]()
 
 ![k means results](iris_3_cluster.png)
 
