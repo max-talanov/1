@@ -42,6 +42,8 @@ Input parameters vector and class to be classified.
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3e/K_Means_Example_Step_3.svg)
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d2/K_Means_Example_Step_4.svg)
 
+![k means results table](iris_result_table.png)
+
 ![k means results](iris_3_cluster.png)
 
 # Reinforcement learning
