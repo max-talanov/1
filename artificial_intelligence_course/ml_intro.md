@@ -31,7 +31,7 @@ Input parameters vector and class to be classified.
 
 ![kNN results](golf_result.png)
 
-![k means results](iris_cluster.png)
+![k means results](iris_3_cluster.png)
 
 # Reinforcement learning
 
