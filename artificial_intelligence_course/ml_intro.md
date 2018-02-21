@@ -35,7 +35,10 @@ Input parameters vector and class to be classified.
 
 ## k means 
 
-![]()
+![](https://upload.wikimedia.org/wikipedia/commons/5/5e/K_Means_Example_Step_1.svg) 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a5/K_Means_Example_Step_2.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/3e/K_Means_Example_Step_3.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d2/K_Means_Example_Step_4.svg)
 
 ![k means results](iris_3_cluster.png)
 
