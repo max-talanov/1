@@ -27,6 +27,8 @@ Input parameters vector and class to be classified.
 
 ![kNN process](golf_process.png)
 
+![kNN algorithm](https://upload.wikimedia.org/wikipedia/commons/e/e7/KnnClassification.svg)
+
 ![kNN training](golf_training.png)
 
 ![kNN test](golf_test.png)
