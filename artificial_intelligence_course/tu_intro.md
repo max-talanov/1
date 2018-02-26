@@ -45,4 +45,14 @@ TU = thinking and understanding
 
 ![Critic, selector, way to think](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/EmotionMachineComponent.png)
 
+### Behavior
+
+![Training](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/TrainingActivity.png)
+
+
+### Component diagram
+
+![Component diagram](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/Component.png)
+
+
 
