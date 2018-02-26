@@ -49,10 +49,30 @@ TU = thinking and understanding
 
 ![Training](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/TrainingActivity.png)
 
+![Life cycle](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/LifecycleActivity.png)
+
 
 ### Component diagram
 
 ![Component diagram](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/Component.png)
+
+#### Thinking life cycle
+
+![Life cycle component](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/ThinkingLifeCycle.png)
+
+![Life cycle interface](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/ThinkingLifeCycleInterface.png)
+
+![Action](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/ActionClass.png)
+
+#### TU web service
+
+![Web service](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/WebService.png)
+
+
+
+
+
+
 
 
 
