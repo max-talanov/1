@@ -11,6 +11,7 @@ Text book: Artificial Intelligence: A Modern Approach
 
 1. Learning
    1. [Machine learning intro](ml_intro.md)
+   1. [TU intro](tu_intro.md)
    1. Bayesian network
    1. Neural networks
    1. HMM
