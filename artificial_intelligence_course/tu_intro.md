@@ -64,6 +64,10 @@ TU = thinking and understanding
 
 ![Action](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/ActionClass.png)
 
+#### Critic 
+
+![Critic](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/CriticInterface.png)
+
 #### TU web service
 
 ![Web service](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/WebService.png)
