@@ -1,4 +1,4 @@
-#Applied machine consciousness syllabus
+# Applied machine consciousness syllabus
 
 Max Talanov: talanov.max@gmail.com
 
@@ -17,7 +17,7 @@ Max Talanov: talanov.max@gmail.com
         3. Cellular layer: Hebbian and anti-Hebbian learning
         3. Associations, Circuits, K-lines, Cognits
         3. Distributed systems memory    
-    2. Instincts 
+    2. Instincts
     2. Learning
         3. Memory: synchronization and association
         3. Curiosity

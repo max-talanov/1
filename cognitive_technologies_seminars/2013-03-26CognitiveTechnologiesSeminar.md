@@ -1,4 +1,4 @@
-#Cognitive technologies overview.
+# Cognitive technologies overview.
 
 ## Plan
  1.  Intro
@@ -106,7 +106,7 @@ Is the framework, like a sandbox that collects some technologies to build machin
  1. RelEx and Linkgrammar – Extract grammatical parses and semantic knowledge from natural language (in English).
  1. NLGen and NLGen2 – Convert semantic relationships to natural language.
 
-### References 
+### References
 http://opencog.org/projects/
 
 
@@ -133,12 +133,3 @@ http://en.wikipedia.org/wiki/Sikuli
  1. Reasoning
  1. Dialog support
  1. ...
-
-
-
-
-
-
-
-
-

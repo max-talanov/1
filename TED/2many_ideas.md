@@ -1,4 +1,4 @@
-##What problem did you have?
+## What problem did you have?
 
 I had a problem and the problem was big and ubiquitous: I had too many ideas per day.
 I have started blogging: https://cosmicdustman.wordpress.com/category/rd/ expressing the
@@ -6,7 +6,7 @@ ideas just in the internet space like radiating them. Then I have understood tha
 have not make much sense without their implementation.
 I needed some focus and that was the Machine Consciousness.
 
-##What influenced you? 
+## What influenced you?
 
 The book.
 
@@ -22,7 +22,7 @@ Let's have a look at the human brain and mind! Again.
 To be honest the history of modern computing starts with high-level model of human brain implemented in
 chips that what we know as Von Neumann architecture.
 
-##What was the solution
+## What was the solution
 
 When I turned 40 I have understood that there is no more time to waste if I want to do something interesting
 I have to do this now. At this time I was SDA(Software design architect) and had some experience in some research

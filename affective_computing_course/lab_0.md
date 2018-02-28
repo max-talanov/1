@@ -1,6 +1,6 @@
-#Intro lab
+# Intro lab
 
-##Research project for affective computation
+## Research project for affective computation
 Artificial emotions
 
 1. Requirements (vision)
@@ -20,6 +20,6 @@ Artificial emotions
    2. Demo
 1. Conclusion
 
-##Vision
+## Vision
 
 Bla bla

@@ -1,4 +1,4 @@
-#Fear simulation
+# Fear simulation
 
 Recently we have managed to simulate the fear in its simplest form
 and indicate the connection of emotions and computational system parameters: computational power consumption,
@@ -9,7 +9,7 @@ I completely agree with the position and more than that we propose that emotions
 creates proper basement for the values system of future safe and friendly artificial intelligence or
 super-intelligence.
 
-#Machine consciousness 
+# Machine consciousness
 
 Currently we have a lot of machines that can do a lot of interesting and amazing things like IBM Watson. But still
 there is no sign of the consciousness they still are unconsciously following the program that collective of
