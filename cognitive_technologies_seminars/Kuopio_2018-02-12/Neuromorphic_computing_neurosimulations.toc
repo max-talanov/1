@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Memristive spinal cord}{2}{0}{1}
+\beamer@sectionintoc {2}{Memristive neuromodulatory neuron}{5}{0}{2}
+\beamer@sectionintoc {3}{DA modulation simulation}{7}{0}{3}
+\beamer@sectionintoc {4}{Experiments}{8}{0}{4}
+\beamer@subsectionintoc {4}{1}{iSTDP results}{9}{0}{4}
+\beamer@subsectionintoc {4}{2}{DA modulation results}{10}{0}{4}
+\beamer@subsectionintoc {4}{3}{Integration results}{11}{0}{4}
+\beamer@sectionintoc {5}{Future plans}{12}{0}{5}
+\beamer@sectionintoc {6}{Supplementary slides}{14}{0}{6}
