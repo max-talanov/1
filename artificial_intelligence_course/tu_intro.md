@@ -72,6 +72,12 @@ TU = thinking and understanding
 
 ![Web service](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/WebService.png)
 
+#### RelEx
+
+https://www.abisource.com/projects/link-grammar/dict/summarize-links.html
+
+https://www.abisource.com/projects/link-grammar/dict/introduction.html#1
+
 
 
 
