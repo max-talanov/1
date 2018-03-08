@@ -13,3 +13,19 @@
 5. [Test] If the end condition is satisfied, stop, and return the best solution in current population
 6. [Loop] Go to step 2 
 
+## Selection
+
+The section is based on fitness function that plays really important role of an environment even social. The most fittest or above the threshold are selected to be parents of new generation and based on parents genes the new generation is produced using the crossover and mutation processes.
+
+## Crossover 
+
+![](https://cdn-images-1.medium.com/max/800/1*eQxFezBtdfdLxHsvSvBNGQ.png)
+
+## Mutation
+
+![](https://cdn-images-1.medium.com/max/800/1*CGt_UhRqCjIDb7dqycmOAg.png)
+
+
+## References 
+
+Pictures are from: https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3
