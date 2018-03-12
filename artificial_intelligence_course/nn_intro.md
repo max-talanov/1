@@ -1,10 +1,17 @@
 # Neural networks intro
 
-## Maccallock and Pitts model
+# Models of neurons 
 
+## McCullogh-Pitts Model
 
+Integrate and fire 
 
-## Hodgkin Hughley model
+## Hodgkin–Huxley model
+
+Leaky neuron
 
 ## Izhikevich model
 
+Polychronization
+
+## Perceptron vs cortical column 
