@@ -12,7 +12,7 @@ Text book: Artificial Intelligence: A Modern Approach
 1. Learning
    1. [Machine learning intro](ml_intro.md)
    1. [TU intro](tu_intro.md)
-   1. [Intro in Neural networks](perceptron_intro.md)
+   1. [Intro in Neural networks](nn_intro.md)
    1. Deep learning: convolution newroks, recursive networks, self-organizing map
    1. HMM and Markov Decision Processes
    1. Reinforcement learning
