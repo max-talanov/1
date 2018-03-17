@@ -25,6 +25,16 @@ Leaky neuron
 https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model
 
 
+![Hodgkin–Huxley Model](https://upload.wikimedia.org/wikipedia/commons/c/cf/Hodgkin-Huxley.jpg)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/57d1b3bbb35cff6bf377c856d8bd9ae757bccb32)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/57d1b3bbb35cff6bf377c856d8bd9ae757bccb32)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/c5434aab0a1d7aafab87cd8e24132915b1b4a080)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/59608db44b5ed8fea02434ec45c0e82b330eada5)
+
 ## Izhikevich model
 
 Polychronization
