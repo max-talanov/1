@@ -13,10 +13,10 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 
 1. Integrate and fire 
 1. No time in the scope
-   2. No axonaly delay
-   2. No spikes 
-   2. No leakage
-   2. No STDP (Hebban, anti-Hebbian, Sombrero, ...)
+   1. No axonaly delay
+   1. No spikes 
+   1. No leakage
+   1. No STDP (Hebban, anti-Hebbian, Sombrero, ...)
 
 
 ## Hodgkin–Huxley model
