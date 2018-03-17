@@ -33,7 +33,11 @@ https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/c5434aab0a1d7aafab87cd8e24132915b1b4a080)
 
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/991a21b14bf791de20acef79b1930a8b91a0de20)
+
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/59608db44b5ed8fea02434ec45c0e82b330eada5)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/2538c007693f6471276ef157bcfae8f913e89d9b)
 
 ## Izhikevich model
 
