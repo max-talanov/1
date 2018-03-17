@@ -46,6 +46,8 @@ Polychronization
 http://www.izhikevich.org/publications/spikes.htm
 http://izhikevich.org/publications/whichmod.htm
 
+![](http://www.izhikevich.org/publications/izhik.gif)
+
 ## Perceptron vs cortical column 
 
 https://en.wikipedia.org/wiki/Perceptron
