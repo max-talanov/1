@@ -28,8 +28,8 @@ OpenCog consists of:
 * An embodiment system for interaction and learning within [[virtual world]]s based in part on OpenPsi and Unity (game engine).
 * A natural language input system consisting of Link Grammar and RelEx,<ref>{{cite web |url=http://opencog.org/wiki/RelEx |title=Archived copy |accessdate=2009-11-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20090826042120/http://www.opencog.org/wiki/RelEx |archivedate=2009-08-26 |df= }}</ref> both of which employ AtomSpace-like representations for semantic and syntactic relations.
 * A natural language generation system called SegSim,<ref>{{cite web |url=http://opencog.org/wiki/SegSim |title=Archived copy |accessdate=2009-11-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20090728174616/http://opencog.org/wiki/SegSim |archivedate=2009-07-28 |df= }}</ref> with implementations NLGen<ref>https://launchpad.net/nlgen</ref> and NLGen2.<ref>https://launchpad.net/nlgen2</ref>
-* An implementation of [[Psi-Theory]] for handling [[emotion]]al states, drives and urges, dubbed OpenPsi.<ref>http://opencog.org/wiki/OpenPsi{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
-* Interfaces to [[Hanson Robotics]] robots, including emotion modelling<ref>http://wiki.hansonrobotics.com/w/Emotion_modeling</ref> via OpenPsi.
+* An implementation of Psi-Theory for handling emotional states, drives and urges, dubbed OpenPsi.<ref>http://opencog.org/wiki/OpenPsi{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* Interfaces to Hanson Robotics robots, including emotion modelling<ref>http://wiki.hansonrobotics.com/w/Emotion_modeling</ref> via OpenPsi.
 
 
 ## HTM
