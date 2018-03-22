@@ -14,7 +14,7 @@ https://wiki.opencog.org/w/The_Open_Cognition_Project
 
 ## HTM
 
-https://numenta.com/machine-intelligence-technology/business-strategy-and-ip/
+https://www.youtube.com/watch?v=rLTrUn7UYpQ
 
 ## NARS
 

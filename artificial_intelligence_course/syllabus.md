@@ -16,7 +16,8 @@ Text book: Artificial Intelligence: A Modern Approach
    1. Deep learning: convolution newroks, recursive networks, self-organizing map
    1. HMM and Markov Decision Processes
    1. Reinforcement learning
-   
+   1. [Non perceptron](non_perceptron.md)
+
 1. Solving problems using search
    1. [Genetic algorithms](gp_intro.md)
 
