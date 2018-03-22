@@ -51,5 +51,10 @@ http://izhikevich.org/publications/whichmod.htm
 ## Perceptron vs cortical column 
 
 https://en.wikipedia.org/wiki/Perceptron
+http://ecee.colorado.edu/%7Eecen4831/lectures/NNet2.html
+http://ecee.colorado.edu/%7Eecen4831/lectures/NNet3.html
+http://www.emergentmind.com/neural-network
+https://en.wikipedia.org/wiki/Backpropagation
+
 
 https://en.wikipedia.org/wiki/Cortical_column
