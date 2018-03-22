@@ -16,11 +16,9 @@ https://en.wikipedia.org/wiki/OpenCog
 ![Ben Goertzel](https://opencog.org/wp-content/uploads/2017/10/northlandrobot_cut.jpg)
 
 
-== Components ==
+### Components
 
-OpenCog consists of:
-
-* A graph database that holds terms, atomic formulas, sentence (mathematical logic) and relational model as hypergraphs; giving them a probabilistic truth-value [interpretation, dubbed the [http://wiki.opencog.org/w/Atomspace AtomSpace].
+* A graph database that holds terms, atomic formulas, sentence (mathematical logic) and relational model as hypergraphs; giving them a probabilistic truth-value [interpretation, dubbed the AtomSpace.
 * A satisfiability modulo theories solver, built in as a part of a generic graph query engine, for performing graph and hypergraph pattern matching (graph isomorphism).
 * An implementation of a probabilistic reasoning engine based on probabilistic logic networks (PLN).
 * A probabilistic genetic programming called Meta-Optimizing Semantic Evolutionary Search, or MOSES,<ref>http://wiki.opencog.org/w/MOSES</ref> originally developed by Moshe Looks who is now employed at Google.
