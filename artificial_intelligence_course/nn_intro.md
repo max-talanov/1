@@ -29,10 +29,16 @@ https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model
 The lipid bilayer is represented as a capacitance (Cm). Voltage-gated and leak ion channels are represented by nonlinear (gn) and linear (gL) conductances, respectively. The electrochemical gradients driving the flow of ions are represented by batteries (E), and ion pumps and exchangers are represented by current sources (Ip). The membrane potential is denoted by Vm.
 
 The current flowing through the membrane lipid bilayer:
+
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8d2b282ed79a5aa53454391d91291c9eb10fd4bf)
 
 Current through a given ion channel:
+
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/a796521d399a707af47af8ef7c2e6b5bea441449)
+
+Thus, for a cell with sodium and potassium channels, the total current through the membrane is given by:
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/58ee17a4f52f7defa01af4e77bae2c348cd76d64)
 
 
 ## Izhikevich model
