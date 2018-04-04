@@ -44,6 +44,10 @@ https://en.wikipedia.org/wiki/Backpropagation
 
 ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img5.gif)
 
+Let ti be the desired "target" output for a given input pattern, and Vi be the actual output. The error (called "delta") is the difference between the desired and the actual output, and the change in the weight is chosen to be proportional to delta.
+
+Specifically, ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img6.gif) and ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img7.gif)
+
 ## Hodgkin–Huxley model
 
 Leaky neuron
