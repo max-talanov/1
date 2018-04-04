@@ -24,6 +24,7 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 Leaky neuron
 https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model
 
+The lipid bilayer is represented as a capacitance (Cm). Voltage-gated and leak ion channels are represented by nonlinear (gn) and linear (gL) conductances, respectively. The electrochemical gradients driving the flow of ions are represented by batteries (E), and ion pumps and exchangers are represented by current sources (Ip).
 
 ![Hodgkin–Huxley Model](https://upload.wikimedia.org/wikipedia/commons/c/cf/Hodgkin-Huxley.jpg)
 
