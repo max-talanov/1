@@ -7,6 +7,12 @@
 http://ecee.colorado.edu/~ecen4831/lectures/NNet2.html
 https://en.wikipedia.org/wiki/Artificial_neuron
 
+1. They are binary devices (Vi = [0,1])
+1. Each neuron has a fixed threshold, theta
+1. The neuron receives inputs from excitatory synapses, all having identical weights. (However it my receive multiple inputs from the same source, so the excitatory weights are effectively positive integers.)
+1. Inhibitory inputs have an absolute veto power over any excitatory inputs.
+1. At each time step the neurons are simultaneously (synchronously) updated by summing the weighted excitatory inputs and setting the output (Vi) to 1 iff the sum is greater than or equal to the threhold AND if the neuron receives no inhibitory input.
+
 ![McCullogh-Pitts Model](http://ecee.colorado.edu/%7Eecen4831/lectures/MPneuron.gif)
 
 ![Eq McCullogh-Pitts Model](http://ecee.colorado.edu/%7Eecen4831/lectures/NN2img1.gif)
@@ -18,6 +24,25 @@ https://en.wikipedia.org/wiki/Artificial_neuron
    1. No leakage
    1. No STDP (Hebban, anti-Hebbian, Sombrero, ...)
 
+## Perceptron model (Rosenblat) 
+
+https://en.wikipedia.org/wiki/Perceptron
+http://ecee.colorado.edu/%7Eecen4831/lectures/NNet2.html
+http://ecee.colorado.edu/%7Eecen4831/lectures/NNet3.html
+http://www.emergentmind.com/neural-network
+https://en.wikipedia.org/wiki/Backpropagation
+
+1. The weights and thresholds were not all identical.
+1 Weights can be positive or negative.
+1. There is no absolute inhibitory synapse.
+1. Although the neurons were still two-state, the output function f(u) goes from [-1,1], not [0,1]. (This is no big deal, as a suitable change in the threshold lets you transform from one convention to the other.)
+1. Most importantly, there was a learning rule.
+
+![](http://ecee.colorado.edu/~ecen4831/lectures/percept.gif)
+
+![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img4.gif)
+
+![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img5.gif)
 
 ## Hodgkin–Huxley model
 
@@ -50,13 +75,7 @@ http://izhikevich.org/publications/whichmod.htm
 
 ![](http://www.izhikevich.org/publications/izhik.gif)
 
-## Perceptron model (Rosenblat) 
 
-https://en.wikipedia.org/wiki/Perceptron
-http://ecee.colorado.edu/%7Eecen4831/lectures/NNet2.html
-http://ecee.colorado.edu/%7Eecen4831/lectures/NNet3.html
-http://www.emergentmind.com/neural-network
-https://en.wikipedia.org/wiki/Backpropagation
 
 
 https://en.wikipedia.org/wiki/Cortical_column
