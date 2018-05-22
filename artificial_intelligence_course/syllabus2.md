@@ -1,4 +1,4 @@
-#Extended AI
+# Extended AI
 
 1. Genetic algorithm
 1. Reinforcement learning
