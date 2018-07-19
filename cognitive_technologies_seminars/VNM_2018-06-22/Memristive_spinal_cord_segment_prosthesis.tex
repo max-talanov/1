@@ -91,7 +91,7 @@
   % \includegraphics[height=2cm]{ITIS_logo_bright}\\
   Max Talanov
 } 
-\institute[Neurobiology laboratory, NcN laboratory : KFU]% Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+\institute[Neuroscience laboratory, NcN laboratory : KFU]% Your institution as it will appear on the bottom of every slide, may be shorthand to save space
 {
 Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, KFU \\ % Your institution for the title page
 \medskip
@@ -110,7 +110,7 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 %-------------------------------------------------------------------------------
 
 %------------------------------------------------
-\section{Memristive spinal cord}
+\section{The problem (current state of cutting edge neuro-rehabilitation technology)}
 %------------------------------------------------
 \begin{frame}
   \frametitle{Neuro-rehabilitation: Mayo clinic}
@@ -125,6 +125,9 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
     \includegraphics[width=0.6\linewidth]{epidural_stimulation_spinal_cord}
   \end{figure}
 \end{frame}
+
+%------------------------------------------------
+\section{Solution - Igor Lavrov model}
 %------------------------------------------------
 \begin{frame}
   \frametitle{Model of Lavrov}
@@ -132,6 +135,8 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
     \includegraphics[width=0.48\linewidth]{spinal-cord-diagram}
   \end{figure}
 \end{frame}
+%------------------------------------------------
+\subsection{Neuro-simulation results}
 %------------------------------------------------
 \begin{frame}
   \frametitle{Simulation results compared with bio results}
@@ -142,15 +147,19 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \end{frame}
 
 %------------------------------------------------
-\section{Memristive neuromodulatory neuron}
+\subsection{Memristive neuromodulatory neuron implementation}
+\subsubsection{Block diagram of neuromodulatiory memristive neuron}
+%------------------------------------------------
 
 \begin{frame}
   \frametitle{Modulatory, inhibitory memristive neuron}
   \begin{figure}
-    \includegraphics[width=0.65\linewidth]{HL_mod_inh_mem_neuron}
+    \includegraphics[width=0.75\linewidth]{HL_mod_inh_mem_neuron}
   \end{figure}
 \end{frame}
 
+%------------------------------------------------
+\subsubsection{Wiring schematic of leaky integrator - soma and results in different spiking frequency modes}
 %------------------------------------------------
 
 \begin{frame}
@@ -168,6 +177,7 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \includegraphics[width=0.85\linewidth]{Leak_test}
 \end{figure}
 \end{frame}
+
 %------------------------------------------------
 
 \begin{frame}
@@ -186,7 +196,7 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \end{frame}
 
 %------------------------------------------------
-\section{eSTDP, iSTDP simulation}
+\subsubsection{(e/i)STDP wiring schematic - STDP feedback and physical implementation}
 %------------------------------------------------
 
 \begin{frame}
@@ -195,9 +205,6 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \includegraphics[width=0.85\linewidth]{da_modulation_sch}
 \end{figure}
 \end{frame}
-
-%------------------------------------------------
-\section{Experiments}
 %------------------------------------------------
 
 \begin{frame}
@@ -209,31 +216,22 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 
 %------------------------------------------------
 
-%------------------------------------------------
-\subsection{iSTDP results}
-%------------------------------------------------
-
 \begin{frame}
 \frametitle{Hebbian eSTDP; iSTDP}
 \begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
-
 \column{.5\textwidth} % Left column and width
-%------------------------------------------------
 \begin{figure}
 \includegraphics[width=1\linewidth]{hebb_output_single}
 \end{figure}
-%------------------------------------------------
 \column{.5\textwidth} % Right column and width
-%------------------------------------------------
 \begin{figure}
 \includegraphics[width=1\linewidth]{inh_output_single}
 \end{figure}
-%------------------------------------------------
 \end{columns}
 \end{frame}
 
 %------------------------------------------------
-\subsection{STDP weight distribution results}
+\subsubsection{(e/i)STDP neurosimulation weights Gaussian distribution results}
 %------------------------------------------------
 
 \begin{frame}
@@ -241,17 +239,13 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
 
 \column{.5\textwidth} % Left column and width
-%------------------------------------------------
 \begin{figure}
 \includegraphics[width=1\linewidth]{Gauss_Fl_Aff_Hebb}
 \end{figure}
-%------------------------------------------------
 \column{.5\textwidth} % Right column and width
-%------------------------------------------------
 \begin{figure}
 \includegraphics[width=1\linewidth]{Gauss_FlexorIA_sin}
 \end{figure}
-%------------------------------------------------
 \end{columns}
 \end{frame}
 
@@ -260,24 +254,19 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \begin{frame}
 \frametitle{iSTDP: Sombrero, anti-Hebbian}
 \begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
-
 \column{.5\textwidth} % Left column and width
-%------------------------------------------------
 \begin{figure}
 \includegraphics[width=1\linewidth]{Gauss_Fl_Ia_sombrero}
 \end{figure}
-%------------------------------------------------
 \column{.5\textwidth} % Right column and width
-%------------------------------------------------
 \begin{figure}
 \includegraphics[width=1\linewidth]{Gauss_Ia_antiHebb}
 \end{figure}
-%------------------------------------------------
 \end{columns}
 \end{frame}
 
 %------------------------------------------------
-\section{Bio-plausible DA modulation simulation}
+\subsection{Bio-plausible DA neuromodulation simulation}
 %------------------------------------------------
 
 \begin{frame}
@@ -315,8 +304,8 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \end{frame}
 
 %------------------------------------------------
-
-\section{Supplementary}
+\section{Future plans}
+%------------------------------------------------
 
 \begin{frame}
   \frametitle{Future plans}
@@ -330,7 +319,6 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \item Create a memristive spinal cord segment prototype
 \item Create a memristive spinal cord segment prosthesis
 \end{itemize}
-
 \column{.5\textwidth} % Right column and width
 \begin{figure}
 \includegraphics[width=1.0\linewidth]{MemArc_logo}
@@ -338,6 +326,8 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \end{columns}
 \end{frame}
 
+%------------------------------------------------
+\section{Consortium of the project}
 %------------------------------------------------
 
 \begin{frame}
@@ -358,8 +348,10 @@ Neuromorphic computing and Neurosimulations laboratory/Neurobiology laboratory, 
 \end{columns}
 \end{frame}
 
-
 %------------------------------------------------
+\section{References of the project}
+%------------------------------------------------
+
 \begin{frame}
   \frametitle{Memristive spinal cord references}
 \begin{columns}[c]
