@@ -9,6 +9,6 @@
 1. [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 1. Cognitive architectures
-   1. [The emotion machine please read the book draft](https://en.wikipedia.org/wiki/The_Emotion_Machine)
+   1. [The emotion machine (please read the book draft)](https://en.wikipedia.org/wiki/The_Emotion_Machine)
    1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
    1. [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
