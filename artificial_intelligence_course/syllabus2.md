@@ -1,4 +1,4 @@
-# Extended AI
+# Advanced AI
 
 1. Intro in Neuroscience
     1. [Neurons and chemical synapses](../affective_computing_course/neurons_and_chemical_synapses.md)
