@@ -12,7 +12,7 @@
 
 This is actually request from Huawei.
 
-## Is it enough to be AI scientist?
+## Is it enough to be AI scientist to create Machine Intelligence or any other Intelligence?
 
 ## What is needed to be good scientists in Machine Intelligence?
 
