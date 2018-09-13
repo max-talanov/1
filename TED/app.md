@@ -1,27 +1,27 @@
-#TED application
+# TED application
 
-##Tell us about yourself
+## Tell us about yourself
 
 We take this portion of the application very seriously. Please take the time to answer the questions thoughtfully and with plenty of detail, to help us understand who you are.
 
 All responses are limited to 1500 characters except where noted.
-###Tell us about your work, and the projects you are currently working on! *
+### Tell us about your work, and the projects you are currently working on! *
 
 [Work](work.md)
 
-###What is your idea worth spreading? *
+### What is your idea worth spreading? *
 
 [Idea](idea.md)
 
-###What are you best known for? What is your crowning achievement? *
+### What are you best known for? What is your crowning achievement? *
 
 [Affective computing and machine consciousness](consciousness.md)
 
-###What other accomplishments would you like to share? Please give context! (e.g. you're a wine expert, you own a bakery, etc.)
+### What other accomplishments would you like to share? Please give context! (e.g. you're a wine expert, you own a bakery, etc.)
 
 [industrial projects](ind_projects.md)
 
-###List any awards, prizes or other Fellowships you have won, with the details below:
+### List any awards, prizes or other Fellowships you have won, with the details below:
 
     The name of the award, prize or Fellowship
     The date it was received
@@ -30,7 +30,7 @@ All responses are limited to 1500 characters except where noted.
 (Note: Awards are not required to receive a TED Fellowship.)
 
 
-###What type of education have you received? Please add details for any degrees, including:
+### What type of education have you received? Please add details for any degrees, including:
 
     Educational institution
     Type of degree
@@ -41,29 +41,29 @@ All responses are limited to 1500 characters except where noted.
 (Note: Formal education is not required to receive a TED Fellowship. Many Fellows have not been to school or did not finish.)
 
 
-###What hobbies, causes or activities are you passionate about aside from your work? *
+### What hobbies, causes or activities are you passionate about aside from your work? *
 
 [Childhood, punk rock, bike](hobbies.md).
 
-###Share an example of something you have been a part of, created, led, or joined that you consider unique. Why do you think it is groundbreaking? *
-(Limit 2250 characters) check this 
+### Share an example of something you have been a part of, created, led, or joined that you consider unique. Why do you think it is groundbreaking? *
+(Limit 2250 characters) check this
 
 [Menta](menta.md)
 
 
-###What questions should we have asked, but didn’t? Please write them down and answer them! (In other words, tell us something about yourself that we don’t know yet.) *
-(Limit 2250 characters) check this 
+### What questions should we have asked, but didn’t? Please write them down and answer them! (In other words, tell us something about yourself that we don’t know yet.) *
+(Limit 2250 characters) check this
 
 [Too many ideas](2many_ideas.md)
 
 
-###Can you share a memorable anecdote from your life that will give us a further sense of what makes you tick? *
+### Can you share a memorable anecdote from your life that will give us a further sense of what makes you tick? *
 
 [Birthday](birthday.md)
 
-###How did you hear about the TED Fellows program? If you can, share the specific person, organization, etc.
+### How did you hear about the TED Fellows program? If you can, share the specific person, organization, etc.
 
-###Have you participated in TED before? If so, to what extent? (e.g. you watch TED Talks, you’ve attended / hosted / spoken at a TEDx event, you’re a TED Translator, etc.)
+### Have you participated in TED before? If so, to what extent? (e.g. you watch TED Talks, you’ve attended / hosted / spoken at a TEDx event, you’re a TED Translator, etc.)
 
 
 List at least one website (more if you like!) that will help us understand you better.
@@ -89,5 +89,3 @@ URL: http://www.ted.com/talks/dan_dennett_on_our_consciousness
 
 Website Description: David Chalmers TED speech
 URL: http://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness
-
-

@@ -1,13 +1,13 @@
-#Consciousness
+# Consciousness
 
-#Icebreaker
+# Icebreaker
 
 Soul?
 
-##Marvin Minsky
+## Marvin Minsky
 Based on Marvin Minksy chapter of "The emotion machine"
 
-###What is Consciousness?
+### What is Consciousness?
 
 Sri Chinmoy 2003: "Consciousness is the inner spark or inner link in us, the golden link within us that connects our highest and most illumined part with our lowest and most unillumined part."
 
@@ -17,17 +17,17 @@ Jerry Fodor 1992: "Nobody has the slightest idea how anything material could be 
 
 For, consciousness is one of those suitcase-like words that we use for many types of processes, and for different kinds of purposes. It’s the same for most of our other words about minds, such as awareness, sentience, or intelligence.
 
-Thinker 1: Consciousness is what binds all our mental events together, and thus unifies our present, past, and future into our continuous sense of experience. 
+Thinker 1: Consciousness is what binds all our mental events together, and thus unifies our present, past, and future into our continuous sense of experience.
 
-Thinker 2: Consciousness makes us "aware" of ourselves, and gives us our sense of identity; it is what animates our minds and gives us our sense of being alive. 
+Thinker 2: Consciousness makes us "aware" of ourselves, and gives us our sense of identity; it is what animates our minds and gives us our sense of being alive.
 
 Thinker 3: Consciousness is what gives things meaning to us; without it, we would not even know we had feelings.
 
-##Unpacking the Suitcase of Consciousness
+## Unpacking the Suitcase of Consciousness
 
 Aaron Sloman 1994: "It is not worth asking how to define consciousness, how to explain it, how it evolved, what its function is, etc., because there’s no one thing for which all the answers would be the same. Instead, we have many sub-capabilities, for which the answers are different: e.g., different kinds of perception, learning, knowledge, attention control, self-monitoring, self-control, etc."
 
-###Everyday example
+### Everyday example
 
 Joan is starting to cross the street on the way to deliver her finished report. While thinking about what to say at the meeting, she hears a sound and turns her head—and sees a quickly oncoming car. Uncertain as to whether to cross or retreat, but uneasy about arriving late, Joan decides to sprint across the road. She later remembers her injured knee and reflects upon her impulsive decision. "If my knee had failed, I could have been killed. Then what would my friends have thought of me?"
 
@@ -64,12 +64,12 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 * **Self-Imaging**: She made and used models of herself.
 * **Sense of Identity**: She regarded herself as an entity.
 
-#Icebreaker
+# Icebreaker
 
 1. Is the consciousness needed for the AI?
 1. Is a consciousness achievable for the AI?
 
-###a-Brains and B-Brains
+### a-Brains and B-Brains
 
 ![A-Brains and B-Brains](http://web.media.mit.edu/~minsky/E4/eb4_files/image008.gif)
 
@@ -81,21 +81,21 @@ Joan is starting to cross the street on the way to deliver her finished report. 
 ![A-Brains, B-Brains, C-Brains](http://web.media.mit.edu/~minsky/E4/eb4_files/image009.gif)
 
 
-###Model of six
+### Model of six
 
 ![Model of six](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
 
-* What caused Joan to turn toward that sound? [**Instinctive**] 
+* What caused Joan to turn toward that sound? [**Instinctive**]
 * How did she know that it was the sound of a car? [**Learned**]
-* What resources were used to make her decision? [**Deliberative**] 
-* How did she choose which resources to use? [**Reflective**] 
-* Did she feel that she made a good decision? [**Self-Reflective**] 
+* What resources were used to make her decision? [**Deliberative**]
+* How did she choose which resources to use? [**Reflective**]
+* Did she feel that she made a good decision? [**Self-Reflective**]
 * Did her actions live up to her principles? [**Self-Conscious**]
 
 **The Organism Principle**: When a system evolves to become more complex, this always involves a compromise: if its parts become too separate, then the system’s abilities will be limited—but if there are too many interconnections, then each change in one part will disrupt many others.
 
 
-###How do we start thinking consciously
+### How do we start thinking consciously
 
 High level activities often include following:
 
@@ -106,11 +106,11 @@ High level activities often include following:
 
 ![Trouble detector critic](http://web.media.mit.edu/~minsky/E4/eb4_files/image005.gif)
 
-####Self-Models
+#### Self-Models
 
 We all construct mental models that describe our various mental states, bodies of knowledge about our abilities, depictions of our acquaintances, and collections of stories about our pasts. Then, whenever we use our models of ourselves, we tend to use terms like conscious when those reflections lead to choices we make, and we use unconscious or unintentional to describe those activities that we regard as beyond our control.
 
-####Serial processes
+#### Serial processes
 
 The processes involved with walking, seeing, and talking take place in different parts of your brain, so they don’t need to compete for resources—whereas, for drawing a table and drawing a chair, you are likely to need to use the same higher-level resources to form and keep track of some intricate plans.
 
@@ -120,7 +120,7 @@ The processes involved with walking, seeing, and talking take place in different
 
 ![Semantic network](http://web.media.mit.edu/~minsky/E4/eb4_files/image003.gif)
 
-####Recent Memories
+#### Recent Memories
 
 We usually think of consciousness as being about what’s happening now—that is, in the present, rather than in the past. However, it would always take some amount of time for any particular part of a brain or machine to find out what other parts have recently done. For example, suppose that someone asked, "Are you aware that you’re touching your ear?" You would not be able to reply until your language resources had time to react to signals from other parts of your brain that, in turn, have reacted to prior events.
 
@@ -130,39 +130,39 @@ We usually think of consciousness as being about what’s happening now—that i
 
 **The Immanence Illusion**: For most of the questions you would otherwise ask, some answers will have already arrived before the higher levels of your mind have had enough time to ask for them.
 
-##Igor Alexander
+## Igor Alexander
 
 Let **A** be an agent in a sensorily-accessible world **S**. For **A** to be conscious of **S** it is necessary that:
 
-###Axiom 1 (Depiction)
+### Axiom 1 (Depiction)
 
 **A** has perceptual states that depict parts of **S**.
 
-###Axiom 2 (Imagination)
+### Axiom 2 (Imagination)
 
 **A** has internal imaginational states that *recall* parts of **S** or fabricate **S-like** sensations.
 
-###Axiom 3 (Attention):
+### Axiom 3 (Attention):
 
 **A** is capable of selecting which parts of **S** to depict or what to imagine.
 
-###Axiom 4 (Planning):
+### Axiom 4 (Planning):
 
 **A** has means of control over imaginational state *sequences* to plan actions.
 
-###Axiom 5 (Emotion):
+### Axiom 5 (Emotion):
 
 **A** has additional **affective states** that evaluate planned actions and determine the ensuing action .
 
 ![minimal consciousness](minimal consciousness.png)
 
-##Neurophysiological view
+## Neurophysiological view
 
 ![Claustrum](http://upload.wikimedia.org/wikipedia/commons/5/50/Gray_718-emphasizing-claustrum.png)
 
-When the team zapped the area with high frequency electrical impulses, the woman lost consciousness. She stopped reading and stared blankly into space, she didn't respond to auditory or visual commands and her breathing slowed. As soon as the stimulation stopped, she immediately regained consciousness with no memory of the event. The same thing happened every time the area was stimulated during two days of experiments 
+When the team zapped the area with high frequency electrical impulses, the woman lost consciousness. She stopped reading and stared blankly into space, she didn't respond to auditory or visual commands and her breathing slowed. As soon as the stimulation stopped, she immediately regained consciousness with no memory of the event. The same thing happened every time the area was stimulated during two days of experiments
 
-##References 
+## References
 
 1. [Marvin Minsky, lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
 1. [Marvin Minsky, lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)

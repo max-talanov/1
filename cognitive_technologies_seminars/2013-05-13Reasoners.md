@@ -1,6 +1,6 @@
-#Reasoners overview.
+# Reasoners overview.
 
-#Plan
+# Plan
 
 1. What is semantic reasoner?
   2. Two types of reasoners

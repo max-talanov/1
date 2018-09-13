@@ -1,4 +1,4 @@
-#UML
+# UML
 
 [Wiki](http://en.wikipedia.org/wiki/Unified_Modeling_Language)
 
@@ -51,7 +51,7 @@ Behavior diagrams emphasize what must happen in the system being modeled. Since 
 
 ![Use Case Diagram](https://upload.wikimedia.org/wikipedia/commons/7/71/UML_Use_Case_diagram.svg)
 
-##Interaction diagrams
+## Interaction diagrams
 Interaction diagrams, a subset of behavior diagrams, emphasize the flow of control and data among the things in the system being modeled:
 * [Communication diagram](https://en.wikipedia.org/wiki/Communication_diagram): shows the interactions between objects or parts in terms of sequenced messages. They represent a combination of information taken from Class, Sequence, and [[Use Case Diagram]]s describing both the static structure and dynamic behavior of a system.
 
@@ -63,4 +63,3 @@ Interaction diagrams, a subset of behavior diagrams, emphasize the flow of contr
 
 ![Sequnce diagram](https://upload.wikimedia.org/wikipedia/commons/9/9b/CheckEmail.svg)
 * [Timing diagram](https://en.wikipedia.org/wiki/Timing_diagram_(Unified_Modeling_Language)): a specific type of interaction diagram where the focus is on timing constraints.
-

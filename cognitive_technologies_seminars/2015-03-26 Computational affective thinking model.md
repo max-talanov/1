@@ -20,7 +20,7 @@ Max Talanov, Jordi Vallverdu, Salvatore Distefano, Manuel Mazzara, Radhakrishnan
 
 ![Metafor GUI](metafor_gui.png)
 
-###Example of processing with Metafor:
+### Example of processing with Metafor:
 
 **(4) When a customer orders a drink, the bartender tries to make it. When the bartender is asked to make a drink, he makes it and gives it to the customer only if the drink is in the menu's drinks; otherwise, the bartender says "sorry i don't know how to make that drink" to the customer.**
 
@@ -51,7 +51,7 @@ class customer:
         bartender.make(drink)
 ```
 
-###Video
+### Video
 
 [...](http://web.media.mit.edu/~hugo/demos/metafor-bartender-simple.mov)
 
@@ -62,7 +62,7 @@ class customer:
 1. Not capable of thinking ...
 1. Too many stupid rules.
 
-##Machine cognition
+## Machine cognition
 
 **Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)**
 
@@ -72,7 +72,7 @@ class customer:
 
 ## Emotional computing system management
 
-###Kismet
+### Kismet
 
 ![Kismet](Kismet_312.jpg)
 
@@ -81,7 +81,7 @@ class customer:
   2. In voice messages
 1. Emotions and consciousness
 
-##Monoamines model
+## Monoamines model
 
 **Noradrenaline** influences overall speed of thinking process, **dopamine** and **serotonin** - reward processing and learning.
 
@@ -117,21 +117,21 @@ class customer:
 
 **For example**: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
-##What are the neuromodulators?
+## What are the neuromodulators?
 
-###Neurotransmission
+### Neurotransmission
 
 ![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synapse_Illustration2_tweaked.svg/862px-Synapse_Illustration2_tweaked.svg.png)
 
-###Neuromodulation
+### Neuromodulation
 
 ![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
-1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior also in self confidence, inner strength, satisfaction. 
-2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting). 
+1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior also in self confidence, inner strength, satisfaction.
+2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting).
 3. *Nor-adrenaline* impacts attention, vigilance, activity.
 
-### Lövheim cube of emotions 
+### Lövheim cube of emotions
 
 ![Lövheim cube of emotions](http://upload.wikimedia.org/wikipedia/commons/c/c1/L%C3%B6vheim_cube_of_emotion.jpg)
 
@@ -194,14 +194,14 @@ Above threshold:
 
 Connectivity diagram showing excitatory glutamatergic pathways as red, inhibitory GABAergic pathways as blue, and modulatory dopaminergic pathways as magenta. (Abbreviations: GPe: globus pallidus external; GPi: globus pallidus internal; STN: subthalamic nucleus; SNc: substantia nigra compacta; SNr: substantia nigra reticulata)
 
-The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons, and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**. 
+The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons, and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**.
 
 This way we simulate:
 
 1. Cortex
 1. Striatum
 1. GPe: globus pallidus external
-1. GPi: globus pallidus internal 
+1. GPi: globus pallidus internal
 1. STN: subthalamic nucleus
 1. SNc: substantia nigra compacta
 1. SNr: substantia nigra reticulata
@@ -249,15 +249,15 @@ Rosalind Picard in her article "What does it mean for a computer to "have" emoti
 1. Emotional experience
 1. Mind-body interactions
 
-Emotional appearance is not discussed in this work. 
+Emotional appearance is not discussed in this work.
 
-Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections. 
+Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections.
 
-Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Lövheim model and subjective emotions perceptions in this work. 
+Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Lövheim model and subjective emotions perceptions in this work.
 
-Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model. 
+Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model.
 
-Conscious and non-conscious mechanisms of stimulus processing was presented. 
+Conscious and non-conscious mechanisms of stimulus processing was presented.
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
 
@@ -274,7 +274,7 @@ Psychological and biochemical changes where presented in "Feeling the state and 
 1. Nursing software
 1. Applications in emotional robots
 
-#References
+# References
 
 1. Lövheim, H. (2012). A new three-dimensional model for emo-
 tions and monoamine neurotransmitters,
@@ -282,6 +282,6 @@ tions and monoamine neurotransmitters,
 1. Minsky, M. (2006). The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind
 1. R.W. Picard (2001), "What Does it Mean for a Computer to "Have" Emotions?," Chapter in "Emotions in Humans and Artifacts,"
 
-#Thank you.
+# Thank you.
 
 max.talanov@gmail.com

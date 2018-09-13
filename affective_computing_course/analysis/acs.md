@@ -1,6 +1,6 @@
-#Cognitive approach to emotions articles analysis
+# Cognitive approach to emotions articles analysis
 
-##Interoceptive  inference,  emotion, and the  embodied  self
+## Interoceptive  inference,  emotion, and the  embodied  self
 
 Crucially, none  identify  emotional  states  with  top-down  inference  of the  causes  of  interoceptive  signals,  as  argued  here  (and  as recently  taken  up  by  others  [9]).  Rather,  they  emphasize  a continuous,  dynamic,  but  largely  bottom-up  interoceptive representational  hierarchy  that  interacts  with  other perceptions  to  motivate  behaviour.  Perhaps  more  closely related  is  the  suggestion  that  the  AIC  is  involved  in  errorbased  learning  of  feeling  states  and  uncertainty  [15];  here, the  notion  of  ‘prediction  error’  is  expressed  in  terms  of change  detection  and  salience  rather  than  through  mechanisms  of  predictive  coding.
 
@@ -18,9 +18,9 @@ For  example,  word recognition  memory  is  modulated  by  the  timing  of  vis
 Considering  interoceptive  inference  and  the  AIC  as  its  likely  brain basis  further  enhances the  explanatory  potential  of  this  framework  for psychopathology.  Links  between  perceptions  of  bodily  state  and emotional  and  neuropsychiatric  disorders  are  well  established.  For
 example,  alexithymia  (broadly,  deficits  in  emotional  awareness)  is associated  with  failure  to  engage  AIC  [81]  and  with  degeneration  of AIC  and  of  VENs  (Box  2)  in  the  context  of  fronto-temporal  dementia [82,83].
 
-##On the Role of Emotion in Embodied Cognitive Architectures: From Organisms to Robots
+## On the Role of Emotion in Embodied Cognitive Architectures: From Organisms to Robots
 
-of a larger shift from the so-calledcomputer metaphor for mind and the view of cognition as mainly taking place ‘in the head’ toward theories and models ofembodied cognition that emphasize the interaction of agents and their environments [12, 13, 31, 61, 62, 73, 76, 86]. 
+of a larger shift from the so-calledcomputer metaphor for mind and the view of cognition as mainly taking place ‘in the head’ toward theories and models ofembodied cognition that emphasize the interaction of agents and their environments [12, 13, 31, 61, 62, 73, 76, 86].
 
 Damasio [19], on the other hand, identified what he called ‘‘the prevalent absence of a notion of organism in the sciences of mind and brain’’ as a problem, which he elaborated as follows: ‘‘It is not just that the mind remained linked to the brain in a rather equivocal relationship, but that the brain remained consistently separated from the body and thus not part of the deeply interwoven mesh of
 body and brain that defines a complex living organism.’

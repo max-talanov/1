@@ -1,13 +1,13 @@
-#Introduction
+# Introduction
 
-##I was born in childhood
+## I was born in childhood
 
 When I was 12 years old my mind was enormously influenced by the stories of my grandpa about the astrophysics.
 Whole world expanded from building and streets to the galaxies and universe.
 I still can remember the image of the trolleybus shrinking to the size of point of a needle.
 This is the way I have discovered the power of imagination.
 
-##Problem
+## Problem
 
 I had a problem and the problem was big and ubiquitous: I had too many ideas per day.
 I have started [blogging](https://cosmicdustman.wordpress.com/category/rd/) expressing the
@@ -30,7 +30,7 @@ some progress in the automation but still the system was:
 
 So we had to use different approach.
 
-##The book
+## The book
 
 Around 2007 I have explored the book of Marvin Minsky "The emotion machine". That was fresh and unusual view on
 the Artificial Intelligence(AI) and the emotions. For some historical reason we still perceive the machines
@@ -44,7 +44,7 @@ Let's have a look at the human brain and mind! Again.
 To be honest the history of modern computing starts with high-level model of human brain implemented in
 chips that what we know as Von Neumann architecture.
 
-##Solution
+## Solution
 
 When I turned 40 I have understood that there is no more time to waste if I want to do something interesting
 I have to do this now. At this time I was SDA(Software design architect) and had some experience in some research
@@ -67,9 +67,9 @@ We have started the book about the machine consciousness mainly as the neural co
 to several mental activities, in other words: explaining philosophical/psychological phenomena in neurobiological
 terms.
 
-##The TED speech
+## The TED speech
 
-###Fear simulation
+### Fear simulation
 
 Recently we have received the preliminary results of the simulation of fear in the machines.
 We have managed to simulate the fear in its simplest form
@@ -77,11 +77,11 @@ and indicate the connection of emotions and computational system parameters: com
 learning and storage and we are able to indicate the moment when machine was in fear-like state.
 
 Nick Bostrom in his [TED speech](http://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are) indicated the importance that super-intelligence "shares our(human) values". We completely agree
-this position and more than that we propose that emotions and consciousness 
+this position and more than that we propose that emotions and consciousness
 creates proper basement for the values system of future safe and friendly artificial intelligence or
 super-intelligence.
 
-###Machine consciousness 
+### Machine consciousness
 
 Why consciousness is interesting and so complex/challenging?
 Mainly because we do not understand the human consciousness, there are brilliant minds working on this problem:
@@ -104,6 +104,3 @@ We have to have conscious machines and capable of having emotional feelings not 
 I'm pretty sure that if there was no crucial need for the consciousness and emotions then the evolution would get rid
 of them. We want to create responsible and reasonable members of society
 that will help us possibly already "old humans" in future.
-
-
-

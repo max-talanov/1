@@ -22,7 +22,7 @@
 ![Metafor GUI](metafor_gui.png)
 
 
-####Video
+#### Video
 
 [...](http://web.media.mit.edu/~hugo/demos/metafor-bartender-simple.mov)
 
@@ -33,13 +33,13 @@
 1. Not capable of thinking ...
 1. Too many stupid rules.
 
-##Machine cognition
+## Machine cognition
 
 **Machine cognition (understanding) <- Machine consciousness <- Machine emotions (affective computations)**
 
 ## Emotional computing system
 
-###Kismet
+### Kismet
 
 ![Kismet](Kismet_312.jpg)
 
@@ -61,7 +61,7 @@
 1. Nursing software
 1. Applications in emotional robots
 
-##Monoamines model
+## Monoamines model
 
 **Noradrenaline** influences overall speed of thinking process, **dopamine** and **serotonin** - reward processing and learning.
 
@@ -95,22 +95,22 @@
 
 **For example**: system is in fear state. Dopamine impacts system at half strength. This makes system choose actions highlighted with high rewards(safest in case of fear). High noradrenaline in rage state causes system to think as quick as possible taking in account as less as possible number of options, implementing first action(usually not really safe) selected "fight or flight" reaction.
 
-##What are the neuromodulators?
+## What are the neuromodulators?
 
-###Neurotransmission
+### Neurotransmission
 
 ![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Synapse_Illustration2_tweaked.svg/862px-Synapse_Illustration2_tweaked.svg.png)
 
-###Neuromodulation
+### Neuromodulation
 
 ![Dopamine and serotonin pathways](http://upload.wikimedia.org/wikipedia/en/8/88/Dopamineseratonin.png)
 
-1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior also in self confidence, inner strength, satisfaction. 
-2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting). 
+1. *Serotonin* takes part in: behavioral state regulation and arousal, motor pattern generation, learning and plasticity, mood and social behavior also in self confidence, inner strength, satisfaction.
+2. *Dopamine* plays a major role in motor activation, reward processing, reinforcement, motivation (wanting).
 3. *Nor-adrenaline* impacts attention, vigilance, activity.
 
 
-##Cognition and consciousness and emotions.
+## Cognition and consciousness and emotions.
 
 ![Theoretical approach](abstraction_layers.png)
 
@@ -157,7 +157,7 @@ Plutchik describes emotional process as following:
 1. *Stimulus event* the inbound event, ex.: sound, vision, text message ...
 1. *Inferred cognition* appraisal and understanding of event
 1. *Psychological arousal* psychological response of organism
-1. *Feeling the state* actual being in the state. 
+1. *Feeling the state* actual being in the state.
 1. *Impulses to action*
 1. *Behavior* motor response
 1. *Effect* changes in the environment
@@ -186,16 +186,16 @@ Rosalind Picard in her article "What does it mean for a computer to "have" emoti
 1. Emotional experience
 1. Mind-body interactions
 
-Emotional appearance is not discussed in this work. 
+Emotional appearance is not discussed in this work.
 
-Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections. 
+Multi-level emotion cognition and behavior generation was demonstrated in "Emotions in six thinking levels" and "Feeling the state and neuromodulation" sections.
 
-Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Lövheim model and subjective emotions perceptions in this work. 
+Emotional experience is complex that consists of: "cognitive or semantic label; physiological changes; subjective feeling, intuition" we have scratch the surface and suggested psychological changes mechanism according to Lövheim model and subjective emotions perceptions in this work.
 
-Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model. 
+Mind-body interactions consists of: "conscious and non-conscious events; regulatory and signaling mechanisms; biasing mechanisms, intuition; physiological and biochemical changes; sentic modulation, lying impacts pressure; waveform of love; smiles induce joy..." this partly could be implemented by presented model.
 
-Conscious and non-conscious mechanisms of stimulus processing was presented. 
+Conscious and non-conscious mechanisms of stimulus processing was presented.
 
 Psychological and biochemical changes where presented in "Feeling the state and neuromodulation" and "Neuromodulation to computing system management mapping".
 
-#Thank you.
+# Thank you.

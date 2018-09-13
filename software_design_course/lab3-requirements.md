@@ -1,6 +1,6 @@
 # Requirements: Agile Scrum
 
-##Vision
+## Vision
 
 1. Introduction
 1. Business Needs/Requirements
@@ -12,7 +12,7 @@
 ## User stories
 
 1. ID
-1. User story name 
+1. User story name
 1. Input
 1. Output
 1. Entry criteria
