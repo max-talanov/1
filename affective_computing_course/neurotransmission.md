@@ -4,7 +4,7 @@
 
 ![Action Potential distribution](http://upload.wikimedia.org/wikipedia/commons/9/95/Action_Potential.gif)
 Saltatory conduction
-![Satatory conduction](https://en.wikipedia.org/wiki/Saltatory_conduction#/media/File:Saltatory_Conduction.gif)
+![Satatory conduction](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/1024px-Saltatory_Conduction.gif)
 
 ## Neurotransmitters
 
