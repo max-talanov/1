@@ -48,6 +48,14 @@
 
 ![AMPA receptor](http://upload.wikimedia.org/wikipedia/commons/7/78/AMPA3Dan.gif)
 
+## Metabotropic and ionotropic receptors
+
+1. Ionotropic and metabotropic receptors are both ligand gated transmembrane proteins.
+1. Ionotropic receptors change shape when they are bound by a ligand. This change in shape creates a channel that allows ions to flow through.
+1. Metabotropic receptors do not have channels.
+1. Metabotropic receptors activate a G-protein that in turn acivates a secondary messenger, that in turn will activate something else.
+1. Metabotropic receptor activation may or may not result in the opening of ion channels somewhere else on the membrane.
+
 ### Synaptic plasticity
 
 #### Homosynaptic plasticity

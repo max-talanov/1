@@ -10,18 +10,12 @@ Saltatory conduction
 
 [Common neurotransmitters](http://en.wikipedia.org/wiki/Neurotransmitter#Common_neurotransmitters)
 
-## Metabotropic and ionotropic receptors
-
-1. Ionotropic and metabotropic receptors are both ligand gated transmembrane proteins.
-1. Ionotropic receptors change shape when they are bound by a ligand. This change in shape creates a channel that allows ions to flow through.
-1. Metabotropic receptors do not have channels.
-1. Metabotropic receptors activate a G-protein that in turn acivates a secondary messenger, that in turn will activate something else.
-1. Metabotropic receptor activation may or may not result in the opening of ion channels somewhere else on the membrane.
-
 
 ## Neuromodulation
 
 In case neurotransmitter lives the synaptic cleft and avoids degradation it massively influences neurons (even brain areas) on it's pathway.
+
+![Neuromodulation via 5-HT](https://camo.githubusercontent.com/3af74fa0c64fe45eeffeaa279f68302bf23e7f78/68747470733a2f2f7777772e66726f6e7469657273696e2e6f72672f66696c65732f41727469636c65732f3135393037382f66706861722d30362d30303136322d48544d4c2f696d6167655f6d2f66706861722d30362d30303136322d673030312e6a7067)
 
 ### Dopamine and Serotonin pathways
 
