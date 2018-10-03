@@ -36,6 +36,18 @@
 
 ![Neurotransmission](http://upload.wikimedia.org/wikipedia/commons/e/e0/Synapse_Illustration2_tweaked.svg)
 
+## Receptors
+
+### Ligand-gated channels
+
+#### Acetylcholine (ACh) ligand gated channel
+
+![Ligand-gated channels](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Blausen_0225_ChemicallyGatedChannel.png/640px-Blausen_0225_ChemicallyGatedChannel.png)
+
+#### AMPA receptor
+
+![AMPA receptor](http://upload.wikimedia.org/wikipedia/commons/7/78/AMPA3Dan.gif)
+
 ### Synaptic plasticity
 
 #### Homosynaptic plasticity

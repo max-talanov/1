@@ -18,17 +18,6 @@ Saltatory conduction
 1. Metabotropic receptors activate a G-protein that in turn acivates a secondary messenger, that in turn will activate something else.
 1. Metabotropic receptor activation may or may not result in the opening of ion channels somewhere else on the membrane.
 
-## Receptors
-
-### Ligand-gated channels
-
-#### Acetylcholine (ACh) ligand gated channel
-
-![Ligand-gated channels](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Blausen_0225_ChemicallyGatedChannel.png/640px-Blausen_0225_ChemicallyGatedChannel.png)
-
-#### AMPA receptor
-
-![AMPA receptor](http://upload.wikimedia.org/wikipedia/commons/7/78/AMPA3Dan.gif)
 
 ## Neuromodulation
 
