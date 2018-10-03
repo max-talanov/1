@@ -143,3 +143,8 @@ Marvin Minsky's brain bug.
 1. Sabatinelli, D, Lang, PJ, Bradley, MM, Costa, VD, and Versace, F (2007). "Pleasure rather than salience activates human nucleus accumbens and medial prefrontal cortex". Journal of Neurophysiology 98 (9): 1374–1379. doi:10.1152/jn.00230.2007. PMID 17596422.
 1. [Olds J, Milner P (1954). "Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain". J Comp Physiol Psychol 47 (6): 419–27. doi:10.1037/h0058775. PMID 13233369.](http://wadsworth.cengage.com/psychology_d/templates/student_resources/0155060678_rathus/ps/ps02.html)
 1. Nakahara, D., Ozaki, N., Miura, Y., Miura, H., et al. Increased dopamine and serotonin metabolism in rat nucleus accumbens produced by intracranial sel-stimulation of medial forebrain bundle as measured by in vivo microdialysis. Brain Research', 1989 495: 178-181.
+1. Gurney, K. N., Humphries, M. D., & Redgrave, P. (2015). A New Framework for Cortico-Striatal Plasticity: Behavioural Theory Meets In Vitro Data at the Reinforcement-Action Interface. PLoS Biology, 13(1), e1002034. https://doi.org/10.1371/journal.pbio.1002034
+1. Frontiers | The role of the serotonin receptor subtypes 5-HT1A and 5-HT7 and its interaction in emotional learning and memory | Pharmacology. (n.d.). Retrieved October 3, 2018, from https://www.frontiersin.org/articles/10.3389/fphar.2015.00162/full
+1. Balaban PM, Vinarskaya AK, Zuzina AB, Ierusalimsky VN, Malyshev AY.
+Impairment of the serotonergic neurons underlying reinforcement elicits extinction of the repeatedly reactivated context memory.
+Sci Rep. 2016 Nov 14;6:36933. doi: 10.1038/srep36933
