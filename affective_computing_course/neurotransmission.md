@@ -148,3 +148,4 @@ Marvin Minsky's brain bug.
 1. Balaban PM, Vinarskaya AK, Zuzina AB, Ierusalimsky VN, Malyshev AY.
 Impairment of the serotonergic neurons underlying reinforcement elicits extinction of the repeatedly reactivated context memory.
 Sci Rep. 2016 Nov 14;6:36933. doi: 10.1038/srep36933
+1. https://mammalcedfx.pathwaystudio.com/app/sd?full=true&layout=flat&entitylist=HTR1a#
