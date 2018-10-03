@@ -17,6 +17,22 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 ![Neuromodulation via 5-HT](https://camo.githubusercontent.com/3af74fa0c64fe45eeffeaa279f68302bf23e7f78/68747470733a2f2f7777772e66726f6e7469657273696e2e6f72672f66696c65732f41727469636c65732f3135393037382f66706861722d30362d30303136322d48544d4c2f696d6167655f6d2f66706861722d30362d30303136322d673030312e6a7067)
 
+### DA
+
+![DA signaling](DA_pathway.png)
+
+![DA mSTDP](DA_mSTDP.png)
+
+### 5-HT
+
+![5-HT signaling](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20Membrane%20Transport.png)
+
+![PKMZ](https://camo.githubusercontent.com/9320cebe0be69d841d075225e2e93dd5c1a2d337/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336333642f6a62315841427a746f50492e6a7067)
+
+![5-HT modulation AMPAR](https://camo.githubusercontent.com/7121e5b77edae30655952fd848172174b33d3374/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336364382f7873734236384a4e726c772e6a7067)
+
+![5-HT modulation of memory](https://camo.githubusercontent.com/bb26a25aa200075f44ca99ad468e0195fcda9056/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336366362f6a6965377a68505a7859632e6a7067)
+
 ### Dopamine and Serotonin pathways
 
 ![Dopamine and serotonin pathways](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pubmed_equitativa_hormonal.png)
