@@ -78,3 +78,9 @@ def mutate(individual):
 ## Genetic programming
 
 ![Syntactic tree](https://upload.wikimedia.org/wikipedia/commons/7/77/Genetic_Program_Tree.png)
+
+
+### Typical problems
+
+1. Semantic cycles
+1. ...
