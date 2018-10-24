@@ -79,6 +79,15 @@ def mutate(individual):
 
 ![Syntactic tree](https://upload.wikimedia.org/wikipedia/commons/7/77/Genetic_Program_Tree.png)
 
+### Practical example 
+
+Integration for NHS hospitals of England.
+
+1. Data normalization
+1. We know input 
+1. We know output
+1. We know the normalization (transformation) operations
+1. We know the quality
 
 ### Typical problems
 
