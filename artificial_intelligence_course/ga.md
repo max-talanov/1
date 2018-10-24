@@ -57,6 +57,10 @@ return nextPopulation
 
 ```
 
+![Crossover](https://cdn-images-1.medium.com/max/800/1*eQxFezBtdfdLxHsvSvBNGQ.png)
+![Children](https://cdn-images-1.medium.com/max/800/1*_Dl6Hwkay-UU24DJ_oVrLw.png)
+
+
 ## Genetic programming
 
 ![Syntactic tree](https://upload.wikimedia.org/wikipedia/commons/7/77/Genetic_Program_Tree.png)
