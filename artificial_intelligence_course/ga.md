@@ -24,7 +24,7 @@ We have to start from the scratch, as there are no parents we usually randomly i
 ```python
 class individual:
 	def __init__(self):
-		par = random.randint(a, b)
+		chromosome = random.randint(a, b)
 		fitness = 0.0
 ```
 ```python
@@ -58,8 +58,22 @@ return nextPopulation
 ```
 
 ![Crossover](https://cdn-images-1.medium.com/max/800/1*eQxFezBtdfdLxHsvSvBNGQ.png)
-![Children](https://cdn-images-1.medium.com/max/800/1*_Dl6Hwkay-UU24DJ_oVrLw.png)
 
+### Offspring
+
+![Offspring](https://cdn-images-1.medium.com/max/800/1*_Dl6Hwkay-UU24DJ_oVrLw.png)
+
+## Mutation
+
+```python
+
+def mutate(individual):
+	individual.chromosome = random.random()
+	return individual
+
+```
+
+![Mutation](https://cdn-images-1.medium.com/max/800/1*CGt_UhRqCjIDb7dqycmOAg.png)
 
 ## Genetic programming
 
