@@ -26,10 +26,24 @@ We have to start from the scratch, as there are no parents we usually randomly i
 class individual:
 	def __init__(self):
 		par = random.randint(a, b)
-	
+
+def createChildren(breeders, number_of_child):
+	nextPopulation = []
+	#some magic
+return nextPopulation
 
 ```
 
+## Fitness function
+
+
+```python 
+
+def ff(individual): 
+	# some magic #this is most interesting to play with
+	return float #this is important
+
+```
 
 ## Genetic programming
 
