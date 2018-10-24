@@ -4,8 +4,8 @@
 1. Intro in Neuroscience
     1. [Neurons and chemical synapses](../affective_computing_course/neurons_and_chemical_synapses.md)
     1. [Neurotransmission and neuromodulation](../affective_computing_course/neurotransmission.md)
+1. [Genetic programming](ga.md)
 1. [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-1. [Genetic programming](https://en.wikipedia.org/wiki/Genetic_programming)
 1. [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 1. [HMM and Markov Decision Processes](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 1. Cognitive architectures
