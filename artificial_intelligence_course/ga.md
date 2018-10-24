@@ -11,7 +11,7 @@
 1. Initialization of a population (randomly setup chromosome)
 1. Fitness function (most interesting)
 1. Selection
-1. Crossover
+1. Breeding (Crossover)
 1. Mutation
 
 ![GA life cycle](https://cdn-images-1.medium.com/max/1600/1*RFC6_B9WPRX_KMxYHpTibw.png)
@@ -22,17 +22,19 @@
 We have to start from the scratch, as there are no parents we usually randomly initialize our individuals.
 
 ```python
-
 class individual:
 	def __init__(self):
 		par = random.randint(a, b)
-
-def createChildren(breeders, number_of_child):
-	nextPopulation = []
-	#some magic
-return nextPopulation
+		fitness = 0.0
+```
+```python
+def generateFirstPopulation(sizePopulation, password):
+	population = []
+	# some magic
+return population
 
 ```
+
 
 ## Fitness function
 
@@ -42,6 +44,16 @@ return nextPopulation
 def ff(individual): 
 	# some magic #this is most interesting to play with
 	return float #this is important
+
+```
+
+## Breeding 
+
+```python
+def createChildren(breeders, number_of_child):
+	nextPopulation = []
+	#some magic
+return nextPopulation
 
 ```
 
