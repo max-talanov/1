@@ -6,3 +6,4 @@
 
 [NARS tutorial](https://ptrman.keybase.pub/website/nars/tutorial.htm)
 
+[PROGICNET](https://web.archive.org/web/20070930031527/http://www.kent.ac.uk/secl/philosophy/jw/2006/progicnet.htm)
