@@ -130,11 +130,11 @@ Derivative
 
 ```
 <dog --> seen>. :|:
-<ran --> start>. :|:
+<ran --> start>. :/:
 ```
 
 Derivative:
 
 ```
-<<dog --> seen> =|> <ran --> start>>. :|: %1.00;0.45%
+<<dog --> seen> =/> <ran --> start>>. :|: %1.00;0.45%
 ```
