@@ -17,4 +17,16 @@
 
 Every statement should have probability that could be calculated according to [probability theory](https://en.wikipedia.org/wiki/Probability_theory).
 
+Logical inference is here:
+
+```
+<cat-->pet>
+<pet-->animal>
+|-
+<cat-->animal>
+```
+
+
+
+
 
