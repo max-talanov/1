@@ -12,3 +12,9 @@
 ## Problems of Boolean and Fuzzy logic
 
 ![Fuzzy warm - hot](https://upload.wikimedia.org/wikipedia/commons/a/a4/Warm_fuzzy_logic_member_function.gif)
+
+## Probabilistic logic concepts
+
+Every statement should have probability that could be calculated according to [probability theory](https://en.wikipedia.org/wiki/Probability_theory).
+
+
