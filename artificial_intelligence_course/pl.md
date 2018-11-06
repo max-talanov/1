@@ -17,7 +17,7 @@
 
 Every statement should have probability that could be calculated according to [probability theory](https://en.wikipedia.org/wiki/Probability_theory).
 
-Logical inference is here:
+Logical inference is like this:
 
 ```
 <cat-->pet>
@@ -26,7 +26,71 @@ Logical inference is here:
 <cat-->animal>
 ```
 
+### Induction
 
+```
+<dog --> mammal>.
+<dog --> animal>.
 
+```
+System derive:
+
+```
+<mammal --> animal>. %1.00;0.45%
+<animal <-> mammal>. %1.00;0.45%
+```
+
+### Abduction
+
+```
+<cat --> animal>.
+<mammal --> animal>.
+
+```
+
+System derive:
+
+```
+<mammal --> cat>. %1.00;0.45%
+<cat --> mammal>. %1.00;0.45%
+<cat <-> mammal>. %1.00;0.45% 
+```
+
+### Deduction 
+
+```
+<cat --> mammal>.
+<mammal --> animal>.
+
+```
+
+System derived:
+
+```
+<cat --> animal>. %1.00;0.81%
+<animal --> cat>. %1.00;0.45%
+```
+
+### Complex example
+
+```
+<cat --> mammal>.
+<dog --> mammal>.
+<mammal --> animal>.
+<lizard --> animal>.
+
+```
+
+First output:
+
+```
+<mammal --> lizard>. %1.00;0.45% 
+<lizard <-> mammal>. %1.00;0.45% 
+<(&,lizard,mammal) --> animal>. %1.00;0.81% 
+<(|,lizard,mammal) --> animal>. %1.00;0.81% 
+<<mammal --> $1> ==> <lizard --> $1>>. %1.00;0.45% 
+<<lizard --> $1> ==> <mammal --> $1>>. %1.00;0.45% 
+<<lizard --> $1> <=> <mammal --> $1>>. %1.00;0.45% 
+```
 
 
