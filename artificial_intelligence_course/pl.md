@@ -128,6 +128,16 @@ Derivative
 
 ### Temporal 
 
+
+```
+<dog --> seen>. :|:
+<ran --> start>. :|:
+```
+Derivative:
+```
+<<dog --> seen> =|> <ran --> start>>. :|: %1.00;0.45%
+```
+
 ```
 <dog --> seen>. :|:
 <ran --> start>. :/:
@@ -136,5 +146,5 @@ Derivative
 Derivative:
 
 ```
-<<dog --> seen> =/> <ran --> start>>. :|: %1.00;0.45%
+<(&/,<dog --> seen>,+6) =/> <ran --> start>>. :|: %1.00;0.45%
 ```
