@@ -81,7 +81,7 @@ System derived:
 
 ```
 
-First output:
+Abduction derivative:
 
 ```
 <mammal --> lizard>. %1.00;0.45% 
@@ -93,4 +93,15 @@ First output:
 <<lizard --> $1> <=> <mammal --> $1>>. %1.00;0.45% 
 ```
 
+Deduction derivative:
+
+```
+<cat --> animal>?
+
+<dog --> animal>. %1.00;0.81%
+
+<dog --> animal>?
+
+<dog --> animal>. %1.00;0.81%
+```
 
