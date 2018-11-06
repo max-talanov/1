@@ -114,4 +114,27 @@ Deduction derivative:
 <(&,lizard,mammal) --> animal>. %1.00;0.81%
 ```
 
+### Contradiction 
 
+```
+<dog --> mammal>. %1.0;0.9%
+<dog --> mammal>. %0.0;0.9%
+```
+
+Derivative 
+```
+<dog --> mammal>. %0.50;0.95%
+```
+
+### Temporal 
+
+```
+<dog --> seen>. :|:
+<ran --> start>. :|:
+```
+
+Derivative:
+
+```
+<<dog --> seen> =|> <ran --> start>>. :|: %1.00;0.45%
+```
