@@ -105,3 +105,13 @@ Deduction derivative:
 <dog --> animal>. %1.00;0.81%
 ```
 
+### What question
+
+```
+<?what --> animal>?
+
+<mammal --> animal>. %1.00;0.90%
+<(&,lizard,mammal) --> animal>. %1.00;0.81%
+```
+
+
