@@ -11,5 +11,8 @@
 1. [HMM and Markov Decision Processes](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 1. Cognitive architectures
    1. [The emotion machine (please read the book draft)](https://en.wikipedia.org/wiki/The_Emotion_Machine)
+	  1. [Consciousness](https://github.com/max-talanov/1/blob/master/affective_computing_course/consciousness.md)
+	  1. [6 levels of mental activity](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
+	  1. [Model of thinking](https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md)
    1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
    1. [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
