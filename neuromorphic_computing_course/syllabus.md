@@ -1,6 +1,6 @@
 # Neuromorphic computing syllabus
 
-![Wiki page neuromorphic engineering](https://en.wikipedia.org/wiki/Neuromorphic_engineering)
+[Wiki page neuromorphic engineering](https://en.wikipedia.org/wiki/Neuromorphic_engineering)
 
 1. Neurobiological basis:
    1. Chemical synapse 
