@@ -1,5 +1,3 @@
-# Neural networks intro
-
 # Models of neurons 
 
 ## McCullogh-Pitts Model
