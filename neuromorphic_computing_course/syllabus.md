@@ -21,11 +21,12 @@ This page address:
    1. Brain areas and cognitive phenomena
 1. [Cognitive architectures and intelligent agents](https://github.com/max-talanov/1/blob/master/affective_computing_course/cognitive_architecture.md)
    1. Model of six
-	  1. [Consciousness (lectures: 1, 2, 3).](consciousness.md)
-	  1. [Levels of mental activities (lectures 1 and 2).](levels_of_mental_activities.md)
-	  1. [Thinking (lectures 1 and 2).](thinking.md)
+	  1. [Consciousness](https://github.com/max-talanov/1/blob/master/affective_computing_course/consciousness.md)
+	  1. [Levels of mental activities](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
+	  1. [Thinking](https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md)
    1. H-CogAff
    1. SOAR
+1. [Non-perceptron](https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/non_perceptron.md)
 1. Memristors and memristive devices
    1. Memristor
    1. Memristive devices
