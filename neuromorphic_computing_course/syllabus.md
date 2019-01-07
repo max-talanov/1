@@ -10,6 +10,7 @@ This page address:
 [Wiki page neuromorphic engineering](https://en.wikipedia.org/wiki/Neuromorphic_engineering)
 
 [SpiNNaker](https://amp-tomshardware-co-uk.cdn.ampproject.org/v/s/amp.tomshardware.co.uk/human-brain-neuromorphic-supercomputer-manchester,news-59387.html?amp_js_v=0.1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.tomshardware.co.uk%2Fhuman-brain-neuromorphic-supercomputer-manchester%2Cnews-59387.html)
+
 [Brain-inspired computing](https://aip.scitation.org/doi/10.1063/1.5042413)
 
 
