@@ -8,4 +8,4 @@
 
  Memristor resistance depends on the integral of the input applied to the terminals rather than on the instantaneous value of the input. Since the element "remembers" the amount of current that last passed through, it was tagged by Chua with the name "memristor". 
 
-Another way of describing a memristor is as any passive two-terminal circuit element that maintains a functional relationship between the time integral of current (called charge) and the time integral of voltage (often called flux, as it is related to magnetic flux). The slope of this function is called the memristance M and is similar to variable resistance. 
+Another way of describing a memristor is as any passive two-terminal circuit element that maintains a functional relationship between the time integral of current (called charge) and the time integral of voltage (often called flux, as it is related to magnetic flux). The slope of this function is called the *memristance M* and is similar to variable resistance. 
