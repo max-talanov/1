@@ -36,6 +36,13 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ![PANI memristor action principle](PANI_memristor_action_principle.png)
 
+![PANI sandwich principle schematic](PANI_sandwich.png)
+
+![PANI stochastic network](PANI_stochastic_network.png)
+
+![PANI synapse prosthesis]PANI_synapse_prosthesis.png
+
+
 ## Applications
 
 1. [ReRAM](https://en.wikipedia.org/wiki/Resistive_random-access_memory)
@@ -57,3 +64,5 @@ Wang, W., Wang, M., Ambrosi, E., Bricalli, A., Laudato, M., Sun, Z., ... & Ielmi
 Erokhin, V., & Fontana, M. P. (2008). Electrochemically controlled polymeric device: a memristor (and more) found two years ago. arXiv preprint arXiv:0807.0333.
 
 ЕРОХИН, В. В. ОРГАНИЧЕСКИЕ МЕМРИСТОРНЫЕ ПРИБОРЫ И НЕЙРОМОРФНЫЕ СИСТЕМЫ.
+
+Juzekaeva, E., Nasretdinov, A., Battistoni, S., Berzina, T., Iannotta, S., Khazipov, R., ... & Mukhtarov, M. (2018). Coupling Cortical Neurons through Electronic Memristive Synapse. Advanced Materials Technologies, 1800350.
