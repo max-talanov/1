@@ -21,17 +21,27 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ![TiO2](https://upload.wikimedia.org/wikipedia/en/9/9f/Memristor.jpg)
 
-![Filament](filament.png)
+![Filament TiO2](filament.png)
+
+![Filament silver and copper](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41467-018-07979-0/MediaObjects/41467_2018_7979_Fig2_HTML.png)
+
+[Filament formation movie](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-07979-0/MediaObjects/41467_2018_7979_MOESM5_ESM.mov)
 
 
 ### Organic 
 
 
+## Applications
 
+1. ReRAM
+1. ANN
+1. Neuromorphic prosthesis
 
 
 ## References
 
+https://en.wikipedia.org/wiki/Memristor
+
 Yakopcic, C., Wang, S., Wang, W., Shin, E., Boeckl, J., Subramanyam, G., & Taha, T. M. (2017). Filament formation in lithium niobate memristors supports neuromorphic programming capability. Neural Computing and Applications, 1-7.
 
-
+Wang, W., Wang, M., Ambrosi, E., Bricalli, A., Laudato, M., Sun, Z., ... & Ielmini, D. (2019). Surface diffusion-limited lifetime of silver and copper nanofilaments in resistive switching devices. Nature communications, 10(1), 81.
