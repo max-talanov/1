@@ -21,7 +21,9 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ![TiO2](https://upload.wikimedia.org/wikipedia/en/9/9f/Memristor.jpg)
 
-![Filament TiO2](filament.png)
+![Memristors LiNbO3](LiNbO3_memristors.png)
+
+![Filament LiNbO3](LiNbO3_filament.png)
 
 ![Filament silver and copper](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41467-018-07979-0/MediaObjects/41467_2018_7979_Fig2_HTML.png)
 
