@@ -33,7 +33,4 @@ This page address:
 1. *[Spiking Neural networks](https://github.com/max-talanov/1/blob/master/affective_computing_course/realistic_nns.md)*
 1. [Non-perceptron](https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/non_perceptron.md)
 1. Memristors and memristive devices
-   1. [Memristor](memristor.md)
-   1. Memristive devices
-	  1. Inorganic 
-	  1. Organic
+   1. [Memristor and memristive devices](memristor.md)
