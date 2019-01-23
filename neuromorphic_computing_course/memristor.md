@@ -14,3 +14,7 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ![Pinched hysteresis](https://upload.wikimedia.org/wikipedia/commons/0/0c/Pinched_crossing_hysteresis.png)
 
+
+## Memristive devices
+
+
