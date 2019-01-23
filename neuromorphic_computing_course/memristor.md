@@ -40,7 +40,7 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ![PANI stochastic network](PANI_stochastic_network.png)
 
-![PANI synapse prosthesis]PANI_synapse_prosthesis.png
+![PANI synapse prosthesis](PANI_synapse_prosthesis.png)
 
 
 ## Applications
