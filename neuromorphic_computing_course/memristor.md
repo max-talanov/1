@@ -32,6 +32,9 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ### Organic 
 
+![PANI memristor](PANI_memristor.png)
+
+![PANI memristor action principle](PANI_memristor_action_principle.png)
 
 ## Applications
 
