@@ -35,9 +35,12 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ## Applications
 
-1. ReRAM
-1. ANN
-1. Neuromorphic prosthesis
+1. [ReRAM](https://en.wikipedia.org/wiki/Resistive_random-access_memory)
+
+![ReRAM](ReRAM.png)
+
+1. [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network)
+1. Neuromorphic prosthetics
 
 
 ## References
@@ -47,3 +50,7 @@ https://en.wikipedia.org/wiki/Memristor
 Yakopcic, C., Wang, S., Wang, W., Shin, E., Boeckl, J., Subramanyam, G., & Taha, T. M. (2017). Filament formation in lithium niobate memristors supports neuromorphic programming capability. Neural Computing and Applications, 1-7.
 
 Wang, W., Wang, M., Ambrosi, E., Bricalli, A., Laudato, M., Sun, Z., ... & Ielmini, D. (2019). Surface diffusion-limited lifetime of silver and copper nanofilaments in resistive switching devices. Nature communications, 10(1), 81.
+
+Erokhin, V., & Fontana, M. P. (2008). Electrochemically controlled polymeric device: a memristor (and more) found two years ago. arXiv preprint arXiv:0807.0333.
+
+ЕРОХИН, В. В. ОРГАНИЧЕСКИЕ МЕМРИСТОРНЫЕ ПРИБОРЫ И НЕЙРОМОРФНЫЕ СИСТЕМЫ.
