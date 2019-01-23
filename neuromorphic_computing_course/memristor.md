@@ -19,9 +19,15 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ### Inorganic
 
+#### TiO2
+
 ![TiO2](https://upload.wikimedia.org/wikipedia/en/9/9f/Memristor.jpg)
 
+#### LiNbO3
+
 ![Memristors LiNbO3](LiNbO3_memristors.png)
+
+#### Filament 
 
 ![Filament LiNbO3](LiNbO3_filament.png)
 
@@ -29,16 +35,23 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 [Filament formation movie](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-07979-0/MediaObjects/41467_2018_7979_MOESM5_ESM.mov)
 
-
 ### Organic 
+
+#### PANI memristor
 
 ![PANI memristor](PANI_memristor.png)
 
 ![PANI memristor action principle](PANI_memristor_action_principle.png)
 
+#### PANI sandwich
+
 ![PANI sandwich principle schematic](PANI_sandwich.png)
 
+#### Stochastic network
+
 ![PANI stochastic network](PANI_stochastic_network.png)
+
+#### PANI synapse prosthesis
 
 ![PANI synapse prosthesis](PANI_synapse_prosthesis.png)
 
