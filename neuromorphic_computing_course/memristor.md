@@ -17,4 +17,21 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ## Memristive devices
 
+### Inorganic
+
+![TiO2](https://upload.wikimedia.org/wikipedia/en/9/9f/Memristor.jpg)
+
+![Filament](filament.png)
+
+
+### Organic 
+
+
+
+
+
+## References
+
+Yakopcic, C., Wang, S., Wang, W., Shin, E., Boeckl, J., Subramanyam, G., & Taha, T. M. (2017). Filament formation in lithium niobate memristors supports neuromorphic programming capability. Neural Computing and Applications, 1-7.
+
 
