@@ -14,6 +14,7 @@ This page address:
 
 [Cognitive architecture H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/);
 [Loosing control Within the H-Cogaff Architecture](http://www.cs.bham.ac.uk/~ddp/pettersLosingControlV5.pdf)
+[SOAR wikipedia page](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
 
 
 ## Syllabus
@@ -31,7 +32,7 @@ This page address:
 	  1. [Levels of mental activities](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
 	  1. [Thinking](https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md)
    1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
-   1. SOAR
+   1. [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
 1. *[Spiking Neural networks](https://github.com/max-talanov/1/blob/master/affective_computing_course/realistic_nns.md)*
 1. [Non-perceptron](https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/non_perceptron.md)
 1. [Memristor and memristive devices](memristor.md)
