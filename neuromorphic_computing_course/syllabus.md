@@ -13,6 +13,9 @@ This page address:
 
 [Brain-inspired computing](https://aip.scitation.org/doi/10.1063/1.5042413)
 
+[Cognitive architecture H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
+[Loosing control Within the H-Cogaff Architecture](http://www.cs.bham.ac.uk/~ddp/pettersLosingControlV5.pdf)
+
 
 ## Syllabus
 
@@ -20,7 +23,7 @@ This page address:
    1. [Chemical synapse and neuron](https://github.com/max-talanov/1/blob/master/affective_computing_course/neurons_and_chemical_synapses.md) 
    1. [Neurotransmission and neuromodulation](https://github.com/max-talanov/1/blob/master/affective_computing_course/neurotransmission.md)
    1. [Models of neuron](https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/nn_intro.md)
-   1. Learning: Hebbian, anti-Hebbian, Sombrero, anti-Sombrero, sinusoidal
+   1. Learning: Hebbian, anti-Hebbian, sombrero, anti-sombrero, sinusoidal
    1. Cortical columns
    1. Brain areas and cognitive phenomena
 1. *[Cognitive architectures and intelligent agents](https://github.com/max-talanov/1/blob/master/affective_computing_course/cognitive_architecture.md)*
@@ -28,7 +31,7 @@ This page address:
 	  1. [Consciousness](https://github.com/max-talanov/1/blob/master/affective_computing_course/consciousness.md)
 	  1. [Levels of mental activities](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
 	  1. [Thinking](https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md)
-   1. H-CogAff
+   1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
    1. SOAR
 1. *[Spiking Neural networks](https://github.com/max-talanov/1/blob/master/affective_computing_course/realistic_nns.md)*
 1. [Non-perceptron](https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/non_perceptron.md)
