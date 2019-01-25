@@ -12,7 +12,7 @@ This page address:
 
 [Tutorial: Brain-inspired computing using phase-change memory devices](https://aip.scitation.org/doi/10.1063/1.5042413)
 
-[Cognitive architecture H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
+[Cognitive architecture H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/);
 [Loosing control Within the H-Cogaff Architecture](http://www.cs.bham.ac.uk/~ddp/pettersLosingControlV5.pdf)
 
 
