@@ -6,9 +6,17 @@
 
 ![Cartoon cortical columns](cartoon_cortical_columns.png)
 
+## Prediction with cortical columns
+
+![Prediction w cc](https://www.frontiersin.org/files/Articles/174222/fncir-10-00023-HTML/image_m/fncir-10-00023-g003.jpg)
+
+
+
 
 ## References
 
 http://www.kurzweilai.net
 
 [Numenta cortical columns paper](https://numenta.com/assets/pdf/research-publications/papers/Companion-paper-to-Thousand-Brains-Theory-of-Intelligence.pdf)
+
+[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)
