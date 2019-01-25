@@ -6,7 +6,12 @@
 
 ![Cartoon cortical columns](cartoon_cortical_columns.png)
 
-## Prediction with cortical columns
+
+# Learning
+
+![Learning](https://www.frontiersin.org/files/Articles/295079/fncir-11-00081-HTML/image_m/fncir-11-00081-g001.jpg)
+
+# Prediction with cortical columns 
 
 ![Prediction w cc](https://www.frontiersin.org/files/Articles/174222/fncir-10-00023-HTML/image_m/fncir-10-00023-g003.jpg)
 
