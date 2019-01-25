@@ -1,4 +1,4 @@
-# Realistic neural networks
+# Spiking neural networks
 
 ## Cumulative table
 
