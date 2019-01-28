@@ -16,14 +16,9 @@
 
 ## Inhibitory learning 
 
-
-
-
 ### Sombrero
 
 ![Sombrero learning](Sombrero_iSTDP.png)
-
-### Sinusoidal 
 
 ### anti- * 
 
@@ -31,6 +26,17 @@
 
 ![ant-Hebbian](antiHebb_iSTDP.png)
 
+## Learning effects 
+
+### Hebbian 
+![Gauss Hebbian](Gauss_Fl_Aff_Hebb.png)
+
+### Sombrero
+![Gauss Sombrero](Gauss_Fl_Ia_sombrero.png)
+
+### Sinusoidal 
+
+![Gauss Sinusoidal](Gauss_FlexorIA_sin)
 
 ## Neuromodulation [with dopamine]
 
