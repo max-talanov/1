@@ -26,6 +26,10 @@
 
 ![ant-Hebbian](antiHebb_iSTDP.png)
 
+### Biological examples
+
+![iSTDP](iSTDP.png)
+
 ## Learning effects 
 
 ### Hebbian 
