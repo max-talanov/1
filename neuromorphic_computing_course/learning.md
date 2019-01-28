@@ -8,7 +8,7 @@
 
 ![Human connectome top](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_Human_Connectome.png/1280px-The_Human_Connectome.png)
 
-![Human connectome lateral](https://upload.wikimedia.org/wikipedia/commons/f/f2/White_Matter_Connections_Obtained_with_MRI_Tractography.png)
+![Human connectome lateral](https://upload.wikimedia.org/wikipedia/commons/8/82/DTI-sagittal-fibers.jpg)
 
 ## Reflex arc example 
 
