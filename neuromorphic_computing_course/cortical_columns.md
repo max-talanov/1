@@ -9,7 +9,7 @@
 
 ## Cortical column connectome
 
-![Cortical column connectome][thalamus_cortex.png]
+![Cortical column connectome](thalamus_cortex.png)
 
 ## Learning
 
