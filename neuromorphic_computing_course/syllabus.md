@@ -23,7 +23,7 @@ This page address:
    1. [Chemical synapse and neuron](https://github.com/max-talanov/1/blob/master/affective_computing_course/neurons_and_chemical_synapses.md) 
    1. [Neurotransmission and neuromodulation](https://github.com/max-talanov/1/blob/master/affective_computing_course/neurotransmission.md)
    1. [Models of neuron](https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/nn_intro.md)
-   1. Learning: Hebbian, anti-Hebbian, sombrero, anti-sombrero, sinusoidal
+   1. [Learning: Hebbian, anti-Hebbian, sombrero, anti-sombrero, sinusoidal](learning.md)
    1. [Cortical columns](cortical_columns.md)
 1. *[Cognitive architectures and intelligent agents](https://github.com/max-talanov/1/blob/master/affective_computing_course/cognitive_architecture.md)*
    1. Model of six
