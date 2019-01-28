@@ -12,7 +12,7 @@
 
 ## Reflex arc example 
 
-![Reflex arc]()
+![Reflex arc](reflex_arc.png)
 
 ## Inhibitory learning 
 
