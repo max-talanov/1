@@ -36,7 +36,7 @@
 
 ### Sinusoidal 
 
-![Gauss Sinusoidal](Gauss_FlexorIA_sin)
+![Gauss Sinusoidal](Gauss_FlexorIA_sin.png)
 
 ## Neuromodulation [with dopamine]
 
