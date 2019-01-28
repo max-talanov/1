@@ -92,7 +92,7 @@
 
 ## Hebbian plasticity 
 
-![Hebbian plasticity](hebbian_plasticity.png)
+[Hebbian plasticity](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/learning.md)
 
 ## References
 
