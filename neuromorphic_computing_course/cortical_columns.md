@@ -7,7 +7,11 @@
 ![Cartoon cortical columns](cartoon_cortical_columns.png)
 
 
-# Learning
+## Cortical column connectome
+
+![Cortical column connectome][thalamus_cortex.png]
+
+## Learning
 
 ![Learning](https://www.frontiersin.org/files/Articles/295079/fncir-11-00081-HTML/image_m/fncir-11-00081-g001.jpg)
 
