@@ -21,6 +21,8 @@
 
 ### Sombrero
 
+![Sombrero learning](Sombrero_iSTDP.png)
+
 ### Sinusoidal 
 
 ### anti- * 
@@ -33,7 +35,6 @@
 ## Neuromodulation [with dopamine]
 
 ![Dopamine modulation of STDP](D1_D2_eSTDP_iSTDP_LC.png)
-
 
 ## References
 
