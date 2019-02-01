@@ -20,7 +20,7 @@ Each column receives feedforward sensory input from a different sensor array [e.
 ## Prediction with cortical columns 
 
 ![Prediction w cc](https://www.frontiersin.org/files/Articles/174222/fncir-10-00023-HTML/image_m/fncir-10-00023-g003.jpg)
-
+(A) Both active cells (black) and depolarized/predicted cells (red) are shown. The first panel shows the unexpected input A, which leads to a prediction of the next input B′ (second panel). If the subsequent input matches the prediction then only the depolarized cells will become active (third panel), which leads to a new prediction (fourth panel). The lateral synaptic connections used by one of the predicted cells are shown in the rightmost panel. In a realistic network every predicted cell would have 15 or more connections to a subset of a large population of active cells. (B) Ambiguous sub-sequence “BC” (which is part of both ABCD and XBCY) is presented to the network. The first panel shows the unexpected input B, which leads to a prediction of both C′ and C″. The third panel shows the system after input C. Both sets of predicted cells become active, which leads to predicting both D and Y (fourth panel). In complex data streams there are typically many simultaneous predictions.
 
 ## References
 
