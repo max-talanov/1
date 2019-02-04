@@ -4,7 +4,7 @@
 
 ![Action Potential distribution](http://upload.wikimedia.org/wikipedia/commons/9/95/Action_Potential.gif)
 
-![In depth action potential](https://en.wikipedia.org/wiki/Action_potential#/media/File:The_process_of_how_action_potential_passes_through_a_neuron.svg)
+![In depth action potential](https://commons.wikimedia.org/wiki/File:The_process_of_how_action_potential_passes_through_a_neuron.svg#/media/File:The_process_of_how_action_potential_passes_through_a_neuron.svg)
 
 ## Saltatory conduction
 ![Satatory conduction](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/1024px-Saltatory_Conduction.gif)
