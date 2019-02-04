@@ -4,7 +4,7 @@
 
 ![Action Potential distribution](http://upload.wikimedia.org/wikipedia/commons/9/95/Action_Potential.gif)
 
-[[File:The process of how action potential passes through a neuron.svg|500px|thumb|An in-depth process of how an action potential will pass through a neuron during neuron transmission including the 4 stages: resting potential, depolarization, re-polarization, and back to resting potential. The diagram shows how sodium ions and potassium ions interact to show how the changing of charge allows the action potential to cross with the use of facilitated diffusion and active transport.]]
+<p><a href="https://commons.wikimedia.org/wiki/File:The_process_of_how_action_potential_passes_through_a_neuron.svg#/media/File:The_process_of_how_action_potential_passes_through_a_neuron.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_process_of_how_action_potential_passes_through_a_neuron.svg/1200px-The_process_of_how_action_potential_passes_through_a_neuron.svg.png" alt="The process of how action potential passes through a neuron.svg"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Patpatar2000&amp;action=edit&amp;redlink=1" class="new" title="User:Patpatar2000 (page does not exist)">Giovanni Guerra</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=69566164">Link</a></p>
 
 ## Saltatory conduction
 ![Satatory conduction](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/1024px-Saltatory_Conduction.gif)
