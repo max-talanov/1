@@ -3,6 +3,7 @@
 ## McCullogh-Pitts Model
 
 http://ecee.colorado.edu/~ecen4831/lectures/NNet2.html
+
 https://en.wikipedia.org/wiki/Artificial_neuron
 
 1. They are binary devices (Vi = [0,1])
@@ -25,9 +26,13 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 ## Perceptron model (Rosenblat) 
 
 https://en.wikipedia.org/wiki/Perceptron
+
 http://ecee.colorado.edu/%7Eecen4831/lectures/NNet2.html
+
 http://ecee.colorado.edu/%7Eecen4831/lectures/NNet3.html
+
 http://www.emergentmind.com/neural-network
+
 https://en.wikipedia.org/wiki/Backpropagation
 
 1. The weights and thresholds were not all identical.
