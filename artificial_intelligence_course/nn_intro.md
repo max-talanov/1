@@ -79,6 +79,7 @@ where ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/f300b83673e961
 Polychronization
 
 http://www.izhikevich.org/publications/spikes.htm
+
 http://izhikevich.org/publications/whichmod.htm
 
 ![](http://www.izhikevich.org/publications/izhik.gif)
