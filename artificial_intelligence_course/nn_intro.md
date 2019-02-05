@@ -31,7 +31,7 @@ http://www.emergentmind.com/neural-network
 https://en.wikipedia.org/wiki/Backpropagation
 
 1. The weights and thresholds were not all identical.
-1 Weights can be positive or negative.
+1. Weights can be positive or negative.
 1. There is no absolute inhibitory synapse.
 1. Although the neurons were still two-state, the output function f(u) goes from [-1,1], not [0,1]. (This is no big deal, as a suitable change in the threshold lets you transform from one convention to the other.)
 1. Most importantly, there was a learning rule.
