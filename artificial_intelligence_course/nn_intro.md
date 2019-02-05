@@ -46,6 +46,7 @@ Let ti be the desired "target" output for a given input pattern, and Vi be the a
 
 Specifically, ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img6.gif) and ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img7.gif)
 
+![](http://ecee.colorado.edu/%7Eecen4831/lectures/NN2img8.gif) is the learning rate.
 ## Hodgkin–Huxley model
 
 Leaky neuron
