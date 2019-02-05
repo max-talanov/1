@@ -69,7 +69,7 @@ Current through a given ion channel:
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/a796521d399a707af47af8ef7c2e6b5bea441449)
 
-where ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/f300b83673e961a9d48f3862216b167f94e5668c) is the reversal (equilibrum) potential of the i-th ion channel. Thus, for a cell with sodium and potassium channels, the total current through the membrane is given by:
+where ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/f300b83673e961a9d48f3862216b167f94e5668c) is the reversal (equilibrium) potential of the i-th ion channel. Thus, for a cell with sodium and potassium channels, the total current through the membrane is given by:
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/58ee17a4f52f7defa01af4e77bae2c348cd76d64)
 
