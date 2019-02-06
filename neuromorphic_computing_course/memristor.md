@@ -55,7 +55,7 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 #### PANI synapse prosthesis
 
-![PANI synapse prosthesis](PANI_synapse_prosthesis.png)
+![PANI synapse prosthesis](memristive_coupling.jpg)
 
 
 ## Applications
