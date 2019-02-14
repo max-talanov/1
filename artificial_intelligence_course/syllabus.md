@@ -1,4 +1,4 @@
-# Artificial intelligence syllabus
+# Introduction into artificial intelligence
 
 Max Talanov: talanov.max@gmail.com
 
