@@ -15,7 +15,7 @@ Text book: Artificial Intelligence: A Modern Approach
    1. [Intro in Neural networks](nn_intro.md)
    1. [Non perceptron](non_perceptron.md)
    1. Neural networks topologies (seminars): 
-	  1. Perceptron
+	  1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 	  1. Self-organizing map (Kohonen map)
 	  1. [Cortical column and HTM](https://numenta.org/hierarchical-temporal-memory/)
 	  1. [Convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
