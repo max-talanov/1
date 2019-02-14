@@ -20,7 +20,7 @@ Text book: Artificial Intelligence: A Modern Approach
 	  1. [Cortical column and HTM](https://numenta.org/hierarchical-temporal-memory/)
 	  1. [Convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 	  1. [Recursive networks and LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
-	  1. Izhikevich polychronisation
+	  1. [Izhikevich polychronisation](https://izhikevich.org/publications/spnet.htm)
 	  1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
 
 1. Logical agents [Alik Kirilovich]
