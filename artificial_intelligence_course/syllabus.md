@@ -10,8 +10,8 @@ Text book: Artificial Intelligence: A Modern Approach
 1. Learning
    1. [Machine learning intro](ml_intro.md)
    1. [TU intro](tu_intro.md)
-   1. [Intro in Neural networks](nn_intro.md)
-   1. [Non perceptron](non_perceptron.md)
+   1. [Intro in neural networks](nn_intro.md)
+   1. [Non Perceptron](non_perceptron.md)
    1. Neural networks topologies (seminars): 
 	  1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 	  1. [Self-organizing map (Kohonen map)](https://en.wikipedia.org/wiki/Self-organizing_map)
