@@ -2,8 +2,6 @@
 
 Max Talanov: talanov.max@gmail.com
 
-Alik Kirilivich alik.kirillovich@gmail.com
-
 Text book: Artificial Intelligence: A Modern Approach 
 
 1. [Intro.](intro.md)
