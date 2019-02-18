@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/Artificial_neuron
    1. No leakage
    1. No STDP (Hebban, anti-Hebbian, Sombrero, ...)
 
-## Perceptron model (Rosenblat) 
+## Perceptron model (Rosenblatt) 
 
 https://en.wikipedia.org/wiki/Perceptron
 
