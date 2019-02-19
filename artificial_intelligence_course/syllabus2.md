@@ -1,4 +1,4 @@
-# Advanced AI
+# Advanced Artificial Intelligence
 
 1. [Intro](intro2.md)
 1. Intro in Neuroscience
