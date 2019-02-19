@@ -1,4 +1,4 @@
-# Introduction into artificial intelligence
+# Introduction in Artificial Intelligence
 
 Max Talanov: talanov.max@gmail.com
 
