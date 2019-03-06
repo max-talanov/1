@@ -5,8 +5,10 @@
 https://www.youtube.com/watch?v=q0pIlc-MnaY
 
 ## Greg Gage
-
 https://www.youtube.com/watch?v=pvBlSFVmoaw
+
+https://www.youtube.com/watch?v=rSQNi5sAwuc
+
 
 ## OpenCog
 https://opencog.org/theory/
