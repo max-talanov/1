@@ -31,7 +31,7 @@ class individual:
 def generateFirstPopulation(sizePopulation, password):
 	population = []
 	# some magic
-return population
+	return population
 
 ```
 
