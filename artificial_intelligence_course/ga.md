@@ -53,8 +53,7 @@ def ff(individual):
 def createChildren(breeders, number_of_child):
 	nextPopulation = []
 	#some magic
-return nextPopulation
-
+	return nextPopulation
 ```
 
 ![Crossover](https://cdn-images-1.medium.com/max/800/1*eQxFezBtdfdLxHsvSvBNGQ.png)
