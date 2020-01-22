@@ -21,5 +21,6 @@ Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](htt
 	  1. [Izhikevich polychronisation](https://izhikevich.org/publications/spnet.htm)
 	  1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
 
-Artificial intelligence mind map
+## Artificial intelligence mind map
+
 ![AI mind map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
