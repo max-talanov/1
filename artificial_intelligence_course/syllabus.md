@@ -2,7 +2,7 @@
 
 Max Talanov: talanov.max@gmail.com
 
-Text book: Artificial Intelligence: A Modern Approach 
+Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](https://en.wikipedia.org/wiki/The_Emotion_Machine)
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
