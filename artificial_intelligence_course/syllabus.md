@@ -6,8 +6,7 @@ Text book: Artificial Intelligence: A Modern Approach
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
-
-1. Learning
+1. **Learning**
    1. [Machine learning intro](ml_intro.md)
    1. [Model of six intro, implementation: TU intro](tu_intro.md)
    1. [Genetic programming](ga.md)
