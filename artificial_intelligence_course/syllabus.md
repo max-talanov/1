@@ -9,7 +9,7 @@ Text book: Artificial Intelligence: A Modern Approach
 
 1. Learning
    1. [Machine learning intro](ml_intro.md)
-   1. [TU intro](tu_intro.md)
+   1. [Model of six intro, implementation: TU intro](tu_intro.md)
    1. [Intro in neural networks](nn_intro.md)
    1. [Non Perceptron](non_perceptron.md)
    1. Neural networks topologies (seminars): 
