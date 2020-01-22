@@ -1,4 +1,4 @@
-# TU intro 
+# Model of six design and implementation: TU intro 
 TU = thinking and understanding
 
 [Design specification](https://github.com/tu-team/2/blob/master/doc/design-specification/design-specification.md)
