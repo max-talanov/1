@@ -92,3 +92,7 @@ Integration for NHS hospitals of England.
 
 1. Semantic cycles
 1. ...
+
+## Unconventioal use of genetic programming
+Reconfigurable organisms
+https://www.pnas.org/content/early/2020/01/07/1910837117
