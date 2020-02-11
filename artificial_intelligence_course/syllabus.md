@@ -4,7 +4,7 @@ Max Talanov: talanov.max@gmail.com
 
 Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](https://en.wikipedia.org/wiki/The_Emotion_Machine)
 
-Reference https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/syllabus.md
+Reference: https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/syllabus.md
 
 
 1. [Intro.](intro.md)
