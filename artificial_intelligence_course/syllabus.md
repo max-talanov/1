@@ -10,10 +10,10 @@ Reference: https://github.com/max-talanov/1/blob/master/artificial_intelligence_
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
 1. **Learning**
+   1. [Models of neurons](nn_intro.md)
    1. [Machine learning intro](ml_intro.md)
    1. [Model of six intro, implementation: TU intro](tu_intro.md)
    1. [Genetic programming](ga.md)
-   1. [Intro in neural networks](nn_intro.md)
    1. [Non-perceptron](non_perceptron.md)
    1. **Neural networks (Perceptron):** 
 	  1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
