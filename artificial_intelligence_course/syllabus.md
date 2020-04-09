@@ -16,9 +16,7 @@ Fundumentals of neurosciense Harvard
 3. https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain
 
 TensorFlow tutorial: https://www.tutorialspoint.com/tensorflow/index.htm
-
 Keras tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python
-
 Courses AI Samsung: https://stepik.org/org/srr
 
 1. [Intro.](intro.md)
