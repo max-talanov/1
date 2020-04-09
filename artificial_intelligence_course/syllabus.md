@@ -6,6 +6,19 @@ Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](htt
 
 Reference: https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/syllabus.md
 
+Usefull links:
+Python Tutorial: https://docs.python.org/3/tutorial/index.html
+Fundumentals of neurosciense Harvard 
+https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical
+https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-ne
+https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain
+
+TensorFlow tutorial: https://www.tutorialspoint.com/tensorflow/index.htm
+Keras tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+Courses AI Samsung: https://stepik.org/org/srr  
+
+
+
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
