@@ -66,17 +66,17 @@ N      |Cognitive architecture |Score|Reference
 	  
 	  3. Constructive memory
 	  3. Reconstructive memory
-	  
-   2. Consciousness:
-	  
-	  3. Awareness
-	  3. Learning
-	  3. Anticipation
-	  3. Subjective experience
-	  
-  2. Intuition
-  2. Creativity(imagination)
-  2. Dream/sleep
+
+	2. Consciousness:
+
+			3. Awareness
+			3. Learning
+			3. Anticipation
+			3. Subjective experience
+	
+	2. Intuition
+	2. Creativity(imagination)
+	2. Dream/sleep
   
 1. Parallel processing
 1. Self-emergent/self-organized
