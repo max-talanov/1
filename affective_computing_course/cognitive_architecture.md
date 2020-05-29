@@ -53,7 +53,8 @@ N      |Cognitive architecture |Score|Reference
    2. Learned level
    2. Deliberative level
    2. Reflection level
-1. AI components:
+   
+1. AI components (The Emotion Machine):
    
    2. Attention
    2. Planning
