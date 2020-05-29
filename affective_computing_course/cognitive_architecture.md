@@ -40,7 +40,7 @@ N      |Cognitive architecture |Score|Reference
 
 1. Emotional criteria:
 
-	2. Cognitive Representation
+   2. Cognitive Representation
    2. Cognition -> Emotion
    2. Emotion Representation
    2. Emotion -> Cognition
@@ -48,11 +48,13 @@ N      |Cognitive architecture |Score|Reference
    2. Compatibility with Tomkins affects
    2. Compatibility with Picard criteria
 1. Thinking levels:
+   
    2. Instinctive level
    2. Learned level
    2. Deliberative level
    2. Reflection level
 1. AI components:
+   
    2. Attention
    2. Planning
    2. Motivation(implying Emotions)
@@ -60,9 +62,11 @@ N      |Cognitive architecture |Score|Reference
    2. Reasoning
    2. Perception/understanding
    2. Memory:
+	  
 	  3. Constructive memory
 	  3. Reconstructive memory
    2. Consciousness:
+	  
 	  3. Awareness
 	  3. Learning
 	  3. Anticipation
