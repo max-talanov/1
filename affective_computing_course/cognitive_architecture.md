@@ -38,7 +38,7 @@ N      |Cognitive architecture |Score|Reference
 
 ## Analysis criteria
 
-1. Emotional criteria:
+1. Emotional criteria (http://www.cogsys.org/pdf/paper-3-2-39.pdf):
 
    2. Cognitive Representation
    2. Cognition -> Emotion
