@@ -54,7 +54,7 @@ N      |Cognitive architecture |Score|Reference
    2. Deliberative level
    2. Reflection level
    
-1. AI components (The Emotion Machine):
+1. AI components (Axioms and Tests for the Presence of Minimal Consciousness in Agents):
    
    2. Attention
    2. Planning
@@ -66,6 +66,7 @@ N      |Cognitive architecture |Score|Reference
 	  
 	  3. Constructive memory
 	  3. Reconstructive memory
+	  
    2. Consciousness:
 	  
 	  3. Awareness
