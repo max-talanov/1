@@ -47,7 +47,7 @@ N      |Cognitive architecture |Score|Reference
    2. Compatibility with Plutchick wheel of emotion
    2. Compatibility with Tomkins affects
    2. Compatibility with Picard criteria
-1. Thinking levels:
+1. Thinking levels (https://en.wikipedia.org/wiki/The_Emotion_Machine):
    
    2. Instinctive level
    2. Learned level
