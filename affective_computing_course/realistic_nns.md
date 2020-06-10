@@ -18,7 +18,7 @@ Number |SNN                    |Score|Reference
 12    |ReMoto                 | 0   |
 13    |SpikeNet               | 1   |
 14    |Topographica           | 1   |
-15    |**NEURON*              |     |https://neuron.yale.edu/neuron/
+15    |**NEURON**             |     |https://neuron.yale.edu/neuron/
 
 ## Criteria
 
