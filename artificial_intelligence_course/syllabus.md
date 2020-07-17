@@ -15,6 +15,8 @@ Fundumentals of neurosciense Harvard
 2. https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-ne
 3. https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain
 
+PyTorch tutorial: https://pytorch.org/tutorials/
+
 TensorFlow tutorial: https://www.tutorialspoint.com/tensorflow/index.htm
 
 Keras tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python
