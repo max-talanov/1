@@ -28,9 +28,9 @@ Courses AI Samsung: https://stepik.org/org/srr
 1. **Learning**
    1. [Models of neurons](nn_intro.md)
    1. [Machine learning intro](ml_intro.md)
-   1. [Model of six intro, implementation: TU intro](tu_intro.md)
    1. [Genetic programming](ga.md)
    1. [Non-perceptron](non_perceptron.md)
+   1. [Model of six intro, implementation: TU intro](tu_intro.md)
 1. **Neural networks:** 
    1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
    1. [Self-organizing map (Kohonen map)](https://en.wikipedia.org/wiki/Self-organizing_map)
