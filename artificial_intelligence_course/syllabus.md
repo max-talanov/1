@@ -40,6 +40,7 @@ Courses AI Samsung: https://stepik.org/org/srr
    1. [Izhikevich polychronisation](https://izhikevich.org/publications/spnet.htm)
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
 1. **Computer vision**
+   1. [Object detection, segmentation problems]()
    1. [OpenCV]()
    1. [Haar classifier](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
    1. [Yolo v 5]()
