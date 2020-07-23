@@ -14,5 +14,6 @@
 	  1. [Consciousness](https://github.com/max-talanov/1/blob/master/affective_computing_course/consciousness.md)
 	  1. [6 levels of mental activity](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
 	  1. [Model of thinking](https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md)
+   1. [Model of six intro, implementation: TU intro](tu_intro.md)
    1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
    1. [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
