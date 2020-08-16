@@ -35,6 +35,7 @@ Courses AI Samsung: https://stepik.org/org/srr
    1. [Self-organizing map (Kohonen map)](https://en.wikipedia.org/wiki/Self-organizing_map)
    1. [Convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
    1. [Recursive networks and LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
+1. **Bio-plausible**
    1. [Izhikevich polychronisation](https://izhikevich.org/publications/spnet.htm)
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
    1. [Cortical column and HTM](https://numenta.org/hierarchical-temporal-memory/)
