@@ -31,6 +31,7 @@ Mask R-CNN
 
 ![](https://www.learnopencv.com/wp-content/uploads/2018/10/panoptic-segmentation.jpg)
 
+[Semantic segmentation benchmarks](https://paperswithcode.com/task/semantic-segmentation)
 
 ## Object detection problem
 
