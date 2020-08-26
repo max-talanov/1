@@ -39,6 +39,13 @@ Mask R-CNN
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Detected-with-YOLO--Schreibtisch-mit-Objekten.jpg/1920px-Detected-with-YOLO--Schreibtisch-mit-Objekten.jpg)
 
+## Image data sets
+
+1. [ms coco](http://cocodataset.org/#explore)
+1. [visual gemome](http://visualgenome.org/VGViz/explore?page=10&query=knee)
+1. [youtube](https://research.google.com/youtube8m/explore.html)
+
+
 
 ## References
 
