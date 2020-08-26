@@ -6,7 +6,7 @@ Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](htt
 
 Reference: https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/syllabus.md
 
-Usefull links:
+## References:
 
 Python Tutorial: https://docs.python.org/3/tutorial/index.html
 
