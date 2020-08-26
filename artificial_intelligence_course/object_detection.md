@@ -29,7 +29,7 @@ Mask R-CNN
 
 ### Panoptic Segmentation
 
-![](https://www.learnopencv.com/wp-content/uploads/2018/10/instance-segmentation.jpg)
+![](https://www.learnopencv.com/wp-content/uploads/2018/10/panoptic-segmentation.jpg)
 
 
 ## Object detection problem
