@@ -65,7 +65,7 @@ Mask R-CNN
 1. https://www.kaggle.com
 1. https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html
 1. http://image-net.org
-1. video https://research.google.com/youtube8m/explore.html 
+1. [youtube](https://research.google.com/youtube8m/explore.html)
 
 ### Technologies 
 
