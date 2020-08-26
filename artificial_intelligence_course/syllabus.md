@@ -40,12 +40,12 @@ Courses AI Samsung: https://stepik.org/org/srr
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
    1. [Cortical column and HTM](https://numenta.org/hierarchical-temporal-memory/)
 1. **Computer vision**
-   1. [Object detection, segmentation problems]()
-   1. [OpenCV]()
+   1. [Object detection, segmentation problems](object_detection.md)
+   1. [OpenCV](openCV.md)
    1. [Haar classifier](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
-   1. [Yolo v 5]()
-   1. [ResNet]()
-   1. [U-net]()
+   1. [YOLOv5](yolov5.md)
+   1. [ResNet](resNet.md)
+   1. [U-net](u-net.md)
 
 
 ## Artificial intelligence mind map
