@@ -14,7 +14,9 @@
 
 ### Architecture
 
-![PP-YOLOv3 architecture](pp-yolov3_hld.png)
+![YOLOv3 architecture](darknet-53.png)
+
+![PP-YOLOv3 architecture](pp-yolov3.png)
 
 ### Benchmarks
 
