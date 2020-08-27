@@ -20,7 +20,7 @@
 
 ### Benchmarks
 
-![](https://pjreddie.com/media/image/map50blue.png)
+![](yolov3_benchmarks.png)
 
 ![](https://user-images.githubusercontent.com/26833433/80831822-57a9de80-8ba0-11ea-9684-c47afb0432dc.png)
 
