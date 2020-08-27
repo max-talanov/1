@@ -12,6 +12,10 @@
 
 ![](https://user-images.githubusercontent.com/26833433/64067833-51d5b500-cc2f-11e9-8208-6fe197809131.jpg)
 
+### Architecture
+
+![PP-YOLOv3 architecture](pp-yolov3_hld.png)
+
 ### Benchmarks
 
 ![](https://pjreddie.com/media/image/map50blue.png)
@@ -64,3 +68,6 @@
 1. [Tiny-YOLO](https://arxiv.org/pdf/2008.02170.pdf)
 1. [PP-YOLO](https://arxiv.org/pdf/2007.12099.pdf)
 1. [Object Detection and Tracking Algorithms for Vehicle Counting](https://arxiv.org/pdf/2007.16198.pdf)
+
+1. [Layers in deep learning](https://iq.opengenus.org/purpose-of-different-layers-in-ml/)
+1. [Maxpool vs Avgpool](https://iq.opengenus.org/maxpool-vs-avgpool/)
