@@ -16,7 +16,16 @@
 
 ![](https://pjreddie.com/media/image/map50blue.png)
 
+![](https://user-images.githubusercontent.com/26833433/80831822-57a9de80-8ba0-11ea-9684-c47afb0432dc.png)
+
+
 ## YOLOv5
+
+### Benchmarks 
+
+![](https://user-images.githubusercontent.com/26833433/90187293-6773ba00-dd6e-11ea-8f90-cd94afc0427f.png)
+
+### Our benchmarks
 
 | model       | tea        | coffee | pampers | extra | duration | jacket| banana | tomato | extra | duration |**Recall**    |**Precision**|
 |-------------|------------|--------|---------|-------|----------|-------|--------|--------|-------|----------|--------------|-------------|
