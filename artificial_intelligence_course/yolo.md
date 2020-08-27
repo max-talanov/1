@@ -1,6 +1,10 @@
 # YOLO (you only look once)
 
 
+## YOLO v 5 comparison
+
+[YOLO models comparison](https://docs.google.com/spreadsheets/d/1lnaxeeLlomnvtsInAsOQagFE5PSgD15blBKOq6w3fbY/edit#gid=0)
+
 
 ## References
 

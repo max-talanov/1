@@ -43,8 +43,8 @@ Courses AI Samsung: https://stepik.org/org/srr
    1. [Object detection, segmentation problems](object_detection.md)
    1. [OpenCV](openCV.md)
    1. [Haar classifier](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
-   1. [YOLOv5](yolo.md)
-   1. [ResNet](resNet.md)
+   1. [YOLO](yolo.md)
+   1. [Deep Residual Learning](resNet.md)
    1. [U-net](u-net.md)
 
 
