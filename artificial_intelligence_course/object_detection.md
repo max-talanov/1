@@ -39,17 +39,33 @@ Mask R-CNN
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Detected-with-YOLO--Schreibtisch-mit-Objekten.jpg/1920px-Detected-with-YOLO--Schreibtisch-mit-Objekten.jpg)
 
+## Layers of CNN
+
+![Layers in CNN](https://iq.opengenus.org/content/images/2020/04/The-overall-architecture-of-the-Convolutional-Neural-Network-CNN-includes-an-input.png)
+
+* Input layer - This is the layer that receives data.
+* Normalisation layer - It scales input data to suitable intervals such that bias shall be removed.
+* Convolutional layer - This applies filters to the input such that the features maybe detected along with their locations.
+* Pooling layer - It decreases sensitivity to features, thereby creating more generalised data for better test results.
+* Activation layer - This applies mathematical functions f(x) to input layer, such that the ability of learning something complex and interesting is developed.
+* Dropout layer - This layer nullifies certain random input values to generate a more general dataset and prevent the problem of overfitting.
+* Output layer - This is the layer that produces results, devised by our neural network.
+
+### Convolution layer
+
+![Convolution layer](https://iq.opengenus.org/content/images/2020/04/convolution.gif)
+
+![Convolution layer](https://iq.opengenus.org/content/images/2020/04/asamples.gif)
+
+1. [Layers in deep learning](https://iq.opengenus.org/purpose-of-different-layers-in-ml/)
+1. [Maxpool vs Avgpool](https://iq.opengenus.org/maxpool-vs-avgpool/)
+
+
 ## Image data sets
 
 1. [ms coco](http://cocodataset.org/#explore)
 1. [visual gemome](http://visualgenome.org/VGViz/explore?page=10&query=knee)
 1. [youtube](https://research.google.com/youtube8m/explore.html)
-
-
-## Layers of CNN
-
-1. [Layers in deep learning](https://iq.opengenus.org/purpose-of-different-layers-in-ml/)
-1. [Maxpool vs Avgpool](https://iq.opengenus.org/maxpool-vs-avgpool/)
 
 
 ## References
