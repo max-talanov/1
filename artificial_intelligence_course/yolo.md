@@ -38,6 +38,7 @@
 ## References
 
 1. [darknet YOLO](https://pjreddie.com/darknet/yolo/)
+1. [YOLOv3: An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)
 1. [YOLOv4](https://arxiv.org/pdf/2004.10934.pdf)
 1. [Tiny-YOLO](https://arxiv.org/pdf/2008.02170.pdf)
 1. [PP-YOLO](https://arxiv.org/pdf/2007.12099.pdf)
