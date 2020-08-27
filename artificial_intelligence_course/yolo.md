@@ -1,6 +1,6 @@
 # YOLO (You only look once)
 
-| model       	| 131706.png |        	|         	|       	|          	| 134632.png         	|        	|       	|          	| Recall       	| Precision    	|
+| model       	| 131706.png |        	|         	|       	|          	| 134632.png                                        |||||**Recall**     |**Precision**  |
 |-------------	|------------|--------	|---------	|-------	|----------	|-------|--------	|--------	|-------	|----------	|--------------	|--------------	|
 |             	| tea        | coffee 	| pampers 	| extra 	| duration 	| jacket| banana 	| tomato 	| extra 	| duration 	|              	|              	|
 | yolov5l     	| 0          | 1      	| 0       	| 1     	| 2.382    	| 1     | 1      	| 1      	| 0     	| 2.202    	| 0.6666666667 	| 0.8          	|
