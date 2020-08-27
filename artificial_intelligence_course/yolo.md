@@ -12,6 +12,9 @@
 
 ![](https://user-images.githubusercontent.com/26833433/64067833-51d5b500-cc2f-11e9-8208-6fe197809131.jpg)
 
+### Benchmarks
+
+![](https://pjreddie.com/media/image/map50blue.png)
 
 ## YOLOv5
 
