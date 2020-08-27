@@ -25,6 +25,18 @@
 
 ![](https://user-images.githubusercontent.com/26833433/90187293-6773ba00-dd6e-11ea-8f90-cd94afc0427f.png)
 
+| Model | AP<sup>val</sup> | AP<sup>test</sup> | AP<sub>50</sub> | Speed<sub>GPU</sub> | FPS<sub>GPU</sub> || params | FLOPS |
+|---------- |------ |------ |------ | -------- | ------| ------ |------  |  :------: |
+| [YOLOv5s](https://github.com/ultralytics/yolov5/releases/tag/v3.0)    | 37.0     | 37.0     | 56.2     | **2.4ms** | **416** || 7.5M   | 13.2B
+| [YOLOv5m](https://github.com/ultralytics/yolov5/releases/tag/v3.0)    | 44.3     | 44.3     | 63.2     | 3.4ms     | 294     || 21.8M  | 39.4B
+| [YOLOv5l](https://github.com/ultralytics/yolov5/releases/tag/v3.0)    | 47.7     | 47.7     | 66.5     | 4.4ms     | 227     || 47.8M  | 88.1B
+| [YOLOv5x](https://github.com/ultralytics/yolov5/releases/tag/v3.0)    | **49.2** | **49.2** | **67.7** | 6.9ms     | 145     || 89.0M  | 166.4B
+| | | | | | || |
+| [YOLOv5x](https://github.com/ultralytics/yolov5/releases/tag/v3.0) + TTA|**50.8**| **50.8** | **68.9** | 25.5ms    | 39      || 89.0M  | 354.3B
+| | | | | | || |
+| [YOLOv3-SPP](https://github.com/ultralytics/yolov5/releases/tag/v3.0) | 45.6     | 45.5     | 65.2     | 4.5ms     | 222     || 63.0M  | 118.0B
+
+
 ### Our benchmarks
 
 | model       | tea        | coffee | pampers | extra | duration | jacket| banana | tomato | extra | duration |**Recall**    |**Precision**|
@@ -38,8 +50,6 @@
 | yolov5m-fpn | 0          | 1      | 0       | 2     | 1.195    | 0     | 1      | 1      | 0     | 1.086    | 0.5          | 0.6         |
 | yolov5s-fpn | 0          | 1      | 1       | 2     | 0.522    | 1     | 1      | 1      | 3     | 0.492    | 0.833 	     | 0.5         |
 | yolov5x-fpn | 0          | 1      | 0       | 4     | 3.688    | 1     | 1      | 1      | 0     | 3.721    | 0.666 	     | 0.5         |
-
-## YOLOv5 comparison
 
 [YOLO models comparison](https://docs.google.com/spreadsheets/d/1lnaxeeLlomnvtsInAsOQagFE5PSgD15blBKOq6w3fbY/edit#gid=0)
 
