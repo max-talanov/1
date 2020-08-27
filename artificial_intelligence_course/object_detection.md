@@ -60,6 +60,9 @@ Mask R-CNN
 1. [Layers in deep learning](https://iq.opengenus.org/purpose-of-different-layers-in-ml/)
 1. [Maxpool vs Avgpool](https://iq.opengenus.org/maxpool-vs-avgpool/)
 
+### Pooling layer
+
+![](https://iq.opengenus.org/content/images/2020/04/PoolingEg1.png)
 
 ## Image data sets
 
