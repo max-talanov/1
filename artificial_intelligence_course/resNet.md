@@ -14,9 +14,9 @@ The brain has structures similar to residual nets, as cortical layer VI neurons 
 
 ## Architecture 
 
-![]()
-
 ![](https://neurohive.io/wp-content/uploads/2019/01/resnet-architectures-34-101.png)
+
+![](resNet_arch.png)
 
 ## Benchmarks
 
