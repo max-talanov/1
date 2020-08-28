@@ -1,5 +1,9 @@
 # U-net
 
+## Architecture 
+
+![](https://neurohive.io/wp-content/uploads/2018/11/U-net-neural-network-medicine.png)
+
 ## References 
 
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
