@@ -12,8 +12,17 @@ At the final layer, a 1×1 convolution is used to map each 64-component feature 
 
 ![](https://neurohive.io/wp-content/uploads/2018/11/u-net-x.png)
 
-![Overlap-tile strategy](Overlap-tile_strategy.png)
+### Operations
 
+### 3x3 convolution
+
+![](3x3_conv.png)
+
+### Max pooling
+
+![](max_pooling.png)
+
+![Overlap-tile strategy](Overlap-tile_strategy.png)
 
 ## Benchmarks
 
@@ -34,6 +43,7 @@ Result on the ISBI cell tracking challenge. (a) part of an input image of the Ph
 
 ## References 
 
+1. [U-Net teaser](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-teaser.mp4)
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 1. [U-Net: Image Segmentation Network](https://neurohive.io/en/popular-networks/u-net/)
