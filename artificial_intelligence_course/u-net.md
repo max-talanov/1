@@ -2,6 +2,8 @@
 
 ## Architecture 
 
+The network architecture is illustrated in Figure 1. It consists of a contracting path (left side) and an expansive path (right side). The contracting path follows the typical architecture of a convolutional network. It consists of the repeated application of two 3x3 convolutions (unpadded convolutions), each followed by a rectified linear unit (ReLU) and a 2x2 max pooling operation with stride 2 for downsampling. 
+
 ![](https://neurohive.io/wp-content/uploads/2018/11/U-net-neural-network-medicine.png)
 
 ![](https://neurohive.io/wp-content/uploads/2018/11/u-net-x.png)
