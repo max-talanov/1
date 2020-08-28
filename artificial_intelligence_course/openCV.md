@@ -4,6 +4,8 @@
 
 ![](https://docs.opencv.org/master/Background_Subtraction_Tutorial_Scheme.png)
 
+### Code
+
 ```python
 #create Background Subtractor objects
 if args.algo == 'MOG2':
@@ -11,8 +13,27 @@ if args.algo == 'MOG2':
 else:
     backSub = cv.createBackgroundSubtractorKNN()
 ```
+```python
+    #update the background model
+    fgMask = backSub.apply(frame)
+```
+```python
+    #show the current frame and the fg masks
+    cv.imshow('Frame', frame)
+    cv.imshow('FG Mask', fgMask)
+```
 
+### Result
 
+![Source](https://docs.opencv.org/master/Background_Subtraction_Tutorial_frame.jpg)
+
+#### MOG2
+
+![MOG2](https://docs.opencv.org/master/Background_Subtraction_Tutorial_result_MOG2.jpg)
+
+#### KNN
+
+![KNN](https://docs.opencv.org/master/Background_Subtraction_Tutorial_result_KNN.jpg)
 
 
 [OpenCV Tutorial reference](https://docs.opencv.org/master/d1/dc5/tutorial_background_subtraction.html)
