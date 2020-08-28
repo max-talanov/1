@@ -22,6 +22,8 @@ At the final layer, a 1×1 convolution is used to map each 64-component feature 
 
 ![](max_pooling.png)
 
+### Overlap-tile strategy
+
 ![Overlap-tile strategy](Overlap-tile_strategy.png)
 
 ## Benchmarks
