@@ -40,6 +40,27 @@ else:
 
 ## Optical flow
 
+![](https://docs.opencv.org/master/optical_flow_basic1.jpg)
+
+```python
+# Take first frame and find corners in it
+ret, old_frame = cap.read()
+old_gray = cv.cvtColor(old_frame, cv.COLOR_BGR2GRAY)
+p0 = cv.goodFeaturesToTrack(old_gray, mask = None, **feature_params)
+```
+...
+
+```python
+while(1):
+    ret,frame = cap.read()
+    frame_gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
+    # calculate optical flow
+    p1, st, err = cv.calcOpticalFlowPyrLK(old_gray, frame_gray, p0, None, **lk_params)
+```
+
+### Result
+
+![](https://docs.opencv.org/master/opticalflow_lk.jpg)
 
 
 ## References
