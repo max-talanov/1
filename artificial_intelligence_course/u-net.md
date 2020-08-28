@@ -6,11 +6,14 @@ The network architecture is illustrated in Figure 1. It consists of a contractin
 
 ![](https://neurohive.io/wp-content/uploads/2018/11/U-net-neural-network-medicine.png)
 
-![](https://neurohive.io/wp-content/uploads/2018/11/u-net-x.png)
-
 At each downsampling step, feature channels are doubled. Every step in the expansive path consists of an upsampling of the feature map followed by a 2×2 convolution (up-convolution) that halves the number of feature channels, a concatenation with the correspondingly cropped feature map from the contracting path, and two 3×3 convolutions, each followed by a ReLU. The cropping is necessary due to the loss of border pixels in every convolution.
 
 At the final layer, a 1×1 convolution is used to map each 64-component feature vector to the desired number of classes. In total the network has 23 convolutional layers.
+
+![](https://neurohive.io/wp-content/uploads/2018/11/u-net-x.png)
+
+![Overlap-tile strategy](Overlap-tile_strategy.png)
+
 
 ## Benchmarks
 
