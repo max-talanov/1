@@ -4,7 +4,7 @@
 
 ![ResNet building block](https://neurohive.io/wp-content/uploads/2019/01/resnet-570x328.png)
 
-![Piramidal cell](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piramidal_cell.svg/800px-Piramidal_cell.svg.png
+![Piramidal cell](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Piramidal_cell.svg/800px-Piramidal_cell.svg.png)
 
 ## Architecture 
 
