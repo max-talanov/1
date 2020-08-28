@@ -14,6 +14,14 @@ At the final layer, a 1×1 convolution is used to map each 64-component feature 
 
 ![](https://neurohive.io/wp-content/uploads/2018/11/Capture-5.jpg)
 
+Segmentation results (IOU) on the ISBI cell tracking challenge 2015.
+
+### ISBI cell tracking challange
+
+![](https://neurohive.io/wp-content/uploads/2018/11/Capture-6.jpg)
+
+Result on the ISBI cell tracking challenge. (a) part of an input image of the PhC-U373 data set. (b) Segmentation result (cyan mask) with the manual ground truth (yellow border) (c) input image of the DIC-HeLa data set. (d) Segmentation result (random colored masks) with the manual ground truth (yellow border).
+
 ## Retina blood vessels segmentation
 
 ![Retina vessels segmentation](https://raw.githubusercontent.com/orobix/retina-unet/master/test/test_Original_GroundTruth_Prediction3.png)
