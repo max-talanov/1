@@ -10,7 +10,6 @@ Each feature is a single value obtained by subtracting sum of pixels under the w
 
 ```
 opencv_visualisation --image=/data/object.png --model=/data/model.xml --data=/data/result/
-
 ```
 
 ![](https://docs.opencv.org/master/visualisation_video.png)
