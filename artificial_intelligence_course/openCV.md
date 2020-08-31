@@ -1,5 +1,22 @@
 # Open CV
 
+## Image Segmentation Using Color Spaces
+
+![](https://files.realpython.com/media/rgb_nemo.116314a879f5.png)
+
+```python
+light_orange = (1, 190, 200)
+dark_orange = (18, 255, 255)
+```
+```python
+mask = cv2.inRange(hsv_nemo, light_orange, dark_orange)
+```
+
+
+
+![](
+
+
 ## Background substruction
 
 ![](https://docs.opencv.org/master/Background_Subtraction_Tutorial_Scheme.png)
@@ -65,5 +82,6 @@ while(1):
 
 ## References
 
+1. [Image segmentation using color spaces](https://realpython.com/python-opencv-color-spaces/)
 1. [OpenCV tutorail root](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 1. [Video analysis](https://docs.opencv.org/master/da/dd0/tutorial_table_of_content_video.html)
