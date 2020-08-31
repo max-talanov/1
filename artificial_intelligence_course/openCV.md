@@ -20,10 +20,35 @@ plt.subplot(1, 2, 2)
 plt.imshow(result)
 plt.show()
 ```
-
 ![](https://files.realpython.com/media/mask_and_orig.865119b98b08.png)
 
+```
+light_white = (0, 0, 200)
+dark_white = (145, 60, 255)
 
+mask_white = cv2.inRange(hsv_nemo, light_white, dark_white)
+result_white = cv2.bitwise_and(nemo, nemo, mask=mask_white)
+
+plt.subplot(1, 2, 1)
+plt.imshow(mask_white, cmap="gray")
+plt.subplot(1, 2, 2)
+plt.imshow(result_white)
+plt.show()
+```
+![](https://files.realpython.com/media/mask_and_orig_whites.d0f575325c86.png)
+
+```
+final_mask = mask + mask_white
+
+final_result = cv2.bitwise_and(nemo, nemo, mask=final_mask)
+plt.subplot(1, 2, 1)
+plt.imshow(final_mask, cmap="gray")
+plt.subplot(1, 2, 2)
+plt.imshow(final_result)
+plt.show()
+```
+
+![](https://files.realpython.com/media/mask_and_orig_final.2397f42f890a.png)
 
 
 ## Background substruction
