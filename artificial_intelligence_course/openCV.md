@@ -11,10 +11,19 @@ dark_orange = (18, 255, 255)
 ```python
 mask = cv2.inRange(hsv_nemo, light_orange, dark_orange)
 ```
+```python 
+result = cv2.bitwise_and(nemo, nemo, mask=mask)
+
+plt.subplot(1, 2, 1)
+plt.imshow(mask, cmap="gray")
+plt.subplot(1, 2, 2)
+plt.imshow(result)
+plt.show()
+```
+
+![](https://files.realpython.com/media/mask_and_orig.865119b98b08.png)
 
 
-
-![](
 
 
 ## Background substruction
