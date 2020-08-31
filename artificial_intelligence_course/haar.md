@@ -7,3 +7,6 @@ Each feature is a single value obtained by subtracting sum of pixels under the w
 ![](https://docs.opencv.org/master/haar.png)
 
 ![](https://docs.opencv.org/master/Cascade_Classifier_Tutorial_Result_Haar.jpg)
+
+![](https://docs.opencv.org/master/visualisation_video.png)
+
