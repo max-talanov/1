@@ -50,7 +50,7 @@ Do you think anyone could be interested in robot with power station?
 1. Scientists from Stanford university developed [NeuroGrid](http://news.stanford.edu/pr/2014/pr-neurogrid-boahen-engineering-042814.html): the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
 2. [Intel and Loihi](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)
 3. [Intel Movidius](https://newsroom.intel.com/news/intel-unveils-neural-compute-engine-movidius-myriad-x-vpu-unleash-ai-edge/)
-4. [Google Tensor flow](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/)
+4. [Google Tensor flow](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/), [Keras](https://www.datacamp.com/community/tutorials/deep-learning-python), [PyTorch](https://pytorch.org/tutorials/)
 5. [Huawei Kirin](http://consumer.huawei.com/en/press/news/2017/ifa2017-kirin970/)
 
 ## Any challenges missed?
