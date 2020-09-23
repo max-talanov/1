@@ -88,6 +88,8 @@ http://www.izhikevich.org/publications/spnet.pdf
 
 ![](http://www.izhikevich.org/publications/izhik.gif)
 
+### Polychronisation
+
 ![](polychronisation.png)
 
 
