@@ -1,3 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{The problem}{2}{0}{1}
-\beamer@sectionintoc {2}{Cube of emotions}{5}{0}{2}

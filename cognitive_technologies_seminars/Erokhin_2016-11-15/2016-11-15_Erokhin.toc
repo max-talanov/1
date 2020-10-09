@@ -1,8 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{NeuCogAr}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{The problem}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Cube of emotions}{4}{0}{1}
-\beamer@sectionintoc {2}{Robot Dream}{8}{0}{2}
-\beamer@subsectionintoc {2}{1}{The problem}{9}{0}{2}
-\beamer@subsectionintoc {2}{2}{Solution}{11}{0}{2}
-\beamer@sectionintoc {3}{Thank you}{16}{0}{3}
