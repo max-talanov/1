@@ -36,9 +36,9 @@ Courses AI Samsung: https://stepik.org/org/srr
    1. [Convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
    1. [Recursive networks and LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
 1. **Bio-plausible**
-   1. [Izhikevich polychronisation](https://izhikevich.org/publications/spnet.htm)
+   1. [Izhikevich polychronisation](izhi.md)
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
-   1. [Cortical column and HTM](https://numenta.org/hierarchical-temporal-memory/)
+   1. [Cortical column and HTM](cc.md)
 1. **Computer vision**
    1. [Object detection, segmentation problems](object_detection.md)
    1. [OpenCV](openCV.md)
