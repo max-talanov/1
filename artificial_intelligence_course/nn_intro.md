@@ -74,23 +74,4 @@ where ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/f300b83673e961
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/58ee17a4f52f7defa01af4e77bae2c348cd76d64)
 
 
-## Izhikevich model
-
-Polychronization
-
-http://www.izhikevich.org/publications/spikes.htm
-
-http://izhikevich.org/publications/whichmod.htm
-
-http://www.izhikevich.org/publications/spnet.htm
-
-http://www.izhikevich.org/publications/spnet.pdf
-
-![](http://www.izhikevich.org/publications/izhik.gif)
-
-### Polychronisation
-
-![](polychronisation.png)
-
-
 https://en.wikipedia.org/wiki/Cortical_column
