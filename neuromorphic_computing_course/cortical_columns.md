@@ -1,5 +1,7 @@
 # Cortical columns and HTM
 
+![CC in brain](https://opendatascience.com/wp-content/uploads/2017/08/corticalColumn.jpg)
+
 ![Vibrissal cortical columns](http://www.kurzweilai.net/images/vibrissal-cortex-rat.jpg)
 
 ![Cortical columns](https://c1.staticflickr.com/3/2747/4187284211_15c2311a1a.jpg)
