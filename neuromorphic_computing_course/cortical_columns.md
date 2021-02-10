@@ -1,4 +1,4 @@
-# Cortical columns and HTM
+# Cortical column and HTM
 
 ![CC in brain](https://opendatascience.com/wp-content/uploads/2017/08/corticalColumn.jpg)
 
