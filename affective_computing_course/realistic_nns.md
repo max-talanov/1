@@ -1,4 +1,4 @@
-# Spiking neural networks
+# Spiking Neural Networks
 
 ## Cumulative table
 
