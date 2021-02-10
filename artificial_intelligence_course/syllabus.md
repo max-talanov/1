@@ -37,7 +37,7 @@ Courses AI Samsung: https://stepik.org/org/srr
 1. **Bio-plausible**
    1. [Izhikevich polychronisation](izhi.md)
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
-   1. [Cortical column and HTM](cc.md)
+   1. [Cortical column and HTM](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/cortical_columns.md)
 1. **Computer vision and convolution networks**
    1. [Object detection, segmentation problems](object_detection.md)
    1. [OpenCV](openCV.md)
