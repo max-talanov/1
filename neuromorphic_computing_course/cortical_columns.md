@@ -1,4 +1,4 @@
-# Cortical columns
+# Cortical columns and HTM
 
 ![Vibrissal cortical columns](http://www.kurzweilai.net/images/vibrissal-cortex-rat.jpg)
 
