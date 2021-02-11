@@ -33,7 +33,7 @@ CycleGAN tutorials:
 1. https://keras.io/examples/generative/cyclegan/
 
 
-
+## Syllabus 
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
