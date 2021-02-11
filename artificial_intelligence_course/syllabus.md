@@ -21,7 +21,19 @@ TensorFlow tutorial: https://www.tutorialspoint.com/tensorflow/index.htm
 
 Keras tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python
 
-Courses AI Samsung: https://stepik.org/org/srr
+AI Samsung: https://stepik.org/org/srr
+
+Datasets:
+1. http://image-net.org/
+1. https://www.microsoft.com/en-us/research/publication/microsoft-coco-common-objects-in-context/
+
+CycleGAN tutorials: 
+1. https://developers.arcgis.com/python/guide/how-cyclegan-works/
+1. https://machinelearningmastery.com/what-is-cyclegan/
+1. https://keras.io/examples/generative/cyclegan/
+
+
+
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
