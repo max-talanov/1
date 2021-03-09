@@ -88,7 +88,7 @@
 
 ## Long term depression
 
-![LTD](http://upload.wikimedia.org/wikipedia/en/9/9c/Bi-directional_modulation_of_AMPA_receptor.png)
+![LTD](Bi-directional_modulation_of_AMPA_receptor.png)
 
 ## Hebbian plasticity 
 
