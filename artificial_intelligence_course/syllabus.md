@@ -54,9 +54,10 @@ CycleGAN tutorials:
    1. [Object detection, segmentation problems](object_detection.md)
    1. [OpenCV](openCV.md)
    1. [Haar classifier](haar.md)
-   1. [YOLO](yolo.md)
-   1. [Deep Residual Learning](resNet.md)
    1. [U-net](u-net.md)
+   3. [YOLO](yolo.md)
+   4. [Deep Residual Learning](resNet.md)
+   
 
 
 ## Artificial intelligence mind map
