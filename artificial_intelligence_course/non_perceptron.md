@@ -16,6 +16,9 @@ https://www.youtube.com/watch?v=rSQNi5sAwuc
 
 
 ## OpenCog
+
+https://www.youtube.com/watch?v=r4manxX5U-0
+
 https://opencog.org/theory/
 
 https://en.wikipedia.org/wiki/OpenCog
