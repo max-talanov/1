@@ -1,5 +1,10 @@
 # Non perceptron architectures
 
+
+## Kevin Warwick
+
+https://www.youtube.com/watch?v=Z8HeFNJjuj0
+
 ## XCR-1
 
 https://www.youtube.com/watch?v=q0pIlc-MnaY
