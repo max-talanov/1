@@ -113,23 +113,34 @@ Neuromorphic computing and Neurosimulations laboratory, ITIS, KFU \\ % Your inst
 
 %------------------------------------------------
 \section{Neural network}
+
 %------------------------------------------------
 \begin{frame}
-  \frametitle{Neural networks}
-  \begin{columns}
-    \begin{column}{0.5\textwidth}
-      \begin{figure}
-        \includegraphics[width=0.5\linewidth]{Kevin-Warwick_2936650k}
-      \end{figure}
-    \end{column}
-    \begin{column}{0.5\textwidth}
-      \includegraphics[width=0.5\textwidth]{image1.jpg}
-    \end{column}
-  \end{columns}
-  \footnotetext{\url{https://www.telegraph.co.uk/}}
+  \frametitle{Kevin Warwick fist cyborg}
+  \begin{figure}
+    \includegraphics[width=0.9\linewidth]{Typical_cnn}
+  \end{figure}
+  \footnotetext{\url{https://en.wikipedia.org/wiki/Convolutional_neural_network}}
 \end{frame}
 
 %------------------------------------------------
+
+
+%------------------------------------------------
+\begin{frame}
+  \frametitle{ResNet}
+  \begin{columns}
+    \begin{column}{0.45\textwidth}
+      \begin{figure}
+        \includegraphics[width=0.45\linewidth]{800px-Piramidal_cell.svg}
+      \end{figure}
+    \end{column}
+    \begin{column}{0.55\textwidth}
+      \includegraphics[width=0.55\textwidth]{800px-ResNets.svg}
+    \end{column}
+  \end{columns}
+  \footnotetext{\url{https://en.wikipedia.org/wiki/Residual_neural_network}}
+\end{frame}
 
 
 %-------------------------------------------------------------------------------
@@ -259,263 +270,6 @@ Neuromorphic computing and Neurosimulations laboratory, ITIS, KFU \\ % Your inst
     \includegraphics[width=0.2725\linewidth]{mscs_biological_results}
     \includegraphics[width=0.60\linewidth]{cpg_40Hz_100p}
   \end{figure}
-\end{frame}
-
-%------------------------------------------------
-\subsubsection{(e/i)STDP neurosimulation weights Gaussian distribution results}
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{eSTDP: Hebbian, iSTDP: Sin}
-\begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
-
-\column{.5\textwidth} % Left column and width
-\begin{figure}
-\includegraphics[width=1\linewidth]{Gauss_Fl_Aff_Hebb}
-\end{figure}
-\column{.5\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1\linewidth]{Gauss_FlexorIA_sin}
-\end{figure}
-\end{columns}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{iSTDP: Sombrero, anti-Hebbian}
-\begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
-\column{.5\textwidth} % Left column and width
-\begin{figure}
-\includegraphics[width=1\linewidth]{Gauss_Fl_Ia_sombrero}
-\end{figure}
-\column{.5\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1\linewidth]{Gauss_Ia_antiHebb}
-\end{figure}
-\end{columns}
-\end{frame}
-
-%------------------------------------------------
-\subsection{Memristive neuromodulatory neuron implementation}
-\subsubsection{Block diagram of neuromodulatiory memristive neuron}
-%------------------------------------------------
-
-\begin{frame}
-  \frametitle{Modulatory, inhibitory memristive neuron}
-  \begin{figure}
-    \includegraphics[width=0.75\linewidth]{HL_mod_inh_mem_neuron}
-  \end{figure}
-\end{frame}
-
-%------------------------------------------------
-\subsubsection{Wiring schematic of leaky integrator - soma and results in different spiking frequency modes}
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Leaky neuron: wiring schematic}
-\begin{figure}
-\includegraphics[width=0.85\linewidth]{Leak_sch}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Leaky neuron: results}
-\begin{figure}
-\includegraphics[width=0.85\linewidth]{Leak_test}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Leaky neuron: results 30 ms}
-\begin{figure}
-\includegraphics[width=0.85\linewidth]{30}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Leaky neuron: results 10 ms}
-\centering
-\includegraphics[width=0.85\linewidth]{10}
-\end{frame}
-
-%------------------------------------------------
-\subsubsection{(e/i)STDP wiring schematic - STDP feedback and physical implementation}
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{eSTDP, iSTDP: wiring schematic}
-\begin{figure}
-\includegraphics[width=0.85\linewidth]{da_modulation_sch}
-\end{figure}
-\end{frame}
-%------------------------------------------------
-
-\begin{frame}
-  \frametitle{eSTDP, iSTDP: experimental setup}
-\begin{figure}
-\includegraphics[width=0.65\linewidth]{mscs_experimental_setup}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{DA modulation: simulation results}
-\begin{figure}
-\includegraphics[width=0.8\linewidth]{da_modulation}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Hebbian eSTDP; iSTDP}
-\begin{columns}[c] % The "c" option specifies centered vertical alignment while the "t" option is used for top vertical alignment
-\column{.5\textwidth} % Left column and width
-\begin{figure}
-\includegraphics[width=1\linewidth]{hebb_output_single}
-\end{figure}
-\column{.5\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1\linewidth]{inh_output_single}
-\end{figure}
-\end{columns}
-\end{frame}
-
-%------------------------------------------------
-\subsection{Bio-plausible DA neuromodulation simulation}
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Bio-plausible DA modulation: block diagram}
-\begin{figure}
-\includegraphics[width=1.05\linewidth]{D1_D2_eSTDP_iSTDP_block_diagram}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Bio-plausible DA modulation: wiring schematic}
-\begin{figure}
-\includegraphics[width=0.85\linewidth]{schematicD1}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{DA modulation D1: simulation results}
-\begin{figure}
-\includegraphics[width=0.8\linewidth]{resultD1v3.png}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{DA modulation D2: simulation results}
-\begin{figure}
-\includegraphics[width=0.8\linewidth]{resultD2v3.png}
-\end{figure}
-\end{frame}
-
-%------------------------------------------------
-\section{Future plans}
-%------------------------------------------------
-
-\begin{frame}
-  \frametitle{Future plans}
-\begin{columns}[c]
-\column{.5\textwidth} % Left column and width
-
-\begin{itemize}
-\item Integrate 2 neurons
-\item Create simplified reflex arc circuitry
-\item Complete simulation to mach biological results
-\item Create a memristive spinal cord segment prototype
-\item Create a memristive spinal cord segment prosthesis
-\end{itemize}
-\column{.5\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1.0\linewidth]{MemArc_logo}
-\end{figure}
-\end{columns}
-\end{frame}
-
-%------------------------------------------------
-\section{Consortium of the project}
-%------------------------------------------------
-
-\begin{frame}
-  \frametitle{Collaboration}
-\begin{columns}[c]
-\column{.5\textwidth} % Left column and width
-
-\begin{itemize}
-\item ``Spinal Cord Neuromodulation Laboratory'', Mayo Clinic, Igor Lavrov group
-\item Neuro-rehabilitation laboratory, KFU, Igor Lavrov group
-\item CNR IMEM, Victor Erokhin group
-\item KFU, Max Talanov group 
-\end{itemize}
-
-\column{.5\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1.0\linewidth]{MemArc_logo}
-\end{figure}
-\end{columns}
-\end{frame}
-
-%------------------------------------------------
-
-\begin{frame}
-  \frametitle{Collaboration points}
-\begin{columns}[c]
-\column{.5\textwidth} % Left column and width
-
-\begin{itemize}
-\item 5-HT modulation of (e/i)STDP
-\item Memristive technology
-\item Memristive devices of different types thousands
-\item Biological validation of the memristive device
-\item \ldots
-\end{itemize}
-
-\column{.5\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1.0\linewidth]{MemArc_logo}
-\end{figure}
-\end{columns}
-\end{frame}
-
-%------------------------------------------------
-\section{References of the project}
-%------------------------------------------------
-
-\begin{frame}
-  \frametitle{Memristive spinal cord references}
-\begin{columns}[c]
-\column{.6\textwidth} % Left column and width
-
-Repository:\\
-\url{https://github.com/research-team/memristive-spinal-cord}\\
-
-Latest technical reports:\\
-\url{https://arxiv.org/abs/1806.04703}
-\url{https://arxiv.org/abs/1709.06325}
-
-\column{.4\textwidth} % Right column and width
-\begin{figure}
-\includegraphics[width=1.0\linewidth]{mousebrainpink}
-\end{figure}
-\end{columns}
 \end{frame}
 
 %------------------------------------------------
