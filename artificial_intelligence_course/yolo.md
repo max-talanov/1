@@ -68,6 +68,7 @@
 
 ## References
 
+1. [Good but old YOLO description](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)
 1. [darknet YOLO](https://pjreddie.com/darknet/yolo/)
 1. [YOLOv3 github](https://github.com/ultralytics/yolov3)
 1. [YOLOv5 github](https://github.com/ultralytics/yolov5)
