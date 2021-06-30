@@ -12,6 +12,9 @@
 
 ![](https://user-images.githubusercontent.com/26833433/64067833-51d5b500-cc2f-11e9-8208-6fe197809131.jpg)
 
+### Algorythm 
+![Yolo algorythm](https://miro.medium.com/max/2400/1*m8p5lhWdFDdapEFa2zUtIA.jpeg)
+
 ### Architecture
 
 ![YOLOv3 architecture](darknet-53.png)
