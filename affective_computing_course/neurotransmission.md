@@ -1,4 +1,4 @@
-# Neurotransmission and neuromodulation
+# Action potential and neuromodulation
 
 ## Action potential distribution
 
@@ -14,10 +14,6 @@ A cartoon showing how the movement of potassium ions down their concentration gr
 
 ## Saltatory conduction
 ![Satatory conduction](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/1024px-Saltatory_Conduction.gif)
-
-## Neurotransmitters
-
-[Common neurotransmitters](http://en.wikipedia.org/wiki/Neurotransmitter#Common_neurotransmitters)
 
 
 ## Neuromodulation
