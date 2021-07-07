@@ -3,7 +3,7 @@
 1. [Intro](intro2.md)
 1. Intro in Neuroscience
     1. [Neurons and chemical synapses](../affective_computing_course/neurons_and_chemical_synapses.md)
-    1. [Action potential](../neuromorphic_computing/action_potential.md)
+    1. [Action potential](../neuromorphic_computing_course/action_potential.md)
     1. [Neuromodulation](../affective_computing_course/neurotransmission.md)
 1. [Genetic programming](ga.md)
 1. [Probabilistic logic](pl.md)

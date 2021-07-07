@@ -18,7 +18,7 @@ The address of this page:
 1. [Emotional thinking from bird eye view (lectures: 1, 2 and 3).](emotional_thinking.md)
 1. Neuro-physiological background:
     * [Neurons and chemical synapses](neurons_and_chemical_synapses.md)
-    * [Action potential](../neuromorphic_computing/action_potential.md)
+    * [Action potential](../neuromorphic_computing_course/action_potential.md)
     * [Neuromodulation and emotional loops](neuromodulation.md)
 1. [Psychological models of emotion.](psychological_models_of_emotion.md)
 1. Philosophical theories of emotions
