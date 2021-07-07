@@ -84,14 +84,14 @@
 
 "The synaptic delay for a chemical synapse is typically about 2 ms, whereas the synaptic delay for an electrical synapse may be about 0.2 ms."
 
-## Long term potentiation
+## STDP: Long term potentiation
 
 ![LTP 1](http://upload.wikimedia.org/wikipedia/commons/1/13/LTP_First_Stage.png)
 ![LTP 2](http://upload.wikimedia.org/wikipedia/commons/e/e4/LTP_Second_Stage.png)
 ![LTP 3](http://upload.wikimedia.org/wikipedia/commons/7/77/LTP_Third_Stage.png)
 ![LTP 4](http://upload.wikimedia.org/wikipedia/commons/4/41/LTP_Fourth_Stage.png)
 
-## Long term depression
+## STDP: Long term depression
 
 ![LTD](Bi-directional_modulation_of_AMPA_receptor.png)
 
