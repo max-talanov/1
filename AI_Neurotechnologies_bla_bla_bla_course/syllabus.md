@@ -35,40 +35,40 @@ CycleGAN tutorials:
 
 ## Intro
 
-1. [Intro.](intro.md)
-1. [Intelligent agents.](agents.md)
+1. [Intro.](../artificial_intelligence_course/intro.md)
+1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
 1. **Learning**
-   1. [Models of neurons](nn_intro.md)
-   1. [Machine learning intro](ml_intro.md)
-   1. [Genetic programming](ga.md)
-   1. [Non-perceptron](non_perceptron.md)
+   1. [Models of neurons](../artificial_intelligence_course/nn_intro.md)
+   1. [Machine learning intro](../artificial_intelligence_course/ml_intro.md)
+   1. [Genetic programming](../artificial_intelligence_course/ga.md)
+   1. [Non-perceptron](../artificial_intelligence_course/non_perceptron.md)
 1. **Neural networks (seminar)** 
    1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
    1. [Self-organizing map (Kohonen map)](https://en.wikipedia.org/wiki/Self-organizing_map)
    1. [Recursive networks and LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
 1. **Bio-plausible**
-   1. [Izhikevich polychronisation](izhi.md)
+   1. [Izhikevich polychronisation](../artificial_intelligence_course/izhi.md)
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
    1. [Cortical column and HTM](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/cortical_columns.md)
 1. **Computer vision and convolution networks**
-   1. [Object detection, segmentation problems](object_detection.md)
-   1. [OpenCV](openCV.md)
-   1. [Haar classifier](haar.md)
-   1. [U-net](u-net.md)
-   3. [YOLO](yolo.md)
-   4. [Deep Residual Learning](resNet.md)
+   1. [Object detection, segmentation problems](../artificial_intelligence_course/object_detection.md)
+   1. [OpenCV](../artificial_intelligence_course/openCV.md)
+   1. [Haar classifier](../artificial_intelligence_course/haar.md)
+   1. [U-net](../artificial_intelligence_course/u-net.md)
+   3. [YOLO](../artificial_intelligence_course/yolo.md)
+   4. [Deep Residual Learning](../artificial_intelligence_course/resNet.md)
 
 
 
 # Advanced 
 
-1. [Intro](intro2.md)
+1. [Intro](../artificial_intelligence_course/intro2.md)
 1. Intro in Neuroscience
     1. [Neurons and chemical synapses](../affective_computing_course/neurons_and_chemical_synapses.md)
     1. [Action potential](../neuromorphic_computing_course/action_potential.md)
     1. [Neuromodulation](../affective_computing_course/neuromodulation.md)
-1. [Genetic programming](ga.md)
-1. [Probabilistic logic](pl.md)
+1. [Genetic programming](../artificial_intelligence_course/ga.md)
+1. [Probabilistic logic](../artificial_intelligence_course/pl.md)
 1. [Fuzzy logic(*)](https://en.wikipedia.org/wiki/Fuzzy_logic)
 1. [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 1. [HMM and Markov Decision Processes](https://en.wikipedia.org/wiki/Hidden_Markov_model)
