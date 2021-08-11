@@ -85,6 +85,7 @@ CycleGAN tutorials:
 
 ## Artificial intelligence mind map
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat]("https://octodex.github.com/images/yaktocat.png")
+<img align="left" src="https://octodex.github.com/images/yaktocat.png"/>
 
 ![AI mind map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
