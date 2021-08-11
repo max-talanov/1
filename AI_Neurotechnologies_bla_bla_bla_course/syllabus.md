@@ -38,11 +38,11 @@ CycleGAN tutorials:
 1. [Intro.](../artificial_intelligence_course/intro.md)
 1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
 1. **Learning**
-   1. [Models of neurons](../artificial_intelligence_course/nn_intro.md)
    1. [Machine learning intro](../artificial_intelligence_course/ml_intro.md)
    1. [Genetic programming](../artificial_intelligence_course/ga.md)
    1. [Non-perceptron](../artificial_intelligence_course/non_perceptron.md)
 1. **Neural networks (seminar)** 
+   1. [Models of neurons](../artificial_intelligence_course/nn_intro.md)
    1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
    1. [Self-organizing map (Kohonen map)](https://en.wikipedia.org/wiki/Self-organizing_map)
    1. [Recursive networks and LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
