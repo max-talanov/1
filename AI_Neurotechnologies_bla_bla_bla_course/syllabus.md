@@ -83,7 +83,8 @@ CycleGAN tutorials:
 1. [TRIZ intro 2](triz.md)
 
 
-
 ## Artificial intelligence mind map
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![AI mind map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
