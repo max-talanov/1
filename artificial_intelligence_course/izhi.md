@@ -10,7 +10,11 @@ http://www.izhikevich.org/publications/spnet.htm
 
 http://www.izhikevich.org/publications/spnet.pdf
 
+
+
 ![model results](http://www.izhikevich.org/publications/izhik.gif)
+
+
 
 ### Polychronisation
 
