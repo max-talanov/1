@@ -46,10 +46,6 @@ CycleGAN tutorials:
    1. [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
    1. [Self-organizing map (Kohonen map)](https://en.wikipedia.org/wiki/Self-organizing_map)
    1. [Recursive networks and LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
-1. **Bio-plausible**
-   1. [Izhikevich polychronisation](../artificial_intelligence_course/izhi.md)
-   1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
-   1. [Cortical column and HTM](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/cortical_columns.md)
 1. **Computer vision and convolution networks**
    1. [Object detection, segmentation problems](../artificial_intelligence_course/object_detection.md)
    1. [OpenCV](../artificial_intelligence_course/openCV.md)
@@ -58,21 +54,21 @@ CycleGAN tutorials:
    3. [YOLO](../artificial_intelligence_course/yolo.md)
    4. [Deep Residual Learning](../artificial_intelligence_course/resNet.md)
 
-
-
-# Advanced 
+# Advanced questions 
 
 1. [Intro](../artificial_intelligence_course/intro2.md)
-1. Intro in Neuroscience
+1. **Intro in Neuroscience**
     1. [Neurons and chemical synapses](../affective_computing_course/neurons_and_chemical_synapses.md)
     1. [Action potential](../neuromorphic_computing_course/action_potential.md)
     1. [Neuromodulation](../affective_computing_course/neuromodulation.md)
-1. [Genetic programming](../artificial_intelligence_course/ga.md)
-1. [Probabilistic logic](../artificial_intelligence_course/pl.md)
-1. [Fuzzy logic(*)](https://en.wikipedia.org/wiki/Fuzzy_logic)
-1. [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
-1. [HMM and Markov Decision Processes](https://en.wikipedia.org/wiki/Hidden_Markov_model)
-1. Cognitive architectures
+1. **Bio-plausible networks**
+   1. [Izhikevich polychronisation](../artificial_intelligence_course/izhi.md)
+   1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
+   1. [Cortical column and HTM](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/cortical_columns.md)
+1. **Logic**
+   1. [Probabilistic logic](../artificial_intelligence_course/pl.md)
+   1. [Fuzzy logic(*)](https://en.wikipedia.org/wiki/Fuzzy_logic)
+1. **Cognitive architectures**
    1. [The emotion machine (please read the book draft)](https://en.wikipedia.org/wiki/The_Emotion_Machine)
 	  1. [Consciousness](https://github.com/max-talanov/1/blob/master/affective_computing_course/consciousness.md)
 	  1. [6 levels of mental activity](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
