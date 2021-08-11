@@ -33,7 +33,7 @@ CycleGAN tutorials:
 1. https://keras.io/examples/generative/cyclegan/
 
 
-## Syllabus 
+## Intro
 
 1. [Intro.](intro.md)
 1. [Intelligent agents.](agents.md)
@@ -60,7 +60,7 @@ CycleGAN tutorials:
 
 
 
-# Advanced Artificial Intelligence
+# Advanced 
 
 1. [Intro](intro2.md)
 1. Intro in Neuroscience
@@ -83,7 +83,7 @@ CycleGAN tutorials:
    
    
 # TRIZ
-1. triz.md
+1. [TRIZ intro](triz.md)
 
 
 
