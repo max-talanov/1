@@ -82,6 +82,8 @@
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
 \usepackage{hyperref}
 
+\setbeamertemplate{footline}[frame number]
+
 %--------------------------------------------------------------------------------
 %	TITLE PAGE
 %--------------------------------------------------------------------------------
@@ -89,16 +91,27 @@
 \title[Neurointerface implemented with Oscillator Motifs]{Neurointerface implemented with Oscillator Motifs} % The short title appears at the bottom of every slide, the full title is only on the title page
 
 \author[Max Talanov]{
-  % \includegraphics[height=2cm]{ITIS_logo_bright}\\
-  Max Talanov
-} 
-\institute[B-Rain Labs LLC, NcN laboratory: ITIS : KFU]% Your institution as it will appear on the bottom of every slide, may be shorthand to save space
-{
-B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, KFU \\ % Your institution for the title page
-\medskip
-\textit{max.talanov@b-rain.org} % Your email address
+  Max Talanov$^{1,2}$, Alina Suleimanova$^{1,2}$, Alexey Leukhin$^{1,2}$,
+  Yulia Mikhailova$^{1,2}$, Alexander Toschev$^{1,2}$,
+  Alena Militskova$^{3}$, Igor Lavrov$^{1,5}$, Evgeni Magid$^{4}$
 }
-\date{\today} % Date, can be changed to a custom date
+
+% Alina Suleimanova$^{1,2}$, Alexey Leukhin$^{1,2}$,Yulia Mikhailova$^{1,2}$, Alexander Toschev$^{1,2}$, \\ Alena Militskova$^{3}$, Igor Lavrov$^{1,5}$, Evgeni Magid$^{4}$
+
+\institute[B-Rain Labs LLC, NcN laboratory, ITIS, KFU]% Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+{
+  $^{1}$ B-Rain Labs LLC;
+  $^{2}$ Neuromorphic computing and Neurosimulations laboratory, ITIS, KFU;
+  $^{3}$ Institute of Fundamental Medicine and Biology, KFU;
+  $^{4}$ Intelligent Robotic Systems Laboratory (LIRS), ITIS, KFU;
+  $^{5}$ Department of Neurologic Surgery, Department of Physiology and Biomedical Engineering, Department of Neurology at Mayo Clinic.
+  
+  % Your institution for the title page
+\medskip
+\textit{max.talanov@b-rain.org}\\ % Your email address
+
+}
+\date{IROS-2021} % Date, can be changed to a custom date
 
 \begin{document}
 
@@ -106,40 +119,6 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
 \titlepage % Print the title page as the first slide
 \end{frame}
 
-
-%-------------------------------------------------------------------------------
-% Neural network
-%-------------------------------------------------------------------------------
-
-%------------------------------------------------
-\section{Neural network}
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Convolutional neural network}
-  \begin{figure}
-    \includegraphics[width=0.9\linewidth]{Typical_cnn}
-  \end{figure}
-  \footnotetext{\url{https://en.wikipedia.org/wiki/Convolutional_neural_network}}
-\end{frame}
-
-%------------------------------------------------
-
-
-%------------------------------------------------
-\begin{frame}
-  \frametitle{ResNet}
-  \begin{columns}
-    \begin{column}{0.45\textwidth}
-      \begin{figure}
-        \includegraphics[width=0.45\linewidth]{800px-Piramidal_cell.svg}
-      \end{figure}
-    \end{column}
-    \begin{column}{0.55\textwidth}
-      \includegraphics[width=0.55\textwidth]{800px-ResNets.svg}
-    \end{column}
-  \end{columns}
-  \footnotetext{\url{https://en.wikipedia.org/wiki/Residual_neural_network}}
-\end{frame}
 
 %-------------------------------------------------------------------------------
 % Kevin Warwick
@@ -156,52 +135,12 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
   \footnotetext{\url{https://www.telegraph.co.uk/}}
 \end{frame}
 
-%------------------------------------------------
-
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Utah array}
-  \begin{figure}
-    \includegraphics[width=0.7\linewidth]{Utah_array_pat5215088}
-  \end{figure}
-  \footnotetext{\url{https://en.wikipedia.org/wiki/Microelectrode_array}}
-\end{frame}
-%------------------------------------------------
-
-%-------------------------------------------------------------------------------
-% Nicolelis and Lebedev
-%-------------------------------------------------------------------------------
-
-%------------------------------------------------
-\section{Nicolelis and Lebedev}
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Nicolelis \& Lebedev}
-  \begin{figure}
-    \includegraphics[width=0.6\linewidth]{monkey}
-  \end{figure}
-  \footnotetext{adopted from Mikhail A. Lebedev and Miguel A. L. Nicolelis, Brain-Machine Interfaces: From Basic Science to Neuroprostheses and Neurorehabilitation}
-\end{frame}
-
-%------------------------------------------------
-
 %-------------------------------------------------------------------------------
 % Neuralink
 %-------------------------------------------------------------------------------
 
 %------------------------------------------------
 \section{Neuralink}
-
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Neuralink: Musk presenting link interface}
-  \begin{figure}
-    \includegraphics[width=0.6\linewidth]{Elon_Musk_and_the_Neuralink_Future}
-  \end{figure}
-  \footnotetext{https://en.wikipedia.org/wiki/Neuralink}
-\end{frame}
-
-%------------------------------------------------
 
 %------------------------------------------------
 \begin{frame}
@@ -213,7 +152,6 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
 \end{frame}
 
 %------------------------------------------------
-
 
 %-------------------------------------------------------------------------------
 % Neurointeface architecture
@@ -278,13 +216,43 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
   \end{figure}
 \end{frame}
 %------------------------------------------------
-
+Conclusion
+%------------------------------------------------
 \begin{frame}
-  \frametitle{Memristive spinal cord parameters}
+  \frametitle{Conclusion}
+\begin{columns}[c]
+\column{.7\textwidth} % Left column and width
+ 
+\begin{itemize}
+  \item We proposed the neurosimulation based neurointerface architecture.
+  \item We conducted experiments to identify the impact of neurosimulation over muscle and nerve stimulation.
+  \item The most comfortable mode for the nerve stimulation was the 5~OMs 3.0/10, the maximum angle of finger displacement 57.4$^{\circ}$.
+  \item The optimal modes for sensation and deflection angle are 5 and 7 OMs for nerve stimulation and 3 OMs for muscle stimulation.
+\end{itemize}
+
+\column{.3\textwidth} % Right column and width
+\begin{figure}
+\includegraphics[width=1.0\linewidth]{mousebrainpink}
+\end{figure}
+\end{columns}
+\end{frame}
+%------------------------------------------------
+%------------------------------------------------
+\begin{frame}
+  \frametitle{Acknowledgment}
+The authors would like to thank the B-Rain Labs LLC company for supporting their work with neurosimulations. The eighth author acknowledges the support of the Russian Foundation for Basic Research (RFBR), project ID 19-58-70002. 
+This work is the part of Kazan Federal University Strategic Academic Leadership Program. 
+
+\end{frame}
+%------------------------------------------------
+
+%------------------------------------------------
+\begin{frame}
+  \frametitle{Future work}
 \begin{columns}[c]
 \column{.6\textwidth} % Left column and width
 
-\emph{Reflex arc:}\\
+\textbf{Reflex arc:}\\
 1754 neurons, 478 200 synapses,\\
 Motor neuron - 400 synapses,\\
 Ia interneuron - 300,
@@ -292,8 +260,7 @@ Ib interneuron - 200,\\
 Renshaw - 200,
 Afferents - 100\\
 
-
-\emph{CPG:}\\
+\textbf{Central pattern generator:}\\
 880 interneurons including interneuronal pool,
 40 000 synapses,
 each nucleaus 20 neurons
