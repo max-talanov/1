@@ -86,7 +86,7 @@
 %	TITLE PAGE
 %--------------------------------------------------------------------------------
 
-\title[Real-time neurosimulations]{Real-time neurosimulations} % The short title appears at the bottom of every slide, the full title is only on the title page
+\title[Neuropunk revolution and its implementation via real-time neurosimulations and their integrations]{Neuropunk revolution and its implementation via real-time neurosimulations and their integrations} % The short title appears at the bottom of every slide, the full title is only on the title page
 
 \author[Max Talanov]{
   % \includegraphics[height=2cm]{ITIS_logo_bright}\\
@@ -98,7 +98,7 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
 \medskip
 \textit{max.talanov@gmail.com} % Your email address
 }
-\date{\today} % Date, can be changed to a custom date
+\date{BF-NAICS 2021} % Date, can be changed to a custom date
 
 \begin{document}
 
@@ -228,49 +228,19 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
 
 
 %-------------------------------------------------------------------------------
-% Memristive spinal cord
+% Neuropunk revolution
 %-------------------------------------------------------------------------------
 
 %------------------------------------------------
-\section{The problem (current state of cutting edge neuro-rehabilitation technology)}
+\section{Neuropunk revolution}
 %------------------------------------------------
 \begin{frame}
-  \frametitle{Neuro-rehabilitation: Epidural stimulation}
+  \frametitle{Relative position of ``neuropunk revolution'' technologies}
   \begin{figure}
-    \includegraphics[width=0.6\linewidth]{epidural_stimulation_spinal_cord}
-  \end{figure}
-\end{frame}
-
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Neuro-rehabilitation}
-  \begin{figure}
-    \includegraphics[width=0.5\linewidth]{neurorehabilitation}
-  \end{figure}
-\end{frame}
-
-%------------------------------------------------
-\section{Solution - Igor Lavrov model}
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Model of Lavrov}
-  \begin{figure}
-    \includegraphics[width=0.48\linewidth]{spinal-cord-diagram}
+    \includegraphics[width=1.0\linewidth]{neuropunk}
   \end{figure}
 \end{frame}
 %------------------------------------------------
-\subsection{Neuro-simulation results}
-%------------------------------------------------
-\begin{frame}
-  \frametitle{Simulation results compared with bio results}
-  \begin{figure}
-    \includegraphics[width=0.2725\linewidth]{mscs_biological_results}
-    \includegraphics[width=0.60\linewidth]{cpg_40Hz_100p}
-  \end{figure}
-\end{frame}
-
-%------------------------------------------------
-
 %------------------------------------------------
 \section{Even simpler real-time model of neuron}
 %------------------------------------------------
@@ -281,7 +251,6 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
   \end{figure}
 \end{frame}
 %------------------------------------------------
-
 %------------------------------------------------
 \section{Oscillator motif}
 %------------------------------------------------
@@ -316,9 +285,42 @@ B-Rain Labs LLC, Neuromorphic computing and Neurosimulations laboratory, ITIS, K
   \end{figure}
 \end{frame}
 %------------------------------------------------
-
+%------------------------------------------------
+\subsection{Outbound integration}
+%------------------------------------------------
 \begin{frame}
-  \frametitle{Memristive spinal cord parameters}
+  \frametitle{Outbound integration: Neuro-rehabilitation, EES}
+  \begin{figure}
+    \includegraphics[width=0.6\linewidth]{epidural_stimulation_spinal_cord}
+  \end{figure}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+  \frametitle{Model of Lavrov}
+  \begin{figure}
+    \includegraphics[width=0.48\linewidth]{spinal-cord-diagram}
+  \end{figure}
+\end{frame}
+%------------------------------------------------
+%------------------------------------------------
+\begin{frame}
+  \frametitle{Simulation results compared with bio results}
+  \begin{figure}
+    \includegraphics[width=0.2725\linewidth]{mscs_biological_results}
+    \includegraphics[width=0.60\linewidth]{cpg_40Hz_100p}
+  \end{figure}
+\end{frame}
+%------------------------------------------------
+%------------------------------------------------
+\begin{frame}
+  \frametitle{Closed loop system}
+  \begin{figure}
+    \includegraphics[width=0.9\linewidth]{NNP}
+  \end{figure}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+  \frametitle{Spinal cord neurosimulation parameters}
 \begin{columns}[c]
 \column{.6\textwidth} % Left column and width
 
