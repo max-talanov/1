@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Backpropagation
 
 ![Rosenblatt model of neuron](https://upload.wikimedia.org/wikipedia/commons/b/b0/Artificial_neuron.png)
 
-![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img4.gif)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/be21980cc9e55ea0880327b9d4797f2a0da6d06e)
 
 ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img5.gif)
 
