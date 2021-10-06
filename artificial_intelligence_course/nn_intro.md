@@ -43,8 +43,7 @@ https://en.wikipedia.org/wiki/Backpropagation
 
 Let ti be the desired "target" output for a given input pattern, and Vi be the actual output. The error (called "delta") is the difference between the desired and the actual output, and the change in the weight is chosen to be proportional to delta.
 
-Learning ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/0f11dc49b715f43a9d4df246d4a0b75b24991658) 
-r - learning rate
+Learning ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/0f11dc49b715f43a9d4df246d4a0b75b24991658), where _r_ is learning rate
 
 ## Hodgkin–Huxley model
 
