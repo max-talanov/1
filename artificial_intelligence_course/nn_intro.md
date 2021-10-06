@@ -2,8 +2,6 @@
 
 ## McCullogh-Pitts Model
 
-http://ecee.colorado.edu/~ecen4831/lectures/NNet2.html
-
 https://en.wikipedia.org/wiki/Artificial_neuron
 
 1. They are binary devices (Vi = [0,1])
@@ -12,9 +10,8 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 1. Inhibitory inputs have an absolute veto power over any excitatory inputs.
 1. At each time step the neurons are simultaneously (synchronously) updated by summing the weighted excitatory inputs and setting the output (Vi) to 1 iff the sum is greater than or equal to the threhold AND if the neuron receives no inhibitory input.
 
-![McCullogh-Pitts Model](http://ecee.colorado.edu/%7Eecen4831/lectures/MPneuron.gif)
+![McCullogh-Pitts Model](https://courses.cs.washington.edu/courses/cse599/99sp/admin/Slides/Week6/img004.gif)
 
-![Eq McCullogh-Pitts Model](http://ecee.colorado.edu/%7Eecen4831/lectures/NN2img1.gif)
 
 1. Integrate and fire 
 1. No time in the scope
@@ -26,10 +23,6 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 ## Perceptron model (Rosenblatt) 
 
 https://en.wikipedia.org/wiki/Perceptron
-
-http://ecee.colorado.edu/%7Eecen4831/lectures/NNet2.html
-
-http://ecee.colorado.edu/%7Eecen4831/lectures/NNet3.html
 
 http://www.emergentmind.com/neural-network
 
