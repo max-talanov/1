@@ -46,7 +46,9 @@ https://en.wikipedia.org/wiki/Backpropagation
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/be21980cc9e55ea0880327b9d4797f2a0da6d06e)
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/9dd1436c7b0c1fa2ad911c56f237fd23d925cca3)
+
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/0f11dc49b715f43a9d4df246d4a0b75b24991658)
+
 
 Let ti be the desired "target" output for a given input pattern, and Vi be the actual output. The error (called "delta") is the difference between the desired and the actual output, and the change in the weight is chosen to be proportional to delta.
 
