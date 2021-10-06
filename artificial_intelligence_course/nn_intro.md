@@ -41,7 +41,7 @@ https://en.wikipedia.org/wiki/Backpropagation
 1. Although the neurons were still two-state, the output function f(u) goes from [-1,1], not [0,1]. (This is no big deal, as a suitable change in the threshold lets you transform from one convention to the other.)
 1. Most importantly, there was a learning rule.
 
-![](http://ecee.colorado.edu/~ecen4831/lectures/percept.gif)
+![Rosenblatt model of neuron](https://upload.wikimedia.org/wikipedia/commons/b/b0/Artificial_neuron.png)
 
 ![](http://ecee.colorado.edu/~ecen4831/lectures/NN2img4.gif)
 
