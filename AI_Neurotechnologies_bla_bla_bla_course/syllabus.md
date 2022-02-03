@@ -36,7 +36,6 @@ CycleGAN tutorials:
 ## Intro
 
 1. [Intro.](../artificial_intelligence_course/intro.md)
-1. [TRIZ intro 1](triz.md)
 1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
 1. **Learning**
    1. [Machine learning intro](../artificial_intelligence_course/ml_intro.md)
@@ -80,7 +79,7 @@ CycleGAN tutorials:
    
    
 # TRIZ
-1. [TRIZ intro 2](triz.md)
+1. [TRIZ intro](triz.md)
 
 
 ## Artificial intelligence mind map
