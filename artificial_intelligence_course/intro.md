@@ -19,6 +19,8 @@
 1. Derivative: what is emotion or feeling? 
 1. Are those questions above only philosophical?
 
+![Cognitive hexagon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cognitive_Science_Hexagon.svg/1024px-Cognitive_Science_Hexagon.svg.png)
+
 ## Neat and Scruffy schools
 
 ### Neat
