@@ -8,11 +8,10 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 1. Each neuron has a fixed threshold, phi
 1. The neuron receives inputs from excitatory synapses, all having identical weights. (However it my receive multiple inputs from the same source, so the excitatory weights are effectively positive integers.)
 1. Inhibitory inputs have an absolute veto power over any excitatory inputs.
-1. At each time step the neurons are simultaneously (synchronously) updated by summing the weighted excitatory inputs and setting the output (Vi) to 1 iff the sum is greater than or equal to the threhold AND if the neuron receives no inhibitory input.
+1. At each time step the neurons are simultaneously (synchronously) updated by summing the weighted excitatory inputs and setting the output to 1 if the sum is greater than or equal to the threhold AND if the neuron receives no inhibitory input.
 1. Time invariant.
 
-![McCullogh-Pitts Model](https://courses.cs.washington.edu/courses/cse599/99sp/admin/Slides/Week6/img004.gif)
-![McCullogh-Pitts Model](../AI_Neurotechnologies_bla_bla_bla_course/Artificial_neuron.png)
+![McCullogh-Pitts Model](https://raw.githubusercontent.com/max-talanov/1/master/AI_Neurotechnologies_bla_bla_bla_course/artificial_neuron.png)
 
 
 1. Integrate and fire 
