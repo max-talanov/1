@@ -81,7 +81,3 @@ CycleGAN tutorials:
 # TRIZ
 1. [TRIZ intro](triz.md)
 
-
-## Artificial intelligence mind map
-
-![AI mind map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg)
