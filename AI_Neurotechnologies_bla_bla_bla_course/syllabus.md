@@ -1,4 +1,4 @@
-# Introduction in Artificial Intelligence
+# AI, neurotechnologies and bla bla bla
 
 Max Talanov: talanov.max@gmail.com
 
