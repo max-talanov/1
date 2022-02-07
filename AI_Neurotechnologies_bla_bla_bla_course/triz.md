@@ -24,6 +24,10 @@
 
 ## 40 principles of invention
 
+###Principle 1. Segmentation 
+
+A. Divide an object into independent parts.
+
 ### Principle 5. Merging
 
 A - Bring closer together (or merge) identical or similar objects or
