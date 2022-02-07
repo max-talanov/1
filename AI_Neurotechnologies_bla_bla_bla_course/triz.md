@@ -24,17 +24,19 @@
 
 
 
-Principle 20. Continuity of Useful Action.
+### Principle 20. Continuity of Useful Action.
 
 B - Eliminate all idle or intermittent actions or work
 Booted notebooks use.
 ...
 
-Principle 22. Blessing in Disguise
+### Principle 22. Blessing in Disguise
 
 A - Use harmful factors (particularly, harmful effects of the
 environment or surroundings) to achieve a positive effect
-Use arctic cold to cool a data-center
+Use arctic cold to cool a data-center.
+
+### Principle 23. Feedback
 
 
 ### Most useful
