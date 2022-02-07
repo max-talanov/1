@@ -11,8 +11,11 @@
 
 ## Levels of innovation 
 
-1. simple improvement of a technical system - well known object with no search for solutions 
-1.invention includes the resolution of a technical contradiction - 
+1. Simple improvement of a technical system - well known object with no search for solutions 
+1. Invention includes the resolution of a technical contradiction - there is the selection of new object from several similar or insignificant improvements were done to initial object.
+1. The invention containing a resolution of a physical contradiction -
+1. The development a new technology -
+1. Involves the discovery of new phenomena -
 
 
 
