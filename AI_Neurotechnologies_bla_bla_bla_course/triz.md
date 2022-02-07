@@ -11,7 +11,8 @@
 
 ## Levels of innovation 
 
-1. 
+1. simple improvement of a technical system - well known object with no search for solutions 
+2.
 
 
 
