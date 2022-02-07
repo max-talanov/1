@@ -16,7 +16,7 @@
 1. Involves the discovery of new phenomena - a scientific discovery is made and the whole system where the object is included is updated.
 
 
-## Ariz
+## ARIZ
 
 
 ![Triz to model of 6 map](TRIZ_model_6_mapping.png)
