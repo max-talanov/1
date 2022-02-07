@@ -22,6 +22,21 @@
 
 ## 40 principles of invention
 
+
+
+Principle 20. Continuity of Useful Action.
+
+B - Eliminate all idle or intermittent actions or work
+Booted notebooks use.
+...
+
+Principle 22. Blessing in Disguise
+
+A - Use harmful factors (particularly, harmful effects of the
+environment or surroundings) to achieve a positive effect
+Use arctic cold to cool a data-center
+
+
 ### Most useful
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
