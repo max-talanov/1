@@ -22,6 +22,16 @@
 
 ## 40 principles of invention
 
+### Principle 5. Merging
+
+A - Bring closer together (or merge) identical or similar objects or
+operations in space.
+Close to the separate the concerns principle.
+
+### Principle 6. Universality
+
+...
+
 
 
 ### Principle 20. Continuity of Useful Action.
