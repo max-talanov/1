@@ -32,6 +32,24 @@ Close to the separate the concerns principle.
 
 ...
 
+### Principle 7. Russian Dolls “Nested Doll”
+
+B - Place multiple objects inside others
+
+### Principle 10. Preliminary Action
+
+...
+
+### Principle 11. Beforehand Cushioning
+
+Back up!
+
+
+### Principle 13. “The Other Way Round”
+
+Inverse dependency.
+
+
 
 
 ### Principle 20. Continuity of Useful Action.
@@ -47,6 +65,20 @@ environment or surroundings) to achieve a positive effect
 Use arctic cold to cool a data-center.
 
 ### Principle 23. Feedback
+
+
+### Principle 24. Intermediary
+
+Proxy objects.
+
+### Principle 25. Self-service
+
+Self-test. 
+
+### Principle 26. Copying
+
+Reformulation.
+Using computational models.
 
 
 ### Most useful
