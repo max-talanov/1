@@ -7,7 +7,8 @@
 1. http://websites.umich.edu/~scps/html/07chap/html/powerpointpicstriz/Chapter%207%20TRIZ.pdf
 2. https://web.archive.org/web/20130410005442/http://www.triz-journal.com/archives/2002/03/b/index.htm
 
-
+## 40 principles of invention
+https://www.toolshero.com/problem-solving/triz-method/
 
 
 ![Triz to model of 6 map](TRIZ_model_6_mapping.png)
