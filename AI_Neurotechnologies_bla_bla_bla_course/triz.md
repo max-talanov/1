@@ -8,6 +8,10 @@
 2. https://web.archive.org/web/20130410005442/http://www.triz-journal.com/archives/2002/03/b/index.htm
 
 ## 40 principles of invention
+### In short 
+https://timeweb.com/ru/community/articles/metod-triz-chto-eto-takoe-i-kak-rabotaet
+
+### In English
 https://www.toolshero.com/problem-solving/triz-method/
 
 
