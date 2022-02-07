@@ -23,6 +23,10 @@
 
 
 ## 40 principles of invention
+
+### Most useful
+http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
+
 ### In short 
 https://timeweb.com/ru/community/articles/metod-triz-chto-eto-takoe-i-kak-rabotaet
 
