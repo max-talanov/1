@@ -57,12 +57,10 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 **Elevating**. If you are bogged down in too many details, describe the situation in more general terms. But if your description seems too vague, switch to one that is more concrete.
 
 **Changing the subject**. Whatever you are working on now, if you get discouraged enough, you can always abandon it and simply switch to a different task.
-
-**Contradiction**. Try to prove that your problem cannot be solved, and then look for a flaw in that argument.
-
  
 **Simulation**. One can avoid taking physical risks if one can predict “what would happen if” by imagining possible actions inside the mental models that one has built.
 
+**Correlation**. When certain events seem to happen together, try to find ways in which they may be connected.
 
 ### Reflective Ways to Think
 
