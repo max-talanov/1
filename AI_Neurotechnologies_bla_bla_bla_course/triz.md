@@ -102,7 +102,7 @@ The contex of the problem, usually context diagram.
 
 
 
-![Triz to model of 6 map](TRIZ_model_6_mapping)
+![Triz to model of 6 map](TRIZ_model_6_mapping.png)
 ## 40 principles of invention
 
 ### Principle 1. Segmentation 
