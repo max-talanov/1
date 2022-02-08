@@ -22,7 +22,7 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking
 1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
 1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
 1. **The development a new technology** - a source object is completely updated.
-1. Involves the discovery of new phenomena - a scientific discovery is made and the whole system where the object is included is updated.
+1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
 
 ## Poincare’s Unconscious Processes
 
