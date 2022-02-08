@@ -16,7 +16,7 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking
 
 ## Levels of innovation 
 
-![TRIZ levels of innovation](TRIZ_model_6_mapping-levels of innovation.png)
+![TRIZ levels of innovation](TRIZ_model_6_mapping-levels_of_innovation.png)
 
 1. **Simple improvement of a technical system** - well known object with no search for solutions.
 1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
