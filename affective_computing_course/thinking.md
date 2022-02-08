@@ -58,6 +58,12 @@ Damasio 1995: "One might say that the particular step of the task at which Ellio
 
 **Changing the subject**. Whatever you are working on now, if you get discouraged enough, you can always abandon it and simply switch to a different task.
 
+**Contradiction**. Try to prove that your problem cannot be solved, and then look for a flaw in that argument.
+
+ 
+**Simulation**. One can avoid taking physical risks if one can predict “what would happen if” by imagining possible actions inside the mental models that one has built.
+
+
 ### Reflective Ways to Think
 
 **Wishful thinking**. Imagine having unlimited time and all the resources that you might want. If you still can’t envision solving the problem, then you should reformulate it.
