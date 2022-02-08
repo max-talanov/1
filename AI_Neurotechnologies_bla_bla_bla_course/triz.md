@@ -62,7 +62,7 @@ The contex of the problem, usually context diagram.
 
 #### ШАГ 3.1. Записать формулировку ИКР-1: 
 
-``
+```
 икс-элемент, 
 абсолютно не усложняя систему и не вызывая вредных явлений, 
 устраняет 
@@ -71,7 +71,7 @@ The contex of the problem, usually context diagram.
 в пределах оперативной зоны (ОЗ), 
 сохраняя способность инструмента совершать 
 (указать полезное действие).
-``
+```
 
 
 ![Triz to model of 6 map](TRIZ_model_6_mapping.png)
