@@ -7,6 +7,8 @@
 1. http://websites.umich.edu/~scps/html/07chap/html/powerpointpicstriz/Chapter%207%20TRIZ.pdf
 2. https://web.archive.org/web/20130410005442/http://www.triz-journal.com/archives/2002/03/b/index.htm
 
+![Triz to model of 6 map](TRIZ_model_6_mapping.png)
+
 ## Levels of innovation 
 
 1. **Simple improvement of a technical system** - well known object with no search for solutions.
@@ -101,8 +103,6 @@ The contex of the problem, usually context diagram.
 
 
 
-
-![Triz to model of 6 map](TRIZ_model_6_mapping.png)
 ## 40 principles of invention
 
 ### Principle 1. Segmentation 
