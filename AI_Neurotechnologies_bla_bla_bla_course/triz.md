@@ -9,7 +9,10 @@
 
 ## Model of 6: ways to think
 
+https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md
+
 https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md#useful-ways-to-think
+
 
 ## Levels of innovation 
 
@@ -22,6 +25,8 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking
 1. Involves the discovery of new phenomena - a scientific discovery is made and the whole system where the object is included is updated.
 
 ## Poincare’s Unconscious Processes
+
+https://web.media.mit.edu/~minsky/E7/eb7.html
 
 1. **Preparation**: Activate resources to deal with this particular type of problem.
 1. **Incubation**: generate many potential solutions.
@@ -204,11 +209,12 @@ The contex of the problem, usually context diagram.
 ## 40 principles of invention
 
 ### Principle 1. Segmentation 
-(Divide and conquer)
+(**Divide and conquer**)
 
 A. Divide an object into independent parts.
 
 ### Principle 5. Merging
+(**Combination**)
 
 
 A - Bring closer together (or merge) identical or similar objects or
