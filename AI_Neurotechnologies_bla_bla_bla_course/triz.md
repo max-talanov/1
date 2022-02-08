@@ -209,12 +209,12 @@ The contex of the problem, usually context diagram.
 ## 40 principles of invention
 
 ### Principle 1. Segmentation 
-(**Divide and conquer**)
+(**model of 6: Divide and conquer**)
 
 A. Divide an object into independent parts.
 
 ### Principle 5. Merging
-(**Combination**)
+(**model of 6: Correlation**)
 
 
 A - Bring closer together (or merge) identical or similar objects or
@@ -222,8 +222,7 @@ operations in space.
 Close to the separate the concerns principle.
 
 ### Principle 6. Universality
-
-(Elevation)
+(**model of 6:  Elevation**)
 
 ...
 
@@ -232,23 +231,20 @@ Close to the separate the concerns principle.
 B - Place multiple objects inside others
 
 ### Principle 10. Preliminary Action
-
-(Planing)
+(**model of 6: Planing, Logical reasoning**)
 
 ...
 
 ### Principle 11. Beforehand Cushioning
-(Planing)
-
+(**model of 6: Planing**)
 
 Back up!
 
 
 ### Principle 13. “The Other Way Round”
+(**model of 6: Reformulation, Reasoning by analogy**)
 
 Inverse dependency.
-
-
 
 
 ### Principle 20. Continuity of Useful Action.
@@ -258,9 +254,11 @@ Booted notebooks use.
 ...
 
 ### Principle 22. Blessing in Disguise
+(**model of 6: Reformulation**)
 
 A - Use harmful factors (particularly, harmful effects of the
 environment or surroundings) to achieve a positive effect
+
 Use arctic cold to cool a data-center.
 
 ### Principle 23. Feedback
@@ -275,6 +273,7 @@ Proxy objects.
 Self-test. 
 
 ### Principle 26. Copying
+(**model of 6: Reformulation, Simulation, Use external representations**)
 
 Reformulation.
 Using computational models.
