@@ -207,6 +207,7 @@ The contex of the problem, usually context diagram.
 ...
 
 ## 40 principles of invention
+http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
 ### Principle 1. Segmentation 
 (**model of 6: Divide and conquer**)
