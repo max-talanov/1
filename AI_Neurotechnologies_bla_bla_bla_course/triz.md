@@ -280,11 +280,16 @@ Reformulation.
 Using computational models.
 
 
-### Most useful
+#### Most useful
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
-### In short 
+#### In short 
 https://timeweb.com/ru/community/articles/metod-triz-chto-eto-takoe-i-kak-rabotaet
 
-### In English
+#### In English
 https://www.toolshero.com/problem-solving/triz-method/
+
+## Spiral development
+
+![Spiral development](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/800px-Spiral_model_%28Boehm%2C_1988%29.svg.png)
+
