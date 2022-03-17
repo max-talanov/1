@@ -2,7 +2,7 @@
 
 ## Hebbian learning (excitatory)
 
-"Fire together wire together"
+### "Fire together wire together"
 
 ![Hebbian learning](Hebb_eSTDP.png)
 
