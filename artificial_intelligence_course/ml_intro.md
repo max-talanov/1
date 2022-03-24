@@ -56,6 +56,9 @@ Input parameters vector and class to be classified.
 
 An agent takes actions in an environment, which is interpreted into a reward and a representation of the state, which are fed back into the agent.
 
+# Perceptron 
+![3 layers perceptron](https://www.researchgate.net/publication/259319882/figure/fig3/AS:667043535810572@1536046980868/Structure-of-a-typical-3-layer-feed-forward-multilayer-perceptron-artificial-neural.png)
+
 # F measure
 
 [Wikipedia page](https://en.wikipedia.org/wiki/F1_score)
