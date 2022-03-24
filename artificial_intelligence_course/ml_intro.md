@@ -47,10 +47,10 @@ Input parameters vector and class to be classified.
 ![k means results](iris_3_cluster.png)
 
 # Reinforcement learning
-![RL intro presentation](https://courses.cs.washington.edu/courses/cse490r/19sp/site/resources/lec28_rl.pdf)
-![RL nice intro](https://www.freecodecamp.org/news/a-brief-introduction-to-reinforcement-learning-7799af5840db/)
 
-[Wikipedia page](https://en.wikipedia.org/wiki/Reinforcement_learning)
+1. [RL intro presentation](https://courses.cs.washington.edu/courses/cse490r/19sp/site/resources/lec28_rl.pdf)
+1. [RL nice intro](https://www.freecodecamp.org/news/a-brief-introduction-to-reinforcement-learning-7799af5840db/)
+1. [Wikipedia page](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 ![Pleasant unpleasant emotions](https://upload.wikimedia.org/wikipedia/en/6/62/Two_Dimensions_of_Emotion.gif.jpg)
 
