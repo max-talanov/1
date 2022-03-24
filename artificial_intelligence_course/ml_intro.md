@@ -52,8 +52,6 @@ Input parameters vector and class to be classified.
 1. [RL nice intro](https://www.freecodecamp.org/news/a-brief-introduction-to-reinforcement-learning-7799af5840db/)
 1. [Wikipedia page](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
-![Pleasant unpleasant emotions](https://upload.wikimedia.org/wikipedia/en/6/62/Two_Dimensions_of_Emotion.gif.jpg)
-
 ![Reinforcement learning](https://upload.wikimedia.org/wikipedia/commons/1/1b/Reinforcement_learning_diagram.svg)
 
 An agent takes actions in an environment, which is interpreted into a reward and a representation of the state, which are fed back into the agent.
