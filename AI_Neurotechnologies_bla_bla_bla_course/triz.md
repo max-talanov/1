@@ -42,6 +42,7 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 **Evaluation**: We often hear advice that suggests that it’s safer for us to trust our ‘intuitions—ideas that we get without knowing how. But Poincare went on to emphasize that one cannot always trust those ‘revelations.’
 
 ## ARIZ
+https://www.altshuller.ru/triz/technique2.asp
 https://www.altshuller.ru/triz/ariz85v.asp
 
 ![Triz to model of 6 map](TRIZ_model_6_mapping.png)
