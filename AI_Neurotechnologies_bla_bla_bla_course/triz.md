@@ -154,7 +154,7 @@ The contex of the problem, usually context diagram.
 
 ### 5. Patent search
 
-##### ШАГ 5.1. Рассмотреть возможность решения задачи (в формулировке ИКР-2 и с учетом ВПР, уточненных в четвертой части) по стандартам. 
+#### ШАГ 5.1. Рассмотреть возможность решения задачи (в формулировке ИКР-2 и с учетом ВПР, уточненных в четвертой части) по стандартам. 
 
 #### ШАГ 5.2. Рассмотреть возможность решения задачи (в формулировке ИКР-2 с учетом ВПР, уточненных в четвертой части) по аналогии с еще нестандартными задачами, ранее решенными по АРИЗ.
 
@@ -211,6 +211,7 @@ The contex of the problem, usually context diagram.
 ...
 
 ## 40 principles of invention
+https://altshuller.ru/triz/technique1.asp
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
 ### Principle 1. Segmentation 
