@@ -51,6 +51,8 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 
 ![Triz to model of 6 map](TRIZ_model_6_mapping.png)
 
+![ARIZ](TRIZ-ARIZ.png)
+
 ### 1. The problem analysis
 #### ШАГ 1.1. Записать условия мини-задачи (без специальных терминов) по следующей форме: 
 
