@@ -213,6 +213,13 @@ The contex of the problem, usually context diagram.
 
 ...
 
+## Mapping TRIZ to SD process
+
+![Innovation methodology](Innovation_methodology-2_spiral_life-cycle.png)
+
+![2 spiral process](Innovation_methodology-2_spiral.png)
+
+
 ## 40 principles of invention
 https://altshuller.ru/triz/technique1.asp
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
