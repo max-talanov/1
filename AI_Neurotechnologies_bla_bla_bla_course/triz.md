@@ -213,11 +213,11 @@ The contex of the problem, usually context diagram.
 
 ...
 
-## Mapping TRIZ to SD process
+## Mapping ARIZ to SD process
 
 https://www.youtube.com/watch?v=XKYsteB-KPk
 
-![Innovation methodology](Innovation_methodology-2_spiral_life-cycle.png)
+![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
 
 ![2 spiral process](Innovation_methodology-2_spiral.png)
 
