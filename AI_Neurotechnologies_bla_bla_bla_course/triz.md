@@ -216,7 +216,7 @@ The contex of the problem, usually context diagram.
 ## Mapping ARIZ to SD process
 [Innovation methodology](IM.md)
 
-#### Most useful
+## Most useful references 
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
 #### In short 
