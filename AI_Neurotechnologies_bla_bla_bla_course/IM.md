@@ -5,8 +5,8 @@ https://www.youtube.com/watch?v=XKYsteB-KPk
 
 https://en.wikipedia.org/wiki/TRIZ
 
-The proposed innovation methodology is based on the ARIZ (Algorithm of the solution of  inventory problems (in Russian)) and Software development processes.
-We will use mandatory phases of the software development process: analysis, design, development and validation here.
+The proposed innovation methodology is based on the ARIZ process (Algorithm of the solution of  inventory problems (in Russian)) and Software development life-cycle.
+The software development life-cycle contains analysis, design, development and validation phases, but here we take in account only analysis, design and early prototyping, for the reason that they are affected by ARIZ process. 
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
 
