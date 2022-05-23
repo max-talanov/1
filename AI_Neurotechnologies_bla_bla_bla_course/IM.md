@@ -25,8 +25,8 @@ Functional and non functional requirements contains as well as "traditional" des
 
 	The X element, without additional complications of the system preserving all the useful functions of the system 
 	does following:
-		useful actions 
-	in the context of the system during context time.
+		[useful actions] 
+	in [the context of the system] during [the context time].
 
 
 
