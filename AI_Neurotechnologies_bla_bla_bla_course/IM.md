@@ -1,14 +1,36 @@
 # Innovation methodology 
 
 ## Sources
-https://www.youtube.com/watch?v=XKYsteB-KPk
 
 https://en.wikipedia.org/wiki/TRIZ
 
-The proposed innovation methodology is based on the ARIZ process (Algorithm of the solution of  inventory problems (in Russian)) and Software development life-cycle.
-The software development life-cycle contains analysis, design, development and validation phases, but here we take in account only analysis, design and early prototyping, for the reason that they are affected by ARIZ process. 
+https://altshuller.ru/triz/ariz85v.asp
+
+https://www.youtube.com/watch?v=XKYsteB-KPk
+
+https://en.wikipedia.org/wiki/Software_development_process
+
+The proposed innovation methodology is based on the ARIZ process (Algorithm of the solution of  inventory problems (in Russian)) and Software development life-cycle (SDL).
+The SDL contains the following phases analysis, design, development and validation phases, but here we take in account only analysis, design and early prototyping, for the reason that they are affected by ARIZ process.
+The picture below contains simple waterfall SDL, below we indicate that with the influence of ARIZ it convolves into double spiral process.
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
+
+
+## Analysis and IFR
+
+The fist phase of the SDL usually contains the context description that corresponds ARIZ context and context time steps.
+
+Functional and non functional requirements contains as well as "traditional" descriptions also the description of Ideal Final Result (IFR) in the following form:
+
+The X element, without additional complications of the system preserving all the useful functions of the system 
+does following:
+	useful actions 
+in the context of the system during context time.
+
+
+
+## Double spiral life-cycle
 
 ![2 spiral process](Innovation_methodology-2_spiral.png)
 
