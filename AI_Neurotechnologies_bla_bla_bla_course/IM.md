@@ -28,7 +28,9 @@ Functional and non functional requirements contains as well as "traditional" des
 		[useful actions] 
 	in [the context of the system] during [the context time].
 
+## Design 
 
+The design starts with the High level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
 
 
 
