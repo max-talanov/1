@@ -31,13 +31,19 @@ Functional and non functional requirements contains as well as "traditional" des
 
 ## Design 
 
-The design starts with the High level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
+The design starts with the high level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
 
-Firstly we have to identify the technical contradiction (TC) in the form:
+Firstly we have to identify the high level technical contradictions (TC) in the form:
 
 	IF [brief solution description]
 	THEN [positive results]
 	BUT [negative consequences]
+	
+We should identify at least two TCs describing opposite solutions, for example using wired and wireless solution.
+Both of them have positive results and negative consequences.
+
+TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=1403944458)
+and the [list of principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
 
 ## Double spiral life-cycle
 
