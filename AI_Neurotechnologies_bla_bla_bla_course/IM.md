@@ -44,18 +44,27 @@ Firstly we have to identify the high level technical contradictions (TC) in the 
 We should identify at least two TCs describing opposite solutions, for example using wired and wireless solution.
 Both of them have positive results and negative consequences.
 
+Draw the TCs diagrams.
+
+# ... Add notation here
+
 TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=1403944458)
 and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
 
 If we could not select satisfactory solution we must use the "step back from IFR" approach.
 This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
 
-Using the IFR-2 we reformulate TCs and use modeling with small dwarfs approach (MSD).
-The MSD is form of wishful thinking:
+Using the IFR-2 we reformulate TCs and use modeling with small dwarfs modeling approach (SDM).
+The SDM is form of wishful thinking:
 
 	Imagine that you have powerful small dwarfs that could "magically" help you solve the problem.
-	Draw the diagram with small dwarfs acting as technical solution.
+	Draw the system with technical contradiction diagram.
+	Add the diagram with small dwarfs acting as technical solution.
 	Substitute small dwarfs with technical system/solution.
+	
+If SDM does not help reformulate high level TC and IFR using one more "step back from IFR" and repeat SDM steps.
+
+# ... Reformulate text above in more appropriate way
 
 ## Double spiral life-cycle
 
