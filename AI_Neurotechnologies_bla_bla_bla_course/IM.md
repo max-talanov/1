@@ -33,6 +33,8 @@ Now we call it **IFR-1**.
 
 ## Design 
 
+The design is the "find the solution" phase that in case of inventions/innovations should lead to the early, in fact as early as possible prototype to test the solution.
+
 The design starts with the high level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
 
 Firstly we have to identify the high level technical contradictions (TC) in the form:
@@ -63,6 +65,10 @@ The SDM is form of wishful thinking:
 	Substitute small dwarfs with technical system/solution.
 	
 If SDM does not help reformulate high level TC and IFR using one more "step back from IFR" and repeat SDM steps.
+
+We could use this reformulation cycle till we find ourself dead end or find the solution.
+In the first case we should reformulate the task 
+In the later case we should get to the Mid level design.
 
 # ... Reformulate text above in more appropriate way
 
