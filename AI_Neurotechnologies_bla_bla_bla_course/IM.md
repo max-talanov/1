@@ -33,7 +33,9 @@ Now we call it **IFR-1**.
 
 ## Design 
 
-The design is the "find the solution" phase that in case of inventions/innovations should lead to the early, in fact as early as possible prototype to test the solution.
+The design is the "find the solution" phase that in case of inventions/innovations should lead to the early, in fact as early as possible prototype to validate the solution.
+
+### High level design
 
 The design starts with the high level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
 
@@ -68,13 +70,21 @@ If SDM does not help reformulate high level TC and IFR using one more "step back
 
 We could use this reformulation cycle till we find ourself dead end or find the solution.
 In the first case we should reformulate the task 
-In the later case we should get to the Mid level design.
+In the later case we should get to the high level design description using for example UML diagrams and the "traditional" software design approach, with later mid level design description to get as fast as we can to the early prototype.
+
+### Mid level design 
+
+The MLD phase contains similar to the HLD phases with the respect to the abstraction level that we take in account.
+If HLD contains the bird eye view on components, deployment and overall behavior of components description the MLD should consist of drilling in the HLD component with sub-components, interfaces between components and internal components activity description.
 
 # ... Reformulate text above in more appropriate way
+
 
 ## Double spiral life-cycle
 
 ![2 spiral process](Innovation_methodology-2_spiral.png)
+
+
 
 
 ## 40 principles of invention
