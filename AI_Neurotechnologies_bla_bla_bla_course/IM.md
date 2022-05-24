@@ -24,9 +24,10 @@ The fist phase of the SDL usually contains the context description that correspo
 Functional and non functional requirements contains as well as "traditional" descriptions also the description of Ideal Final Result (IFR) in the following form:
 
 	The X element, without additional complications of the system preserving all the useful functions of the system 
-	does following:
+	DOES following:
 		[useful actions] 
-	in [the context of the system] during [the context time].
+	IN [the context of the system] 
+	DURING [the context time].
 
 ## Design 
 
