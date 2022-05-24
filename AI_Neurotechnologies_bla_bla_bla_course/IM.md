@@ -32,8 +32,11 @@ Functional and non functional requirements contains as well as "traditional" des
 
 The design starts with the High level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
 
-Firstly we have to 
+Firstly we have to identify the technical contradiction (TC) in the form:
 
+	IF [brief solution description]
+	THEN [positive results]
+	BUT [negative consequences]
 
 ## Double spiral life-cycle
 
