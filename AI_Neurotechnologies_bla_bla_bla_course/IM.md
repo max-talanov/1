@@ -48,7 +48,14 @@ TCs could be used to find the recommended TRIZ principle using the [TC table](ht
 and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
 
 If we could not select satisfactory solution we must use the "step back from IFR" approach.
-This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**
+This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
+
+Using the IFR-2 we reformulate TCs and use modeling with small dwarfs approach (MSD).
+The MSD is form of wishful thinking:
+
+	Imagine that you have powerful small dwarfs that could "magically" help you solve the problem.
+	Draw the diagram with small dwarfs acting as technical solution.
+	Substitute small dwarfs with technical system/solution.
 
 ## Double spiral life-cycle
 
