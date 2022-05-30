@@ -90,6 +90,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 
 
 
+# ... Add IT examples below
 ## 40 principles of invention
 https://altshuller.ru/triz/technique1.asp
 
@@ -164,3 +165,6 @@ Self-test.
 
 Reformulation.
 Using computational models.
+
+# ... Add design patterns with IT examples 
+https://altshuller.ru/triz/standards.asp
