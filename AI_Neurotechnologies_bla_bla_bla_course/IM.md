@@ -48,12 +48,16 @@ Firstly we have to identify the high level technical contradictions (TC) in the 
 We should identify at least two TCs describing opposite solutions, for example using wired and wireless solution.
 Both of them have positive results and negative consequences.
 
-Draw the TCs diagrams.
+Draw the TCs diagrams according to the notation inherited from TRIZ and reworked.
 
 # ... Add notation here
 
+
 TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=1403944458)
 and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
+
+
+# ... Add PCs and design patterns (standards of TRIZ https://altshuller.ru/triz/standards.asp)
 
 If we could not select satisfactory solution we must use the "step back from IFR" approach.
 This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
