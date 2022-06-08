@@ -51,7 +51,7 @@ Both of them have positive results and negative consequences.
 Draw the TCs diagrams according to the notation inherited from TRIZ and reworked.
 
 # ... Add notation here
-![IM notation](IM_natation.png)
+![IM notation](IM_notation.png)
 
 
 TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=298366498)
