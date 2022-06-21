@@ -11,8 +11,11 @@ https://www.youtube.com/watch?v=XKYsteB-KPk
 https://en.wikipedia.org/wiki/Software_development_process
 
 The proposed innovation methodology is based on the [ARIZ process](https://en.wikipedia.org/wiki/TRIZ) (Algorithm of inventive problems solving (in Russian)) and [Software development life-cycle](https://en.wikipedia.org/wiki/Software_development_process) (SDL).
-The SDL contains the following phases analysis, design, development and validation phases, but here we take in account only analysis, design and early prototyping, for the reason that they are affected by ARIZ process.
-The picture below contains simple waterfall SDL, below we indicate that with the influence of ARIZ it convolves into double spiral process.
+The SDL contains the following phases: analysis, design, development and validation with further maintenance ... . 
+As the Innovation methodology is focused main on solving technical problems 
+here we take into account only analysis, design and early prototyping, they are influenced by ARIZ process.
+The picture below contains simple waterfall SDL with mapped ARIZ actions
+(below we indicate that with the influence of ARIZ it convolves into double-spiral process).
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
 
