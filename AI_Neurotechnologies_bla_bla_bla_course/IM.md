@@ -35,13 +35,13 @@ Now we call it **IFR-1** and it stands for version 1 of high level view IFR. The
 
 ## Design 
 
-For the inventions/innovations we propose to use the one more approach in combination with ARIZ and SDL - the early prototyping. To develop the prototype as early as one can is crucial for the invention starting from the core functionality towards the *should have* functions of the system. This spiral approach is depicted in [double spiral diagram](#double-spiral-life-cycle)
-
-that in case of inventions/innovations should lead to the early, in fact as early as possible prototype to validate the solution.
+For the inventions/innovations we propose to use the one more approach in combination with ARIZ and SDL - the early prototyping. To develop the prototype as early as one can is crucial for the invention starting from the core functionality towards the *should have* functions of the system. This spiral approach is depicted in [double spiral diagram](#double-spiral-life-cycle).
 
 ### High level design
 
 The design starts with the high level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
+
+#### Technical contradiction 
 
 Firstly we have to identify the high level technical contradictions (TC) in the form:
 
