@@ -67,7 +67,9 @@ and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f
 [TC table was adopted using this resource.](https://altshuller.ru/triz/technique2.asp)
 
 
-# ... Add PCs and design patterns (standards of TRIZ https://altshuller.ru/triz/standards.asp)
+# ... Add PCs and design patterns 
+(system of standards https://altshuller.ru/triz/ariz85v-t2.asp
+standards of TRIZ https://altshuller.ru/triz/standards.asp)
 
 #### Clarification of IFR 
 
