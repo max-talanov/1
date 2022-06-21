@@ -44,7 +44,8 @@ The design starts with the high level view (HLD) where we broadly try to underst
 #### Technical contradiction 
 
 Firstly we have to identify the high level Technical Contradictions (**TC**) 
-The technical contradiction is the central concept of ARIZ and identifies the technical obstacle we have to overcome using invention. According to ARIZ we put the TC in the form:
+The technical contradiction is the central concept of ARIZ and identifies the technical obstacle to develop the IFR that we have to overcome using invention. 
+According to ARIZ we put the TC in the form:
 
 	IF [brief solution description]
 	THEN [positive results]
@@ -57,11 +58,14 @@ Draw the TCs diagrams according to the reworked ARIZ notation.
 
 ![IM notation](IM_notation.png)
 
-The rectangles (Sys1, Sys2) represent components of the system with two impacts useful and harmful in the same state of the system. 
-
-
-TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=298366498)
+The rectangles (Sys1, Sys2) represent components of the system with two impacts useful and harmful in the same state of the system. The TC diagram revolves around the IFR and the technical impasse to develop and deliver the IFR.
+To identify the wishful 
+Using the absent useful and absent harmful impact arrows we could describe desired state of the IFR highlighting TC.
+As soon as we have identified the first high-level TC we could use 
+recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=298366498)
 and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
+
+[TC table was adopted using this resource](https://altshuller.ru/triz/technique2.asp)
 
 
 # ... Add PCs and design patterns (standards of TRIZ https://altshuller.ru/triz/standards.asp)
