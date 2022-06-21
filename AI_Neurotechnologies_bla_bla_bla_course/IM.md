@@ -69,15 +69,19 @@ and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f
 
 # ... Add PCs and design patterns (standards of TRIZ https://altshuller.ru/triz/standards.asp)
 
-If we could not select satisfactory solution we must use the "step back from IFR" approach.
+#### Clarification of IFR 
+
+The TC highlights reasons why we can not implement the IFR in a straightforward manner and if we can not define a satisfactory solution we must use the "step back from IFR" approach.
 This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
 
-Using the IFR-2 we reformulate TCs and use modeling with Small Dwarfs Modeling approach (SDM).
+#### Modeling (SDM)
+
+Using the IFR-2 we can use the other ARIZ tool: the **Small Dwarfs Modeling** approach (SDM).
 The SDM is form of wishful thinking:
 
 	Imagine that you have powerful small dwarfs that could "magically" help you solve the problem.
-	Draw the system with technical contradiction diagram.
-	Add the diagram with small dwarfs acting as technical solution.
+	Draw the system with technical contradiction diagram and extend it with 
+	the diagram with small dwarfs acting as technical solution.
 	Substitute small dwarfs with technical system/solution.
 	
 If SDM does not help reformulate high level TC and IFR using one more "step back from IFR" and repeat SDM steps.
