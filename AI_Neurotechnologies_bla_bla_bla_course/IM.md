@@ -31,7 +31,7 @@ Functional and non functional requirements are extended the description of ARIZ 
 	IN [the context of the system]
 	DURING [the context time].
 
-Now we call it **IFR-1** and it stands for version 1 of high level view IFR.
+Now we call it **IFR-1** and it stands for version 1 of high level view IFR. The **IFR-2** is the second version or the correction of the IFR after the analysis of the **Technical Contradiction**. The IFR-2 leads to the ARIZ **Modeling** activity.
 
 ## Design 
 
@@ -65,7 +65,7 @@ and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f
 If we could not select satisfactory solution we must use the "step back from IFR" approach.
 This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
 
-Using the IFR-2 we reformulate TCs and use modeling with small dwarfs modeling approach (SDM).
+Using the IFR-2 we reformulate TCs and use modeling with Small Dwarfs Modeling approach (SDM).
 The SDM is form of wishful thinking:
 
 	Imagine that you have powerful small dwarfs that could "magically" help you solve the problem.
