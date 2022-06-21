@@ -14,7 +14,7 @@ The proposed innovation methodology is based on the [ARIZ process](https://en.wi
 The SDL contains the following phases: analysis, design, development and validation with further maintenance ... . 
 As the Innovation methodology is focused main on solving technical problems 
 here we take into account only analysis, design and early prototyping, they are influenced by ARIZ process.
-The picture below contains simple waterfall SDL with mapped ARIZ actions
+The picture below contains simple waterfall SDL with mapped ARIZ activities
 (below we indicate that with the influence of ARIZ it convolves into double-spiral process).
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
@@ -29,7 +29,7 @@ Functional and non functional requirements contains as well as "traditional" des
 	The X element, without additional complications of the system preserving all the useful functions of the system 
 	DOES following:
 		[useful actions] 
-	IN [the context of the system] 
+	IN [the context of the system]
 	DURING [the context time].
 
 Now we call it **IFR-1**.
