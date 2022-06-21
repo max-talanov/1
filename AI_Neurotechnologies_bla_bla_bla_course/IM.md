@@ -23,7 +23,6 @@ The picture below contains simple waterfall SDL with mapped ARIZ activities
 ## Analysis and IFR
 
 The fist phase of the SDL usually contains the context description that corresponds ARIZ context and context time steps.
-
 Functional and non functional requirements contains as well as "traditional" descriptions also the description of Ideal Final Result (IFR) in the following form:
 
 	The X element, without additional complications of the system preserving all the useful functions of the system 
