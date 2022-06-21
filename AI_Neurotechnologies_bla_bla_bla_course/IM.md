@@ -57,7 +57,7 @@ Draw the TCs diagrams according to the reworked ARIZ notation.
 
 ![IM notation](IM_notation.png)
 
-
+The rectangles (Sys1, Sys2) represent components of the system with two impacts useful and harmful in the same state of the system. 
 
 
 TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=298366498)
