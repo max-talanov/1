@@ -23,7 +23,7 @@ The picture below contains simple waterfall SDL with mapped ARIZ activities
 ## Analysis and IFR
 
 The analysis phase of the SDL usually contains the context description in the form of [context diagram](https://en.wikipedia.org/wiki/System_context_diagram) that corresponds ARIZ context and is extened with ARIZ context time activities.
-Functional and non functional requirements are extended the description of ARIZ Ideal Final Result (IFR) in the following form:
+Functional and non functional requirements are extended the description of ARIZ Ideal Final Result (**IFR**) in the following form:
 
 	The X element, without additional complications of the system preserving all the useful functions of the system 
 	DOES following:
