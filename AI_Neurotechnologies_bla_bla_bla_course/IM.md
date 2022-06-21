@@ -43,7 +43,10 @@ The design starts with the high level view (HLD) where we broadly try to underst
 
 #### Technical contradiction 
 
-Firstly we have to identify the high level technical contradictions (TC) in the form:
+Firstly we have to identify the high level Technical Contradictions (**TC**) 
+The technical contradiction is the central concept of ARIZ and identifies the 
+
+in the form:
 
 	IF [brief solution description]
 	THEN [positive results]
