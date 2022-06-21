@@ -22,8 +22,8 @@ The picture below contains simple waterfall SDL with mapped ARIZ activities
 
 ## Analysis and IFR
 
-The analysis phase of the SDL usually contains the context description in the form of [context diagram](https://en.wikipedia.org/wiki/System_context_diagram) that corresponds ARIZ context and context time steps.
-Functional and non functional requirements contains as well as "traditional" descriptions also the description of Ideal Final Result (IFR) in the following form:
+The analysis phase of the SDL usually contains the context description in the form of [context diagram](https://en.wikipedia.org/wiki/System_context_diagram) that corresponds ARIZ context and is extened with ARIZ context time activities.
+Functional and non functional requirements are extended the description of ARIZ Ideal Final Result (IFR) in the following form:
 
 	The X element, without additional complications of the system preserving all the useful functions of the system 
 	DOES following:
@@ -31,11 +31,11 @@ Functional and non functional requirements contains as well as "traditional" des
 	IN [the context of the system]
 	DURING [the context time].
 
-Now we call it **IFR-1**.
+Now we call it **IFR-1** and it stands for version 1 of high level view IFR.
 
 ## Design 
 
-The design is the "find the solution" phase that in case of inventions/innovations should lead to the early, in fact as early as possible prototype to validate the solution.
+The design of the "find the solution" phase that in case of inventions/innovations should lead to the early, in fact as early as possible prototype to validate the solution.
 
 ### High level design
 
