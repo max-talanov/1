@@ -44,21 +44,20 @@ The design starts with the high level view (HLD) where we broadly try to underst
 #### Technical contradiction 
 
 Firstly we have to identify the high level Technical Contradictions (**TC**) 
-The technical contradiction is the central concept of ARIZ and identifies the 
-
-in the form:
+The technical contradiction is the central concept of ARIZ and identifies the technical obstacle we have to overcome using invention. According to ARIZ we put the TC in the form:
 
 	IF [brief solution description]
 	THEN [positive results]
 	BUT [negative consequences]
 	
-We should identify at least two TCs describing opposite solutions, for example using wired and wireless solution.
-Both of them have positive results and negative consequences.
+We should identify at least two TCs describing opposite solutions, for example using wired and wireless connection.
+Both of them should have positive results and negative consequences.
 
-Draw the TCs diagrams according to the notation inherited from TRIZ and reworked.
+Draw the TCs diagrams according to the reworked ARIZ notation.
 
-# ... Add notation here
 ![IM notation](IM_notation.png)
+
+
 
 
 TCs could be used to find the recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=298366498)
