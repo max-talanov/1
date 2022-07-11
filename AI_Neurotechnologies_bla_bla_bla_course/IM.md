@@ -68,6 +68,17 @@ and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f
 
 
 # ... Add PCs and design patterns 
+1. https://en.wikipedia.org/wiki/Inventive_standard#cite_note-3 
+1. in English https://altshuller.ru/world/eng/standards.asp
+1. https://sites.google.com/site/otsmtriz/inventive-standards
+1. https://www.ee.iitb.ac.in/~apte/CV_PRA_TRIZ_INTRO.htm
+1. https://www.mindtools.com/pages/article/newCT_92.htm
+1. https://www.triz.co.uk/innovation-materials-thank-you?submissionGuid=df6d37a6-ed17-4aa0-a1d5-dc5391179de2
+1. https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f
+1. https://www.quality-assurance-solutions.com/TRIZ-Separation-Principles.html
+1. http://www.xtriz.com/publications/Souchkov_Roxas_SystemOfInventuiveBusinessStandardsTRIZfest%202016.pdf
+1. https://www.aitriz.org/triz/triz-body-of-knowledge
+
 (system of standards https://altshuller.ru/triz/ariz85v-t2.asp
 standards of TRIZ https://altshuller.ru/triz/standards.asp)
 
