@@ -78,6 +78,7 @@ and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f
 1. https://www.quality-assurance-solutions.com/TRIZ-Separation-Principles.html
 1. http://www.xtriz.com/publications/Souchkov_Roxas_SystemOfInventuiveBusinessStandardsTRIZfest%202016.pdf
 1. https://www.aitriz.org/triz/triz-body-of-knowledge
+1. https://www.mindtools.com/pages/article/newCT_92.htm
 
 (system of standards https://altshuller.ru/triz/ariz85v-t2.asp
 standards of TRIZ https://altshuller.ru/triz/standards.asp)
