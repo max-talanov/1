@@ -1,4 +1,4 @@
-# AI, neurotechnologies and bla bla bla
+# Neurotechnologies and TRIZ
 
 Max Talanov: talanov.max@gmail.com
 
