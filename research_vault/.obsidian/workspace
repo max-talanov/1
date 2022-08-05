@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "aec2ca8295c7a186",
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f8515c1c5e8076b",
+  "active": "02992a2e0e190776",
   "lastOpenFiles": [
     "Hormonal computing/ToDos.md"
   ]
