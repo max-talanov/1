@@ -5,6 +5,7 @@
 #vagus
 #implant
 #sci
+#neuron 
 
 1. Redraw high SCI dia
 2. Discuss cases to add to HC
