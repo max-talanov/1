@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-10.md",
+            "file": "Memristive neuron/2022-08-10.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-10.md",
+                "file": "Memristive neuron/2022-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-10.md",
+                "file": "Memristive neuron/2022-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-10.md"
+                "file": "Memristive neuron/2022-08-10.md"
               }
             }
           }
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02992a2e0e190776",
+  "active": "9f8515c1c5e8076b",
   "lastOpenFiles": [
     "Hormonal computing/Cases.md",
     "Hormonal computing/ToDos.md"
