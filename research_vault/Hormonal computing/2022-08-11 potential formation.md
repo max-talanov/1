@@ -7,7 +7,7 @@
 ## Nucleus
 As  for the nuclei we have to take in account the shapes of extracellular spikes as well their spike times
 
-![Extracellular spike](https://raw.githubusercontent.com/max-talanov/1/master/research_vault/Hormonal%20computing/Pasted%20image%2020220811150933.png)
+![Extracellular spike](Pasted%20image%2020220811150933.png)
 
 Taking into account the spike times we can sum the potentials at the particular moment.
 As all the computing must be done in int we use $level$ to denote the voltage of the neuron membrane potential
