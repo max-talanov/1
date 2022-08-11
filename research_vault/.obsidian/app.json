@@ -1,4 +1,7 @@
 {
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }
