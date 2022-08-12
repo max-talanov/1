@@ -19,8 +19,10 @@ This way the overall nucleus potential curve is formed via the sum of individual
 
 ## Nerve
 The nerve potential looks the same as nucleus taking in account the  dynamics of the potential propagation of the spikes along the fiber.
-$Nerve\_level = \sum(neuron\_level(delay))$
+$Nerve\_level = \sum(neuron\_level(delay)) - decay(delay)$
 $delay$ identifies the time in $ms$ from the spike formation in neuron then propagation to the particular site.
+$decay$ is saturation function for myelinated fiber $decay = 0$
+
 
 
 

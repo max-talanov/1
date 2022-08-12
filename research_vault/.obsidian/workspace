@@ -7,12 +7,8 @@
         "id": "92c9babcfddebf27",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Hormonal computing/Cases.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#neuron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hormonal computing/Cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hormonal computing/Cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hormonal computing/Cases.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -132,11 +124,11 @@
   "active": "92c9babcfddebf27",
   "lastOpenFiles": [
     "Hormonal computing/2022-08-11 potential formation.md",
+    "Hormonal computing/Cases.md",
     "Hormonal computing/Pasted_image_20220811150933.png",
     "Hormonal computing/Pasted_image_2020220811150933.png.md",
     "Pasted_image_20220811150933.png",
     "Hormonal computing/Pasted image 20220811150933.png",
-    "Hormonal computing/Cases.md",
     "Hormonal computing/ToDos.md",
     "Memristive neuron/2022-08-10.md",
     "2022-08-10.md"
