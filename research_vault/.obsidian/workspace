@@ -7,8 +7,12 @@
         "id": "92c9babcfddebf27",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hormonal computing/2022-08-11 potential formation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 177.5
   },
   "right": {
     "id": "aec2ca8295c7a186",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hormonal computing/2022-08-11 potential formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hormonal computing/2022-08-11 potential formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hormonal computing/2022-08-11 potential formation.md"
+              }
             }
           }
         ],
@@ -123,6 +131,7 @@
   },
   "active": "92c9babcfddebf27",
   "lastOpenFiles": [
+    "Hormonal computing/2022-08-12 hormonal signaling.md",
     "Hormonal computing/2022-08-11 potential formation.md",
     "Hormonal computing/Cases.md",
     "Hormonal computing/Pasted_image_20220811150933.png",
