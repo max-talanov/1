@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hormonal computing/2022-08-11 potential formation.md",
+            "file": "Hormonal computing/2022-08-12 hormonal signaling.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hormonal computing/2022-08-11 potential formation.md",
+                "file": "Hormonal computing/2022-08-12 hormonal signaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hormonal computing/2022-08-11 potential formation.md",
+                "file": "Hormonal computing/2022-08-12 hormonal signaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hormonal computing/2022-08-11 potential formation.md"
+                "file": "Hormonal computing/2022-08-12 hormonal signaling.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "92c9babcfddebf27",
   "lastOpenFiles": [
-    "Hormonal computing/2022-08-12 hormonal signaling.md",
     "Hormonal computing/2022-08-11 potential formation.md",
+    "Hormonal computing/2022-08-12 hormonal signaling.md",
     "Hormonal computing/Cases.md",
     "Hormonal computing/Pasted_image_20220811150933.png",
     "Hormonal computing/Pasted_image_2020220811150933.png.md",
