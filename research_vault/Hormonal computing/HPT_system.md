@@ -1,7 +1,7 @@
 # Hypothalamus–pituitary–thyroid (HPT) axis signaling
 
-Possibly brightest example of the hormonal messaging and autoregulation is the hypothalamus-pituitary-thyroid axis [ref to fig].
-Starting from the activation in hypothalamus where the thyroid release hormone (TRH) is produced??? it activates via neuro-messaging??? the release of the thyroid stimulation hormone (TSH) in pituitary gland that in its turn through the hormonal messaging thyroid gland that produces??? thyroid hormones that influences the set of organs.
+Possibly brightest example of the hormonal messaging and auto-regulation is the hypothalamus-pituitary-thyroid axis [ref to fig].
+The activation in hypothalamus where the thyroid release hormone (TRH) is produced??? it activates via neuro-messaging??? the release of the thyroid stimulation hormone (TSH) in pituitary gland that in its turn through the hormonal messaging thyroid gland that produces??? thyroid hormones that influences the set of organs.
 The thyroid gland has negative feedback loop using ... messaging to pituitary gland and hypothalamus.
 
 The implementation with the proposed approach looks like following:
