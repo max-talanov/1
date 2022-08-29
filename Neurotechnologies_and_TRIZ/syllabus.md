@@ -81,4 +81,5 @@ CycleGAN tutorials:
    
 # TRIZ
 1. [TRIZ intro](triz.md)
+2. [Innovation methodology](IM.md)
 
