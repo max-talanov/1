@@ -198,6 +198,10 @@ https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?a
 
 #### 1-1. Synthesis of S-Fields
 
+https://altshuller.ru/triz/standards.asp#1
+
+https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?authuser=0
+
 Given an object S1 which is hard to control, 
 and the conditions of the task do not contain any restrictions on the introduction of new substances and fields, 
 the problem could be solved by synthesizing a new S-Field: 
@@ -219,7 +223,9 @@ The missing elements are introduced accordingly.
 
 1-2. Decomposition of S-Fields
 
-Proxy ?
+If there are two influences useful and harmful between two substances, we could solve the problem adding the proxy substance.
+
+![Proxy](Proxy.png)
 
 ### 2. Evolution of S-Field systems
 
@@ -260,6 +266,11 @@ CQRS_1
 
 
 # References 
+
+## S-Fields
+
+1. https://altshuller.ru/triz/triz8.asp
+
 ## ARIZ
 
 1. https://altshuller.ru/triz/ariz85v-t2.asp
