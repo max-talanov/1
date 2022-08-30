@@ -191,12 +191,15 @@ https://altshuller.ru/triz/standards.asp
 
 https://altshuller.ru/world/eng/standards.asp
 
+https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?authuser=0
+
+
 ### 1. Composition and Decomposition of S-Field systems
 
 1-1. Synthesis of S-Fields
 
 MVC, Pub-sub
-
+OM
 
 1-2. Decomposition of S-Fields
 
