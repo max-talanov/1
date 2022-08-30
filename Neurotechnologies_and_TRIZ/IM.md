@@ -198,6 +198,12 @@ https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?a
 
 #### 1-1. Synthesis of S-Fields
 
+Given an object S1 which is hard to control, 
+and the conditions of the task do not contain any restrictions on the introduction of new substances and fields, 
+the problem could be solved by synthesizing a new S-Field: 
+the object is subjected to the action of a field via new substance S2 producing the necessary change over the object. 
+The missing elements are introduced accordingly.
+
 ![S-Field](S-Field.png)
 
 ##### MVC
