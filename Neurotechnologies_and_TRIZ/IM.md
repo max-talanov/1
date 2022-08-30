@@ -206,6 +206,8 @@ https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?a
 
 ##### Pub-sub
 
+![Pub-sub](Pub-sub.png)
+
 ##### Oscillator motif
 ![Oscillator motif](OM.png)
 
