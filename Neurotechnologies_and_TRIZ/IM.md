@@ -196,10 +196,12 @@ https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?a
 
 ### 1. Composition and Decomposition of S-Field systems
 
-1-1. Synthesis of S-Fields
+#### 1-1. Synthesis of S-Fields
 
 MVC, Pub-sub
-OM
+
+##### Oscillator motif
+![Oscillator motif](OM.png)
 
 1-2. Decomposition of S-Fields
 
