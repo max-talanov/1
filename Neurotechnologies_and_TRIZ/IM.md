@@ -104,6 +104,10 @@ We could use this reformulation cycle till we find ourself dead end or find the 
 In the first case we should reformulate the task 
 In the later case we should get to the high level design description using for example UML diagrams and the "traditional" software design approach, with later mid level design description to get as fast as we can to the early prototype.
 
+#### Using standards (Design patterns)
+
+
+
 ### Mid level design 
 
 The MLD phase contains similar to the HLD phases with the respect to the abstraction level that we take in account.
@@ -200,3 +204,6 @@ Using computational models.
 
 # ... Add design patterns with IT examples 
 https://altshuller.ru/triz/standards.asp
+
+
+# References 
