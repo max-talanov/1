@@ -186,8 +186,6 @@ Self-test.
 Reformulation.
 Using computational models.
 
-# ... Add design patterns with IT examples 
-
 ## Inventive Standards 
 https://altshuller.ru/triz/standards.asp
 
@@ -196,12 +194,27 @@ https://altshuller.ru/world/eng/standards.asp
 ### 1. Composition and Decomposition of S-Field systems
 
 1-1. Synthesis of S-Fields
+
+MVC, Pub-sub
+
+
 1-2. Decomposition of S-Fields
+
+Proxy ?
 
 ### 2. Evolution of S-Field systems
 
 2-1. A transition to integrate S-Fields
+
+2.1.1. A transition to chain S-Field
+CQRS_2
+
+2.1.2. A transition to double S-Field
+CQRS_1
+
+
 2-2. Forcing S-Fields
+
 2-3. Evolution by Coordinating Rhythms
 2-4. Complex-Forced S-Fields (F-Fields)
 
@@ -230,7 +243,7 @@ https://altshuller.ru/world/eng/standards.asp
 # References 
 ## ARIZ
 
-1. System of standards https://altshuller.ru/triz/ariz85v-t2.asp
+1. https://altshuller.ru/triz/ariz85v-t2.asp
 
 ## Standards 
 
