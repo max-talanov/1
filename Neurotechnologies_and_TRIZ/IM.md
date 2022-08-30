@@ -228,6 +228,10 @@ https://altshuller.ru/world/eng/standards.asp
 
 
 # References 
+## ARIZ
+
+1. System of standards https://altshuller.ru/triz/ariz85v-t2.asp
+
 ## Standards 
 
 1. https://en.wikipedia.org/wiki/Inventive_standard#cite_note-3 
@@ -241,6 +245,5 @@ https://altshuller.ru/world/eng/standards.asp
 1. http://www.xtriz.com/publications/Souchkov_Roxas_SystemOfInventuiveBusinessStandardsTRIZfest%202016.pdf
 1. https://www.aitriz.org/triz/triz-body-of-knowledge
 1. https://www.mindtools.com/pages/article/newCT_92.htm
-1. System of standards https://altshuller.ru/triz/ariz85v-t2.asp
-1. Standards of TRIZ https://altshuller.ru/triz/standards.asp)
+1. https://altshuller.ru/triz/standards.asp)
 
