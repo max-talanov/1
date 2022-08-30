@@ -239,6 +239,9 @@ We can increase the efficiency of S-Fields using complex (chain, dual) S-Fields 
 
 #### 2.1.1. A transition to chain S-Field
 
+https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
+
+
 ![CQRS as chain S-Field](CQRS_2.png)
 
 #### 2.1.2. A transition to double S-Field
@@ -246,6 +249,8 @@ We can increase the efficiency of S-Fields using complex (chain, dual) S-Fields 
 ![CQRS as double S-Field](CQRS_1.png)
 
 #### 2-2. Forcing S-Fields
+
+
 
 #### 2-3. Evolution by Coordinating Rhythms
 
