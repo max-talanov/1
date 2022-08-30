@@ -66,23 +66,6 @@ recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsh
 and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
 [TC table was adopted using this resource.](https://altshuller.ru/triz/technique2.asp)
 
-
-# ... Add PCs and design patterns 
-1. https://en.wikipedia.org/wiki/Inventive_standard#cite_note-3 
-1. in English https://altshuller.ru/world/eng/standards.asp
-1. https://sites.google.com/site/otsmtriz/inventive-standards
-1. https://www.ee.iitb.ac.in/~apte/CV_PRA_TRIZ_INTRO.htm
-1. https://www.mindtools.com/pages/article/newCT_92.htm
-1. https://www.triz.co.uk/innovation-materials-thank-you?submissionGuid=df6d37a6-ed17-4aa0-a1d5-dc5391179de2
-1. https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f
-1. https://www.quality-assurance-solutions.com/TRIZ-Separation-Principles.html
-1. http://www.xtriz.com/publications/Souchkov_Roxas_SystemOfInventuiveBusinessStandardsTRIZfest%202016.pdf
-1. https://www.aitriz.org/triz/triz-body-of-knowledge
-1. https://www.mindtools.com/pages/article/newCT_92.htm
-
-(system of standards https://altshuller.ru/triz/ariz85v-t2.asp
-standards of TRIZ https://altshuller.ru/triz/standards.asp)
-
 #### Clarification of IFR 
 
 The TC highlights reasons why we can not implement the IFR in a straightforward manner and if we can not define a satisfactory solution we must use the "step back from IFR" approach.
@@ -106,6 +89,7 @@ In the later case we should get to the high level design description using for e
 
 #### Using standards (Design patterns)
 
+# ... Extend
 
 
 ### Mid level design 
@@ -203,7 +187,59 @@ Reformulation.
 Using computational models.
 
 # ... Add design patterns with IT examples 
+
+## Inventive Standards 
 https://altshuller.ru/triz/standards.asp
+
+https://altshuller.ru/world/eng/standards.asp
+
+### 1. Composition and Decomposition of S-Field systems
+
+1-1. Synthesis of S-Fields
+1-2. Decomposition of S-Fields
+
+### 2. Evolution of S-Field systems
+
+2-1. A transition to integrate S-Fields
+2-2. Forcing S-Fields
+2-3. Evolution by Coordinating Rhythms
+2-4. Complex-Forced S-Fields (F-Fields)
+
+### 3. Transitions to Supersystem and Microlevel
+
+3-1. Transitions to Bi-system and Poly-system
+3-2. Transition to Micro-level
+
+### 4. Measurement and Detection Standards
+
+4-1. Change Instead of Measurement and Detection
+4-2. Synthesis of Measuring Systems
+4-3. Forcing of measuring S-Fields
+4-4. Transition to Ferromagnetic Measurement Systems
+4-5. Evolution of Measuring Systems
+
+### 5. Helpers (Standards on application on standards)
+
+5-1. Introduction of Substances under Restricted Conditions
+5-2. Introduction of Fields under Restricted Conditions
+5-3. Use of Phase Transitions
+5-4. Use of Physical Effects
+5-5. Experimental standards
 
 
 # References 
+
+1. https://en.wikipedia.org/wiki/Inventive_standard#cite_note-3 
+1. https://altshuller.ru/world/eng/standards.asp
+1. https://sites.google.com/site/otsmtriz/inventive-standards
+1. https://www.ee.iitb.ac.in/~apte/CV_PRA_TRIZ_INTRO.htm
+1. https://www.mindtools.com/pages/article/newCT_92.htm
+1. https://www.triz.co.uk/innovation-materials-thank-you?submissionGuid=df6d37a6-ed17-4aa0-a1d5-dc5391179de2
+1. https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f
+1. https://www.quality-assurance-solutions.com/TRIZ-Separation-Principles.html
+1. http://www.xtriz.com/publications/Souchkov_Roxas_SystemOfInventuiveBusinessStandardsTRIZfest%202016.pdf
+1. https://www.aitriz.org/triz/triz-body-of-knowledge
+1. https://www.mindtools.com/pages/article/newCT_92.htm
+1. System of standards https://altshuller.ru/triz/ariz85v-t2.asp
+1. Standards of TRIZ https://altshuller.ru/triz/standards.asp)
+
