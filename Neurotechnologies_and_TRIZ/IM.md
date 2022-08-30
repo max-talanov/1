@@ -221,7 +221,7 @@ The missing elements are introduced accordingly.
 ##### Oscillator motif
 ![Oscillator motif](OM.png)
 
-1-2. Decomposition of S-Fields
+#### 1-2. Decomposition of S-Fields
 
 If there are two influences useful and harmful between two substances, we could solve the problem adding the proxy substance.
 
