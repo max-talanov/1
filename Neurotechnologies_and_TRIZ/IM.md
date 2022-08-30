@@ -198,6 +198,8 @@ https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?a
 
 #### 1-1. Synthesis of S-Fields
 
+![S-Field](S-Field.png)
+
 ##### MVC
 
 ![Model view controller](MVC.png)
