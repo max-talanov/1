@@ -229,19 +229,27 @@ If there are two influences useful and harmful between two substances, we could 
 
 ### 2. Evolution of S-Field systems
 
-2-1. A transition to integrate S-Fields
+https://altshuller.ru/triz/standards.asp#2
 
-2.1.1. A transition to chain S-Field
-CQRS_2
+https://sites.google.com/site/otsmtriz/inventive-standards/class-2?authuser=0
 
-2.1.2. A transition to double S-Field
-CQRS_1
+#### 2-1. A transition to integrate S-Fields
 
+We can increase the efficiency of S-Fields using complex (chain, dual) S-Fields instead of simple ones.
 
-2-2. Forcing S-Fields
+#### 2.1.1. A transition to chain S-Field
 
-2-3. Evolution by Coordinating Rhythms
-2-4. Complex-Forced S-Fields (F-Fields)
+![CQRS as chain S-Field](CQRS_2.png)
+
+#### 2.1.2. A transition to double S-Field
+
+![CQRS as double S-Field](CQRS_1.png)
+
+#### 2-2. Forcing S-Fields
+
+#### 2-3. Evolution by Coordinating Rhythms
+
+#### 2-4. Complex-Forced S-Fields (F-Fields)
 
 ### 3. Transitions to Supersystem and Microlevel
 
