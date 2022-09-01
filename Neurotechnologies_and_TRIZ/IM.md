@@ -254,6 +254,11 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 ![ResNet architecture](https://raw.githubusercontent.com/max-talanov/1/master/artificial_intelligence_course/resNet_arch.png)
 
+##### Chain of responsibility 
+
+[Chain of responsibility wiki](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+
+
 #### 2.1.2. A transition to double S-Field
 
 ##### CQRS
