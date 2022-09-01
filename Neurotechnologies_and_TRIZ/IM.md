@@ -218,8 +218,14 @@ The missing elements are introduced accordingly.
 
 ![Pub-sub](Pub-sub.png)
 
+##### Visitor 
+
+![UML Visitor](https://upload.wikimedia.org/wikipedia/commons/0/00/W3sDesign_Visitor_Design_Pattern_UML.jpg)
+![Abstract Visitor](https://upload.wikimedia.org/wikipedia/commons/d/d8/Visitor_pattern_class_diagram_in_LePUS3.gif)
+
 ##### Oscillator motif
 ![Oscillator motif](OM.png)
+
 
 #### 1-2. Decomposition of S-Fields
 
