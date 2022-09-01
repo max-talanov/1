@@ -287,9 +287,14 @@ Instead of adding new substances and fields in this subclass we propose to use o
 
 #### 2-4. Complex-Forced S-Fields (F-Fields)
 
+Enforcing of S-Fields could go with several standard ways. 
+Most effectively we could enforce S-Fields with disperse ferromagnetic substance and magnetic field.
+
 ### 3. Transitions to Supersystem and Microlevel
 
 #### 3-1. Transitions to Bi-system and Poly-system
+
+
 
 ##### CPG
 
