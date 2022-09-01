@@ -248,11 +248,15 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 ##### ResNet
 
+![ResNet as S-Field](ResNet.png)
+
 ![ResNet building block](https://upload.wikimedia.org/wikipedia/commons/5/5f/ResNets.svg)
 
 ![ResNet architecture](https://raw.githubusercontent.com/max-talanov/1/master/artificial_intelligence_course/resNet_arch.png)
 
 #### 2.1.2. A transition to double S-Field
+
+##### CQRS
 
 ![CQRS as double S-Field](CQRS_1.png)
 
