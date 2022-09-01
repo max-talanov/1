@@ -292,9 +292,12 @@ Most effectively we could enforce S-Fields with disperse ferromagnetic substance
 
 ### 3. Transitions to Supersystem and Microlevel
 
+на любом этапе внутреннего развития система может быть объединена с другими системами в надсистему с новыми качествами.
+In any stage of evolution the system could be merged with the other one or many in over-system with new properties. 
+
 #### 3-1. Transitions to Bi-system and Poly-system
 
-
+The effectiveness of the system could be improved using system transition 1-a: merging the system with the other one[many] in more complex bi-system or poly-system.
 
 ##### CPG
 
@@ -303,6 +306,8 @@ Most effectively we could enforce S-Fields with disperse ferromagnetic substance
 ![CPG](CPG.png)
 
 #### 3-2. Transition to Micro-level
+
+The effectiveness of the system could be improved using the system transition 2: from the macro-level to micro-level: system or its part is removed with the substance that under the influence of the field is capable of implementing the requested task.
 
 ### 4. Measurement and Detection Standards
 
