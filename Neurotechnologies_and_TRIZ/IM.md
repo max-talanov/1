@@ -241,8 +241,16 @@ We can increase the efficiency of S-Fields using complex (chain, dual) S-Fields 
 
 https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
+##### CQRS
 
 ![CQRS as chain S-Field](CQRS_2.png)
+
+
+##### ResNet
+
+![ResNet building block](https://upload.wikimedia.org/wikipedia/commons/5/5f/ResNets.svg)
+
+![ResNet architecture](https://raw.githubusercontent.com/max-talanov/1/master/artificial_intelligence_course/resNet_arch.png)
 
 #### 2.1.2. A transition to double S-Field
 
