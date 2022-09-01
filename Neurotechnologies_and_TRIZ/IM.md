@@ -220,7 +220,7 @@ The missing elements are introduced accordingly.
 
 ##### Visitor 
 
-(Visitor Wikipedia page)[https://en.wikipedia.org/wiki/Visitor_pattern]
+[Visitor Wikipedia page](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 ![Visitor S-Field](Visitor.png)
 
