@@ -291,31 +291,31 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 ![CPG](CPG.png)
 
-3-2. Transition to Micro-level
+#### 3-2. Transition to Micro-level
 
 ### 4. Measurement and Detection Standards
 
-4-1. Change Instead of Measurement and Detection
+#### 4-1. Change Instead of Measurement and Detection
 
-4-2. Synthesis of Measuring Systems
+#### 4-2. Synthesis of Measuring Systems
 
-4-3. Forcing of measuring S-Fields
+#### 4-3. Forcing of measuring S-Fields
 
-4-4. Transition to Ferromagnetic Measurement Systems
+#### 4-4. Transition to Ferromagnetic Measurement Systems
 
-4-5. Evolution of Measuring Systems
+#### 4-5. Evolution of Measuring Systems
 
 ### 5. Helpers (Standards on application on standards)
 
-5-1. Introduction of Substances under Restricted Conditions
+#### 5-1. Introduction of Substances under Restricted Conditions
 
-5-2. Introduction of Fields under Restricted Conditions
+#### 5-2. Introduction of Fields under Restricted Conditions
 
-5-3. Use of Phase Transitions
+#### 5-3. Use of Phase Transitions
 
-5-4. Use of Physical Effects
+#### 5-4. Use of Physical Effects
 
-5-5. Experimental standards
+#### 5-5. Experimental standards
 
 
 # References 
