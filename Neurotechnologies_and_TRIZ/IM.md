@@ -283,7 +283,7 @@ Ex: We could improve the effectiveness of S-Fields removing the unmanageable S-F
 
 #### 2-3. Evolution by Coordinating Rhythms
 
-
+Instead of adding new substances and fields in this subclass we propose to use only quantitative changes of frequencies, sizes and mass, thus we could receive new significant effect with minimal changes.
 
 #### 2-4. Complex-Forced S-Fields (F-Fields)
 
