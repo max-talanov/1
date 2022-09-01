@@ -220,6 +220,10 @@ The missing elements are introduced accordingly.
 
 ##### Visitor 
 
+(Visitor Wikipedia page)[https://en.wikipedia.org/wiki/Visitor_pattern]
+
+![Visitor S-Field](Visitor.png)
+
 ![UML Visitor](https://upload.wikimedia.org/wikipedia/commons/0/00/W3sDesign_Visitor_Design_Pattern_UML.jpg)
 ![Abstract Visitor](https://upload.wikimedia.org/wikipedia/commons/d/d8/Visitor_pattern_class_diagram_in_LePUS3.gif)
 
