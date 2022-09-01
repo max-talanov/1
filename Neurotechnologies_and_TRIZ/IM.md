@@ -250,7 +250,7 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 ![ResNet as S-Field](ResNet.png)
 
-![ResNet building block](https://upload.wikimedia.org/wikipedia/commons/5/5f/ResNets.svg)
+![ResNet building block](https://neurohive.io/wp-content/uploads/2019/01/resnet-570x328.png)
 
 ![ResNet architecture](https://raw.githubusercontent.com/max-talanov/1/master/artificial_intelligence_course/resNet_arch.png)
 
