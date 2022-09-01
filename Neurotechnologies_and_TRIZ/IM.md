@@ -268,9 +268,13 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 ### 3. Transitions to Supersystem and Microlevel
 
-3-1. Transitions to Bi-system and Poly-system
+#### 3-1. Transitions to Bi-system and Poly-system
 
-![CPG as the increasing the level of abstraction](CPG.png)
+##### CPG
+
+![CPG as the increasing the level of abstraction](CPG_S-Field.png)
+
+![CPG](CPG.png)
 
 3-2. Transition to Micro-level
 
