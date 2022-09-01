@@ -277,7 +277,13 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 #### 2-2. Forcing S-Fields
 
+To increase the effectiveness of S-Fields simple or complex we could enforce given S-Fields.
+
+Ex: We could improve the effectiveness of S-Fields removing the unmanageable S-Field with good manageable S-Field, for example remove gravity S-Field with mechanical, mechanical with electrical etc.
+
 #### 2-3. Evolution by Coordinating Rhythms
+
+
 
 #### 2-4. Complex-Forced S-Fields (F-Fields)
 
