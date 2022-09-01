@@ -250,8 +250,6 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 #### 2-2. Forcing S-Fields
 
-
-
 #### 2-3. Evolution by Coordinating Rhythms
 
 #### 2-4. Complex-Forced S-Fields (F-Fields)
@@ -259,6 +257,8 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 ### 3. Transitions to Supersystem and Microlevel
 
 3-1. Transitions to Bi-system and Poly-system
+
+![CPG as the increasing the level of abstraction](CPG.png)
 
 3-2. Transition to Micro-level
 
