@@ -292,7 +292,6 @@ Most effectively we could enforce S-Fields with disperse ferromagnetic substance
 
 ### 3. Transitions to Supersystem and Microlevel
 
-на любом этапе внутреннего развития система может быть объединена с другими системами в надсистему с новыми качествами.
 In any stage of evolution the system could be merged with the other one or many in over-system with new properties. 
 
 #### 3-1. Transitions to Bi-system and Poly-system
