@@ -116,9 +116,12 @@ The MLD could be the starting point of the early prototyping and the granularity
 1. [40 principles of invention table](https://en.wikipedia.org/wiki/TRIZ#/media/File:40_principles_of_TRIZ_method_720dpi.jpg)
 
 ### Principle 1. Segmentation 
-(**model of 6: Divide and conquer**)
+(model of 6: Divide and conquer)
+**Separate the concerns**
 
-A. Divide an object into independent parts.
+1. Divide an object into independent parts
+1. Make an object sectional - easy to assemble or disassemble
+1. Increase the degree of fragmentation or segmentation
 
 ### Principle 5. Merging
 (**model of 6: Correlation**)
