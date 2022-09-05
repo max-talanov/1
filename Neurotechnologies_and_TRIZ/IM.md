@@ -108,13 +108,14 @@ The MLD could be the starting point of the early prototyping and the granularity
 ![2 spiral process](Innovation_methodology-2_spiral.png)
 
 
-
-
-# ... Add IT examples below
 ## 40 principles of invention
 https://altshuller.ru/triz/technique1.asp
 
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
+
+https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f
+
+https://en.wikipedia.org/wiki/TRIZ#/media/File:40_principles_of_TRIZ_method_720dpi.jpg
 
 ### Principle 1. Segmentation 
 (**model of 6: Divide and conquer**)
