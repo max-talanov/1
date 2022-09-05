@@ -116,39 +116,42 @@ The MLD could be the starting point of the early prototyping and the granularity
 1. [40 principles of invention table](https://en.wikipedia.org/wiki/TRIZ#/media/File:40_principles_of_TRIZ_method_720dpi.jpg)
 
 ### Principle 1. Segmentation 
-(model of 6: Divide and conquer)
 **Separate the concerns**
+(model of 6: Divide and conquer)
 
 1. Divide an object into independent parts
 1. Make an object sectional - easy to assemble or disassemble
 1. Increase the degree of fragmentation or segmentation
 
 ### Principle 5. Merging
-(**model of 6: Correlation**)
+**Single-responsibility principle**
+(model of 6: Correlation)
 
 
-A - Bring closer together (or merge) identical or similar objects or
-operations in space.
-Close to the separate the concerns principle.
+1. Bring closer together (or merge) identical or similar objects or operations in space.
+1. Make objects or operations contiguous or parallel; bring them together in time.
 
-### Principle 6. Universality
-(**model of 6:  Elevation**)
-
-...
 
 ### Principle 7. Russian Dolls “Nested Doll”
+**Encapsulation**
 
-B - Place multiple objects inside others
+1. Place one object inside another
+1. Place multiple objects inside others
+1. Make one part pass (dynamically) through a cavity in the other
 
 ### Principle 10. Preliminary Action
-(**model of 6: Planing, Logical reasoning**)
+**Interface segregation principle**
+**Dependency inversion principle**
+(model of 6: Planing, Logical reasoning)
 
-...
+1. Perform the required change of an object in advance.
+1. Pre-arrange objects such that they can come into action from the most convenient place and without losing time for
+their delivery.
 
 ### Principle 11. Beforehand Cushioning
 (**model of 6: Planing**)
 
-Back up!
+**Back up!**
 
 
 ### Principle 13. “The Other Way Round”
