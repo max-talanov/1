@@ -10,6 +10,16 @@ https://www.youtube.com/watch?v=XKYsteB-KPk
 
 https://en.wikipedia.org/wiki/Software_development_process
 
+
+## Glossary 
+
+1. DPR - Design Pattern Repository. In terms of ARIZ informfund or information fund.
+1. IFR - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
+1. TC-PC - Technical Contradiction - Physical Contradiction. The phase of the IM where the engineer has to formalize technical and later physical contradiction of the problem.
+1. Early prototyping - the crucial phase of the IM to test the solution formalized in previous phases.
+
+## Description 
+
 The proposed innovation methodology is based on the [ARIZ process](https://en.wikipedia.org/wiki/TRIZ) (Algorithm of inventive problems solving (in Russian)) and [Software development life-cycle](https://en.wikipedia.org/wiki/Software_development_process) (SDL).
 The SDL contains the following phases: analysis, design, development and validation with further maintenance ... . 
 As the Innovation methodology is focused main on solving technical problems 

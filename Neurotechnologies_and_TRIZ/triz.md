@@ -41,6 +41,13 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 
 **Evaluation**: We often hear advice that suggests that it’s safer for us to trust our ‘intuitions—ideas that we get without knowing how. But Poincare went on to emphasize that one cannot always trust those ‘revelations.’
 
+## Glossary 
+
+1. DPR - Design Pattern Repository. In terms of ARIZ informfund or information fund.
+1. IFR - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
+1. TC-PC - Technical Contradiction - Physical Contradiction. The phase of the IM where the engineer has to formalize technical and later physical contradiction of the problem.
+1. Early prototyping - the crucial phase of the IM to test the solution formalized in previous phases.
+
 ## ARIZ
 1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
 1. https://www.altshuller.ru/triz/technique2.asp
