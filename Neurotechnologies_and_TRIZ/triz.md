@@ -43,10 +43,10 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 
 ## Glossary 
 
-1. DPR - Design Pattern Repository. In terms of ARIZ informfund or information fund.
-1. IFR - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
-1. TC-PC - Technical Contradiction - Physical Contradiction. The phase of the IM where the engineer has to formalize technical and later physical contradiction of the problem.
-1. Early prototyping - the crucial phase of the IM to test the solution formalized in previous phases.
+1. **DPR** - Design Pattern Repository. In terms of ARIZ informfund or information fund.
+1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
+1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
+1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
 
 ## ARIZ
 1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
