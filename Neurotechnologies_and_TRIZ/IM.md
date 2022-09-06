@@ -116,7 +116,9 @@ The MLD could be the starting point of the early prototyping and the granularity
 1. [40 principles of invention table](https://en.wikipedia.org/wiki/TRIZ#/media/File:40_principles_of_TRIZ_method_720dpi.jpg)
 
 ### Principle 1. Segmentation 
-**Separate the concerns**
+**Separate the concerns**/
+**Single-responsibility principle**
+
 (model of 6: Divide and conquer)
 
 1. Divide an object into independent parts
@@ -125,6 +127,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 
 ### Principle 5. Merging
 **Single-responsibility principle**
+
 (model of 6: Correlation)
 
 
@@ -133,7 +136,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 
 
 ### Principle 7. Russian Dolls “Nested Doll”
-**Encapsulation**
+**Encapsulation**/
 **Single-responsibility principle**
 
 1. Place one object inside another
@@ -141,8 +144,9 @@ The MLD could be the starting point of the early prototyping and the granularity
 1. Make one part pass (dynamically) through a cavity in the other
 
 ### Principle 10. Preliminary Action
-**Interface segregation principle**
+**Interface segregation principle**,
 **Dependency inversion principle**
+
 (model of 6: Planing, Logical reasoning)
 
 1. Perform the required change of an object in advance.
@@ -168,6 +172,7 @@ Examples:
 
 ### Principle 13. “The Other Way Round”
 **Inverse dependency**
+
 (model of 6: Reformulation, Reasoning by analogy**)
 
 1. Invert the action used to solve the problem
