@@ -181,17 +181,23 @@ Examples:
 
 ### Principle 20. Continuity of Useful Action.
 
-B - Eliminate all idle or intermittent actions or work
-Booted notebooks use.
-...
+1. Carry on work without a break. All parts of an object operating constantly at full capacity
+1. Eliminate all idle or intermittent actions
+
+Example: 
+
+1. Booted notebooks use.
+1. Use session instead of each request authorization. 
 
 ### Principle 22. Blessing in Disguise
-(**model of 6: Reformulation**)
 
-A - Use harmful factors (particularly, harmful effects of the
-environment or surroundings) to achieve a positive effect
+(model of 6: Reformulation)
 
-Use arctic cold to cool a data-center.
+1. Use harmful factors (harmful effects of the environment) to achieve a positive effect
+
+Examples:
+1. Load testing
+1. Use arctic cold to cool a data-center.
 
 ### Principle 23. Feedback
 
