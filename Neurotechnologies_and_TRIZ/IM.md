@@ -134,6 +134,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 
 ### Principle 7. Russian Dolls “Nested Doll”
 **Encapsulation**
+**Single-responsibility principle**
 
 1. Place one object inside another
 1. Place multiple objects inside others
@@ -145,20 +146,33 @@ The MLD could be the starting point of the early prototyping and the granularity
 (model of 6: Planing, Logical reasoning)
 
 1. Perform the required change of an object in advance.
-1. Pre-arrange objects such that they can come into action from the most convenient place and without losing time for
-their delivery.
+1. Pre-arrange objects such that they can act from the most convenient place and without losing time for their delivery.
 
 ### Principle 11. Beforehand Cushioning
-(**model of 6: Planing**)
+(model of 6: Planing)
 
-**Back up!**
+1. Prepare emergency means beforehand to compensate for the relatively low reliability of an object (‘belt and braces’)
+
+Examples: 
+
+1. Back-up
+1. Automatic save operations
+1. Revision control
+1. Testing 
+1. RAID
+1. Multi-channel control system
+1. Air-bag in a car
+1. Spare wheel 
+1. Emergency lighting
 
 
 ### Principle 13. “The Other Way Round”
-(**model of 6: Reformulation, Reasoning by analogy**)
+**Inverse dependency**
+(model of 6: Reformulation, Reasoning by analogy**)
 
-Inverse dependency.
-
+1. Invert the action used to solve the problem
+1. Make movable parts (or the external environment) fixed, and fixed parts movable
+1. Turn the object (or process) 'upside down'.
 
 ### Principle 20. Continuity of Useful Action.
 
