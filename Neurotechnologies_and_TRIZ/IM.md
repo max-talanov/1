@@ -201,20 +201,33 @@ Examples:
 
 ### Principle 23. Feedback
 
+1. Introduce feedback to improve a process or action
+1. If feedback is already used, update it
 
 ### Principle 24. Intermediary
+**Interface segregation principle**,
+**Dependency inversion principle**
 
-Proxy objects.
+Examples:
+
+1. Proxy objects.
 
 ### Principle 25. Self-service
 
-Self-test. 
+Examples:
+
+1. Self-test. 
+1. Auto-load.
 
 ### Principle 26. Copying
-(**model of 6: Reformulation, Simulation, Use external representations**)
+**Dependency inversion principle**
 
-Reformulation.
-Using computational models.
+(model of 6: Reformulation, Simulation, Use external representations)
+
+Examples:
+
+1. Multiple data representation.
+1. Computational models.
 
 ## Inventive Standards 
 https://altshuller.ru/triz/standards.asp
