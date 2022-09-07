@@ -103,7 +103,8 @@ In the later case we should get to the high level design description using for e
 | PC Principle                                  | Example         | # |
 |-----------------------------------------------|-----------------|---|
 | To separate contradictory properties in space |                 | 1 |
-| To separate contradictory properties in time  | Standard 2-3    | 2 |
+| To separate contradictory properties in time  | Standard 2.3    | 2 |
+| System transition 1a: merge of homogeneous or non-homogeneous system into super-system   | Standard 3.1    | 3 |
 
 
 
