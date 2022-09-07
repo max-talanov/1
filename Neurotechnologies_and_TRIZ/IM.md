@@ -99,12 +99,12 @@ In the later case we should get to the high level design description using for e
 
 #### Using standards (Design patterns)
 
-# ... Extend
 
-| Principle                                     | Example         | # |
+| PC Principle                                  | Example         | # |
 |-----------------------------------------------|-----------------|---|
 | To separate contradictory properties in space |                 | 1 |
 | To separate contradictory properties in time  | Standard 2-3    | 2 |
+
 
 
 ### Mid level design 
@@ -123,7 +123,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 ![2 spiral process](Innovation_methodology-2_spiral.png)
 
 
-## 40 principles of invention
+## 40 principles of invention TC
 
 1. [Original reference to 40 principles by Altshuller(ru)](https://altshuller.ru/triz/technique1.asp)
 1. [40 INVENTIVE PRINCIPLES FOR SOLVING TECHNICAL CONTRADICTIONS](https://altshuller.ru/world/eng/technique1.asp)
