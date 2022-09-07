@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hormonal computing/2022-08-12 BION.md",
+            "file": "Hormonal computing/2022-09-07.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 175.5
   },
   "right": {
     "id": "aec2ca8295c7a186",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hormonal computing/2022-08-12 BION.md",
+                "file": "Hormonal computing/2022-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hormonal computing/2022-08-12 BION.md",
+                "file": "Hormonal computing/2022-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hormonal computing/2022-08-12 BION.md"
+                "file": "Hormonal computing/2022-09-07.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "92c9babcfddebf27",
   "lastOpenFiles": [
+    "Hormonal computing/2022-08-12 BION.md",
     "Hormonal computing/2022-08-12 hormonal signaling.md",
     "Hormonal computing/2022-08-12 Thyroid hormonal signaling.md",
     "Hormonal computing/2022-08-11 potential formation.md",
@@ -139,7 +140,6 @@
     "Hormonal computing/Pasted_image_2020220811150933.png.md",
     "Pasted_image_20220811150933.png",
     "Hormonal computing/Pasted image 20220811150933.png",
-    "Hormonal computing/ToDos.md",
-    "Memristive neuron/2022-08-10.md"
+    "Hormonal computing/ToDos.md"
   ]
 }
