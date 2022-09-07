@@ -101,6 +101,11 @@ In the later case we should get to the high level design description using for e
 
 # ... Extend
 
+| Principle                                     | Example         | # |
+|-----------------------------------------------|-----------------|---|
+| To separate contradictory properties in space |                 | 1 |
+| To separate contradictory properties in time  | Standard 2.2.3  | 2 |
+
 
 ### Mid level design 
 
