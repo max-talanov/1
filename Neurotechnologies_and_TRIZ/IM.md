@@ -121,6 +121,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 ## 40 principles of invention
 
 1. [Original reference to 40 principles by Altshuller(ru)](https://altshuller.ru/triz/technique1.asp)
+1. [40 INVENTIVE PRINCIPLES FOR SOLVING TECHNICAL CONTRADICTIONS](https://altshuller.ru/world/eng/technique1.asp)
 1. [TRIZ 40 Design Principles](http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf)
 1. [40 Inventive Principles With Examples](https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f)
 1. [40 principles of invention table](https://en.wikipedia.org/wiki/TRIZ#/media/File:40_principles_of_TRIZ_method_720dpi.jpg)
