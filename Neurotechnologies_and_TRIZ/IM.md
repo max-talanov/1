@@ -123,13 +123,9 @@ In the later case we should get to the high level design description using for e
 ### Mid level design 
 
 The MLD phase contains similar to the HLD phases with the respect to the abstraction level that we take in account.
-If HLD contains the bird eye view on components, deployment and overall behavior of components description the MLD should consist of drilling in the HLD component with sub-components, interfaces between components and internal components activity description.
+If HLD contains the bird eye view on components, deployment and overall behavior of components description the MLD should consist of drilling into a HLD component with: sub-components, interfaces between components and internal components activity description.
 
-The MLD could be the starting point of the early prototyping and the granularity of the MLD is usually enough to create "quick and dirty" solution to validate the basic functionality of the proposed solution.
-
-
-# ... Reformulate text above in appropriate way
-
+The MLD could be the starting point of the early prototyping for feasibility study and the granularity of the MLD is usually enough to create "quick and dirty" implementation to validate the basic functionality of the proposed solution.
 
 ## Double spiral life-cycle
 
