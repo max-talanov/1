@@ -103,14 +103,14 @@ In the later case we should get to the high level design description using for e
 
 We could use the PC principles if taking into account only TCs does not provide satisfactory solution.
 
-| PC Principle                                                                               | Example      | # |
+| PC Principle                                                                               | [Standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards)      | # |
 |--------------------------------------------------------------------------------------------|--------------|---|
 | To separate contradictory properties in space                                              |              | 1 |
-| To separate contradictory properties in time                                               | Standard 2.3 | 2 |
-| System transition 1a: merge of homogeneous or non-homogeneous system into super-system     | Standard 3.1 | 3 |
-| System transition 1b: from system to anti-system or their combination                      | Standard 3.1 | 4 |
-| System transition 1c: the whole system has property P while its parts have property anti-P | Standard 3.1 | 5 |
-| System transition 2: to the system operating in micro-level                                | Standard 3.2 | 6 |
+| To separate contradictory properties in time                                               | [2.3](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#23-evolution-by-coordinating-rhythms) | 2 |
+| System transition 1a: merge of homogeneous or non-homogeneous system into super-system     | [3.1](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#31-transitions-to-bi-system-and-poly-system) | 3 |
+| System transition 1b: from system to anti-system or their combination                      | [3.1](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#31-transitions-to-bi-system-and-poly-system) | 4 |
+| System transition 1c: the whole system has property P while its parts have property anti-P | [3.1](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#31-transitions-to-bi-system-and-poly-system) | 5 |
+| System transition 2: to the system operating in micro-level                                | [3.2](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#32-transition-to-micro-level) | 6 |
 
 ...
 
