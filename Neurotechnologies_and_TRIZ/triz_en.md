@@ -68,6 +68,12 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. Техническое противоречие 2 (ТП-2): ЕСЛИ ..., ТО ... , НО ...
 1. Необходимо при минимальных изменениях в системе (указать результат, который должен быть получен).
 
+
+#### Step 1.1 Record mini-task (with no specific terms):
+
+1. The system: for (the purpose of the system) including (list all main components of the system).
+1. The technical contradiction 1 (TC-1): IF ..., Then ..., BUT ... 
+
 #### ШАГ 1.2. Выделить и записать конфликтующую пару элементов: изделие и инструмент.
 
 #### ШАГ 1.3. Составить графические схемы ТП-1 и ТП-2, используя таблицу 1.
