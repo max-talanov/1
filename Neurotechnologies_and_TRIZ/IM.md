@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Software_development_process
 
 1. **DPR** - Design Pattern Repository. In terms of ARIZ informfund or information fund.
 1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
+1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
+1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
 1. **TC-PC** - Technical Contradiction - Physical Contradiction. The phase of the IM where the engineer has to formalize technical and later physical contradiction of the problem.
 1. **Early prototyping** - the crucial phase of the IM to test the solution formalized in previous phases.
 
@@ -99,13 +101,20 @@ In the later case we should get to the high level design description using for e
 
 #### Using standards (Design patterns)
 
+We could use the PC principles if taking into account only TCs does not provide satisfactory solution.
 
-| PC Principle                                  | Example         | # |
-|-----------------------------------------------|-----------------|---|
-| To separate contradictory properties in space |                 | 1 |
-| To separate contradictory properties in time  | Standard 2.3    | 2 |
-| System transition 1a: merge of homogeneous or non-homogeneous system into super-system   | Standard 3.1    | 3 |
+| PC Principle                                                                               | Example      | # |
+|--------------------------------------------------------------------------------------------|--------------|---|
+| To separate contradictory properties in space                                              |              | 1 |
+| To separate contradictory properties in time                                               | Standard 2.3 | 2 |
+| System transition 1a: merge of homogeneous or non-homogeneous system into super-system     | Standard 3.1 | 3 |
+| System transition 1b: from system to anti-system or their combination                      | Standard 3.1 | 4 |
+| System transition 1c: the whole system has property P while its parts have property anti-P | Standard 3.1 | 5 |
+| System transition 2: to the system operating in micro-level                                | Standard 3.2 | 6 |
 
+...
+
+https://altshuller.ru/triz/ariz85v-t2.asp
 
 
 ### Mid level design 
@@ -124,7 +133,7 @@ The MLD could be the starting point of the early prototyping and the granularity
 ![2 spiral process](Innovation_methodology-2_spiral.png)
 
 
-## 40 principles of invention TC
+## 40 principles of invention. TCs.
 
 1. [Original reference to 40 principles by Altshuller(ru)](https://altshuller.ru/triz/technique1.asp)
 1. [40 INVENTIVE PRINCIPLES FOR SOLVING TECHNICAL CONTRADICTIONS](https://altshuller.ru/world/eng/technique1.asp)
