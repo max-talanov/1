@@ -18,7 +18,8 @@ https://en.wikipedia.org/wiki/Software_development_process
 1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
 1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
 1. **TC-PC** - Technical Contradiction - Physical Contradiction. The phase of the IM where the engineer has to formalize technical and later physical contradiction of the problem.
-1. **Early prototyping** - the crucial phase of the IM to test the solution formalized in previous phases.
+1. **Early prototyping** - the crucial phase of the IM to test the solution formalized in previous phases for the feasibility study.
+1. **Small Dwarfs Modeling approach (SDM)** - the abstract modeling technique with no technical limitations taking in account.
 
 ## Description 
 
@@ -134,7 +135,7 @@ The MLD could be the starting point of the early prototyping for feasibility stu
 
 ## 40 principles of invention. TCs.
 
-1. [Original reference to 40 principles by Altshuller(ru)](https://altshuller.ru/triz/technique1.asp)
+1. [Original reference to 40 principles by Altshuller](https://altshuller.ru/triz/technique1.asp)
 1. [40 INVENTIVE PRINCIPLES FOR SOLVING TECHNICAL CONTRADICTIONS](https://altshuller.ru/world/eng/technique1.asp)
 1. [TRIZ 40 Design Principles](http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf)
 1. [40 Inventive Principles With Examples](https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f)
@@ -410,6 +411,16 @@ The effectiveness of the system could be improved using the system transition 2:
 ## ARIZ
 
 1. https://altshuller.ru/triz/ariz85v-t2.asp
+
+## Principles
+
+
+1. [Original reference to 40 principles by Altshuller](https://altshuller.ru/triz/technique1.asp)
+1. [40 INVENTIVE PRINCIPLES FOR SOLVING TECHNICAL CONTRADICTIONS](https://altshuller.ru/world/eng/technique1.asp)
+1. [TRIZ 40 Design Principles](http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf)
+1. [40 Inventive Principles With Examples](https://cdn2.hubspot.net/hubfs/2211211/PDF%20and%20Excel%20Downloads/triz_40_inventive_principles_with_examplesfeb15.pdf?__hstc=20830247.14dc1d91c03f5af4c552285b429ad2de.1657557714810.1657557714810.1657557714810.1&__hssc=20830247.1.1657557714811&__hsfp=372072412&hsCtaTracking=187d6c75-807f-47fe-900d-bcb39582bd90%7Cc1dbc2ef-7597-461e-8909-792eaeb00e7f)
+1. [40 principles of invention table](https://en.wikipedia.org/wiki/TRIZ#/media/File:40_principles_of_TRIZ_method_720dpi.jpg)
+
 
 ## Standards 
 
