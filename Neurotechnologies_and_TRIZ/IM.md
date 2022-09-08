@@ -53,7 +53,7 @@ For the inventions/innovations we propose to use the one more approach in combin
 
 The design starts with the high level view (HLD) where we broadly try to understand the possible solution having functional and non functional requirements in hand as well as IFR.
 
-#### Technical contradiction 
+#### Technical contradiction. Using 40 principles 
 
 Firstly we have to identify the high level Technical Contradictions (**TC**) 
 The technical contradiction is the central concept of ARIZ and identifies the technical obstacle to develop the IFR that we have to overcome using invention. 
@@ -78,30 +78,11 @@ recommended TRIZ principle using the [TC table](https://docs.google.com/spreadsh
 and the [list of 40 principles](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf).
 [TC table was adopted using this resource.](https://altshuller.ru/triz/technique2.asp)
 
-#### Clarification of IFR 
+[40 principles IT examples](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#40-principles-of-invention-tcs)
 
-The TC highlights reasons why we can not implement the IFR in a straightforward manner and if we can not define a satisfactory solution we must use the "step back from IFR" approach.
-This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
+#### Physical contradiction. Using standards (Design patterns)
 
-#### Modeling (SDM)
-
-Using the IFR-2 we can use the other ARIZ tool: the **Small Dwarfs Modeling** approach (SDM).
-The SDM is form of wishful thinking:
-
-	Imagine that you have powerful small dwarfs that could "magically" help you solve the problem.
-	Draw the system with technical contradiction diagram and extend it with 
-	the diagram with small dwarfs acting as technical solution.
-	Substitute small dwarfs with technical system/solution.
-	
-If SDM does not help reformulate high level TC and IFR using one more "step back from IFR" and repeat SDM steps.
-
-We could use this reformulation cycle till we find ourself dead end or find the solution.
-In the first case we should reformulate the task 
-In the later case we should get to the high level design description using for example UML diagrams and the "traditional" software design approach, with later mid level design description to get as fast as we can to the early prototype.
-
-#### Using standards (Design patterns)
-
-We could use the PC principles if taking into account only TCs does not provide satisfactory solution.
+In addition to the TCs we could use the solving physical contradiction (PC) principles if taking into account only TCs does not provide satisfactory solution.
 
 | PC Principle                                                                               | [Standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards)      | # |
 |--------------------------------------------------------------------------------------------|--------------|---|
@@ -114,7 +95,29 @@ We could use the PC principles if taking into account only TCs does not provide 
 
 ...
 
-https://altshuller.ru/triz/ariz85v-t2.asp
+[PC table was adopted using this resource.](https://altshuller.ru/triz/ariz85v-t2.asp)
+
+
+#### Clarification of IFR 
+
+The TC-PC highlights reasons why we can not implement the IFR in a straightforward manner and if we can not define a satisfactory solution we must use the "step back from IFR" approach.
+This way we consider less ideal final result and reformulate **IFR-1** into **IFR-2**.
+
+#### Modeling (SDM)
+
+Using the IFR-2 we can use the other ARIZ tool: the **Small Dwarfs Modeling** approach (SDM).
+The SDM is form of wishful thinking:
+
+	Imagine that you have powerful small dwarfs that could "magically" help you solve the problem.
+	Draw the system with technical contradiction diagram and extend it with 
+	the diagram with small dwarfs acting as technical solution.
+	Substitute small dwarfs with technical system/solution.
+	
+If SDM does not help reformulate high level TC-PC and IFR using one more "step back from IFR" and repeat SDM steps.
+
+We could use this reformulation cycle till we find ourself dead end or find the solution.
+In the first case we should reformulate the task 
+In the later case we should get to the high level design description using for example UML diagrams and the "traditional" software design approach, with later mid level design description to get as fast as we can to the early prototype.
 
 
 ### Mid level design 
