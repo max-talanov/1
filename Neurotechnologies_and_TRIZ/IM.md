@@ -265,7 +265,7 @@ https://sites.google.com/site/otsmtriz/inventive-standards/class-1-1/group-1-1?a
 
 ### 1. Composition and Decomposition of S-Field systems
 
-#### 1-1. Synthesis of S-Fields
+#### 1.1. Synthesis of S-Fields
 
 https://altshuller.ru/triz/standards.asp#1
 
@@ -300,7 +300,7 @@ The missing elements are introduced accordingly.
 ![Oscillator motif](OM.png)
 
 
-#### 1-2. Decomposition of S-Fields
+#### 1.2. Decomposition of S-Fields
 
 If there are two influences useful and harmful between two substances, we could solve the problem adding the proxy substance.
 
@@ -312,7 +312,7 @@ https://altshuller.ru/triz/standards.asp#2
 
 https://sites.google.com/site/otsmtriz/inventive-standards/class-2?authuser=0
 
-#### 2-1. A transition to integrate S-Fields
+#### 2.1. A transition to integrate S-Fields
 
 We can increase the efficiency of S-Fields using complex (chain, dual) S-Fields instead of simple ones.
 
@@ -344,17 +344,17 @@ https://www.ibm.com/cloud/architecture/architectures/event-driven-cqrs-pattern/
 
 ![CQRS as double S-Field](CQRS_1.png)
 
-#### 2-2. Forcing S-Fields
+#### 2.2. Forcing S-Fields
 
 To increase the effectiveness of S-Fields simple or complex we could enforce given S-Fields.
 
 Ex: We could improve the effectiveness of S-Fields removing the unmanageable S-Field with good manageable S-Field, for example remove gravity S-Field with mechanical, mechanical with electrical etc.
 
-#### 2-3. Evolution by Coordinating Rhythms
+#### 2.3. Evolution by Coordinating Rhythms
 
 Instead of adding new substances and fields in this subclass we propose to use only quantitative changes of frequencies, sizes and mass, thus we could receive new significant effect with minimal changes.
 
-#### 2-4. Complex-Forced S-Fields (F-Fields)
+#### 2.4. Complex-Forced S-Fields (F-Fields)
 
 Enforcing of S-Fields could go with several standard ways. 
 Most effectively we could enforce S-Fields with disperse ferromagnetic substance and magnetic field.
@@ -363,7 +363,7 @@ Most effectively we could enforce S-Fields with disperse ferromagnetic substance
 
 In any stage of evolution the system could be merged with the other one or many in over-system with new properties. 
 
-#### 3-1. Transitions to Bi-system and Poly-system
+#### 3.1. Transitions to Bi-system and Poly-system
 
 The effectiveness of the system could be improved using system transition 1-a: merging the system with the other one[many] in more complex bi-system or poly-system.
 
@@ -373,33 +373,33 @@ The effectiveness of the system could be improved using system transition 1-a: m
 
 ![CPG](CPG.png)
 
-#### 3-2. Transition to Micro-level
+#### 3.2. Transition to Micro-level
 
 The effectiveness of the system could be improved using the system transition 2: from the macro-level to micro-level: system or its part is removed with the substance that under the influence of the field is capable of implementing the requested task.
 
 ### 4. Measurement and Detection Standards
 
-#### 4-1. Change Instead of Measurement and Detection
+#### 4.1. Change Instead of Measurement and Detection
 
-#### 4-2. Synthesis of Measuring Systems
+#### 4.2. Synthesis of Measuring Systems
 
-#### 4-3. Forcing of measuring S-Fields
+#### 4.3. Forcing of measuring S-Fields
 
-#### 4-4. Transition to Ferromagnetic Measurement Systems
+#### 4.4. Transition to Ferromagnetic Measurement Systems
 
-#### 4-5. Evolution of Measuring Systems
+#### 4.5. Evolution of Measuring Systems
 
 ### 5. Helpers (Standards on application on standards)
 
-#### 5-1. Introduction of Substances under Restricted Conditions
+#### 5.1. Introduction of Substances under Restricted Conditions
 
-#### 5-2. Introduction of Fields under Restricted Conditions
+#### 5.2. Introduction of Fields under Restricted Conditions
 
-#### 5-3. Use of Phase Transitions
+#### 5.3. Use of Phase Transitions
 
-#### 5-4. Use of Physical Effects
+#### 5.4. Use of Physical Effects
 
-#### 5-5. Experimental standards
+#### 5.5. Experimental standards
 
 
 # References 
