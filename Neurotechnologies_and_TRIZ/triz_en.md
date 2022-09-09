@@ -88,8 +88,6 @@ Enforced conflict;
 The function of introduced element for the task (what it should save, replace, enhance etc.)
 ```
 
-#### ШАГ 1.7. Проверить возможность применения системы стандартов к решению модели задачи. Если задача не решена, перейти ко второй части АРИЗ. Если задача решена, можно перейти к седьмой части АРИЗ, хотя и в этом случае рекомендуется продолжить анализ со второй части.
-
 #### Step 1.7. Check if there is an option to use the system of standards. If the task is still not solved move to the 2nd part of ARIZ. If the task is solved move to part 7 (2nd is still recommended).
 
 1. [Contradiction matrix (original)](https://altshuller.ru/triz/technique2.asp)
