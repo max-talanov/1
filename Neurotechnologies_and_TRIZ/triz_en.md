@@ -67,12 +67,11 @@ The system: for [the purpose of the system] including [list all main components 
 The technical contradiction 1 (TC-1): IF ..., Then ..., BUT ... 
 The technical contradiction 2 (TC-2): IF ..., Then ..., BUT ... 
 With minimal changes in the system we want to [identify the ideal final result (IFR)].
-
 ```
 
-#### ШАГ 1.2. Выделить и записать конфликтующую пару элементов: изделие и инструмент.
+#### Step 1.2 Select and record conflicting pair: product and tool.
 
-#### ШАГ 1.3. Составить графические схемы ТП-1 и ТП-2, используя таблицу 1.
+#### Step 1.3 Create diagrams of TC-1 and TC-2 using table 1.
 
 [Таблица 1](https://www.altshuller.ru/triz/ariz85v-t1.asp)
 

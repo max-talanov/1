@@ -69,6 +69,8 @@ Both of them should have positive results and negative consequences.
 
 Draw the TCs diagrams according to the reworked ARIZ notation.
 
+##### IM notation
+
 ![IM notation](IM_notation.png)
 
 The rectangles (Sys1, Sys2) represent components of the system with two impacts useful and harmful in the same state of the system. The TC diagram revolves around the IFR and the technical impasse to develop and deliver the IFR.
