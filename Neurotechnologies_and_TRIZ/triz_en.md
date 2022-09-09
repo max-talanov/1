@@ -61,7 +61,7 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 ![ARIZ](TRIZ-ARIZ.png)
 
 ### 1. The problem analysis
-#### Step 1.1 Record mini-task (with no specific terms):
+#### Step 1.1. Record mini-task (with no specific terms):
 ```
 The system: for [the purpose of the system] including [list all main components of the system].
 The technical contradiction 1 (TC-1): IF ..., Then ..., BUT ... 
@@ -69,26 +69,28 @@ The technical contradiction 2 (TC-2): IF ..., Then ..., BUT ...
 With minimal changes in the system we want to [identify the ideal final result (IFR)].
 ```
 
-#### Step 1.2 Select and record conflicting pair: product and tool.
+#### Step 1.2. Select and record conflicting pair: product and tool.
 
-#### Step 1.3 Create diagrams of TC-1 and TC-2 using table 1.
+#### Step 1.3. Create diagrams of TC-1 and TC-2 using table 1.
 
 1. [Table 1 (original)](https://www.altshuller.ru/triz/ariz85v-t1.asp)
 1. [IM notation (reworked)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#im-notation)
 
-#### ШАГ 1.4. Выбрать из двух схем конфликта (ТП-1 и ТП-2) ту, которая обеспечивает наилучшее осуществление главного производственного процесса (основной функции технической системы, указанной в условиях задачи).
+#### Step 1.4. Select from TC-1 and TC-2 the one that matches better the main function of the system.
 
-#### ШАГ 1.5. Усилить конфликт, указав предельное состояние (действие) элементов.
+#### Step 1.6. Enforce the conflict indicating extreme state or action of elements.
 
-#### ШАГ 1.6. Записать формулировку модели задачи, указав:
+#### Step 1.6. Record model of the task in the following form:
 
 ```
-конфликтующую пару; 
-усиленную формулировку конфликта; 
-что должен сделать вводимый для решения задачи икс-элемент (что он должен сохранить и что должен устранить, улучшить, обеспечить и т.д.).
+Conflicting pair;
+Enforced conflict;
+The function of introduced element for the task (what it should save, replace, enhance etc.)
 ```
 
 #### ШАГ 1.7. Проверить возможность применения системы стандартов к решению модели задачи. Если задача не решена, перейти ко второй части АРИЗ. Если задача решена, можно перейти к седьмой части АРИЗ, хотя и в этом случае рекомендуется продолжить анализ со второй части.
+
+#### Step 1.7. Check if there is an option to use the system of standards. If the task is still not solved move to the 2nd part of ARIZ. If the task is solved move to part 7 (2nd is still recommended).
 
 https://altshuller.ru/triz/technique2.asp
 
@@ -112,12 +114,10 @@ The contex of the problem, usually context diagram.
 ```
 икс-элемент, 
 абсолютно не усложняя систему и не вызывая вредных явлений, 
-устраняет 
-(указать вредное действие) 
+устраняет (указать вредное действие) 
 в течение оперативного времени (ОВ) 
 в пределах оперативной зоны (ОЗ), 
-сохраняя способность инструмента совершать 
-(указать полезное действие).
+сохраняя способность инструмента совершать (указать полезное действие).
 ```
 
 #### ШАГ 3.2. Усилить формулировку ИКР-1 дополнительным требованием: в систему нельз вводить новые вещества и поля, необходимо использовать ВПР.
@@ -226,10 +226,10 @@ The contex of the problem, usually context diagram.
 
 ...
 
-## Mapping ARIZ to SD process
+## Mapping ARIZ to Software Development process
 [Innovation methodology](IM.md)
 
-## Most useful references 
+## References 
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
 #### In short 
