@@ -73,8 +73,8 @@ With minimal changes in the system we want to [identify the ideal final result (
 
 #### Step 1.3 Create diagrams of TC-1 and TC-2 using table 1.
 
-[Table 1 (original)](https://www.altshuller.ru/triz/ariz85v-t1.asp)
-[IM notation (reworked)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#im-notation)
+1. [Table 1 (original)](https://www.altshuller.ru/triz/ariz85v-t1.asp)
+1. [IM notation (reworked)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#im-notation)
 
 #### ШАГ 1.4. Выбрать из двух схем конфликта (ТП-1 и ТП-2) ту, которая обеспечивает наилучшее осуществление главного производственного процесса (основной функции технической системы, указанной в условиях задачи).
 
