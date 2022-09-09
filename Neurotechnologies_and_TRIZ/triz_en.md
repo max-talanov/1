@@ -92,9 +92,9 @@ The function of introduced element for the task (what it should save, replace, e
 
 #### Step 1.7. Check if there is an option to use the system of standards. If the task is still not solved move to the 2nd part of ARIZ. If the task is solved move to part 7 (2nd is still recommended).
 
-https://altshuller.ru/triz/technique2.asp
-
-https://altshuller.ru/triz/technique1.asp
+1. [Contradiction matrix (original)](https://altshuller.ru/triz/technique2.asp)
+1. [40 principles of invention (original)](https://altshuller.ru/triz/technique1.asp)
+1. [40 principles of invention and contradiction matrix (en)](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf)
 
 ### 2. The problem's model analysis
 
