@@ -154,17 +154,17 @@ b) update the schematic A, in the way the "small humans" do not cause the confli
 c) move to the technical schematic.
 ```
 
-#### ШАГ 4.2. Если из условий задачи известно, какой должна быть готовая система, и задача сводится к определению способа получения этой системы, можно использовать метод "шаг назад от ИКР". Изображают готовую систему, а затем вносят в рисунок минимальное демонтирующее изменение.
+#### Step 4.2. If we know how the final system should look like and we have to understand the method to produce the final system we could use method "step back from IFR". We draw the final system and introduce the minimal destructing update.
 
-#### ШАГ 4.3. Определить, решается ли задача применением смеси ресурсных веществ.
+#### Step 4.3. Identify if the task could be solved using merging of S-Fields.
 
-#### ШАГ 4.4. Определить, решается ли задача заменой имеющихся ресурсных веществ пустотой или смесью ресурсных веществ с пустотой.
+#### Step 4.4. Identify if the task could be solved using void or mixture of S-Fields and void.
 
-#### ШАГ 4.5. Определить, решается ли задача применением веществ, производных от ресурсных (или применением смеси этих производных веществ с "пустотой").
+#### Step 4.5. Identify if the task could be solved using derivatives from the current S-Fields and their mixture with void.
 
-#### ШАГ 4.6. Определить, решается ли задача введением вместо вещества электрического поля или взаимодействием двух электрических полей.
+#### Step 4.6. Identify if the task could be solved using fields instead of substances.
 
-#### ШАГ 4.7. Определить, решается ли задача применением пары "поле - добавка вещества, отзывающегося на поле" (например, "магнитное поле - ферровещество", "ультрафиолет - люминофор", "тепловое поле - металл с памятью формы" и т.д.)
+#### Step 4.7. Identify if the task could be solved using pair "field - additional substance reacting with the field" (ex. magnetic field - ferromagnetic, ultraviolet radiation - luminophore, infrared field - metal with memory etc.)
 
 ### 5. Patent search
 
