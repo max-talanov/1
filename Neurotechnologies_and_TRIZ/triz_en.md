@@ -61,18 +61,14 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 ![ARIZ](TRIZ-ARIZ.png)
 
 ### 1. The problem analysis
-#### ШАГ 1.1. Записать условия мини-задачи (без специальных терминов) по следующей форме: 
-
-1. Техническая система:для (указать назначение) включает (перечислить основные части системы).
-1. Техническое противоречие 1 (ТП-1): ЕСЛИ ..., ТО ... , НО ...
-1. Техническое противоречие 2 (ТП-2): ЕСЛИ ..., ТО ... , НО ...
-1. Необходимо при минимальных изменениях в системе (указать результат, который должен быть получен).
-
-
 #### Step 1.1 Record mini-task (with no specific terms):
+```
+The system: for [the purpose of the system] including [list all main components of the system].
+The technical contradiction 1 (TC-1): IF ..., Then ..., BUT ... 
+The technical contradiction 2 (TC-2): IF ..., Then ..., BUT ... 
+With minimal changes in the system we want to [identify the ideal final result (IFR)].
 
-1. The system: for (the purpose of the system) including (list all main components of the system).
-1. The technical contradiction 1 (TC-1): IF ..., Then ..., BUT ... 
+```
 
 #### ШАГ 1.2. Выделить и записать конфликтующую пару элементов: изделие и инструмент.
 
