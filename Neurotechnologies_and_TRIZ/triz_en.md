@@ -23,6 +23,7 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking
 1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
 1. **The development a new technology** - a source object is completely updated.
 1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
+1. **S-Field** the substance-field pair that is main building block of the TRIZ standards.
 
 ## Poincare’s Unconscious Processes
 
@@ -96,18 +97,19 @@ The function of introduced element for the task (what it should save, replace, e
 
 ### 2. The problem's model analysis
 
-#### ШАГ 2.1. Определить оперативную зону (ОЗ). 
+#### Step 2.1. Identify spatial context. 
 
 The contex of the problem, usually context diagram.
 
-#### ШАГ 2.2. Определить оперативное время (ОВ).
+#### Step 2.2. Identify temporal context.
 
-#### ШАГ 2.3. Определить вещественно-полевые ресурсы (ВПР) рассматриваемой системы, внешней среды и изделия. Составить список ВПР.
+#### Step 2.3. Identify S-Field resources.
 
+Identify S-Field resources of the system its environment and product. Create a list of S-Field resources.
 
 ### 3. Ideal final result (IFR)
 
-#### ШАГ 3.1. Записать формулировку ИКР-1: 
+#### Step 3.1. Записать формулировку ИКР-1: 
 
 ```
 икс-элемент, 
