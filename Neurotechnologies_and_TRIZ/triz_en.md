@@ -23,7 +23,6 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking
 1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
 1. **The development a new technology** - a source object is completely updated.
 1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
-1. **S-Field** the substance-field pair that is main building block of the TRIZ standards.
 
 ## Poincare’s Unconscious Processes
 
@@ -48,6 +47,7 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
 1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
 1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
+1. **S-Field** the substance-field pair that is main building block of the TRIZ standards.
 
 ## ARIZ
 1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
@@ -99,7 +99,7 @@ The function of introduced element for the task (what it should save, replace, e
 
 #### Step 2.1. Identify spatial context. 
 
-The contex of the problem, usually context diagram.
+The contex of the problem, usually [context diagram](https://en.wikipedia.org/wiki/System_context_diagram).
 
 #### Step 2.2. Identify temporal context.
 
@@ -109,42 +109,40 @@ Identify S-Field resources of the system its environment and product. Create a l
 
 ### 3. Ideal final result (IFR)
 
-#### Step 3.1. Записать формулировку ИКР-1: 
+#### Step 3.1. Record IFR-1 in the form: 
 
 ```
-икс-элемент, 
-абсолютно не усложняя систему и не вызывая вредных явлений, 
-устраняет (указать вредное действие) 
-в течение оперативного времени (ОВ) 
-в пределах оперативной зоны (ОЗ), 
-сохраняя способность инструмента совершать (указать полезное действие).
+The X-element without additional complications of the system preserving all the useful functions of the system 
+removes: [harmful actions] 
+in [the spatial context of the system]
+during [the temporal context],
+preserving the [useful action] of the tool.
 ```
 
-#### ШАГ 3.2. Усилить формулировку ИКР-1 дополнительным требованием: в систему нельз вводить новые вещества и поля, необходимо использовать ВПР.
+#### Step 3.2. Enforce the IFR-1 with additional requirement: not to introduce new fields of substances.
 
-#### ШАГ 3.3. Записать формулировку физического противоречия на макроуровне: 
+#### Step 3.3. Record physical contradiction (PC) in the macro-level form:
 
 ```
-оперативная зона 
-в течение оперативного времени
-должна (указать физическое макросостояние, например "быть горячей"), 
-чтобы выполнять (указать одно из конфликтующих действий), 
-и не должна (указать противоположное физическое макросостояние, например "быть холодной"), 
-чтобы выполнять (указать другое конфликтующее действие или требование).
+The system in the [context]
+must [indicate the physical macro-state, ex. "be hot"],
+to implement [indicate one of the conflicting actions],
+and must not [indicate opposite physical state, ex "be cold"],
+to implement [indicate the other conflicting action].
 
 ```
 
-#### ШАГ 3.4. Записать формулировку физического противоречия на микроуровне.
+#### Step 3.4. Record PC in micro-level (molecular) form.
 
-#### ШАГ 3.5. Записать формулировку идеального конечного результата ИКР-2: 
+#### Step 3.5. Record IFR-2: 
 
 ```
-оперативная зона (указать) 
-в течение оперативного времени (указать) 
-должна сама обеспечивать (указать противоположные физические макро- или микросостояния).
+In the spatial context [indicate] 
+during [indicate] 
+must provide [indicate macro and micro states].
 ```
 
-#### ШАГ 3.6. Проверить возможность применения системы стандартов к решению физической задачи, сформулированной в виде ИКР-2. Если задача не решена, перейти к четвертой части АРИЗ.
+#### Step 3.6. Check the option to use the system of standards for the IFR-2. If the task is not solved move to the port 4 of ARIZ.
 
 ### 4. Modeling 
 
