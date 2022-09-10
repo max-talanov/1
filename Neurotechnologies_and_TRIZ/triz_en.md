@@ -13,6 +13,14 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_o
 
 https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md#useful-ways-to-think
 
+## Glossary 
+
+1. **DPR** - Design Pattern Repository. In terms of ARIZ informfund or information fund.
+1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
+1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
+1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
+1. **S-Field** the substance-field pair that is main building block of the TRIZ standards.
+
 
 ## Poincare’s Unconscious Processes
 
@@ -30,14 +38,6 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 **Revelation**: When should incubation end? Poincare suggests that it continues until some structure is formed "whose elements are so harmoniously disposed that the mind can embrace their totality while realizing the details." But how does that subliminal process know when it has found a promising prospect?
 
 **Evaluation**: We often hear advice that suggests that it’s safer for us to trust our ‘intuitions—ideas that we get without knowing how. But Poincare went on to emphasize that one cannot always trust those ‘revelations.’
-
-## Glossary 
-
-1. **DPR** - Design Pattern Repository. In terms of ARIZ informfund or information fund.
-1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
-1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
-1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
-1. **S-Field** the substance-field pair that is main building block of the TRIZ standards.
 
 ## TRIZ levels of innovation
 
