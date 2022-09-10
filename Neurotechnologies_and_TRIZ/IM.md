@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Software_development_process
 1. **TC-PC** - Technical Contradiction - Physical Contradiction. The phase of the IM where the engineer has to formalize technical and later physical contradiction of the problem.
 1. **Early prototyping** - the crucial phase of the IM to test the solution formalized in previous phases for the feasibility study.
 1. **Small Dwarfs Modeling approach (SDM)** - the abstract modeling technique with no technical limitations taking in account.
-1. **S-Field** the substance-field pair that is main building block of the TRIZ inventive standards.
+1. **S-Field** the substance-field pair that is main building block of the TRIZ [inventive standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards).
 
 
 ## Description 

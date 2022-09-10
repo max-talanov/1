@@ -168,9 +168,17 @@ c) move to the technical schematic.
 
 ### 5. Patent search
 
-#### ШАГ 5.1. Рассмотреть возможность решения задачи (в формулировке ИКР-2 и с учетом ВПР, уточненных в четвертой части) по стандартам. 
+#### Step 5.1. Identify if the task as IFR-2 could be solved using standards.
 
-#### ШАГ 5.2. Рассмотреть возможность решения задачи (в формулировке ИКР-2 с учетом ВПР, уточненных в четвертой части) по аналогии с еще нестандартными задачами, ранее решенными по АРИЗ.
+1. [List of inventive standards (original)](https://altshuller.ru/triz/standards.asp)
+1. [List of inventive standards (en)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards)
+
+#### ШАГ 5.2. Identify if the task as IFR-2 could be solved by analogy with non-standard tasks earlier solved using ARIZ.
+
+#### ШАГ 5.3. Identify if the task as IFR-2 could be solved using table of physical contradictions (PC) 
+
+1. [Table of PCs (original)](https://altshuller.ru/triz/ariz85v-t2.asp)
+1. [Table of PCs (en)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#physical-contradiction-using-standards-design-patterns)
 
 ...
 
