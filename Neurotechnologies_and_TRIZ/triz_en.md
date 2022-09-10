@@ -49,10 +49,10 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
 
 ## ARIZ
-1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
-1. https://www.altshuller.ru/triz/technique2.asp
-1. https://www.altshuller.ru/triz/technique1.asp
-1. https://www.altshuller.ru/triz/ariz85v.asp
+1. [Laws of TRIZ (original)](https://altshuller.ru/triz/zrts1.asp#tc23)
+1. [TC table (original)](https://www.altshuller.ru/triz/technique2.asp)
+1. [Principles of invention (original)](https://www.altshuller.ru/triz/technique1.asp)
+1. [ARIZ (original)](https://www.altshuller.ru/triz/ariz85v.asp)
 1. https://www.leaneast.com/wp-content/uploads/2020/04/TRIZ-Contradications-Matrix.png
 1. https://triztrainer.ru/gsa/?i=24&d=33
 
