@@ -49,6 +49,10 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
 1. **S-Field** the substance-field pair that is main building block of the TRIZ standards.
 
+## TRIZ levels of innovation
+
+![TRIZ levels of innovation](TRIZ-levels_of_innovation.png)
+
 ## ARIZ
 1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
 1. https://www.altshuller.ru/triz/technique2.asp
