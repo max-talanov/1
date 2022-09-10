@@ -57,8 +57,6 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. https://www.leaneast.com/wp-content/uploads/2020/04/TRIZ-Contradications-Matrix.png
 1. https://triztrainer.ru/gsa/?i=24&d=33
 
-![Triz to model of 6 map](TRIZ_model_6_mapping.png)
-
 ![ARIZ](TRIZ-ARIZ.png)
 
 ### 1. The problem analysis
@@ -184,13 +182,13 @@ c) move to the technical schematic.
 
 ### 6. Change or reformulate the problem
 
-#### ШАГ 6.1. Если задача решена, перейти от физического ответа к техническому: сформулировать способ и дать принципиальную схему устройства, осуществляющего этот способ.
+#### Step 6.1. If the task is solved move from physical to technical solution: define the method and provide principal schematic of the solution.
 
-#### ШАГ 6.2. Если ответа нет, проверить - не является ли формулировка 1.1 сочетанием нескольких разных задач. В этом случае следует изменить 1.1, выделив отдельные задачи для поочередного решения (обычно достаточно решить одну главную задачу).
+#### Step 6.2. If the task is not solved check if the 1.1 is combination of several tasks. In this case decompose the task into several and solve tasks separately.
 
-#### ШАГ 6.3. Если ответа нет, изменить задачу, выбрав на шаге 1.4 другое ТП.
+#### Step 6.3. If the task is not solved select the other TC in the step 1.4.
 
-#### ШАГ 6.4. Если ответа нет, вернуться к шагу 1.1. и заново сформулировать мини-задачу, отнеся ее к надсистеме. При необходимости такое возвращение совершают несколько раз - с переходом к наднадсистеме и т.д.
+#### Step 6.4. If the task is not solved get back to the step 1.1 and reformulate the task addressing the super-system. We can use this method several times.
 
 ### 7. Analysis of the method that removed the Physical Contradiction
 
@@ -232,8 +230,16 @@ c) move to the technical schematic.
 
 ...
 
-## Mapping ARIZ to Software Development process
+## ARIZ to Software Development process mapping
 [Innovation methodology](IM.md)
+
+
+## ARIZ to model of 6 mapping 
+![Triz to model of 6 map](TRIZ_model_6_mapping.png)
+
+## Spiral development
+![Spiral development](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/800px-Spiral_model_%28Boehm%2C_1988%29.svg.png)
+
 
 ## References 
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
@@ -243,8 +249,3 @@ https://timeweb.com/ru/community/articles/metod-triz-chto-eto-takoe-i-kak-rabota
 
 #### In English
 https://www.toolshero.com/problem-solving/triz-method/
-
-## Spiral development
-
-![Spiral development](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/800px-Spiral_model_%28Boehm%2C_1988%29.svg.png)
-
