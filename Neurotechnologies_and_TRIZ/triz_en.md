@@ -39,6 +39,25 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 
 **Evaluation**: We often hear advice that suggests that it’s safer for us to trust our ‘intuitions—ideas that we get without knowing how. But Poincare went on to emphasize that one cannot always trust those ‘revelations.’
 
+## Tools of TRIZ
+### Original
+1. [Laws of TRIZ (original)](https://altshuller.ru/triz/zrts1.asp#tc23)
+1. [TC table (original)](https://www.altshuller.ru/triz/technique2.asp)
+1. [Principles of invention (original)](https://www.altshuller.ru/triz/technique1.asp)
+1. [PC table (original)](https://altshuller.ru/triz/ariz85v-t2.asp)
+1. [Standards (original)](https://altshuller.ru/triz/standards.asp)
+1. [ARIZ (original)](https://www.altshuller.ru/triz/ariz85v.asp)
+
+### EN
+
+1. [Laws of TRIZ (en)](TRIZ_laws.md)
+1. [TC table (adapted)](https://docs.google.com/spreadsheets/d/1x6LbsFmVpPGD1LbLMwTWprrvV5PQQDLLoWGGCdHqn4Y/edit#gid=298366498)
+1. [Principles of invention (en)](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf)
+1. [PC table (adopted)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#physical-contradiction-using-standards-design-patterns)
+1. [Standards (adopted)](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards)
+1. [ARIZ (original)](https://www.altshuller.ru/triz/ariz85v.asp)
+
+
 ## TRIZ levels of innovation
 
 ![TRIZ levels of innovation](TRIZ-levels_of_innovation.png)
