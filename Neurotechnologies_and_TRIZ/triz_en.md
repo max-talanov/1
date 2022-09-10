@@ -14,16 +14,6 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_o
 https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md#useful-ways-to-think
 
 
-## Levels of innovation 
-
-![TRIZ levels of innovation](TRIZ_model_6_mapping-levels_of_innovation.png)
-
-1. **Simple improvement of a technical system** - well known object with no search for solutions.
-1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
-1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
-1. **The development a new technology** - a source object is completely updated.
-1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
-
 ## Poincare’s Unconscious Processes
 
 https://web.media.mit.edu/~minsky/E7/eb7.html
@@ -52,6 +42,11 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 ## TRIZ levels of innovation
 
 ![TRIZ levels of innovation](TRIZ-levels_of_innovation.png)
+1. **Simple improvement of a technical system** - well known object with no search for solutions.
+1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
+1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
+1. **The development a new technology** - a source object is completely updated.
+1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
 
 ## ARIZ
 1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
@@ -198,40 +193,39 @@ c) move to the technical schematic.
 
 ...
 
-#### ШАГ 7.2. Провести предварительную оценку полученного решения.
+#### Step 7.2. Preliminary validation of the solution.
 
 ```
-Контрольные вопросы: 
+Key questions: 
 
-а) Обеспечивает ли полученное решение выполнение главного требования ИКР-1 ("Элемент сам...")? 
-б) Какое физическое противоречие устранено (и устранено ли) полученным решением? 
-в) Содержит ли полученная система хотя бы один хорошо управляемый элемент? Какой именно? Как осуществлять управление? 
-г) Годится ли решение, найденное для "одноцикловой" модели задачи в реальных условиях со многими циклами?
+a) Does the solution provide the main requirement of the IFR-1 (Element by itself)?
+b) What PC was removed (if it was) by the solution?
+c) Does the system contain at least one well controlled element? What exactly element? What is the method to control the element?
+d) Can we use the system with one cycle for several cycles?
 ```
 
-#### ШАГ 7.3. Проверить (по патентным данным) формальную новизну полученного решения.
+#### Step 7.3. Check according to the patents DB novelty of the solution.
 
-#### ШАГ 7.4. Какие подзадачи возникнут при технической разработке полученной идеи? Записать возможные подзадачи - изобретательские, конструкторские, расчетные, организационные. 
+#### Step 7.4. Decompose the task into sub-tasks list (inventive, design, computational, organizational).
 
 ### 8. Utilization of the found solution
 
-#### ШАГ 8.1. Определить, как должна быть изменена надсистема, в которую входит измененная система. 
-#### ШАГ 8.2. Проверить, может ли измененная система (или надсистема) применяться по-новому.
+#### Step 8.1. Identify the list of changes of the super-system of the system with the solved task.
 
-#### ШАГ 8.3. Использовать полученный ответ при решении других технических задач:
+#### Step 8.2. Check if the new system or super-system could be used in a new way.
 
+#### Step 8.3. Use the received answer to solve other problems:
 ```
-а) сформулировать в обобщенном виде полученный принцип решения;
-б) рассмотреть возможность прямого применения полученного принципа при решении других задач;
-в) рассмотреть возможность использования принципа, обратного полученному;
-г) построить морфологическую таблицу, например, типа "расположение частей - агрегатные состояния изделия" или "использованные поля - агрегатные состояния внешней среды" и рассмотреть возможные перестройки ответа по позициям этих таблиц;
-д) рассмотреть изменение найденного принципа при изменении размеров системы (или главных ее частей): размеры стремятся к нулю, размеры стремятся к бесконечности. 
+a) define generalized form of the received principle;
+b) identify if there is an option to use the new principle in strait-forward way;
+c) identify if there is an option to use the new principle in reverse way;
+d) create morphological table: "position of components - states of the system", "used fields - sates of the environment";
+e) review the scaling problems of the found principle.
 ```
 
 ### 9. Analysis of method that lead to the solution
 
-#### ШАГ 9.1. Сравнить реальный ход решения данной задачи с теоретическим (по АРИЗ). Если есть отклонения, записать.
-
+#### Step 9.1. Compare the workflow of the solution of the task with ARIZ.
 ...
 
 ## ARIZ to Software Development process mapping

@@ -13,17 +13,6 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_o
 
 https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md#useful-ways-to-think
 
-
-## Levels of innovation 
-
-![TRIZ levels of innovation](TRIZ_model_6_mapping-levels_of_innovation.png)
-
-1. **Simple improvement of a technical system** - well known object with no search for solutions.
-1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
-1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
-1. **The development a new technology** - a source object is completely updated.
-1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
-
 ## Poincare’s Unconscious Processes
 
 https://web.media.mit.edu/~minsky/E7/eb7.html
@@ -47,6 +36,19 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
 1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
 1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
+
+## TRIZ levels of innovation
+
+## Levels of innovation 
+
+![TRIZ levels of innovation](TRIZ_model_6_mapping-levels_of_innovation.png)
+
+1. **Simple improvement of a technical system** - well known object with no search for solutions.
+1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
+1. **The invention containing a resolution of a physical contradiction** - the source object is significantly updated.
+1. **The development a new technology** - a source object is completely updated.
+1. **Involves the discovery of new phenomena** - a scientific discovery is made and the whole system where the object is included is updated.
+
 
 ## ARIZ
 1. [Laws of TRIZ](https://altshuller.ru/triz/zrts1.asp#tc23)
