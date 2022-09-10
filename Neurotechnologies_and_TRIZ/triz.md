@@ -41,7 +41,7 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 
 ## Levels of innovation 
 
-![TRIZ levels of innovation](TRIZ_levels_of_innovation.png)
+![TRIZ levels of innovation](TRIZ-levels_of_innovation.png)
 
 1. **Simple improvement of a technical system** - well known object with no search for solutions.
 1. **Invention includes the resolution of a technical contradiction** - there is the selection of new object from several similar or insignificant improvements were done to initial object.
