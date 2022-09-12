@@ -33,6 +33,12 @@ CycleGAN tutorials:
 1. https://keras.io/examples/generative/cyclegan/
 
 
+# TRIZ
+1. [TRIZ intro](triz.md)
+1. [TRIZ intro (en)](triz_en.md)
+1. [Innovation methodology](IM.md)
+
+
 ## Intro
 
 1. [Intro.](../artificial_intelligence_course/intro.md)
@@ -78,9 +84,3 @@ CycleGAN tutorials:
    1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
    1. [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
    
-   
-# TRIZ
-1. [TRIZ intro](triz.md)
-1. [TRIZ intro (en)](triz_en.md)
-2. [Innovation methodology](IM.md)
-
