@@ -15,7 +15,7 @@ https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking
 
 ## Glossary 
 
-1. **DPR** - Design Pattern Repository. In terms of ARIZ informfund or information fund.
+1. **SR** - Standards Repository. In terms of ARIZ informfund or information fund.
 1. **IFR** - Ideal Final Result the fictional result of development that could be the magical problem solution or customer satisfaction.
 1. **TC** - Technical Contradiction The phase of the ARIZ where the engineer has to formalize the technical and of the problem.
 1. **PC** - Physical Contradiction. The phase of the IM where the engineer has to formalize the physical contradiction of the problem.
