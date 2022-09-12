@@ -37,6 +37,16 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 
 **Evaluation**: We often hear advice that suggests that it’s safer for us to trust our ‘intuitions—ideas that we get without knowing how. But Poincare went on to emphasize that one cannot always trust those ‘revelations.’
 
+## Tools of TRIZ
+
+1. [Laws of TRIZ (original)](https://altshuller.ru/triz/zrts1.asp#tc23)
+1. [TC table (original)](https://www.altshuller.ru/triz/technique2.asp)
+1. [Principles of invention (original)](https://www.altshuller.ru/triz/technique1.asp)
+1. [PC table (original)](https://altshuller.ru/triz/ariz85v-t2.asp)
+1. [Standards (original)](https://altshuller.ru/triz/standards.asp)
+1. [ARIZ (original)](https://www.altshuller.ru/triz/ariz85v.asp)
+
+
 ## TRIZ levels of innovation
 
 ## Levels of innovation 
@@ -57,8 +67,6 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 1. https://www.altshuller.ru/triz/ariz85v.asp
 1. https://www.leaneast.com/wp-content/uploads/2020/04/TRIZ-Contradications-Matrix.png
 1. https://triztrainer.ru/gsa/?i=24&d=33
-
-![Triz to model of 6 map](TRIZ_model_6_mapping.png)
 
 ![ARIZ](TRIZ-ARIZ.png)
 
@@ -227,10 +235,17 @@ The contex of the problem, usually context diagram.
 
 ...
 
-## Mapping ARIZ to SD process
+## ARIZ to Software Development mapping
 [Innovation methodology](IM.md)
 
-## Most useful references 
+## ARIZ to model of 6 mapping
+![Triz to model of 6 map](TRIZ_model_6_mapping.png)
+
+## Spiral development
+![Spiral development](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/800px-Spiral_model_%28Boehm%2C_1988%29.svg.png)
+
+
+## References 
 http://www.ipface.org/pdfs/reading/TRIZ_Principles.pdf
 
 #### In short 
@@ -239,7 +254,4 @@ https://timeweb.com/ru/community/articles/metod-triz-chto-eto-takoe-i-kak-rabota
 #### In English
 https://www.toolshero.com/problem-solving/triz-method/
 
-## Spiral development
-
-![Spiral development](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Spiral_model_%28Boehm%2C_1988%29.svg/800px-Spiral_model_%28Boehm%2C_1988%29.svg.png)
 
