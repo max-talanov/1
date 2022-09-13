@@ -7,11 +7,6 @@
 1. http://websites.umich.edu/~scps/html/07chap/html/powerpointpicstriz/Chapter%207%20TRIZ.pdf
 2. https://web.archive.org/web/20130410005442/http://www.triz-journal.com/archives/2002/03/b/index.htm
 
-## Model of 6: ways to think
-
-https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md
-
-https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md#useful-ways-to-think
 
 ## Glossary 
 
@@ -38,6 +33,12 @@ https://web.media.mit.edu/~minsky/E7/eb7.html
 **Revelation**: When should incubation end? Poincare suggests that it continues until some structure is formed "whose elements are so harmoniously disposed that the mind can embrace their totality while realizing the details." But how does that subliminal process know when it has found a promising prospect?
 
 **Evaluation**: We often hear advice that suggests that it’s safer for us to trust our ‘intuitions—ideas that we get without knowing how. But Poincare went on to emphasize that one cannot always trust those ‘revelations.’
+
+## Model of 6: ways to think
+
+https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md
+
+https://github.com/max-talanov/1/blob/master/affective_computing_course/thinking.md#useful-ways-to-think
 
 ## Tools of TRIZ
 ### Original
