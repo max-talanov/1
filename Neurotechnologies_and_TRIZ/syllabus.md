@@ -31,7 +31,9 @@ CycleGAN tutorials:
 1. https://developers.arcgis.com/python/guide/how-cyclegan-works/
 1. https://machinelearningmastery.com/what-is-cyclegan/
 1. https://keras.io/examples/generative/cyclegan/
+---
 
+1. [Intro.](../artificial_intelligence_course/intro.md)
 
 # TRIZ
 1. [TRIZ intro](triz.md)
@@ -39,9 +41,8 @@ CycleGAN tutorials:
 1. [Innovation methodology](IM.md)
 
 
-## Intro
+## Introduction
 
-1. [Intro.](../artificial_intelligence_course/intro.md)
 1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
 1. **Learning**
    1. [Machine learning intro](../artificial_intelligence_course/ml_intro.md)
