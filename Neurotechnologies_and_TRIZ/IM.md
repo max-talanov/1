@@ -34,12 +34,13 @@ The picture below contains simple waterfall SDL with mapped ARIZ activities
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
 
-The ARIZ activities are included in so called Brainstorming cycle containing IFR, TC-PC and Modeling (SDM) (described in details below) this approach could be used interchangeably with brainstorming in the following manner: 
-(1)(a) IFR formalization (b) TC identification (c) TC solution using [TC table](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/Innovation_methodology-TRIZ_LS.png) (d) if the suitable solution was identified using the TC table go to HLD design.
-(2)(a) Brainstorming: ideas generation (b) ideas evaluation (c) ideas selection (d) if the suitable solution was identified using the TC table go to HLD design.
-(3) Repeat step 1
-...
+The ARIZ activities are included in so called Brainstorming cycle containing IFR, TC-PC and Modeling (SDM) (described in details below) this approach could be used interchangeably with [brainstorming](https://en.wikipedia.org/wiki/Brainstorming) in the following manner: 
+1. (a) IFR formalization (b) TC identification (c) TC solution using the [TC table and 40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) (d) if the suitable solution was identified using the TC table go to HLD design.
+2. (a) Brainstorming: ideas generation (b) ideas evaluation (c) ideas selection (d) if the suitable solution was identified using the TC table go to HLD design.
+3. Repeat step 1
+4. ...
 
+The other way around could be directly after IFR formalization use brainstorming with [40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) to generate ideas and select most appropriate using the brainstorming evaluation technique. 
 
 ## Analysis and IFR
 
