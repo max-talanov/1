@@ -377,7 +377,7 @@ The effectiveness of the system could be improved using system transition 1-a: m
 
 ![CPG as the increasing the level of abstraction](CPG_S-Field.png)
 
-![CPG](CPG.png)
+![CPG]#(CPG.png)
 
 #### 3.2. Transition to Micro-level
 
