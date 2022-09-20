@@ -34,6 +34,12 @@ The picture below contains simple waterfall SDL with mapped ARIZ activities
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
 
+The ARIZ activities are included in so called Brainstorming cycle containing IFR, TC-PC and Modeling (SDM) (described in details below) this approach could be used interchangeably with brainstorming in the following manner: 
+(1)(a) IFR formalization (b) TC identification (c) TC solution using [TC table](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/Innovation_methodology-TRIZ_LS.png) (d) if the suitable solution was identified using the TC table go to HLD design.
+(2)(a) Brainstorming: ideas generation (b) ideas evaluation (c) ideas selection (d) if the suitable solution was identified using the TC table go to HLD design.
+(3) Repeat step 1
+...
+
 
 ## Analysis and IFR
 
