@@ -23,14 +23,14 @@ https://en.wikipedia.org/wiki/Software_development_process
 1. **S-Field** the substance-field pair that is main building block of the TRIZ [inventive standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards).
 
 
-## Description 
+## Innovation life-cycle
 
 The proposed innovation methodology is based on the [ARIZ process](https://en.wikipedia.org/wiki/TRIZ) (Algorithm of inventive problems solving (in Russian)) and [Software development life-cycle](https://en.wikipedia.org/wiki/Software_development_process) (SDL).
 The SDL contains the following phases: analysis, design, development and validation with further maintenance ... . 
 As the Innovation methodology is focused main on solving technical problems 
 here we take into account only analysis, design and early prototyping, they are influenced by ARIZ process.
 The picture below contains simple waterfall SDL with mapped ARIZ activities
-(below we indicate that with the influence of ARIZ it convolves into double-spiral process).
+(below we indicate that with the influence of ARIZ SDL convolves into [double-spiral process](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#double-spiral-life-cycle)).
 
 ![Innovation methodology](Innovation_methodology-TRIZ_LS.png)
 
@@ -377,7 +377,7 @@ The effectiveness of the system could be improved using system transition 1-a: m
 
 ![CPG as the increasing the level of abstraction](CPG_S-Field.png)
 
-![CPG]#(CPG.png)
+![CPG]<>(CPG.png)
 
 #### 3.2. Transition to Micro-level
 
