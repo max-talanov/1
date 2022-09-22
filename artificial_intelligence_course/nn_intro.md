@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 1. At each time step the neurons are simultaneously (synchronously) updated by summing the weighted excitatory inputs and setting the output to 1 if the sum is greater than or equal to the threhold AND if the neuron receives no inhibitory input.
 1. Time invariant.
 
-![McCullogh-Pitts Model](https://raw.githubusercontent.com/max-talanov/1/master/AI_Neurotechnologies_bla_bla_bla_course/artificial_neuron.png)
+![McCullogh-Pitts Model](https://raw.githubusercontent.com/max-talanov/1/master/Neurotechnologies_and_TRIZ/artificial_neuron.png)
 
 
 1. Integrate and fire 
@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/Backpropagation
 1. Although the neurons were still two-state, the output function f(u) goes from [-1,1], not [0,1]. (This is no big deal, as a suitable change in the threshold lets you transform from one convention to the other.)
 1. Most importantly, there was a learning rule.
 
-![Rosenblatt Model](https://raw.githubusercontent.com/max-talanov/1/master/AI_Neurotechnologies_bla_bla_bla_course/artificial_neuron_Rosenblatt.png)
+![Rosenblatt Model](https://raw.githubusercontent.com/max-talanov/1/master/Neurotechnologies_and_TRIZ/artificial_neuron_Rosenblatt.png)
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/be21980cc9e55ea0880327b9d4797f2a0da6d06e)
 
