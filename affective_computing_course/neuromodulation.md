@@ -9,7 +9,7 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 ![DA mSTDP](DA_mSTDP.png)
 
 ### 5-HT
-
+[5-HT receptors](https://en.wikipedia.org/wiki/5-HT_receptor)
 ![Neuromodulation via 5-HT](https://camo.githubusercontent.com/3af74fa0c64fe45eeffeaa279f68302bf23e7f78/68747470733a2f2f7777772e66726f6e7469657273696e2e6f72672f66696c65732f41727469636c65732f3135393037382f66706861722d30362d30303136322d48544d4c2f696d6167655f6d2f66706861722d30362d30303136322d673030312e6a7067)
 
 
