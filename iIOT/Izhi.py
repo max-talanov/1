@@ -3,7 +3,8 @@ import brainpy as bp
 import matplotlib.pyplot as plt
 
 neu = bp.neurons.Izhikevich(1)
-neu.a, neu.b, neu.c, neu.d = 0.005, 0.40, -65.0, 2.0
+#a = 0.02, b = 0.4
+neu.a, neu.b, neu.c, neu.d = 0.003, 0.4, -65.0, 2.0
 
 current = bp.inputs.section_input(values=[0., 10.], durations=[50, 150])
 runner = bp.dyn.DSRunner(neu, inputs=['input', current, 'iter'], monitors=['V', 'u'])
