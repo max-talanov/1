@@ -50,4 +50,4 @@ In addition, animals change their gait patterns, such as walking, trotting, and 
 
 ## No cervical circuits taken in account
 
-## No V3E projections in the model 
+## No V3-E projections in the model 
