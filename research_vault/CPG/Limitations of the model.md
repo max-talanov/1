@@ -1,7 +1,7 @@
 #model
 #limitations 
 #neuron 
-
+#CPG 
 
 ## Now currents speed is taken in account
 these centres is provided by the persistent (slowly inactivating) sodium current (INaP)ineachneuron (known to be present in the rodent spinal neurons; see Zhong et al. 2007; Tazerart et al. 2008; Ziskind-Conhaim et al. 2008; Brocard et al. 2010, 2013)
@@ -51,3 +51,13 @@ In addition, animals change their gait patterns, such as walking, trotting, and 
 ## No cervical circuits taken in account
 
 ## No V3-E projections in the model 
+
+## No V1-1 projections 
+(Shevtsova, ..., Rybak; Ipsilateral and Contralateral Interactions in Spinal Locomotor)
+
+## No V0-D -> V1 projections 
+Check this 
+
+## No V0-V -> Ini-1 projections
+
+
