@@ -45,3 +45,9 @@ It has been suggested that unloading of ankle extensor muscles and activation of
 
 In addition, animals change their gait patterns, such as walking, trotting, and galloping, depending on locomotor speed by controlling the interlimb coordination. A neural model simulating coordination between RG circuits controlling each limb has been proposed (Danner et al., 2016, 2017).
 
+## No ascending projections taken in account diagonal or homolateral
+
+
+## No cervical circuits taken in account
+
+## No V3E projections in the model 
