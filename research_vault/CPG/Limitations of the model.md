@@ -36,4 +36,12 @@ Such fictive locomotor preparations have been used to investigate the mechanism 
 ## No entering the hole modes taken in account although could be using CVs
 
 
+## No II afferents in the model 
+(Kim, ..., Rybak; Contribution of afferent)
+
+It has been suggested that unloading of ankle extensor muscles and activation of the Ia and II sensory afferents from flexor muscles play an important role in the transition from stance to swing during normal walking in cats (Duysens and Pearson, 1980; Pearson et al., 1992; Hiebert et al., 1996).
+
+## Limited number of modes (non-exhaustive)
+
+In addition, animals change their gait patterns, such as walking, trotting, and galloping, depending on locomotor speed by controlling the interlimb coordination. A neural model simulating coordination between RG circuits controlling each limb has been proposed (Danner et al., 2016, 2017).
 
