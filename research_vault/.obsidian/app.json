@@ -3,5 +3,6 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 8
 }
