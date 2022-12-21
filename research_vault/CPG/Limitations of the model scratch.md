@@ -3,8 +3,8 @@
 #neuron 
 #CPG 
 
-## Now currents speed is taken in account
-these centres is provided by the persistent (slowly inactivating) sodium current (INaP)ineachneuron (known to be present in the rodent spinal neurons; see Zhong et al. 2007; Tazerart et al. 2008; Ziskind-Conhaim et al. 2008; Brocard et al. 2010, 2013)
+## Now currents speed is taken in account[+]
+these centres is provided by the persistent (slowly inactivating) sodium current (INaP) in each neuron (known to be present in the rodent spinal neurons; see Zhong et al. 2007; Tazerart et al. 2008; Ziskind-Conhaim et al. 2008; Brocard et al. 2010, 2013)
 
 ## Single compartment models
 All neurons were simulated in the Hodgkin–Huxley style as single-compartment models.
