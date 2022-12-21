@@ -65,10 +65,10 @@ Check this
 2. Not taken it account late extended responses [+]
 3. Too strict trapezoidal [+]
 4. [![](https://github.githubassets.com/favicon.ico)2022-11-29.md](https://github.com/max-talanov/1/blob/master/research_vault/CPG/2022-11-29.md)
-5. I & e channels dynamics is not taken it account 
-6. No STDP
-7. Gras 1 compartment nodel
-8. Neuron 2 compartment model ?
-9. No metabotropic receptors
-10. Lens shape of pattern
+5. I & e channels dynamics is not taken it account [+]
+6. No STDP 
+7. Gras 1 compartment nodel [+]
+8. Neuron 2 compartment model [+]
+9. No metabotropic receptors [+]
+10. Lens shape of pattern [+]
 11. EES
