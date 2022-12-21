@@ -11,7 +11,7 @@ All neurons were simulated in the Hodgkin–Huxley style as single-compartment m
 
 Each RG-F subpopulation in the model contained 100 neurons; each CIN population had 50 neurons.
 
-## Distribution of parameters as random normal 
+## Distribution of parameters as random normal [+]
 
 ## Equal split of subpopulations 
 Each RG-F centre is split into two equal subpopulations,
