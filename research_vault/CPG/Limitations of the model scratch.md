@@ -13,7 +13,7 @@ Each RG-F subpopulation in the model contained 100 neurons; each CIN population 
 
 ## Distribution of parameters as random normal [+]
 
-## Equal split of subpopulations 
+## Equal split of subpopulations [+]
 Each RG-F centre is split into two equal subpopulations,
 
 ## Only spinal rats are taken in account [+]
@@ -30,7 +30,7 @@ Fictive locomotion (Kim, ..., Rybak Contribution of afferent)
 
 Such fictive locomotor preparations have been used to investigate the mechanism for the adaptive regulation of locomotor patterns by somatosensory afferent feedback. These studies have shown that stimulation of flexor and extensor sensory afferents can delay or advance flexion-to-extension or extension-to-flexion transitions depending on the timing of the afferent stimulation
 
-## We use model of non-oscillating neurons
+## We use model of non-oscillating neurons[+]
 
 
 ## No entering the hole modes taken in account although could be using CVs [+]
@@ -41,7 +41,7 @@ Such fictive locomotor preparations have been used to investigate the mechanism 
 
 It has been suggested that unloading of ankle extensor muscles and activation of the Ia and II sensory afferents from flexor muscles play an important role in the transition from stance to swing during normal walking in cats (Duysens and Pearson, 1980; Pearson et al., 1992; Hiebert et al., 1996).
 
-## Limited number of modes (non-exhaustive)
+## Limited number of modes (non-exhaustive)[+]
 
 In addition, animals change their gait patterns, such as walking, trotting, and galloping, depending on locomotor speed by controlling the interlimb coordination. A neural model simulating coordination between RG circuits controlling each limb has been proposed (Danner et al., 2016, 2017).
 
@@ -62,10 +62,10 @@ Check this
 
 
 1. No discerning projections from the brain [+]
-2. Not taken it account late extended responses
-3. Too strict trapezoidal
+2. Not taken it account late extended responses [+]
+3. Too strict trapezoidal [+]
 4. [![](https://github.githubassets.com/favicon.ico)2022-11-29.md](https://github.com/max-talanov/1/blob/master/research_vault/CPG/2022-11-29.md)
-5. I & e channels dynamics is not taken it account
+5. I & e channels dynamics is not taken it account 
 6. No STDP
 7. Gras 1 compartment nodel
 8. Neuron 2 compartment model ?

@@ -22,11 +22,13 @@ Current model takes in account only animals with spinal cord complete injury in 
 
 ## Cellular level
 1. No receptors dynamics is taken in account though it was indicated that there is significant difference in speed of inactivation of sodium channels that has significant influence over the walking pattern rhythm generation (Rybak Modelling genetic reorganization)
-2. We don't use the auto-oscillating neuron models that was indicated to be present in rodent spinal cords (Zhong et al. 2007; Tazerart et al. 2008; Ziskind-Conhaim et al. 2008; Brocard et al. 2010, 2013)
-3. We used simplified models of neurons: single compartment for GRAS and two compartment for NEURON simulators
-4. The main distribution of parameters function used is normal that limits the model
-5. The populations of neurons in OM are the same size that limits the model variability
-6. The populations of the IP for flexor and extensor are the same size either.
-7. 
+2. As the consequence we don't take into account the difference in dynamics of excitatory and inhibitory channels in OMs.
+3. We don't use the non-oscillating neuron models that was indicated to be present in rodent spinal cords (Zhong et al. 2007; Tazerart et al. 2008; Ziskind-Conhaim et al. 2008; Brocard et al. 2010, 2013)
+4. We used simplified models of neurons: single compartment for GRAS and two compartment for NEURON simulators
+5. The main distribution of parameters function used is normal that limits the model
+6. The populations of neurons in OM are the same size that limits the model variability
+7. The populations of the IP for flexor and extensor are the same size either.
+8. The variability of polysynaptic responses that is taken into account in current work is really limited to the trapezoidal only though it was indicated that there are more than one possible shape of polysynaptic response (Luna,; Estimation of the time fluctuation ...)
+9. 
  
 
