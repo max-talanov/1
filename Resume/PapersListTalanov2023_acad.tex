@@ -1,0 +1,120 @@
+
+%% start of file `jdoe_classic.tex'.
+%% Copyright 2006 Xavier Danaux.
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass{moderncv}
+\usepackage{url}
+%\usepackage{bibtopic}
+%\usepackage[round]{natbib}
+%\usepackage{multibib}
+%\newcites{sel,all}{Selected works, Papers}
+%style=authoryear
+
+\usepackage[maxcitenames=4, mincitenames=4, maxbibnames=99, minbibnames=99]{biblatex}
+\bibliography{my_papers}
+\DeclareBibliographyCategory{crucial}
+
+% moderncv styles
+%\moderncvstyle{casual}       % optional argument are 'nocolor' (black & white cv) and 'roman' (for roman fonts, instead of sans serif fonts)
+\moderncvstyle{classic}       % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}   % replace by the encoding you are using
+%
+% personal data (the given example is exhaustive; just give what you want)
+\firstname{} \familyname{}
+%\title{Highly-creative cognitive researcher}
+%\address{Via Ciro Menotti, 15 – 47042, Cesenatico (FC), Italy}  % for classic style
+%%\address{Via Ciro Menotti, 15 – 47042, Cesenatico (FC), Italy} % for casual style
+\address{Max Talanov}
+\phone{+7 962 571 8296}
+\email{max.talanov@gmail.com}
+%\extrainfo{\url{https://www.scopus.com/authid/detail.uri?authorId=41762833600}}
+%\extrainfo{\url{https://www.researchgate.net/profile/Max_Talanov}}
+\extrainfo{\url{https://scholar.google.com/citations?hl=en&user=SoUgPioAAAAJ}}
+%\extrainfo{\url{www.linkedin.com/in/max-talanov-a004aa16}}
+%\photo[100pt]{Talanov_Max_2012} % also optional, and the optional argument is the height the picture must be resized to
+
+%\quote{Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.}% also optional
+%\quote{Video meliora proboque, deteriora sequor (Ovidio, Metamorphosis, VII, 20)}
+%\renewcommand{\listsymbol}{{\fontencoding{U}\fontfamily{ding}\selectfont\tiny\symbol{'102}}} % define another symbol to be used in front of the list items
+
+% the ConTeXt symbol
+%\def\ConTeXt{%
+% C%
+%\kern-.0333emo%
+%\kern-.0333emn%
+%\kern-.0667em\TeX%
+%\kern-.0333emt}
+
+% slanted small caps (only with roman family; the sans serif font doesn't exists :-()
+%\usepackage{slantsc}
+%\DeclareFontFamily{T1}{myfont}{}
+%\DeclareFontShape{T1}{myfont}{m}{scsl}{ <-> cork-lmssqbo8}{}
+%\usefont{T1}{myfont}{m}{scsl}Testing the font
+
+% command and color used in this document, independently from moderncv
+%\definecolor{see}{rgb}{0.5,0.5,0.5}% for web links
+%\newcommand{\up}[1]{\ensuremath{^\textrm{\scriptsize#1}}}% for text subscripts
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\bibliographystyle{alpha}
+%\maketitle
+%\makequote
+    \makecvtitle
+
+%\section{Personal Information}
+%\cvitem{Name}{\small Max Talanov}
+%\cvitem{Passport}{\small Russia}
+%\cvitem{Date of birth}{\small 12 April 1974}
+%\cvitem{Contacts}{\small mtalanov@it.kfu.ru (preferred), max.talanov@gmail.com}{}
+%\cvitem{Research Gate}{https://www.researchgate.net/profile/Max\char`_Talanov}
+    
+        \section{Papers}
+    Total 45 published papers at the moment, H-index 11(Google scholar).
+    In 2020 and 2021 my scientific group published papers in world leading scientific journals:
+    Frontiers in Computer Science, Frontiers in Neuroscience, Frontiers in Cellular Neuroscience, Nature Scientific Reports.
+
+%\addtocategory{crucial}{talanov_2015,vallverdu_2016a,jordi2016importance}
+%\printbibliography[title={Selected papers}, category = crucial]
+
+% all papers (my_papers.bib)
+\nocite{*}
+\printbibliography[title={All papers}]
+
+    \section{Education Background}    
+    \cventry{2000}{PHD degree in Math modeling}{Kazan State Technological University, Russia}{Faculty of enterprise processes management}{}{}{}
+
+    
+    \section{Professional Training}
+    \cvitem{2014}{\small Teaching Excellence, Carnegie Mellon University, USA}
+    \cvitem{2009}{\small Software Architecture, Carnegie Mellon University, USA}
+    \cvitem{2008}{\small Software Requirements Analysis, Carnegie Mellon University, USA}
+    \cvitem{2007}{\small Managing Software Project Team, Carnegie Mellon University, USA}
+
+    
+    \section{Conference and Workshop Activities}
+    2010 -- CEE-SECR, 2013 -- AINL, 2015 -- AOC@AMSTA, 2015 -- AINA, 2015 -- BICA, 2016 -- Fierces on BICA, 2016 -- AOC@AMSTA, 2016-- AGI, 2016 -- BICA, 2017 -- BICA, 2017 -- ICAROB, 2017 -- ICINCO, 2017 -- DESE, 2018 -- ESCI, 2018 -- Volga neuroscience meeting, 2021 -- IROS, 2021 -- BICA, 2021 -- BF-NAICS.
+
+    I took part in organisation of special sessions of AOC@AMSTA-2016 and AOC@AMSTA-2015 and local series of Software engineering seminars AKSES-2014. I was a general chair of HCC-2017 conference.
+
+    \section{Science-pop activities}
+    I had science-pop lecture ``Cyberpunk revolution'' in cultural center ``Smena'' in 2021.
+    I took part in \href{https://www.youtube.com/watch?v=BLvS7h3kRbo}{\emph{TEDx}}, \href{https://vk.com/video-87488544_171504962}{\emph{Science Slam}} and \href{https://www.youtube.com/watch?v=sLLKxvUEA7E}{\emph{JavaDay}} science-pop events in Kazan, as well as I took part in science popular Russian resource \href{https://postnauka.ru/author/talanov}{\emph{postnauka.ru}} especially interesting paper is dedicated to \href{https://postnauka.ru/faq/58727}{\emph{Marvin Minsky and his role in AI}}, also forbes.ru published an interview with me \href{http://www.forbes.ru/mneniya-column/288097-kak-sozdat-emotsionalnyi-iskusstvennyi-intellekt}{\emph{available here}}.
+
+%\section{References}
+
+%Dr. Igor Lavrov, Mayo Clinic, igor.lavrov@gmail.com.\\
+%Prof. Roustem Khazipov, INSERM, roustem.khazipov@inserm.fr, +33491828141\\
+%Prof. Victor Erokhin, CNR-IMEM, victor.erokhin@fis.unipr.it, +393281019272\\
+%Dr. Salvatore Distefano, Messina University, salvatdi@gmail.com, +390903977318
+
+\end{document}
+
