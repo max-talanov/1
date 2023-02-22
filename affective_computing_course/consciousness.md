@@ -164,8 +164,8 @@ When the team zapped the area with high frequency electrical impulses, the woman
 
 ## References 
 
-1. [Marvin Minsky, lecture consciousness, part 1](http://video.mit.edu/watch/lecture-6-consciousness-1351/)
-1. [Marvin Minsky, lecture consciousness, part 2](http://video.mit.edu/watch/lecture-7-consciousness-cont-1487/)
+1. [Marvin Minsky, lecture consciousness, part 1](https://www.youtube.com/watch?v=qJZ_1a-t_sA&t=1s)
+1. [Marvin Minsky, lecture consciousness, part 2](https://www.youtube.com/watch?v=oG6FyY2r9G0)
 1. [Marvin Minsky, The emotion machine Draft, Consciousness](http://web.media.mit.edu/~minsky/E4/eb4.html)
 1. [Igor Aleksander and Barry Dunmall, Axioms and Tests for the Presence of Minimal Consciousness in Agents](https://www.researchgate.net/publication/233613244_Axioms_and_Tests_for_the_Presence_of_Minimal_Consciousness_in_Agents_I_Preamble)
 1. [David Chalmers, Consciousness as a Fundamental Building Block of the Universe](http://www.scienceandnonduality.com/consciousness-as-fundamental-building-in-the-universe/)
