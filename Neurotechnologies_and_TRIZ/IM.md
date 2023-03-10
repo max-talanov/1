@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=XKYsteB-KPk
 
 https://en.wikipedia.org/wiki/Software_development_process
 
-
 ## Glossary 
 
 1. **SR** - Standards Repository. In terms of ARIZ informfund or information fund.
@@ -382,9 +381,8 @@ The effectiveness of the system could be improved using system transition 1-a: m
 
 ##### CPG
 
-![CPG as the increasing the level of abstraction](CPG_S-Field.png)
+![memristive CPG as the increasing the level of abstraction](https://www.frontiersin.org/files/Articles/1124950/fnins-17-1124950-HTML/image_m/fnins-17-1124950-g001.jpg)
 
-![CPG]<>(CPG.png)
 
 #### 3.2. Transition to Micro-level
 
