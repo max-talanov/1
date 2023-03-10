@@ -381,7 +381,8 @@ The effectiveness of the system could be improved using system transition 1-a: m
 
 ##### meristive CPG
 
-Frontiers in neuroscience article https://www.frontiersin.org/articles/10.3389/fnins.2023.1124950/full
+Frontiers in neuroscience article [Memristive circuit-based model of central pattern generator to reproduce spinal neuronal activity in walking pattern
+](https://www.frontiersin.org/articles/10.3389/fnins.2023.1124950/full)
 ![memristive CPG as the increasing the level of abstraction](https://www.frontiersin.org/files/Articles/1124950/fnins-17-1124950-HTML/image_m/fnins-17-1124950-g001.jpg)
 ![memristive CPG results](https://www.frontiersin.org/files/Articles/1124950/fnins-17-1124950-HTML/image_m/fnins-17-1124950-g003.jpg)
 
