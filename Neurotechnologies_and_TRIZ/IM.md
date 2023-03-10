@@ -379,8 +379,9 @@ In any stage of evolution the system could be merged with the other one or many 
 
 The effectiveness of the system could be improved using system transition 1-a: merging the system with the other one[many] in more complex bi-system or poly-system.
 
-##### CPG
+##### meristive CPG
 
+Frontiers in neuroscience article https://www.frontiersin.org/articles/10.3389/fnins.2023.1124950/full
 ![memristive CPG as the increasing the level of abstraction](https://www.frontiersin.org/files/Articles/1124950/fnins-17-1124950-HTML/image_m/fnins-17-1124950-g001.jpg)
 
 
