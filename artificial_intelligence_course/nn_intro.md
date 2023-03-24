@@ -71,3 +71,7 @@ where ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/f300b83673e961
 
 
 https://en.wikipedia.org/wiki/Cortical_column
+
+## Izhikevich model of neuron
+
+https://github.com/max-talanov/1/blob/master/artificial_intelligence_course/izhi.md
