@@ -386,7 +386,7 @@ Frontiers in neuroscience article [Memristive circuit-based model of central pat
 ![memristive CPG as the increasing the level of abstraction](https://www.frontiersin.org/files/Articles/1124950/fnins-17-1124950-HTML/image_m/fnins-17-1124950-g001.jpg)
 ![memristive CPG results](https://www.frontiersin.org/files/Articles/1124950/fnins-17-1124950-HTML/image_m/fnins-17-1124950-g003.jpg)
 
-![memristive CPG schematic](https://raw.githubusercontent.com/max-talanov/1/master/Neurotechnologies_and_TRIZ/memristive_CPG_hard.png)
+![memristive CPG](mem_CPG_photo.jpg)
 
 #### 3.2. Transition to Micro-level
 
