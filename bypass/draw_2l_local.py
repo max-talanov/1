@@ -28,7 +28,8 @@ total_save_seconds=2
 # load_path_prefix = './out/2023-06-19_2l_5s_InF_InE_run/'
 # load_path_prefix = './out/2023-06-19_2l_5s_InF_InE_bs_run/'
 # load_path_prefix = './out/2023-06-19_2l_5s_InF_InE_bs_2nd_run/'
-load_path_prefix = '../../bypass/out/long_run/'
+# load_path_prefix = '../../bypass/out/long_run/'
+load_path_prefix = '../../bypass/out/2023-06-29_2l_stdp_izhi/'
 
 dirs = list(range(60, total_save_seconds+60, 60))
 file_name = 'cut2rg_weigts.pickle'
@@ -175,53 +176,138 @@ show()
 
 # Weights
 ## Left leg
-### Extensor
-
-figure(figsize=(20, 10))
-file_name = 'l_e_cut2rg_weigts.pickle'
+### F&E
+figure(figsize=(20, 15))
+## ALL wheights
+file_name_e = 'l_e_cut2rg_weigts.pickle'
+file_name_f = 'l_f_muscle2rg_weigts.pickle'
 file_rg2InE = 'l_e_rg2InE_weigts.pickle'
-# 60
-load_path_60 = load_path_prefix + str(dirs[0]) + '/'
-print(load_path_60)
-
-with open(load_path_60 + file_name, 'rb') as f60:
-  mon60 = pickle.load(f60)
-  # subplot(411)
-  # plot(mon60["t"], mon60['s'])
-  # xlim([render_start/second, render_duration/second])
-
-  ## avg
-  avg_w = average(mon60['s'], axis=1)
-  smoothed_avg_w = savgol_filter(avg_w, 31, 4)
-  max_w = percentile(mon60['s'], 15, axis=1)
-  min_w = percentile(mon60['s'], 85, axis=1)
-  var_w = std(mon60['s'], axis=1)
-  smoothed_var_w = savgol_filter(var_w, 31, 4)
-
-  ## avg
-  subplot(511)
-  plot(mon60['t'] / second, smoothed_avg_w, 'tab:green')
-  plot(mon60['t'] / second, max_w, 'tab:blue')
-  plot(mon60['t'] / second, min_w, 'tab:orange')
-  # xlim([render_start/second, render_duration/second])
-  tight_layout()
-
-  subplot(512)
-  plot(mon60['t'] / second, var_w, 'tab:red')
-  # xlim([render_start/second, render_duration/second])
-  tight_layout()
-
-  with open(load_path_60 + file_rg2InE, 'rb') as frg2InE:
-    rg2InE = pickle.load(frg2InE)
-
-    avg_w_rg2InE = average(rg2InE['s'], axis=1)
-    smoothed_avg_w_avg_w_rg2InE = savgol_filter(avg_w_rg2InE, 21, 4)
-    max_w = percentile(rg2InE['s'], 15, axis=1)
-    min_w = percentile(rg2InE['s'], 85, axis=1)
+file_rg2InF = 'l_f_rg2InE_weigts.pickle'
+print(file_name)
+for d in dirs:
+  load_path_60 = load_path_prefix + str(d) + '/'
+  print(load_path_60)
+  with open(load_path_60 + file_name_e, 'rb') as f60:
+    mon60 = pickle.load(f60)
     ## avg
-    subplot(513)
-    plot(rg2InE['t'] / second, smoothed_avg_w, 'tab:green')
-    plot(rg2InE['t'] / second, max_w, 'tab:blue')
-    plot(rg2InE['t'] / second, min_w, 'tab:orange')
+    avg_w = average(mon60['s'], axis=1)
+    max_w = percentile(mon60['s'], 90, axis=1)
+    min_w = percentile(mon60['s'], 10, axis=1)
+    smoothed_avg_w = savgol_filter(avg_w, 21, 4)
+    var_w = std(mon60['s'], axis=1)
+    smoothed_var_w = savgol_filter(var_w, 21, 4)
+  with open(load_path_60 + file_name_f, 'rb') as f60f:
+    mon60f = pickle.load(f60f)
+    ## avg
+    avg_wf = average(mon60f['s'], axis=1)
+    max_wf = percentile(mon60f['s'], 90, axis=1)
+    min_wf = percentile(mon60f['s'], 10, axis=1)
+    smoothed_avg_wf = savgol_filter(avg_wf, 21, 4)
+    var_wf = std(mon60f['s'], axis=1)
+    smoothed_var_wf = savgol_filter(var_wf, 21, 4)
+  with open(load_path_60 + file_rg2InE, 'rb') as f60:
+    mon60 = pickle.load(f60)
+    ## avg
+    avg_wInE = average(mon60['s'], axis=1)
+    max_wInE = percentile(mon60['s'], 90, axis=1)
+    min_wInE = percentile(mon60['s'], 10, axis=1)
+    smoothed_avg_wInE = savgol_filter(avg_w, 21, 4)
+    var_wInE = std(mon60['s'], axis=1)
+    smoothed_var_wInE = savgol_filter(var_w, 21, 4)
+
+  with open(load_path_60 + file_rg2InF, 'rb') as f60f:
+    mon60f = pickle.load(f60f)
+    ## avg
+    avg_wInF = average(mon60f['s'], axis=1)
+    max_wInF = percentile(mon60f['s'], 90, axis=1)
+    min_wInF = percentile(mon60f['s'], 10, axis=1)
+    smoothed_avg_wInF = savgol_filter(avg_wf, 21, 4)
+    var_wInF = std(mon60f['s'], axis=1)
+    smoothed_var_wInF = savgol_filter(var_wf, 21, 4)
+    # cut2rg
+    subplot(211)
+    plot(mon60['t'] / second, smoothed_avg_w, 'tab:green')
+    plot(mon60['t'] / second, max_w, 'tab:orange')
+    plot(mon60['t'] / second, min_w, 'tab:blue')
+    plot(mon60['t'] / second, smoothed_avg_wf, 'tab:cyan')
+    plot(mon60['t'] / second, max_wf, 'tab:olive')
+    plot(mon60['t'] / second, min_wf, 'tab:purple')
+    tight_layout()
+    # rg2InX
+    subplot(212)
+    plot(mon60['t'] / second, smoothed_avg_wInE, 'tab:green')
+    plot(mon60['t'] / second, max_wInE, 'tab:orange')
+    plot(mon60['t'] / second, min_wInE, 'tab:blue')
+    plot(mon60['t'] / second, smoothed_avg_wInF, 'tab:cyan')
+    plot(mon60['t'] / second, max_wInF, 'tab:olive')
+    plot(mon60['t'] / second, min_wInF, 'tab:purple')
+    tight_layout()
+show()
+
+## Right leg
+### F&E
+## draw all combined weights
+figure(figsize=(20, 15))
+file_name_e = 'r_e_cut2rg_weigts.pickle'
+file_name_f = 'r_f_muscle2rg_weigts.pickle'
+file_rg2InE = 'r_e_rg2InE_weigts.pickle'
+file_rg2InF = 'r_f_rg2InE_weigts.pickle'
+print(file_name)
+for d in dirs:
+  load_path_60 = load_path_prefix + str(d) + '/'
+  print(load_path_60)
+  with open(load_path_60 + file_name_e, 'rb') as f60:
+    mon60 = pickle.load(f60)
+    ## avg
+    avg_w = average(mon60['s'], axis=1)
+    max_w = percentile(mon60['s'], 90, axis=1)
+    min_w = percentile(mon60['s'], 10, axis=1)
+    smoothed_avg_w = savgol_filter(avg_w, 21, 4)
+    var_w = std(mon60['s'], axis=1)
+    smoothed_var_w = savgol_filter(var_w, 21, 4)
+  with open(load_path_60 + file_name_f, 'rb') as f60f:
+    mon60f = pickle.load(f60f)
+    ## avg
+    avg_wf = average(mon60f['s'], axis=1)
+    max_wf = percentile(mon60f['s'], 90, axis=1)
+    min_wf = percentile(mon60f['s'], 10, axis=1)
+    smoothed_avg_wf = savgol_filter(avg_wf, 21, 4)
+    var_wf = std(mon60f['s'], axis=1)
+    smoothed_var_wf = savgol_filter(var_wf, 21, 4)
+  with open(load_path_60 + file_rg2InE, 'rb') as f60:
+    mon60 = pickle.load(f60)
+    ## avg
+    avg_wInE = average(mon60['s'], axis=1)
+    max_wInE = percentile(mon60['s'], 90, axis=1)
+    min_wInE = percentile(mon60['s'], 10, axis=1)
+    smoothed_avg_wInE = savgol_filter(avg_w, 21, 4)
+    var_wInE = std(mon60['s'], axis=1)
+    smoothed_var_wInE = savgol_filter(var_w, 21, 4)
+  with open(load_path_60 + file_rg2InF, 'rb') as f60f:
+    mon60f = pickle.load(f60f)
+    ## avg
+    avg_wInF = average(mon60f['s'], axis=1)
+    max_wInF = percentile(mon60f['s'], 90, axis=1)
+    min_wInF = percentile(mon60f['s'], 10, axis=1)
+    smoothed_avg_wInF = savgol_filter(avg_wf, 21, 4)
+    var_wInF = std(mon60f['s'], axis=1)
+    smoothed_var_wInF = savgol_filter(var_wf, 21, 4)
+    # cut2rg
+    subplot(411)
+    plot(mon60['t'] / second, smoothed_avg_w, 'tab:green')
+    plot(mon60['t'] / second, max_w, 'tab:orange')
+    plot(mon60['t'] / second, min_w, 'tab:blue')
+    plot(mon60['t'] / second, smoothed_avg_wf, 'tab:cyan')
+    plot(mon60['t'] / second, max_wf, 'tab:olive')
+    plot(mon60['t'] / second, min_wf, 'tab:purple')
+    tight_layout()
+    # rg2InX
+    subplot(412)
+    plot(mon60['t'] / second, smoothed_avg_wInE, 'tab:green')
+    plot(mon60['t'] / second, max_wInE, 'tab:orange')
+    plot(mon60['t'] / second, min_wInE, 'tab:blue')
+    plot(mon60['t'] / second, smoothed_avg_wInF, 'tab:cyan')
+    plot(mon60['t'] / second, max_wInF, 'tab:olive')
+    plot(mon60['t'] / second, min_wInF, 'tab:purple')
     tight_layout()
 show()
