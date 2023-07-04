@@ -29,7 +29,7 @@ total_save_seconds=2
 # load_path_prefix = './out/2023-06-19_2l_5s_InF_InE_bs_run/'
 # load_path_prefix = './out/2023-06-19_2l_5s_InF_InE_bs_2nd_run/'
 # load_path_prefix = '../../bypass/out/long_run/'
-load_path_prefix = '../../bypass/out/2023-06-29_2l_stdp_izhi/'
+load_path_prefix = '../../bypass/out/2023-07-04_stdp_cut/'
 
 dirs = list(range(60, total_save_seconds+60, 60))
 file_name = 'cut2rg_weigts.pickle'
@@ -293,7 +293,7 @@ for d in dirs:
     var_wInF = std(mon60f['s'], axis=1)
     smoothed_var_wInF = savgol_filter(var_wf, 21, 4)
     # cut2rg
-    subplot(411)
+    subplot(211)
     plot(mon60['t'] / second, smoothed_avg_w, 'tab:green')
     plot(mon60['t'] / second, max_w, 'tab:orange')
     plot(mon60['t'] / second, min_w, 'tab:blue')
@@ -302,7 +302,7 @@ for d in dirs:
     plot(mon60['t'] / second, min_wf, 'tab:purple')
     tight_layout()
     # rg2InX
-    subplot(412)
+    subplot(212)
     plot(mon60['t'] / second, smoothed_avg_wInE, 'tab:green')
     plot(mon60['t'] / second, max_wInE, 'tab:orange')
     plot(mon60['t'] / second, min_wInE, 'tab:blue')
