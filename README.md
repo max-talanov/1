@@ -2,4 +2,6 @@
 =
 
 main personal repository
+with TRIZ course
+
 
