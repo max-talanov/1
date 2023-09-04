@@ -71,7 +71,7 @@ CycleGAN tutorials:
     1. [Action potential](../neuromorphic_computing_course/action_potential.md)
     1. [Neuromodulation](../affective_computing_course/neuromodulation.md)
     2. [Learning and STDP](../neuromorphic_computing_course/learning.md)
-1. **Bio-plausible networks**
+1. **Bio networks**
    1. [Izhikevich polychronisation](../artificial_intelligence_course/izhi.md)
    1. [Central Pattern Generator](https://en.wikipedia.org/wiki/Central_pattern_generator)
    1. [Cortical column and HTM](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/cortical_columns.md)
