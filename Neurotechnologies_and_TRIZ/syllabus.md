@@ -60,6 +60,8 @@ CycleGAN tutorials:
    1. [U-net](../artificial_intelligence_course/u-net.md)
    3. [YOLO](../artificial_intelligence_course/yolo.md)
    4. [Deep Residual Learning](../artificial_intelligence_course/resNet.md)
+1. [Spiking Neural networks](https://github.com/max-talanov/1/blob/master/affective_computing_course/realistic_nns.md)
+1. [Memristor and memristive devices](memristor.md)
 
 # Advanced questions 
 
