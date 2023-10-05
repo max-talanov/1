@@ -422,6 +422,9 @@ The effectiveness of the system could be improved using the system transition 2:
 
 #### 5.5. Experimental standards
 
+# Innovation methodology TRIZ AI
+
+![TRIZ AI](im-TRIZ_AI.png)
 
 # References 
 
