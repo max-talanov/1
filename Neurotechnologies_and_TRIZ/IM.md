@@ -45,7 +45,7 @@ to generate ideas and select most appropriate using the brainstorming evaluation
 4. ...
 
 **III** -- 
-After IFR formalization and TC-PC identification in the brainstorming cycle between TC-PC and IFR-2 along with [40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) enrich TRIZ Reformulation with [useful ways to think](https://web.media.mit.edu/~minsky/E7/eb7.html#_Toc508708573) by Marvin Minsky; for example: (1) Simplification, (2) Use external representations, (3) Simulation, (4) Impersonation.
+After IFR formalization and TC-PC identification in the brainstorming cycle between TC-PC and IFR-2 along with [40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) and [inventive standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards) as well as enriching TRIZ Reformulation with [useful ways to think](https://web.media.mit.edu/~minsky/E7/eb7.html#_Toc508708573) by Marvin Minsky; for example: (1) Simplification, (2) Use external representations, (3) Simulation, (4) Impersonation.
 
 ## Analysis and IFR
 
