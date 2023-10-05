@@ -35,10 +35,11 @@ The picture below contains simple waterfall SDL with mapped ARIZ activities
 
 The ARIZ activities are included in so called **Brainstorming cycle** containing IFR, TC-PC and Model (SDM) ([described in details below](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#analysis-and-ifr)) this cycle could be used interchangeably with [brainstorming](https://en.wikipedia.org/wiki/Brainstorming) in the following manner:
  
-**I** -- Directly after IFR formalization use brainstorming with [40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) to generate ideas and select most appropriate using the brainstorming evaluation technique. 
+**I** -- Directly after IFR formalization use brainstorming using [40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) and [inventive standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards) 
+to generate ideas and select most appropriate using the brainstorming evaluation technique. 
 
 **II**
-1. (a) IFR formalization; (b) TC identification; (c) TC solution using the [TC table and 40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf); (d) if the suitable solution is found go to HLD design.
+1. (a) IFR formalization; (b) TC identification; (c) TC solution using [TC table and 40 principles of invention](https://upload.wikimedia.org/wikipedia/commons/f/fa/1_Le_francais_-_40_principes_d%27invention%2C_2_L%27anglais_-_40_principles_of_invention%2C_3_L%27anglais_-_Contradiction_Matrix_in_TRIZ_method.pdf) and [inventive standards](https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/IM.md#inventive-standards); (d) if the suitable solution is found go to HLD design.
 2. (a) Brainstorming: ideas generation; (b) ideas evaluation; (c) ideas selection; (d) if the suitable solution is identified go to HLD design.
 3. Repeat step 1
 4. ...
