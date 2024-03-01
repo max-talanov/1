@@ -29,7 +29,7 @@ In case neurotransmitter lives in the synaptic cleft and avoids degradation it m
 
 name          |origin          |target                                                                 |effects
 :-------------|----------------|-----------------------------------------------------------------------|--------
-noradrenaline |locus coeruleus |adrenergic receptors in striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
+noradrenaline |locus coeruleus |adrenergic receptors in the striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
 serotonin     |raphe nucleus   |serotonin receptors in deep cerebellar nuclei, cerebellar cortex      |increase (introversion), mood, satiety, body temperature and sleep, while decreasing nociception
 dopamine      |dopamine pathways |dopamine receptors at pathway terminations| motor system, reward system, cognition, endocrine, nausea
 
