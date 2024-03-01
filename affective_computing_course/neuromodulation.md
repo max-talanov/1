@@ -18,7 +18,7 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 ![PKMZ](https://www.researchgate.net/publication/230870249/figure/fig1/AS:216457817399296@1428618973019/Summary-of-the-signaling-pathways-of-PKMz-mediated-late-LTP-Transcription-from-an_Q320.jpg)
 
-![5-HT modulation AMPAR](https://camo.githubusercontent.com/7121e5b77edae30655952fd848172174b33d3374/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336364382f7873734236384a4e726c772e6a7067)
+![5-HT modulation AMPAR](https://www.researchgate.net/profile/John-Swallow-4/publication/338362444/figure/fig1/AS:845108031266817@1578500864644/A-representative-serotonin-5-HT-neuron-and-synapse-The-figure-shows-predominant.png)
 
 ![5-HT modulation of memory](https://camo.githubusercontent.com/bb26a25aa200075f44ca99ad468e0195fcda9056/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336366362f6a6965377a68505a7859632e6a7067)
 
