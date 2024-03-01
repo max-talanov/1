@@ -23,6 +23,11 @@ In case neurotransmitter lives in the synaptic cleft and avoids degradation it m
 
 ![Dopamine and serotonin pathways](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pubmed_equitativa_hormonal.png)
 
+### Robot emotions presentation 
+
+[Robot emotions presentation](https://docs.google.com/presentation/d/1ZTA2T_14U5ESmGVO5mFL07YHRWwgO1GloqHOJSSgQHM/edit#slide=id.g2944d702b9b_1_44)
+
+
 ### Major neuromodulation systems
 
 [Major neurotransmitter systems](http://en.wikipedia.org/wiki/Neuromodulation#The_major_neurotransmitter_systems)
@@ -89,8 +94,6 @@ Connectivity diagram showing excitatory glutamatergic pathways as red, inhibitor
 **Cortex** (stimulates) → **Striatum** (inhibits) → **GPe** (less inhibition of STN) → **STN** (stimulates) → **"SNr-GPi" complex** (inhibits) → **Thalamus** (is stimulating less) → **Cortex** (is stimulating less) → Muscles, etc.
 
 The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**. 
-
-[Robot emotions presentation](https://docs.google.com/presentation/d/1ZTA2T_14U5ESmGVO5mFL07YHRWwgO1GloqHOJSSgQHM/edit#slide=id.g2944d702b9b_1_44)
 
 ## Homeostasis
 
