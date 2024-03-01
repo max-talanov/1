@@ -36,7 +36,7 @@ dopamine      |dopamine pathways |dopamine receptors at pathway terminations| mo
 
 ### VTA
 
-"the VTA, in particular the VTA dopamine neurons, serve several functions in the reward system, motivation, cognition, drug addiction, and may be the focus of several psychiatric disorders. It has also been shown to process various types of emotion output from the amygdala, where it may also play a role in avoidance and fear-conditioning. Electrophysiological recordings have demonstrated that VTA neurons respond to novel stimuli, unexpected rewards, and reward-predictive sensory cues. The firing pattern of these cells is consistent with the encoding of a reward expectancy error. In 2006 MRI Studies by Helen Fisher and her research team found and documented various emotional states relating to intense love correlated with activity in the VTA, which may help explain obsessive behaviors of rejected partners since this is shared by the reward system."
+"the VTA, in particular the VTA dopamine neurons, serve several functions in the reward system, motivation, cognition, drug addiction, and maybe the focus of several psychiatric disorders. It has also been shown to process various types of emotion output from the amygdala, where it may also play a role in avoidance and fear-conditioning. Electrophysiological recordings have demonstrated that VTA neurons respond to novel stimuli, unexpected rewards, and reward-predictive sensory cues. The firing pattern of these cells is consistent with the encoding of a reward expectancy error. In 2006 MRI Studies by Helen Fisher and her research team found and documented various emotional states relating to intense love correlated with activity in the VTA, which may help explain obsessive behaviors of rejected partners since this is shared by the reward system."
 
 ### Substantia nigra
 
@@ -49,8 +49,8 @@ Projections from the raphe nuclei also terminate in the dorsal horn of spinal gr
 
 ### Nucleus accumbens
 
-"... it plays an equal role in processing many rewards such as food and sex. The nucleus accumbens is selectively activated during the perception of pleasant, emotionally arousing pictures and during mental imagery of pleasant, emotional scenes.[Costa et al, Sabatinelli et al] ...  The nucleus accumbens plays a role in rhythmic timing and is considered to be of central importance to the limbic-motor interface (Mogensen).
-... the area is the "pleasure center" of the brain and is involved in reinforcement learning.[Olds J, Milner] In rats, stimulation of the ventral tegmental area causes the release of dopamine in the nucleus accumbens much in the same way as addictive drugs and natural reinforcers, such as water or food, initiate the release of dopamine in the nucleus accumbens.[Nakahara] The same results have been seen in human subjects in functional imaging studies."
+"... it plays an equal role in processing many rewards such as food and sex. The nucleus accumbens is selectively activated during the perception of pleasant, emotionally arousing pictures and mental imagery of pleasant, emotional scenes.[Costa et al, Sabatinelli et al] ...  The nucleus accumbens plays a role in rhythmic timing and is considered to be of central importance to the limbic-motor interface (Mogensen).
+... the area is the "pleasure centre" of the brain and is involved in reinforcement learning.[Olds J, Milner] In rats, stimulation of the ventral tegmental area causes the release of dopamine in the nucleus accumbens much in the same way as addictive drugs and natural reinforcers, such as water or food, initiate the release of dopamine in the nucleus accumbens.[Nakahara] The same results have been seen in human subjects in functional imaging studies."
 
 ### Striatum
 
