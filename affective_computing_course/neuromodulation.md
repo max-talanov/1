@@ -16,7 +16,7 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 ![5-HT signaling](https://raw.githubusercontent.com/research-team/memristive-neucogar/master/doc/review/HTR1%20-_%20Membrane%20Transport.png)
 
-![PKMZ](https://camo.githubusercontent.com/9320cebe0be69d841d075225e2e93dd5c1a2d337/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336333642f6a62315841427a746f50492e6a7067)
+![PKMZ](https://www.researchgate.net/publication/230870249/figure/fig1/AS:216457817399296@1428618973019/Summary-of-the-signaling-pathways-of-PKMz-mediated-late-LTP-Transcription-from-an_Q320.jpg)
 
 ![5-HT modulation AMPAR](https://camo.githubusercontent.com/7121e5b77edae30655952fd848172174b33d3374/68747470733a2f2f70702e757365726170692e636f6d2f633834363132342f763834363132343539372f62336364382f7873734236384a4e726c772e6a7067)
 
@@ -32,8 +32,8 @@ In case neurotransmitter lives the synaptic cleft and avoids degradation it mass
 
 name          |origin          |target                                                                 |effects
 :-------------|----------------|-----------------------------------------------------------------------|--------
-noradrenaline |locus coeruleus |adrenergic receptors in: striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
-serotonin     |raphe nucleus   |serotonin receptors in: deep cerebellar nuclei, cerebellar cortex      |increase (introversion), mood, satiety, body temperature and sleep, while decreasing nociception
+noradrenaline |locus coeruleus |adrenergic receptors in striatum, neocortex, hippocampus, amygdala ...|arousal, reward system 
+serotonin     |raphe nucleus   |serotonin receptors in deep cerebellar nuclei, cerebellar cortex      |increase (introversion), mood, satiety, body temperature and sleep, while decreasing nociception
 dopamine      |dopamine pathways |dopamine receptors at pathway terminations| motor system, reward system, cognition, endocrine, nausea
 
 
@@ -48,7 +48,7 @@ dopamine      |dopamine pathways |dopamine receptors at pathway terminations| mo
 ### Raphe nuclei
 
 "The raphe nuclei have a vast impact upon the central nervous system. Many of the neurons in the nuclei (but not the majority) are serotonergic; i.e., contain serotonin, a type of monoamine neurotransmitter and are modulated through fibrous pathways in the midbrain.
-Projections from the raphe nuclei also terminate in the dorsal horn of spinal gray matter where they regulate the release of enkephalins, which inhibit pain sensation."
+Projections from the raphe nuclei also terminate in the dorsal horn of spinal grey matter where they regulate the release of enkephalins, which inhibit pain sensation."
 
 ### Nucleus accumbens
 
