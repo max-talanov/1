@@ -6,6 +6,9 @@
 
 ![Hebbian learning](Hebb_eSTDP.png)
 
+![Hebbian learning + AP](STDP_AP.png)
+
+
 ![Human connectome top](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_Human_Connectome.png/1280px-The_Human_Connectome.png)
 
 ![Human connectome lateral](https://upload.wikimedia.org/wikipedia/commons/8/82/DTI-sagittal-fibers.jpg)
