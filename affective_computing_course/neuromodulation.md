@@ -67,8 +67,8 @@ Projections from the raphe nuclei also terminate in the dorsal horn of spinal gr
 
 ### Frontal cortex
 
-"The executive function of the frontal lobes involve the ability to recognize future consequences resulting from current actions, to choose between good and bad actions (or better and best), override and suppress socially unacceptable responses, and determine similarities and differences between things or events.
-The frontal lobes also play an important part in retaining longer term memories which are not task-based. These are often memories associated with emotions derived from input from the brain's limbic system. The frontal lobe modifies those emotions to generally fit socially acceptable norms."
+"The executive function of the frontal lobes involves the ability to recognize future consequences resulting from current actions, to choose between good and bad actions (or better and best), override and suppress socially unacceptable responses, and determine similarities and differences between things or events.
+The frontal lobes also play an important part in retaining longer-term memories which are not task-based. These are often memories associated with emotions derived from input from the brain's limbic system. The frontal lobe modifies those emotions to generally fit socially acceptable norms."
 
 ## Role of Noradrenaline, Dopamine and  Serotonin
 
@@ -91,7 +91,7 @@ Connectivity diagram showing excitatory glutamatergic pathways as red, inhibitor
 
 **Cortex** (stimulates) → **Striatum** (inhibits) → **GPe** (less inhibition of STN) → **STN** (stimulates) → **"SNr-GPi" complex** (inhibits) → **Thalamus** (is stimulating less) → **Cortex** (is stimulating less) → Muscles, etc.
 
-The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons, and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**. 
+The antagonistic functions of the direct and indirect pathways are modulated by the **substantia nigra pars compacta (SNc)**, which produces **dopamine**. In the presence of dopamine, D1-receptors in the basal ganglia stimulate the GABAergic neurons, favoring the direct pathway, and thus increasing movement. The GABAergic neurons of the indirect pathway are stimulated by excitatory neurotransmitters acetylcholine and glutamate. This sets off the indirect pathway that ultimately results in inhibition of upper motor neurons and less movement. In the presence of dopamine, D2-receptors in the basal ganglia inhibit these GABAergic neurons, which reduces the indirect pathways inhibitory effect. **Dopamine therefore increases the excitatory effect of the direct pathway (causing movement) and reduces the inhibitory effect of the indirect pathway (preventing full inhibition of movement)**. 
 
 ## Homeostasis
 
