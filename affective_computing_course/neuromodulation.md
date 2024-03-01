@@ -23,6 +23,9 @@ In case neurotransmitter lives in the synaptic cleft and avoids degradation it m
 
 ![Dopamine and serotonin pathways](https://upload.wikimedia.org/wikipedia/commons/a/aa/Pubmed_equitativa_hormonal.png)
 
+### 5-HT signal transduction
+[5-HT signal transduction pathway youtube](https://www.youtube.com/watch?v=kgEhfYijGGo)
+
 ### Robot emotions presentation 
 
 [Robot emotions presentation](https://docs.google.com/presentation/d/1ZTA2T_14U5ESmGVO5mFL07YHRWwgO1GloqHOJSSgQHM/edit#slide=id.g2944d702b9b_1_44)
