@@ -15,7 +15,7 @@ In case neurotransmitter lives in the synaptic cleft and avoids degradation it m
 
 ![PKMZ](https://www.researchgate.net/publication/230870249/figure/fig1/AS:216457817399296@1428618973019/Summary-of-the-signaling-pathways-of-PKMz-mediated-late-LTP-Transcription-from-an_Q320.jpg)
 
-![5-HT modulation AMPAR](https://www.researchgate.net/profile/John-Swallow-4/publication/338362444/figure/fig1/AS:845108031266817@1578500864644/A-representative-serotonin-5-HT-neuron-and-synapse-The-figure-shows-predominant.png)
+![5-HT modulation of AMPA receptors]()
 
 ![5-HT modulation of memory](https://www.frontiersin.org/files/Articles/159078/fphar-06-00162-HTML/image_m/fphar-06-00162-g001.jpg)
 
