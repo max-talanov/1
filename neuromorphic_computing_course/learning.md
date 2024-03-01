@@ -4,8 +4,6 @@
 
 ### "Fire together wire together"
 
-![Hebbian learning](Hebb_eSTDP.png)
-
 ![Hebbian learning + AP](STDP_AP.png)
 
 
