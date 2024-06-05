@@ -2,8 +2,6 @@
 
 Max Talanov: talanov.max@gmail.com
 
-Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](https://en.wikipedia.org/wiki/The_Emotion_Machine)
-
 Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/syllabus.md
 
 ## Introduction in SNNs
@@ -61,7 +59,10 @@ Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TR
 1. [Innovation methodology](IM.md)
 
 ---
+
 # References:
+
+Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](https://en.wikipedia.org/wiki/The_Emotion_Machine)
 
 Python Tutorial: https://docs.python.org/3/tutorial/index.html
 
