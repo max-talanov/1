@@ -328,7 +328,7 @@ Among other things, Nengo has been used to implement motor control, visual atten
 
 **Total = 6**
 
-## [NEST](http://www.nest-initiative.org/index.php/About_Us)
+## [NEST](https://www.nest-simulator.org/)
 
 [Overview](http://www.scholarpedia.org/article/NEST_(NEural_Simulation_Tool)#Overview)
 
