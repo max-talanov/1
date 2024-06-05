@@ -40,7 +40,8 @@
 
 ### H-CogAff by [Aaron Sloman](https://www.cs.bham.ac.uk//~axs/)
 
-![Aaron Sloman H-CogAff architecture](https://www.cs.bham.ac.uk/research/projects/cogaff/)
+[H-CogAff architecture](https://www.cs.bham.ac.uk/research/projects/cogaff/)
+
 
 ### Model of six by Marvin Minsky
 
