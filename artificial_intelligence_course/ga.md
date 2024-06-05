@@ -4,8 +4,6 @@
 
 [Pictures are from here.](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 
-[More or less good example in Python.](https://blog.sicara.com/getting-started-genetic-algorithms-python-tutorial-81ffa1dd72f9)
-
 ## Main phases of the genetic algorithm
 
 1. Initialization of a population (randomly setup chromosome)
