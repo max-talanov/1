@@ -64,7 +64,7 @@ Another way of describing a memristor is as any passive two-terminal circuit ele
 
 ![ReRAM](ReRAM.png)
 
-1. [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network)
+1. [SNN](https://en.wikipedia.org/wiki/Spiking_neural_network)
 1. Neuromorphic prosthetics
 
 
