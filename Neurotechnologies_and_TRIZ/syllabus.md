@@ -41,7 +41,7 @@ Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TR
 1. **Logic**
    1. [Probabilistic logic](../artificial_intelligence_course/pl.md)
    1. [Fuzzy logic(*)](https://en.wikipedia.org/wiki/Fuzzy_logic)
-1. [**Cognitive architectures and intelligent agents**](https://github.com/max-talanov/1/blob/master/affective_computing_course/cognitive_architecture.md)
+1. **Cognitive architectures and intelligent agents**
    1. [The emotion machine (please read the book draft)](https://en.wikipedia.org/wiki/The_Emotion_Machine)
 	  1. [Consciousness](https://github.com/max-talanov/1/blob/master/affective_computing_course/consciousness.md)
 	  1. [6 levels of mental activity](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
