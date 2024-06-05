@@ -173,8 +173,6 @@ There are two types of modules:
 
 # ALifeE
 
-http://aihandbook.intsys.org.ru/index.php/ai-cogarcs/478-cogarc-35
-
 ALifeE (Artificial Life Environment) is a cognitive architecture, including virtual sensors and perception, learning methods to approximate behavioral and cognitive models for Autonomous Virtual Agents (AVA), developed by Toni Conde in the Virtual Reality Laboratory (VRLab), (founder and director - Professor Daniel Thalmann), at the Swiss Federal Institute of Technology (Ecole Polytechnique Fédérale de Lausanne - EPFL) in Lausanne, Switzerland.
 
 1. Emotional criteria:
