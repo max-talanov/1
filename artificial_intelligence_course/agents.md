@@ -64,7 +64,7 @@ https://en.wikipedia.org/wiki/ELIZA
 
 ### Dialog agents
 
-![Component diagram](https://camo.githubusercontent.com/b6f79d2e1e1128237dd500bf19cbd2d6d6b10d1f/68747470733a2f2f7261772e6769746875622e636f6d2f646576656c6f706d656e742d7465616d2f322f6d61737465722f646f632f64657369676e2d73706563696669636174696f6e2f756d6c2f696d616765732f50726f746f74797065436f6d706f6e656e742e706e67)
+[Component diagram](https://github.com/tu-team/2/blob/master/doc/informal/annotation-interpretation-validation.md)
 
 ![Life cycle diagram](https://raw.githubusercontent.com/tu-team/2/master/doc/design-specification/uml/images/LifecycleActivity.png)
 
