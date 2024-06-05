@@ -40,11 +40,11 @@
 
 ### H-CogAff by [Aaron Sloman](https://www.cs.bham.ac.uk//~axs/)
 
-![H-CogAff architecture by Aaron Sloman](https://www.cs.bham.ac.uk/research/projects/cogaff/sloman-cogaff-03.pdf)
+![H-CogAff architecture by Aaron Sloman](https://www.cs.bham.ac.uk/research/projects/cogaff/)
 
 ### Model of six by Marvin Minsky
 
-![Model of six by Marvin Minsky](https://camo.githubusercontent.com/55cce6842b6d98a3406a390bc8865c8d8e09176b/687474703a2f2f7765622e6d656469612e6d69742e6564752f2537456d696e736b792f45352f6562355f66696c65732f696d6167653030312e706e67)
+![Model of six by Marvin Minsky](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
 
 * **Inborn, Instinctive Reactions**: Joan hears a sound and turns her head. We are born with instincts that help us to survive.
 * **Learned Reactions**: She sees a quickly oncoming car. Joan had to learn that certain conditions demand specific ways to react.
