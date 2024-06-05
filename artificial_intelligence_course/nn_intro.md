@@ -24,6 +24,7 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 ## Perceptron model (Rosenblatt) 
 
 https://en.wikipedia.org/wiki/Perceptron
+
 https://en.wikipedia.org/wiki/Backpropagation
 
 1. The weights and thresholds were not all identical.
