@@ -35,12 +35,6 @@ CycleGAN tutorials:
 
 1. [Intro.](../artificial_intelligence_course/intro.md)
 
-# TRIZ
-1. [TRIZ intro](triz.md)
-1. [TRIZ intro (en)](triz_en.md)
-1. [Innovation methodology](IM.md)
-
-
 ## Introduction
 
 1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
@@ -88,3 +82,8 @@ CycleGAN tutorials:
    1. [H-CogAff](http://www.cs.bham.ac.uk/research/projects/cogaff/)
    1. [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture))
    
+
+# TRIZ
+1. [TRIZ intro](triz.md)
+1. [TRIZ intro (en)](triz_en.md)
+1. [Innovation methodology](IM.md)
