@@ -22,11 +22,6 @@ The brain has structures similar to residual nets, as cortical layer VI neurons 
 
 ![](https://neurohive.io/wp-content/uploads/2019/01/resnet-training-results-770x254.png)
 
-## ReLU (rectified linear unit)
-
-![Rectifier](https://www.codeproject.com/KB/AI/1220276/ReLU-r-700.png)
-
-
 ## References
 
 1. [Wiki page](https://en.wikipedia.org/wiki/Residual_neural_network)
