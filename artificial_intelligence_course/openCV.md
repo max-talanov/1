@@ -118,4 +118,3 @@ while(1):
 
 1. [Image segmentation using color spaces](https://realpython.com/python-opencv-color-spaces/)
 1. [OpenCV tutorail root](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
-1. [Video analysis](https://docs.opencv.org/master/da/dd0/tutorial_table_of_content_video.html)
