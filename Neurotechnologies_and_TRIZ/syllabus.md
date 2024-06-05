@@ -6,10 +6,9 @@ Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](htt
 
 Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/syllabus.md
 
+## Introduction in SNNs
+
 1. [Intro.](../artificial_intelligence_course/intro.md)
-
-## Introduction
-
 1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
 1. **Learning and neurons**
    1. [Machine learning intro](../artificial_intelligence_course/ml_intro.md)
@@ -30,7 +29,7 @@ Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TR
 1. [Spiking Neural networks](https://github.com/max-talanov/1/blob/master/affective_computing_course/realistic_nns.md)
 1. [Memristor and memristive devices](https://github.com/max-talanov/1/blob/master/neuromorphic_computing_course/memristor.md)
 
-# Advanced questions 
+# Advanced questions of SNNs
 
 1. [Intro](../artificial_intelligence_course/intro2.md)
 1. **Intro in Neuroscience**
@@ -61,7 +60,7 @@ Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TR
 1. [TRIZ intro (en)](triz_en.md)
 1. [Innovation methodology](IM.md)
 
-----------------------------------------------
+---
 # References:
 
 Python Tutorial: https://docs.python.org/3/tutorial/index.html
