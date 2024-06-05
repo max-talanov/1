@@ -51,7 +51,6 @@ Do you think anyone could be interested in robot with power station?
 1. IBM in the SyNAPSE and later [NorthPole project](https://research.ibm.com/blog/northpole-ibm-ai-chip), developed a chip that emulated 256 neurons, now 1 million, based on new elements - memristors.
 1. Scientists from Stanford university developed [NeuroGrid](https://web.stanford.edu/group/brainsinsilicon/blog/neurogrid_board/): the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
 2. [Intel Loihi](https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html#gs.aem618)
-4. [Google Tensor flow](https://www.blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/), [Keras](https://www.datacamp.com/community/tutorials/deep-learning-python), [PyTorch](https://pytorch.org/tutorials/)
 5. [ssnTorch](https://snntorch.readthedocs.io/en/latest/index.html)
 
 ## Any challenges missed?
