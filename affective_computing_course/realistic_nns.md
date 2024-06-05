@@ -368,7 +368,7 @@ Among other things, Nengo has been used to implement motor control, visual atten
   1. Dopamine = 1
   2. Serotonin = 0
   3. Noradrenaline = 0
-2. [Option to construct simplified models of:](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=http%3A%2F%2Fwww.nada.kth.se%2Futbildning%2Fgrukth%2Fexjobb%2Frapportlistor%2F2012%2Frapporter12%2Fbiro_ronald_12009.pdf&ei=JATWU6GqH4fnywOWhIL4BA&usg=AFQjCNFzsKzno-akK3LVuKmGqHafoxGzPA&sig2=NA3hIu14UL_JCfDtLuLBDQ&bvm=bv.71778758,d.bGQ) [(Short term plasticity within the basal ganglia - a systems level computational investigation)](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=http%3A%2F%2Fwww.nada.kth.se%2Futbildning%2Fgrukth%2Fexjobb%2Frapportlistor%2F2012%2Frapporter12%2Fbiro_ronald_12009.pdf&ei=JATWU6GqH4fnywOWhIL4BA&usg=AFQjCNFzsKzno-akK3LVuKmGqHafoxGzPA&sig2=NA3hIu14UL_JCfDtLuLBDQ&bvm=bv.71778758,d.bGQ)
+2. Option to construct simplified models
   1. VTA = 1
   2. Substantia nigra = 1
   3. Raphe nuclei = 0
