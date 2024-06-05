@@ -83,7 +83,6 @@ Mask R-CNN
 
 1. [ms coco](http://cocodataset.org/#explore)
 1. [visual gemome](https://paperswithcode.com/dataset/visual-genome)
-1. https://lionbridge.ai/datasets/20-best-image-datasets-for-computer-vision/
 1. https://www.kaggle.com
 1. https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html
 1. http://image-net.org
