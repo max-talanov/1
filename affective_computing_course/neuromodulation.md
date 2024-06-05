@@ -118,7 +118,7 @@ Marvin Minsky's brain bug.
 
 1. [Neurotransmitter Wikipedia page](http://en.wikipedia.org/wiki/Neurotransmitter)
 1. [Neurotransmission Wikipedia page](http://en.wikipedia.org/wiki/Neurotransmission)
-1. [Neuromodulation Wikipedia page](http://en.wikipedia.org/wiki/Neurotransmission)
+1. [Neuromodulation Wikipedia page](https://en.wikipedia.org/wiki/Neuromodulation)
 1. [Metabotropic vs ionotropic receptors](http://www.interactive-biology.com/3974/ionotropic-vs-metabotropic-receptors/)
 1. [Metabotropic receptor Wikipedia page](http://en.wikipedia.org/wiki/Metabotropic_receptor)
 1. [Ionotropic receptor Wikipedia page](http://en.wikipedia.org/wiki/Ionotropic)
