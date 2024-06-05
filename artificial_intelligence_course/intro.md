@@ -72,8 +72,6 @@ Do you think anyone could be interested in robot with power station?
 
 ## References
 
-1. [Largest neuronal network simulation achieved using K computer](http://www.riken.jp/en/pr/press/2013/20130802_1)
 1. [List of animals by number of neurons](http://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons)
 1. [Neurosynaptic chips, IBM](http://www.research.ibm.com/cognitive-computing/neurosynaptic-chips.shtml#fbid=f1HQ57tWR3E)
-1. [Stanford bioengineers create circuit board modeled on the human brain](http://news.stanford.edu/pr/2014/pr-neurogrid-boahen-engineering-042814.html)
 
