@@ -6,33 +6,6 @@ Text book: Artificial Intelligence: A Modern Approach, [The emotion machine](htt
 
 Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/syllabus.md
 
-## References:
-
-Python Tutorial: https://docs.python.org/3/tutorial/index.html
-
-Fundumentals of neurosciense Harvard 
-1. https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical
-2. https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-ne
-3. https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain
-
-PyTorch tutorial: https://pytorch.org/tutorials/
-
-TensorFlow tutorial: https://www.tutorialspoint.com/tensorflow/index.htm
-
-Keras tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python
-
-AI Samsung: https://stepik.org/org/srr
-
-Datasets:
-1. http://image-net.org/
-1. https://www.microsoft.com/en-us/research/publication/microsoft-coco-common-objects-in-context/
-
-CycleGAN tutorials: 
-1. https://developers.arcgis.com/python/guide/how-cyclegan-works/
-1. https://machinelearningmastery.com/what-is-cyclegan/
-1. https://keras.io/examples/generative/cyclegan/
----
-
 1. [Intro.](../artificial_intelligence_course/intro.md)
 
 ## Introduction
@@ -87,3 +60,32 @@ CycleGAN tutorials:
 1. [TRIZ intro](triz.md)
 1. [TRIZ intro (en)](triz_en.md)
 1. [Innovation methodology](IM.md)
+
+----------------------------------------------
+# References:
+
+Python Tutorial: https://docs.python.org/3/tutorial/index.html
+
+Fundumentals of neurosciense Harvard 
+1. https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical
+2. https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-ne
+3. https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain
+
+PyTorch tutorial: https://pytorch.org/tutorials/
+
+TensorFlow tutorial: https://www.tutorialspoint.com/tensorflow/index.htm
+
+Keras tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python
+
+AI Samsung: https://stepik.org/org/srr
+
+Datasets:
+1. http://image-net.org/
+1. https://www.microsoft.com/en-us/research/publication/microsoft-coco-common-objects-in-context/
+
+CycleGAN tutorials: 
+1. https://developers.arcgis.com/python/guide/how-cyclegan-works/
+1. https://machinelearningmastery.com/what-is-cyclegan/
+1. https://keras.io/examples/generative/cyclegan/
+---
+
