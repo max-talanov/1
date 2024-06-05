@@ -4,7 +4,7 @@ Max Talanov: talanov.max@gmail.com
 
 Reference: https://github.com/max-talanov/1/blob/master/Neurotechnologies_and_TRIZ/syllabus.md
 
-## Introduction in SNNs
+## Introduction in ML and ANNs
 
 1. [Intro.](../artificial_intelligence_course/intro.md)
 1. [Intelligent agents.](../artificial_intelligence_course/agents.md)
