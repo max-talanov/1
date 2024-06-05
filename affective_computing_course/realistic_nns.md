@@ -135,7 +135,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
-## [Catacomb](http://catacomb.org/)
+## Catacomb
 
 ### Main features
 
