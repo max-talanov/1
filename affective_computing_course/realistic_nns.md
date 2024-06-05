@@ -269,7 +269,7 @@ CARLsim was originally written by Jayram Moorkanikara Nageswaran and Micah Riche
 
 **Total = 0**
 
-## [NCS](http://www.cse.unr.edu/brain/ncs)
+## NCS
 
 Our current NeoCortical Simulator (NCS) was developed in the Brain Computation Laboratory (University of Nevada, Reno) and shares similar approaches with well-known other simulators (e.g. GENESIS, NEURON), yet has its unique capabilities. NCS models integrate-and-fire neurons with conductance-based synapses.
 NCS not only supports simulations for larger models, but also is the first simulator to support real-time neurorobotics applications.
