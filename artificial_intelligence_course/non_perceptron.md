@@ -40,5 +40,5 @@ https://www.youtube.com/watch?v=rLTrUn7UYpQ
 
 ## NARS
 
-https://sites.google.com/site/narswang/home/nars-introduction
+https://github.com/opennars/opennars
 
