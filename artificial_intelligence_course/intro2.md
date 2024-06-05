@@ -12,11 +12,7 @@
 
 This is actually request from Huawei.
 
-[The emotion machine/PART VI. COMMON SENSE](http://web.media.mit.edu/~minsky/E6/eb6.html)
-
 ## What should scientists do to create Consciousness?
-
-[The emotion machine/Part IV. CONSCIOUSNESS](http://web.media.mit.edu/~minsky/E4/eb4.html)
 
 ## Is it enough to be AI scientist to create Machine Intelligence or any other Intelligence?
 
