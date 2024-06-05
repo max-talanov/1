@@ -6,7 +6,7 @@
 1. [AlphaGo defeated Go champion](https://en.wikipedia.org/wiki/AlphaGo)
 1. [IBM Watson defeated Jeopardy champion](https://en.wikipedia.org/wiki/Watson_(computer)#Jeopardy!)
 1. [Google self-driving car](https://en.wikipedia.org/wiki/Autonomous_car#Google_self-driving_car)
-1. Intelligent agents: Ok Google, Siri
+1. Intelligent agents: Ok Google, Siri, ChatGPT
 1. [Da Vinci Surgical System](https://en.wikipedia.org/wiki/Da_Vinci_Surgical_System)
 
 ## Do we have AI?
