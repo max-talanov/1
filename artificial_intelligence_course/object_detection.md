@@ -68,7 +68,6 @@ Mask R-CNN
 ## Image data sets
 
 1. [ms coco](http://cocodataset.org/#explore)
-1. [visual gemome](http://visualgenome.org/VGViz/explore?page=10&query=knee)
 1. [youtube](https://research.google.com/youtube8m/explore.html)
 
 
@@ -77,14 +76,13 @@ Mask R-CNN
 ### Wiki and tutorials
 
 1. https://en.wikipedia.org/wiki/Image_segmentation
-1. https://ru.wikipedia.org/wiki/Сегментация_(обработка_изображений)
 1. https://www.learnopencv.com/image-segmentation/
 1. https://neurohive.io/en/popular-networks/u-net/
 
 ### Free Image Datasets
 
 1. [ms coco](http://cocodataset.org/#explore)
-1. [visual gemome](http://visualgenome.org/VGViz/explore?page=10&query=knee)
+1. [visual gemome](https://paperswithcode.com/dataset/visual-genome)
 1. [pascal](https://www.cs.stanford.edu/~roozbeh/pascal-parts/pascal-parts.html)
 1. https://lionbridge.ai/datasets/20-best-image-datasets-for-computer-vision/
 1. https://www.kaggle.com
