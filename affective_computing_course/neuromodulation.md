@@ -131,7 +131,7 @@ Marvin Minsky's brain bug.
 1. [Striatum Wikipedia page](http://en.wikipedia.org/wiki/Striatum)
 1. [Hippocampus Wikipedia page](http://en.wikipedia.org/wiki/Hippocampus)
 1. [Frontal cortex Wikipedia page](http://en.wikipedia.org/wiki/Frontal_cortex)
-1. [Lovheim, Cube of emotions, Wikipedia page](http://en.wikipedia.org/wiki/L%C3%B6vheim_cube_of_emotion)
+1. [Lovheim, Cube of emotions, Wikipedia page](https://en.wikipedia.org/wiki/L%C3%B6vheim_Cube_of_Emotions)
 1. Costa, VD, Lang, PJ, Sabatinelli, D, Bradley MM, and Versace, F (2010). "Emotional imagery: Assessing pleasure and arousal in the brain's reward circuitry". Human Brain Mapping 31 (9): 1446–1457. doi:10.1002/hbm.20948. PMID 20127869.
 1. Sabatinelli, D, Lang, PJ, Bradley, MM, Costa, VD, and Versace, F (2007). "Pleasure rather than salience activates human nucleus accumbens and medial prefrontal cortex". Journal of Neurophysiology 98 (9): 1374–1379. doi:10.1152/jn.00230.2007. PMID 17596422.
 1. [Olds J, Milner P (1954). "Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain". J Comp Physiol Psychol 47 (6): 419–27. doi:10.1037/h0058775. PMID 13233369.](http://wadsworth.cengage.com/psychology_d/templates/student_resources/0155060678_rathus/ps/ps02.html)
