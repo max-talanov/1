@@ -48,7 +48,7 @@ Do you think anyone could be interested in robot with power station?
 
 ## Good neuromorphic news
 
-1. [IBM in the SyNAPSE project](http://www.research.ibm.com/cognitive-computing/neurosynaptic-chips.shtml#fbid=f1HQ57tWR3E), developed a chip that emulated 256 neurons, now 1 million, based on new elements - memristors.
+1. IBM in the SyNAPSE and later [NorthPole project](https://research.ibm.com/blog/northpole-ibm-ai-chip), developed a chip that emulated 256 neurons, now 1 million, based on new elements - memristors.
 1. Scientists from Stanford university developed [NeuroGrid](http://news.stanford.edu/pr/2014/pr-neurogrid-boahen-engineering-042814.html): the chip prototype that is capable of implementing the functions of one million of neurons and consumes 10 000 times less energy.
 2. [Intel and Loihi](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)
 3. [Intel Movidius](https://newsroom.intel.com/news/intel-unveils-neural-compute-engine-movidius-myriad-x-vpu-unleash-ai-edge/)
