@@ -35,7 +35,7 @@ This is actually request from Huawei.
 1. Consciousness
 1. ???
 
-![Model of 6](http://web.media.mit.edu/~minsky/E5/eb5_files/image001.png)
+![Model of 6](https://github.com/max-talanov/1/blob/master/affective_computing_course/levels_of_mental_activities.md)
 
 
 
