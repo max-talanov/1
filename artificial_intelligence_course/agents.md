@@ -38,7 +38,7 @@
 
 ## Cognitive architectures 
 
-### H-CogAff by Aaron Sloman
+### H-CogAff by [Aaron Sloman](https://www.cs.bham.ac.uk//~axs/)
 
 ![H-CogAff architecture by Aaron Sloman](https://www.cs.bham.ac.uk/research/projects/cogaff/sloman-cogaff-03.pdf)
 
