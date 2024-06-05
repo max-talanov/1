@@ -35,8 +35,6 @@ Area labeled “apical dendrites” is equivalent to layer 1 in neocortex; the a
 
 ## References
 
-http://www.kurzweilai.net
-
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://numenta.com/assets/pdf/research-publications/papers/Companion-paper-to-Thousand-Brains-Theory-of-Intelligence.pdf)
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)
