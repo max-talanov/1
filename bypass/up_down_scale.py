@@ -17,9 +17,9 @@ ax = fig.add_subplot(111, projection='3d')
 
 ax.plot_surface(x, y, z, cmap='viridis', alpha=0.8)
 
-ax.set_xlabel('X Axis')
-ax.set_ylabel('Y Axis')
-ax.set_zlabel('Δw (Weight Change)')
-ax.set_title('3D Representation of Synaptic Weight Change')
+ax.set_xlabel('synaptic tagging')
+ax.set_ylabel('w_max - w')
+ax.set_zlabel('Δw')
+ax.set_title('3D STDP')
 
 plt.show()
