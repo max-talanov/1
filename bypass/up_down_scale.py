@@ -12,7 +12,7 @@ x = np.linspace(-1, 1, 100)
 y = np.linspace(-0.0, 1.0, 100)
 
 x, y = np.meshgrid(x, y)
-z = weight_change_function(x, y)
+z = 3 * weight_change_function(x, y)
 
 fig = plt.figure(figsize=(8, 6))
 ax = fig.add_subplot(111, projection='3d')
