@@ -3,10 +3,11 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
 def weight_change_function(x, y):
+    x=x*4
     gaussian_decay = np.exp(-0.5 * (x**2 + y**2))
     return gaussian_decay * np.sin(x) * np.cos(y)
 
-x = np.linspace(-4, 4, 100)
+x = np.linspace(-1, 1, 100)
 y = np.linspace(-1.6, -0.5, 100)
 
 x, y = np.meshgrid(x, y)
@@ -17,7 +18,7 @@ ax = fig.add_subplot(111, projection='3d')
 
 ax.plot_surface(x, y, z, cmap='viridis', alpha=0.8)
 
-ax.set_xlabel('synaptic tagging')
+ax.set_xlabel('Ca (rel)')
 ax.set_ylabel('w_max - w')
 ax.set_zlabel('Δw')
 ax.set_title('3D STDP')
