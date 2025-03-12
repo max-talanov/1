@@ -5,7 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 def weight_change_function(x, y):
     x=x*4
     y=(y-0.6)-1
-    gaussian_decay = np.exp(-0.5 * (x**2 + y**2))
+    gaussian_decay = np.exp(-0.5 * (x**2 + y**2))`
     return gaussian_decay * np.sin(x) * np.cos(y)
 
 x = np.linspace(-1, 1, 100)
