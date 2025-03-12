@@ -20,13 +20,13 @@ def decay_function(z):
     :param z: Input value or array.
     :return: Decay function value.
     """
-    return np.exp(-z)
+    return np.exp(-z*5)
 
 # Define parameters
 mean = 0
 std_dev = 1
 x = np.linspace(-5, 5, 100)
-z = np.linspace(0, 5, 100)
+z = np.linspace(0, 1, 100)
 X, Z = np.meshgrid(x, z)
 Y = gaussian(X, mean, std_dev) * decay_function(Z)
 Y = (Y - np.min(Y)) / (np.max(Y) - np.min(Y)) * (2.0 - (-0.4)) + (-0.4)
