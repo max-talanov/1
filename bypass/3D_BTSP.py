@@ -10,6 +10,7 @@ def gaussian(x, mean, std_dev):
     :param std_dev: Standard deviation of the distribution.
     :return: Gaussian function value.
     """
+    x=x/100
     coefficient = 1 / (std_dev * np.sqrt(2 * np.pi))
     exponent = np.exp(-0.5 * ((x - mean) / std_dev) ** 2)
     return coefficient * exponent - 0.1
@@ -24,12 +25,12 @@ def decay_function(z):
 
 # Define parameters
 mean = 0
-std_dev = 1
-x = np.linspace(-5, 5, 100)
+std_dev = 1.7
+x = np.linspace(-500, 500, 100)
 z = np.linspace(0, 1, 100)
 X, Z = np.meshgrid(x, z)
 Y = gaussian(X, mean, std_dev) * decay_function(Z)
-Y = (Y - np.min(Y)) / (np.max(Y) - np.min(Y)) * (2.0 - (-0.4)) + (-0.4)
+Y = (Y - np.min(Y)) / (np.max(Y) - np.min(Y)) * (2.0 - (-1.4)) + (-1.4)
 
 # Plot the 3D Gaussian distribution with decay
 fig = plt.figure(figsize=(10, 7))
@@ -38,7 +39,7 @@ ax.plot_surface(X, Z, Y, cmap='viridis')
 ax.set_xlabel('ΔT (s)')
 ax.set_ylabel('w_max - w')
 ax.set_zlabel('Δw')
-ax.set_zlim(-0.4, 2)
+ax.set_zlim(-1.4, 2)
 
 ax.set_title('3D BTSP')
 plt.show()
