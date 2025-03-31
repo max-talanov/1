@@ -15,7 +15,7 @@ y = np.linspace(0.0, 1.0, 100)
 x, y = np.meshgrid(x, y)
 
 z = 1.2 * weight_change_function(x, y)
-z = np.where(z < 0, z * 1.686, z * 0.2)
+z = np.where(z < 0, z * 0.375, z * 0.375)
 
 z_min = z.min()
 z_max = z.max()
@@ -28,7 +28,7 @@ ax = fig.add_subplot(111, projection='3d')
 
 ax.plot_surface(x, y, z, cmap='viridis', alpha=0.8)
 
-ax.set_zlim(-1.2 , 0.3 )
+ax.set_zlim(-0.5 , 0.3 )
 
 
 ax.set_xlabel('T h')
